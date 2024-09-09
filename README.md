@@ -10,9 +10,10 @@ Project plan:
 
 - [x] Init
 - [ ] Fill out README
-- [ ] Scrape r/rational
+- [x] Scrape r/rational
+- [x] use [statistics](https://github.com/wassname/scrape_r_rational/blob/main/nbs/links.csv)
 - [ ] Use llm to get reccomendations, sentiment, karma etc
-- [ ] share
+- [x] share
 
 
 ## Install requirements
