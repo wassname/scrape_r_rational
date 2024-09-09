@@ -1,0 +1,31 @@
+## [Q] [D] Impact of Global Warming on Future Society
+
+### Post:
+
+I'm working on worldbuilding for a near-future (+200 years) setting, for something that could be my next NaNoWriMo attempt. After a reminder of the danger global warming is posing us, I realized that I couldn't actually find much discussion of the impacts in relation to science fiction. World-building in general, even sci-fi, seems to be focused on creating utterly alien cultures, and I can't find anything about writing fiction set in Earth's future, with all that we know may come with it.
+
+So, what exactly could happen, politically, socially, economically, in reaction to the instability that global warming is beginning to cause? How quickly will we actually start to mitigate our greenhouse output, and how will we adapt over the next two centuries? What will the cities in danger of being flooded and eventually consumed by the ocean respond? What will the death toll be? I know that the greatest threat to life is focused in developing nations, so how will their society and political relations be affected? I've only ever seen relations of population as a cause of further emissions, not relations of GW impacts to the population growth rate. The EPA has some nice releases on impact threats, but they only show examples of what has been done to further adaptation, and it reads a bit like US propaganda. Not to mention it only discusses impacts and adaptation in the context of the US.
+
+In the story I'm looking at, I want first-world nations (G7 or NATO, or something like it) to be focusing on space colonization, and to have a massive technological capability. They've built an orbital ring with hanging elevators, which is where most of the story would take place. Nanotechnology is a massive field; general nanoassemblers, "room-temperature" (via insulation and thermoelectric coolers) quantum computers, ultracapacitors, extremely efficient solar, a partial Dyson bubble, fusion propulsion, genetic engineering, and all sorts of augmentations and upload-oriented intelligences (via quantum simulation, non-connectionist AI is nonfunctional so far) are functioning.
+
+On the other hand, I want developing nations (BRICS?) to to be pissed off at the spacefaring first-world nations, and to try to fight back. Part of the story would involve an attempted (successful?) takeover of sections of the orbital ring, which the invaders don't want to destroy because it's such valuable infrastructure. I've been inspired here by the developing nation conflict in Planetes, and I'd certainly like to touch on some similar themes. What I'm most concerned with is what these developing nations would look like after being affected by GW for ~200 years. What happened to their populations? How did they react? How did they survive? What nations changed, melded, or simply disappeared due to adversity and migration? How would nanotechnology beginning to leak out of the first world affect them, as well?
+
+### Comments:
+
+- u/alexanderwales:
+  ```
+  Suggested reading is *The Windup Girl* by Paolo Bacigalupi, which has a lot of neat stuff in it. Quite a bit of it is about global warming; it's set in 23rd century Thailand, in a city that's below sea level.
+
+  Second, Charles Stross has a few articles on building the near future that you might want to read, ["Shaping the Future"](http://www.antipope.org/charlie/blog-static/2007/05/shaping_the_future.html) and ["World Building 404: The Unknown Unknowns"](http://www.antipope.org/charlie/blog-static/2012/01/world-building-404-the-unknown.html).
+
+  Okay, so with your homework out of the way, the really big problem -- the huge, massive, can't avoid it problem -- is that you can't just consider global warming. You need to consider global warming *and all the other stuff*. The biggest mistake that science fiction makes when it tries to predict the future is that it just narrows in on one single thing. This is great if you're going for allegory or political commentary, but it doesn't paint the future like it will actually look. So you need to think about global warming, genetic engineering, increased automation, artificial intelligence, virtual reality, robotics, etc. all at once, which is really, really ridiculously tough (and this is why I like writing fantasy more than scifi).
+
+  So the very first question you have to answer is why global warming wasn't stopped. You need a vaguely plausible timeline for how the United States go to general nano-assemblers while it should have been devoting resources to keeping major population centers from drowning. You need to justify why space colonization was deemed better or more efficient than just stopping the global problems -- or how the first world developed local solutions to global problems. You need to deal with the knock-on effects of global warming, like ocean acidification and extreme weather conditions.
+
+  Right now, it's pretty clear that first world countries are in a better position with regards to climate change than third world countries. This isn't just because they have more money; they have better infrastructure and institutions which will be able to deal with it. There's an index that I looked at a while back that tried to quantify which nations would be most affected by climate change given their disposition and resources, and it wasn't terribly surprising to see that the first world was in pretty good shape. Hell, 17% of the Netherlands is below sea level already; it's possible that the developed world is just going to get a lot of dikes and polders.
+
+  The third world is probably screwed. Dysfunctional governments aren't going to be able to build the infrastructures necessary to keep their cities safe; money that's earmarked for levees will go missing, projects will come in over budget and behind schedule with skimming off the top, and the cut corners are going to come back to bite *someone* in the ass (though there's a decent chance of any of that happening the first world too). Climate change is going to mean migration, which puts stress on infrastructure, which probably leads to death and disease. This means calls for aid from the first world, which might not be answered due to them having their own problems.
+  ```
+
+---
+
