@@ -1,0 +1,98 @@
+## [D] Mark Lawrence: After "Grimdark"
+
+* Author: u/None *
+* URL: 
+* Score: 5
+
+* Created: 2015-02-05T21:01:30
+
+### Post:
+
+[Link to content]()
+
+### Comments:
+
+> **u/alexanderwales** [+5]  *Time flies like an arrow**
+> 
+> An interesting discussion on genre, which is always a slippery thing. I recall a few conversations that we've had on this subreddit about the genre "rational" or "rationalist", and I think next time we have one of those I'll be able to come in with some fresh arguments cribbed from people who have thought about genre definitions more than I have.
+> As for grimdark ... I like it when it's an honest look at characters, and I hate it when it's just relentlessly dumping on the world. It's a very fine line to walk, and some authors are better than walking it than others. We're not at all at peak grit, but with the flood of people following in the wake of popular authors like Martin, we get those that aren't good at regulating mood, and end up with too much darkness to satisfy. I want my grimdark to be realistic, not just grim for the sake of grimness.
+> 
+
+>> **u/DaystarEld** [+3]  *Pokémon Professor**
+>> 
+>> >I want my grimdark to be realistic, not just grim for the sake of grimness.
+>> Yep. This is a good rule of thumb for pretty much any genre: I occasionally really enjoy books of the "romance" genre because in rare circumstance they happen to also include amazing world-building and character development and plots, and also because I like reading about sex done well rather than just completely ignored in fiction.
+>> But there has to be a balance. Laurell K. Hamilton used to do a fantastic job with that balance in her Anita Blake series (which served as the mother to all the modern supernatural series, from Sookie Stackhouse/True Blood to Dresden Files), but eventually the books were filled with so much gratuitous and needless sex that it just crowded out everything else.
+>> I've never heard anyone call A Song of Ice and Fire "grimdark," for example, even though it's full of cynicism, darkness, grit, and lots and lots of angst-inducing tragedy. Because it's also tempered with other things: namely humor, and hope.
+>> 
+
+> **u/None** [+4] *
+> 
+> I particularly recommend Richard Morgan's entry.
+> 
+
+>> **u/lfghikl** [+4] *
+>> 
+>> I've only skimmed the other parts so far, but you're right about that entry being great. I especially enjoyed this paragraph:
+>> >To start with, where is it written that you have to tell stories of nobility and hope?  For that matter, what is nobility?  Beating seven shades of shit out of a horde of opponents on the battlefield (with all the actual blood and screams and pleading tastefully edited out) and then putting on a crown?  Is that noble?  Blowing up an entire planet-sized space station of people who happen to have chosen - or more likely have just ended up stuck on - the opposing side to you in a galactic war?  Butchering a huge intelligent reptile who was, until you disturbed it, dozing rather peacefully in a hole in the ground and not bothering anyone?  What kind of hope is it, exactly, that we’re selling here?  The hope that we can slaughter them before they can slaughter us?  The hope that our brand of faith or politics can kick the living shit out of anybody else’s?  The hope that I’m a bigger, tougher motherfucker with a blade or a spell than anyone else in this neck of the woods?
+>> It does put regular sci-fi and high fantasy in a new light. Thanks for posting this.
+>> 
+
+>>> **u/derefr** [+1] *
+>>> 
+>>> > where is it written that you have to tell stories of nobility and hope
+>>> If you want to be literal about it, it's written somewhere in our genome. We tell stories in order to communicate social mores and tribal beliefs: we tell of the underdogs who live by the "moral" of the story and win, and of the dominators who ignore the moral to their peril. We also, sometimes, tell tragedies, where the protagonist is the one who ignores the moral, also to their peril.
+>>> We can tell other kinds of stories than these, sure, but the stories of "nobility" (planning your actions to fit with deontological principles even when the resulting actions don't seem consequentially sound) and "hope" (believing that these "principled" actions will benefit you in the long run, even though expected evidence is telling you they're harming you) are the stories that we are driven adaptively to consume—and, so, the stories we get most rewarded for creating.
+>>> 
+
+>>>> **u/alexanderwales** [+4]  *Time flies like an arrow**
+>>>> 
+>>>> I have an alternate theory: stories are heroin.
+>>>> The evolutionary model has positive emotions when fitness levels are high, and negative emotions when fitness levels are low, but these emotional regulation mechanisms are prone to self-manipulation, or to manipulation by outside forces. Stories are like that.
+>>>> There are lots of stories that are calculated towards increasing pleasure in the reader rather than increasing fitness in the reader - we don't tell these stories to communicate beliefs and mores, but rather because it feels good to tell them, and good to hear them. And it doesn't feel good to tell and hear them because that increases fitness, but because we're taking a shortcut towards pleasure pathways that serve other purposes.
+>>>> The reason that you see stories about nobility and hope is because people are imaging themselves in the role of the hero. It would cause cognitive dissonance for the hero to violate social mores, and the story would be less pleasurable if the hero failed in his task.
+>>>> So the cause and effect would be reversed - we tell stories to hook into parts of the brain that have other functions, in the same way that hard drugs do. But this is just a story about how it might be, it needs science of some sort to back it up.
+>>>> 
+
+>>>>> **u/derefr** [+2] *
+>>>>> 
+>>>>> This implies something easily-testable: that people who don't obey social mores should enjoy less the stories of people who win by obeying social mores, because there's less cognitive dissonance. Is that the case?
+>>>>> 
+
+>>>>>> **u/None** [+2] *
+>>>>>> 
+>>>>>> Giving that the typical Less Wrong crowd identifies more with the villains of popular stories rather than the hero might be some evidence. (Although that might also be media coding villains as neuro-atypical.)
+>>>>>> 
+
+>>>>>>> **u/None** [+2] *
+>>>>>>> 
+>>>>>>> It could be the neuro-atypicality.  It could also be that villains are allowed to *do stuff* instead of just being stand-in characters for telling society how great and noble its status-quo is </yeah-I-watched-Dr.-Horrible-once>.  Or because much of the standard Hollywood tropes portray [people](http://tvtropes.org/pmwiki/pmwiki.php/Main/AmbitionIsEvil) [like](http://tvtropes.org/pmwiki/pmwiki.php/Main/MorallyAmbiguousDoctorate) [us](http://tvtropes.org/pmwiki/pmwiki.php/Main/ScienceIsBad) as [evil](http://tvtropes.org/pmwiki/pmwiki.php/Main/NewTechnologyIsEvil), so eventually we just find the villains more similar to us than the heroes.
+>>>>>>> Or maybe it's just because villains are [so](https://www.youtube.com/watch?v=muOVF89VfLw) [*deliciously*](https://www.youtube.com/watch?v=L9y43UTKxuA) [*HAMMY*](https://www.youtube.com/watch?v=8EwkPkCyQpY), in a way only a few [truly](https://www.youtube.com/watch?v=rqc_27cpQ80) [epic](https://www.youtube.com/watch?feature=player_embedded&v=u8D95OJbMKw#t=100) heroes can match.
+>>>>>>> (Personally, it's the ham.  Because heroes are always supposed to support the status-quo, I just find that all the really deliciously hammy hero speeches fall *totally flat* in their subject matter.  I try to say all those lines about love and justice and so on and just end up feeling like I'm disrespecting the side of Good by mapping it onto the mockery of a social order I see around me.)
+>>>>>>> 
+
+> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+> 
+> Can anyone here give a good story they consider grimdark? I don't think I really have any idea of what such a story entails. My conception is something like autobiographies of Holocaust which doesn't sounds popular enough to be an entire genre.
+> 
+
+>> **u/alexanderwales** [+4]  *Time flies like an arrow**
+>> 
+>> Grimdark is (as stated in the author responses) sort of a weird bucket. Popular stories which are dark by fantasy standards but not really in my personal conception of grimdark include:
+>> * ***A Song of Ice and Fire*** series by George RR Martin
+>> * The ***Gentleman Bastards*** series by Scott Lynch
+>> * The ***Powdermage Trilogy*** by Brian McClellan
+>> I would recommend all of those - they're in roughly descending order of grimdarkness. For things that are dark enough that I would more comfortably place them as grimdark, and which I don't think I would get much disagreement on:
+>> * ***The Company*** by KJ Parker
+>> * The ***Fencer*** trilogy by KJ Parker
+>> * ***The Black Company*** series by Glen Cook
+>> I can see where people would like these, but found them oppressively gritty. I liked *The Company* best among those, but it was pretty unrelenting in its grimness - almost so that I couldn't see the point in continuing. Mostly what you need for proper grimdark is a reaction against heroism.
+>> 
+
+> **u/DaystarEld** [+1]  *Pokémon Professor**
+> 
+> Very cool, thanks for sharing. Even aside from the discussion of the amorphous term "grimdark" itself, it's great to see the different authors talk about the classification/evolution of genres in general.
+> 
+
+---
+

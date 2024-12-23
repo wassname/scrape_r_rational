@@ -1,0 +1,54 @@
+## [FF] [Bst] Trichotomy of Purity: Essence, Thought, Form
+
+* Author: u/someangryfakeperson *
+* URL: https://www.reddit.com/r/rational/comments/3rbz1o/ff_bst_trichotomy_of_purity_essence_thought_form/
+* Score: 13
+
+* Created: 2015-11-03T09:06:41
+
+### Post:
+
+I had the wonderful thought, after finishing my third reread of HPMOR and with the upcoming release of the new expansion, of writing a Starcraft rational fanfiction. I was considering who the main character would be, between the several possible characters, and came to the conclusion that Sarah Kerrigan and her story arc are perfect for the trope.
+
+I wanted to soundboard, and discuss my current ideas with people, familiar with the subject matter or otherwise, before I get started... Just to check and see if I'm going to hit any too-obvious pitfalls, so I can avoid them before. 
+
+If someone needs or wants a rundown of the story as it actually is, I can provide that- would prefer to avoid typing that up if I can at all, since I'm looking to try my hand at NaNo for the second time and need to save all the time I can for the rework of my novel with that purpose. 
+
+### Comments:
+
+> **u/redrach** [+6] *
+> 
+> I'm interested. I've always loved Kerrigan's character and the arc it takes in SC1, and I don't like the path Blizzard went down with her in SC2.
+> 
+
+>> **u/someangryfakeperson** [+4] *
+>> 
+>> My thought was to build my universe with similar ideas as to the overmind/Amon dynamic, and how kerrigan plays in there, but with several liberties taken as to the motivation of all involved, and their powers of rationalism. Start with Kerrigan as a ghost, and her interaction with certain less-changed characters (leaving raynor be, making mengsk smarter but sub-level-3) and then building from there into her integration into the swarm, and how she responds to that and moves from there.
+>> The current list of character changes I would make, based on my current thoughts that I've had today, would be to keep Mengsk mostly the same, as above- don't touch Raynor, he's a perfect 'norm' to play against- and push up Overmind/Amon/Tass/Zera... And play the game from there.
+>> 
+
+>>> **u/redrach** [+2] *
+>>> 
+>>> That works for me.
+>>> One thing that bugged me about SC2 is how Kerrigan seems perfectly fine with reverting to her human form in HotS, and how she only desired to switch back in order to kill Mengsk. She should be more conflicted about it.
+>>> Also the whole prophecy thing is bullshit. I don't know why Metzen has to shove it into a scifi story.
+>>> 
+
+>>>> **u/someangryfakeperson** [+1] *
+>>>> 
+>>>> So, on the khala: I had a thought today about the protoss. I'm curious if I want to make them all rational, and if so, they should all be roughly equally intelligent- or at least, should be when they consciously maintain their connection to the khala. What are your thoughts on the way the khala will influence their intelligence and their rationalism?
+>>>> 
+
+>>>>> **u/redrach** [+3] *
+>>>>> 
+>>>>> The lore is vague about what the Khala means for the Protoss. We know that the ancient Protoss warrior Adun used it to end the Aeon of Strife and unite (almost) all the Protoss together. It seems to depend on the psychic capabilities that every Protoss innately has, and the Dark Templar underwent self-mutilation to sever themselves from it.
+>>>>> It follows then that it's some sort of telepathic network, but the details are unknown. Also of note is that the Dark Templar still retain the ability to telepathically communicate with each other and with the other Protoss despite their severance from the Khala. It's also different from the Zerg hivemind, because the Protoss retain their individuality instead of being wholly subservient to a single entity.
+>>>>> I propose that it's basically an empathic network. Protoss connected to the Khala can innately sense the presence of other connected Protoss around them, and can sense their emotions and pain. Full transmission of thoughts does not occur unless both Protoss will it.
+>>>>> This has some profound implications. On the one hand it creates a deep sense of belonging, of a higher purpose (since they can actually sense the well-being of the collective whole) and a desire for strict in-group harmony without resorting to violence, all of which contributed to the caste system they instituted. 
+>>>>> On the other hand it also creates an us-vs-them philosophy. Everyone connected to the Khala are _Protoss_, everyone else are vermin. The Dark Templar were the worst of all, since they deliberately chose to break away from the ideal. It also explains how the Protoss saw themselves as custodians of the galaxy, and their general contempt for humanity (the majority of whom are non-psychic).
+>>>>> I don't think it necessarily leads to rationality. The caste system they instituted in fact led to stagnation of the sciences, in return for social stability. Their current technological prowess is a result of the gifts the Xel'Naga gave them more than anything (who the primitive Protoss worshiped as gods). They'd have an edge over Terrans in quickly distributing thoughts and ideas, but at the same time their society would actively suppress radically new theories and emphasize staying true to tradition. 
+>>>>> What made Tassadar special is that he recognized the need to change their ways and reach out to the Terrans and Dark Templar so that they could adapt to the dire situation the arrival of the Zerg forced upon them. He strikes me as very rational in comparison to the average Protoss zealot.
+>>>>> 
+
+---
+

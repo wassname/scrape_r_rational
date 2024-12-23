@@ -1,0 +1,56 @@
+## [HF] The Merchant Princes series by Charles Stross
+
+* Author: u/alexanderwales  *Time flies like an arrow**
+* URL: http://www.amazon.com/Bloodline-incorporating-Family-Trade-Hidden-ebook/dp/B00HFU5AUS/ref=sr_1_6?ie=UTF8&qid=1401940746&sr=8-6
+* Score: 12
+
+* Created: 2014-06-05T04:02:38
+
+### Post:
+
+[Link to content](http://www.amazon.com/Bloodline-incorporating-Family-Trade-Hidden-ebook/dp/B00HFU5AUS/ref=sr_1_6?ie=UTF8&qid=1401940746&sr=8-6)
+
+### Comments:
+
+> **u/alexanderwales** [+5]  *Time flies like an arrow**
+> 
+> I'd been hesitant to reccomend this series for awhile, because it suffered heavily from publisher meddling. Namely, the series was intended to be three books and got split into six, with a lot of bridging "as you know" stuff that really irritated me. What I've linked is the remastered series, which takes what was six books and condenses it back down to three very long ones. The remastered series goes [The Bloodline Feud](http://www.amazon.com/Bloodline-incorporating-Family-Trade-Hidden-ebook/dp/B00HFU5AUS/ref=sr_1_6?ie=UTF8&qid=1401940746&sr=8-6&keywords=the+merchant+princes+stross), [The Traders' War](http://www.amazon.com/Traders-incorporating-Clan-Corporate-Merchants-ebook/dp/B00HFU5BP2/ref=sr_1_8?ie=UTF8&qid=1401940746&sr=8-8&keywords=the+merchant+princes+stross), and [The Revolution Trade](http://www.amazon.com/Revolution-Trade-incorporating-Business-Queens-ebook/dp/B00HFU5BJ8/ref=sr_1_5?ie=UTF8&qid=1401940746&sr=8-5&keywords=the+merchant+princes+stross). At $9 apiece on Kindle, they're a steal, since you're effectively getting two books for the price of one.
+> The story starts as a pretty standard "woman finds her way to a parallel world", but it's very much a deconstructionist take on the concept, since it readily acknowledges how terrible the Middle Ages are. The themes of the book are economic, scientific, and political. Highlights include the exploitation of the power to hop between worlds and a really well thought out exploration by the author of what the power would really mean within the rigid rules system he's set up.
+> Personally I think it's worth reading for the end of the sixth (remastered third) book alone - when I got to it, I had to just set the book down and laugh and laugh. It's one of the better escalations of conflict I've ever seen done.
+> As another highlight, the main character Miriam is smart, motivated, and independent, which I don't think you see a lot with princesses thrust through a portal to another world.
+> (Also, this is the same author who wrote what I consider to be the seminal work of Singularity fiction, *Accelerando*.)
+> 
+
+>> **u/aeschenkarnos** [+6] *
+>> 
+>> *Accelerando!* is great but IMO it sacrifices plot on the altar of wacky cool ideas. *Glasshouse* is my pick for his best post-singularity novel so far, being up there with Iain M Banks's *Culture* series.
+>> 
+
+>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+>> 
+>> Nitpick: Should we use market sites like Amazon to recommend books or review sites like Goodreads?
+>> 
+
+>>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>> 
+>>> No idea. Amazon is basically my go-to site for books, in part because I can go from reading customer reviews, to reading the first couple of pages, to ordering the book in the minimum number of clicks. I've never used Goodreads before.
+>>> 
+
+>>>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+>>>> 
+>>>> [I've turned this discussion into a metatopic](http://www.reddit.com/r/rational/comments/27ej4m/meta_what_site_should_be_used_for_recommending/).
+>>>> 
+
+>>> **u/DataPacRat** [+2]  *Amateur Immortalist**
+>>> 
+>>> If someone /does/ provide a link to Amazon, I try to avoid using it. My usual alternative is to search for the title and authour at BookFinder.com, which knows my country of shipping and preferred country, and searches multiple sites to find the best price. Picking a book at random, "Quozl" by Alan Dean Foster, the [cheapest](http://www.bookfinder.com/search/?new_cache=on&author=alan+dean+foster&title=quozl&lang=en&isbn=&new_used=*&destination=ca&currency=CAD&mode=basic&st=sr&ac=qr) used paperback at an Amazon site is CDN$7.92, but there are almost a dozen from AbeBooks that are only $7.60. Sometimes, the differences are more dramatic.
+>>> BookFinder links are reasonably easy to make: [Here](www.bookfinder.com/?author=alan+dean+foster&title=quozl) is one if you know the authour and title, and [here](www.bookfinder.com/search/?isbn=0441694543) is one for ISBN.
+>>> 
+
+>>>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+>>>> 
+>>>> [I've turned this discussion into a metatopic](http://www.reddit.com/r/rational/comments/27ej4m/meta_what_site_should_be_used_for_recommending/).
+>>>> 
+
+---
+

@@ -1,0 +1,104 @@
+## [RT][DC][HF] In Fire Forged - New Chapter(s): Interlude 1 - Start of Darkness - Part 1 & 2
+
+* Author: u/omgimpwned  *Sunshine Regiment**
+* URL: https://www.fanfiction.net/s/10263221/6/In-Fire-Forged
+* Score: 28
+
+* Created: 2014-07-26T22:11:31
+
+### Post:
+
+[Link to content](https://www.fanfiction.net/s/10263221/6/In-Fire-Forged)
+
+### Comments:
+
+> **u/omgimpwned** [+4]  *Sunshine Regiment**
+> 
+> The story is now also on [Archive of Our Own](http://archiveofourown.org/works/2027394/chapters/4398399) (link to new chapter) - so you may choose to read at either site at your convenience. Both will be kept up to date with all the latest chapters and edits.
+> 
+
+>> **u/eaglejarl** [+1] *
+>> 
+>> I have always had this niggling feeling that "Archive of our Own" was a corruption of a Firefly reference, but I can't place it.  Do you know where it's from?
+>> 
+
+>>> **u/omgimpwned** [+1]  *Sunshine Regiment**
+>>> 
+>>> I... haven't the faintest idea, but then again it's been a while since I re-watched Firefly, and I'm completely new to AO3. I'm afraid I don't have any naggling intuitions regarding any references :/
+>>> 
+
+>>>> **u/eaglejarl** [+1] *
+>>>> 
+>>>> No worries. I might be imagining it.
+>>>> 
+
+> **u/PeridexisErrant** [+5]  *put aside fear for courage, and death for life**
+> 
+> Interesting.  
+> Both the *efficiency* of the Uchiha massacre, and the *what-were-they-thinking* or certain other players...
+> 
+
+> **u/x3as** [+3] *
+> 
+> I love the idea of the higher ups arranging for Izanami and Naruto to become friends with the intent of using her Sharingan to better control the Kyubui.
+> 
+
+> **u/None** [+1] *
+> 
+> [deleted]
+> 
+
+>> **u/omgimpwned** [+1]  *Sunshine Regiment**
+>> 
+>> It was a suggestion by one of my betas, but I do see your point. It didn't even occur to me, since I'd already put a warning at the very beginning of the story, but I didn't see the harm in doing it just as a courtesy.
+>> ... I'm going to have to do that for a lot of chapters in the future if I keep that standard, though (don't worry, it's not going grimderp), so maybe I should just change my policy.
+>> 
+
+> **u/Timewinders** [+1] *
+> 
+> Not sure what the point of the Uchiha massacre interlude was since people should know about it from canon. Then again, I only know about it from fanfic so maybe there was some significant difference from canon in how it was carried out? Or was it just so that readers who aren't familiar with canon are able to understand the story?
+> 
+
+>> **u/omgimpwned** [+3]  *Sunshine Regiment**
+>> 
+>> Both. The story is intended to be readable for people clueless about canon, and there were a lot of *very* significant changes.
+>> There were a lot of things about the Uchiha massacre that made little sense in canon. The Uchiha are a massive asset - where is the value gained in slaughtering them completely? Even Danzo would not be that stupid. It's insane, it's baffling, it's completely and utterly... I don't even, what. Also, in canon Itachi's reason for doing it was really sketchy, and [far-in Naruto canon spoiler](#s "Uchiha Madara's reason for helping Itachi was almost equally inane in canon (not that I'm saying whether he was the one to do that here). Basically, he was just a little miffed at his old clan. Except it wasn't even Madara, it was Obito masquerading as Madara, so it makes even less sense.")
+>> It's like Slytherin is plotting to take over Hogwarts, and Dumbledore expels the entire school just to be sure instead of just the key members behind it (bad example, but yeah :P). It doesn't many any sense whatsoever, and it always bugged me immensely. The reasoning behind the massacre *had* to be different. I was tempted, in the beginning, to just cancel the massacre out or have it not have been as complete, but in the end I figured out another way of going about it that actually made good sense, working it into the greater "myth arc" plot of the story.
+>> There's also the idea that the entire clan (which was fairly big, remember) would have been in one place at the same time. Nobody on missions? Nobody stationed elsewhere? As well as the ridiculous idea that Itachi by himself would've in any way been capable of slaughtering the entire clan by himself, even not taking the former points into consideration. Here, he clearly had help (the idea that he did it alone isn't even entertained), and it's emphasized just how immense an undertaking it really was. Also a lot of other small things thrown in, here and there, that will become very relevant later.
+>> So, at least... I thought that there was a point to it :P
+>> However, people don't seem to have liked the interlude(s) as much as Sakura POV, which I'll have to remember in the future when I put something like this together, though I'm still not sure why it was so.
+>> 
+
+>>> **u/x3as** [+1] *
+>>> 
+>>> I didn't personally mind the interlude, but it does feel a little out of place. Although that is solely based on not knowing what the following chapters will be.
+>>> 
+
+>>>> **u/omgimpwned** [+1]  *Sunshine Regiment**
+>>>> 
+>>>> It does a lot of things that are very relevant for the next arc, especially if you don't know Naruto beforehand.
+>>>> 
+
+>>> **u/Timewinders** [+1] *
+>>> 
+>>> That makes sense. I don't mind a little extra reading but I think most people prefer that each chapter directly advances the plot. Shifts from POV that take give extra insight on backstory or sidestory slow down the pace. Not sure exactly how that can be addressed, but in HPMOR changes to the backstory were made clear through explanations to Harry by the adults as the story went along, which didn't break up the pace. In Lighting Up The Dark changes in POV are used in sections of chapters, not on the entire chapter. That way even if someone doesn't like a certain POV there is still something in the update that they find interesting. I know To the Stars has interludes too, but those often take place in entirely different time periods (centuries apart) and enhance the world building. I don't think this will be an issue in the long run since once the story is complete people will just skim past the parts they don't like. It's just a problem of serial fiction.
+>>> 
+
+>> **u/Fredlage** [+2] *
+>> 
+>> [Canon spoiler](#s "Danzo ordered the massacre and Hiruzen was aware of it. Here it seems at least the Hokage was not included in the process")
+>> 
+
+>>> **u/Timewinders** [+1] *
+>>> 
+>>> Okay, that makes sense.
+>>> 
+
+>> **u/liamash3** [+1]  *Mizu**
+>> 
+>> Could be all three.
+>> I was going to say something regarding the chapter, but I've gone blank regarding it. Bother.
+>> 
+
+---
+

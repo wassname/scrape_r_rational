@@ -1,0 +1,44 @@
+## [RT][HF] Sparring Match, Part 3 (The Maker's Ark)
+
+* Author: u/DocFuture *
+* URL: http://docfuture.tumblr.com/post/163419664321/sparring-match-part-3
+* Score: 11
+
+* Created: 2017-07-25T21:12:29
+
+### Post:
+
+[Link to content](http://docfuture.tumblr.com/post/163419664321/sparring-match-part-3)
+
+### Comments:
+
+> **u/DocFuture** [+3] *
+> 
+> It's done! Finally 8-) Writing became difficult for a while, and has been going slower, and I had to keep pruning wild characterization and world-building that was trying to climb in to a plot that wasn't suited to hold them. Perhaps another story will reveal The Death of Hrothgar, farming in the Nine Worlds, and what gift Breakpoint brings back for Jumping Spider when he returns 8-). But Sparring Match is complete--I hope you enjoy it.
+> 
+
+>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>> 
+>> Do you know what the next story is? Will you tell us?
+>> 
+
+>>> **u/DocFuture** [+1] *
+>>> 
+>>> I don't know yet.  I have a lot of background, cool scenes, and storystuff that deserve a coherent plot of some sort. But it's very easy to get into Kudzu Plot territory, and Sparring Match started as a brief side story to The Maker's Ark, which I want to get back to sometime soon.
+>>> I was also restricted by the fact that I write in 3rd person limited, and the only viewpoint character in Sparring Match is Yiskah.  Adding a new viewpoint character requires careful work to do right--and I still have to decide on the proper internal 'voice' for Breakpoint.
+>>> I have a lot of what I'd call 'narrated background vignettes', but I'm reluctant to put any more into Maker's Ark, because they tend to bring the main plot to a halt (like Journeyman's origin story in chapters 12-14).  Depending on how the main novel is going I may post a few more of those as side stories.  One of them is hinted at in Sparring Match--the trouble Journeyman got into at Ending/Beginning Falls.  I also have two Flicker short stories that want to be written ("Earthquake.  Japan" is the start of one).
+>>> Flexibility in what I work on helps me avoid writer's block, so I often don't know what's going to come out next 8-)
+>>> 
+
+>>>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>>>> 
+>>>> Speaking as a more verbal fan I don't mind if you post vignettes that aren't part of the makers ark. A's the Yiska stories before makers ark if that's what you need to get your juices flowing, but that's because I just want more story(crack) in the continuity.
+>>>> 
+
+>>>>> **u/DocFuture** [+2] *
+>>>>> 
+>>>>> Glad you're enjoying them.  Lots of stories there for me to tell.
+>>>>> 
+
+---
+

@@ -1,0 +1,193 @@
+## [DC] On Superheros
+
+* Author: u/fljared  *United Federation of Planets**
+* URL: http://tailsteak.com/archive.php?num=487
+* Score: 16
+
+* Created: 2014-10-21T21:59:20
+
+### Post:
+
+[Link to content](http://tailsteak.com/archive.php?num=487)
+
+### Comments:
+
+> **u/alexanderwales** [+12]  *Time flies like an arrow**
+> 
+> > (As a side note, those superheroes who develop or invent entirely unique powers, and then hoard them? Screw those guys. When Edison invented the incandescent lightbulb, did he keep its secret to himself, and then bust nocturnal crime as the Illuminator? Fighting the nefarious Doktor Lightning with the help of the Amazing Flight Brothers? No. Because, as a man of Science, he was familiar with Newton's statement about the shoulders of giants.)
+> Edison did, however, engage in extensive litigation around the patent rights to the incandescent bulb, and was fairly notoriously litigious about the use of "his" inventions. Edison *absolutely* would have hoarded his inventions if he could have made money that way. Tesla was the one who eschewed patents and shared his discoveries and inventions.
+> 
+
+>> **u/Charlie___** [+5] *
+>> 
+>> Is it wrong that I immediately assumed this was ahistorical because it was a positive thing about Tesla on the internet? (too much Tesla hype relative to Tesla substance these days)
+>> One search later: vindicated, I guess. http://en.wikipedia.org/wiki/List_of_Nikola_Tesla_patents
+>> 
+
+>>> **u/alexanderwales** [+4]  *Time flies like an arrow**
+>>> 
+>>> From Tesla's Wikipedia article:
+>>> > Many inventions developed by Tesla were not put into patent protection.
+>>> Which is what I was talking about. There's also this quote from him about Marconi's use of his patents:
+>>> > Otis Pond, an engineer then working for Tesla, said, "Looks as if Marconi got the jump on you." Tesla replied, "Marconi is a good fellow. Let him continue. He is using seventeen of my patents."
+>>> Though the Patent Office reversed their decision and inexplicably (though probably through bribes or use of political power) granted Marconi the patent for radio, which made Tesla furious since that meant that Marconi could sue him. (The Supreme Court later reversed that decision.)
+>>> There are a number of other instances as well.
+>>> 
+
+>>>> **u/Charlie___** [+2] *
+>>>> 
+>>>> Again, this positive thing about Tesla on the internet sounds shaky. In fact, it sounds shaky at nearly every point. Wikipedia has no citation for Tesla forgoing patents (particularly relative to other inventors). The quote sounds too snappy to be verbatim. Impugning the motives of the patent office sounds like motivated reasoning. The fundamental principles of radio predate both Tesla and Marconi - calling anything "the patent for radio" sounds like it's obfuscating important technical details. I seem to recall something about the Supreme Court case being more complicated than you imply, and there being a third patent that predated either Tesla or Marconi.
+>>>> 
+
+>>>>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>>>>> 
+>>>>> The quote is from [this PBS website](http://www.pbs.org/tesla/ll/ll_whoradio.html). So take that how you will - I don't want to derail this thread into a debate about Tesla, which I have no real stake in.
+>>>>> 
+
+>>> **u/blazinghand** [+4]  *Chaos Undivided**
+>>> 
+>>> Given that Tesla had an order of magnitude fewer patents than [Edison](http://en.wikipedia.org/wiki/List_of_Edison_patents) did, It's probably safe to say that relative to Edison he eschewed them, unless he invented fewer things or had fewer opportunities to patent.
+>>> 
+
+>>> **u/None** [+1] *
+>>> 
+>>> Tesla is horribly, horribly overrated on the internet (and Edison is even worsely treated). I personally blame [this comic](http://theoatmeal.com/comics/tesla), which was skillfully refuted by Alex Knapp in [this Forbes article](http://www.forbes.com/sites/alexknapp/2012/05/18/nikola-tesla-wasnt-god-and-thomas-edison-wasnt-the-devil/). I agree that Tesla is an interesting character, but [his actual biography](http://pastebin.com/cyjZ4Me1) isn't so dramatic.
+>>> 
+
+>>>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>>> 
+>>>> Agreed. I would actually compare him to Newton - a brilliant man with a huge number of flaws that people often overlook due to the breadth of his practical work. Tesla had an obsession with a lot of what looks like quack science, and Newton with alchemy (and religious stuff).
+>>>> 
+
+>> **u/fljared** [+3]  *United Federation of Planets**
+>> 
+>> Patents are shoulders of giants all the same (although a patent may slow the release of other inventions relying on it). The difference is between outright secrecy and release to the public.
+>> 
+
+>>> **u/alexanderwales** [+6]  *Time flies like an arrow**
+>>> 
+>>> I just wish that the example had been someone like Elon Musk, who [released patents to the public](http://www.teslamotors.com/blog/all-our-patent-are-belong-you) for (semi) altruistic reasons.
+>>> 
+
+> **u/None** [+18] *
+> 
+> Everyone makes fun of superheroes until an Endbringer attacks.
+> 
+
+>> **u/Azkaban_Guard** [+4] *
+>> 
+>> Anyone curious about Endbringers should set aside a month or so to read Worm, at parahumans.wordpress.com
+>> It's a rational superhero setting, with a world full of hero's and villains with developed, realistic motivations.
+>> 
+
+>>> **u/t3tsubo** [+3] *
+>>> 
+>>> I swallowed worm in 2 weeks. A++ would recommend again, just had to skim some of the tedious fights about 5/8 through
+>>> 
+
+>>>> **u/comport** [+3] *
+>>>> 
+>>>> I also went through it in a couple of weeks, and I would recommend the fic, but I wouldn't recommend trying to power through it. 2 weeks of 14 hour reading days had weird effects on me, especially when I started getting to the horror arcs.
+>>>> 
+
+>>>>> **u/Integrated_Delusions** [+5]  *The Flying Kiwi**
+>>>>> 
+>>>>> I did it in five days when I was unemployed. Intense is about the best word to describe it. 
+>>>>> Slow and steady is a much better pace.
+>>>>> 
+
+>>> **u/VorpalAuroch** [+1]  *Life before Death**
+>>> 
+>>> I, as ever, register my objection to Worm being considered rational; the capes have, as a unified whole, all made the same stupid decisions with only some of them even covered by authorial figleaf.
+>>> Also as ever, I present the Wild Cards series as a better-constructed rational superhero deconstruction.
+>>> 
+
+>>>> **u/Rouninscholar** [+2] *
+>>>> 
+>>>> And I guess I have to be the other guy. What is irrational about worm? The characters aren't always the smartest or most effecient, but they are consistent with very little in the way of loopholes.
+>>>> 
+
+>>>>> **u/VorpalAuroch** [+2]  *Life before Death**
+>>>>> 
+>>>>> There is very little reason for nearly everyone to fight/cause crime (though there's a bit of authorial figleaf for this one). Given that everyone is going to choose violence rather than profit or productivity, there is no reason for everyone to forgo guns (I've heard attempted justifications but it's a moronically unstable equilibrium *at best*). Secret identities are an inherently stupid, impractical idea; de-anonymizing someone is not that hard in our world, and with elevated stakes there would be a lot more effort/research put into it, making it almost trivial. 
+>>>>> The entire setting is founded on some ridiculously implausible conceits, and it is possible to write interesting, high-quality superhero stories without those implausible conceits. This doesn't necessarily make Worm *bad* fiction (though I do dislike it), but the degree to which the worldbuilding requires everyone to be holding the Idiot Ball all the time should heavily disqualify it from being considered rationalfic.
+>>>>> 
+
+>>>> **u/ianstlawrence** [+1] *
+>>>> 
+>>>> Could you please give a link to "Wild Cards series"?
+>>>> 
+
+>>>>> **u/VorpalAuroch** [+1]  *Life before Death**
+>>>>> 
+>>>>> http://en.wikipedia.org/wiki/Wild_Cards
+>>>>> 
+
+> **u/traverseda** [+8]  *With dread but cautious optimism**
+> 
+> >And if you do, somehow, develop a special power or device that allows you to anticipate crimes or teleport to the scene... well, then you have the choice of either becoming a superhero with it, or patenting it, mass-producing it, becoming insanely rich, and putting it in the hands of the police who are already equipped and motivated to fight crime far better than you can anyway. 
+> My desire to put that kind of surveillance network into the hands of the police is *pretty* low, even if I could build one using off-the-shelf software-defined radios and a bit of hackery. There are better things to work on.
+> 
+
+>> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life**
+>> 
+>> >that kind of surveillance network in the hands of the police
+>> Let's face it, that pretty much exists already - at least to intelligence agencies who can be less accountable than police.  
+>> If it could be build cheaply, I'd give it to *everyone* and then start working on actual security.
+>> 
+
+>> **u/fljared** [+1]  *United Federation of Planets**
+>> 
+>> To be fair, it doesn't have to be actual surveillance- It could easily be a black box that, somehow, can alert you when a crime is occurring and then teleport you to the scene, which can be made again, if not understood, ala the Machine of Death.
+>> Is it then better to hoard it or sell it?
+>> 
+
+>>> **u/Nepene** [+1] *
+>>> 
+>>> "Oh no, it appears a black person is jaywalking, teleport an armed response squad to the team!"
+>>> 
+
+> **u/VorpalAuroch** [+2]  *Life before Death**
+> 
+> *upvotes*
+> May I also recommend the same writer's webcomic, [Leftover Soup](http://leftoversoup.com/), which consists of 1)pretty good rapid-fire jokes 2)pretty good rapid-fire amateur philosophy 3)realistic, intelligent characters with very different viewpoints on the world 4)slow, detailed plot (time progresses fairly slowly in-comic) that progresses in a sensible, usually predictable way.
+> It's not necessarily /rational/ (the most-main character has hit several diabolus ex machinas), but it has many properties in common and is likely to appeal to this sub.
+> 
+
+> **u/Nepene** [+1] *
+> 
+> http://en.wikipedia.org/wiki/Real-life_superhero
+> It's worth noting what the fairly common real life superheroes do- some do activism of some sort for a cause like environmentalism, some hand out food to the homeless or clean up litter, some patrol an area to keep it safe. It's very possible.
+> http://en.wikipedia.org/wiki/Fathers_4_Justice
+> In the UK with me, there's this fairly well known superhero group which agitates for father's rights.
+> 
+
+>> **u/traverseda** [+3]  *With dread but cautious optimism**
+>> 
+>> Read the article?
+>> >I'm also not talking about the growing community of "Reals", people who dress up in spandex and walk for breast cancer or something. Some of those guys are very serious about what they do, and it's usually either heart-breakingly lame or frighteningly sociopathic. We'll ignore those guys for the purposes of this article.
+>> 
+
+>>> **u/Nepene** [+0] *
+>>> 
+>>> I have read it and that doesn't address my point.
+>>> 
+
+>>>> **u/Integrated_Delusions** [+2]  *The Flying Kiwi**
+>>>> 
+>>>> Then perhaps you should clarify your point, as it looks like the article addresses it to me...
+>>>> 
+
+>>>>> **u/Nepene** [+0] *
+>>>>> 
+>>>>> I didn't address people who dress up in spandex and walk for breast cancer, I addressed people who dressed up in spandex and did active community work, including fighting crime.
+>>>>> 
+
+>>>>>> **u/VorpalAuroch** [+1]  *Life before Death**
+>>>>>> 
+>>>>>> >including fighting crime.
+>>>>>> [citation needed]
+>>>>>> 
+
+---
+

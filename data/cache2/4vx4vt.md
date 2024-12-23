@@ -1,0 +1,58 @@
+## Rocks Fall, Everyone Dies
+
+* Author: u/Sailor_Vulcan  *Champion of Justice and Reason**
+* URL: https://www.reddit.com/r/rational/comments/4vx4vt/rocks_fall_everyone_dies/
+* Score: 24
+
+* Created: 2016-08-03T06:28:29
+
+### Post:
+
+*You are the hero. You have just munchkinned the laws of reality so well that the Divine Manager wants you dead. Betrayed by your companions and with the Universe out to get you, how will you survive!?*
+
+I started writing this quest. It is somewhat inspired by Harry Potter and the Natural 20 and the famous webcomic Goblins. It's about an adventurer in an RPG world who has pissed off the Divine Manager by munchkinning his way into beating the big bad near the start of his journey. The idea was basically to have the story be somewhat of a competition between me (the author), and the readers. I've started it with a fairly low difficulty, I think, that way both me and the readers will have time to gain experience and skill in playing this game/story. If their character dies, they get to pick another one. If the entity beyond time and space that is playing their character (the "player" in the story, Alex) gets booted from the Cosmic Playgroup, it will be game over, and they'll have to start over completely. I'm not sure how rational it's going to be, but it seems like something you guys might like.
+
+The rules are a bit long though, since I invented a completely new rules system for it. There are no classes. All stats are either physical or mental/spiritual, and they vary between different parts of your body or spirit. (the brain is kinda like a phylactery in this setting). All skills require certain parts of your body or spirit to have a sufficiently high stat to use. The stat of a body part or spirit part equals its hit points minus one. The amount that something weighs in kilograms is its total hit points. More of the rules are explained at the beginning of the story. The rules are very malleable to the creativity and common sense of the readers. You are allowed to suggest new rules.
+
+https://anonkun.com/stories/rocks-fall-everyone-dies/29wN5cycpLJA4zfnY
+
+### Comments:
+
+> **u/Nepene** [+1] *
+> 
+> As the DM, and a DM who happily violates the rules, how can this really be a competition? You can kill the players at will, make challenges that are impossible to beat. That sounds more like a slaughter.
+> 
+
+>> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason**
+>> 
+>> That's why I said "somewhat of a competition" rather than just "a competition". The in-story DM is a bit less intelligent than I am. Going to try to stay in character.
+>> 
+
+>>> **u/Nepene** [+5] *
+>>> 
+>>> He did open by having the presumed final encounter of his adventure attack the players at the opening of the adventure. The in story DM doesn't seem to be pulling his punches. He's also retroactively changing events, altering the rules to weaken the player.
+>>> The standard thing to do if a DM was angry with you would be to take them somewhere private, have a chat, if you did something shitty or you don't care about blame offer to buy them a beer or a pizza, ask them if they're having some sort of trouble with work or school and if they need someone to talk (since, they seem to be freaking out way too much over a game). Is there some reason they can't do that?
+>>> 
+
+>>>> **u/kuilin** [+1] *
+>>>> 
+>>>> I think he's talking about DMing a game of DnD. Not DMing DnD itself, but in a sorta meta-DM way. He'll be playing a DM who is mad with his players in the sub game and the players will be playing players WO are gaming rules in the sub game but the DM isn't mad at them in real life or in the one level game.
+>>>> 
+
+>>>>> **u/Nepene** [+0] *
+>>>>> 
+>>>>> I know, and the in game DM who he is controlling is omnipotent and willing to break the rules to kill the player so it's not really much of a contest.
+>>>>> 
+
+>>>>>> **u/kuilin** [+1] *
+>>>>>> 
+>>>>>> But they're only omnipotent within the inner campaign! So the outer campaign is a real life campaign where a bunch of friends fail at playing DnD because their DM is terrible and yet they're still drawn by an unseen force into playing DnD with each other.
+>>>>>> 
+
+>>>>>>> **u/Nepene** [+1] *
+>>>>>>> 
+>>>>>>> Haha, yes. We've seen no actual reason why they're dming with this person.
+>>>>>>> 
+
+---
+

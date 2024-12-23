@@ -1,0 +1,164 @@
+## [D] Monday General Rationality Thread
+
+* Author: u/AutoModerator *
+* URL: https://www.reddit.com/r/rational/comments/4tflpd/d_monday_general_rationality_thread/
+* Score: 18
+
+* Created: 2016-07-18T15:04:15
+
+### Post:
+
+Welcome to the Monday thread on general rationality topics!  Do you really want to talk about something non-fictional, related to the real world?  Have you:
+
+* Seen something interesting on /r/science?
+* Found a new way to get your shit even-more together?
+* Figured out how to become immortal?
+* Constructed artificial general intelligence?
+* Read a neat nonfiction book?
+* Munchkined your way into total control of your D&D campaign?
+
+
+### Comments:
+
+> **u/Dragrath** [+10] *
+> 
+> So as a relatively new member here I don't really have a good understanding of what is what yet...  (An FYI I found this site through Mother Of Learning)
+> So from what I have noticed most of the works here are fanfictions? Is their any recommended original works? The main things I have seen applauded here are fan fictions which I have always been Leary of.
+
+> And in a which came first the chicken or the egg moment it seems there is some convincing evidence that supports the notion that direct collapse super massive black holes likely seeded galaxies and thus the conditions for the first stars rather than the other way around.
+> Also anyone know the best places to turn what at this point is mostly pure world building into stories? 
+> One of the biggest issues I face is names as there are too many diverging cultures to take the more through linguistic approach(especially as English is the only language I can speak fluently)
+> As is I am stuck on the prologue for all my stories because names are  near impossible to do (and yet extremely important) for me.
+> 
+
+>> **u/Restinan** [+17] *
+>> 
+>> Shadows of the Limelight is solidly good original fiction. Glimwarden, by the same author, is currently updating and is even better. Crystal Society is great. Scott Alexander has written some good short fiction, like "... And I Show You How Deep The Rabbit Hole Goes" which is the top post on this subreddit of all time, and he's also writing Unsong, which I haven't read. Blindsight by Peter Watts is really good, and it's in the same vein as rational fiction, and it's been posted a couple times.
+>> 
+
+>> **u/Anderkent** [+8] *
+>> 
+>> Fanfictions are popular here because:
+>> 1. rationalish fix-fics hit all the right buttons - the cleverness of the character is made clear by the contrast with the original
+>> 2. there's a population of readers (incl. me) that pick up new settings and characters very slowly (i.e. takes a lot of interesting writing to get me to care about a character and their story), and we seem to be overrepresented on r/rational. Fanfiction makes it easy
+>> 
+
+>> **u/None** [+4] *
+>> 
+>> [deleted]
+>> 
+
+>>> **u/Escapement** [+3]  *Ankh-Morpork City Watch**
+>>> 
+>>> Besides what everyone else recommended, check out Ted Chiang's short fiction - literally all of his short stories are amazing and worth reading, and many can be found for free with Google.
+>>> 
+
+>> **u/Dwood15** [+4] *
+>> 
+>> > 
+>> > 
+>> > 
+>> > 
+>> > Also anyone know the best places to turn what at this point is mostly pure world building into stories? 
+>> If you want to discuss world building for your story, every Wednesday there's a Worldbuilding thread. I recommend you have a decent writeup and then post it there.
+>> 
+
+>>> **u/Dragrath** [+1] *
+>>> 
+>>> Ah I probably will at some point though it is a ton of stuff I really am stuck with names more than anything. In the real world you have tons of ethnic groups with their own disticnt set of languages. The problem is names need to account for that even though I don't have anywhere near enough experience understanding or time to compose languages for what at minimum is 50+ distinct cultures some of which are truly alien(I cheat there by having them lack any recognizable equivalent to names because they also lack the boundaries of distinct individuals)
+>>> What would count as a decent write up? Most of my stuff is contained into various word documents (prologue drafts + more or less bullet point explanations to remind myself of details) If I posted everything that would basically spoil the entire underlying plot. But I don't know how to get around the name problem without revealing some of the details...
+>>> 
+
+>>>> **u/Dwood15** [+2] *
+>>>> 
+>>>> I mean, check out the thread here: https://www.reddit.com/r/rational/comments/4snm5i/d_wednesday_worldbuilding_thread/ there's plenty of other ones to discuss.
+>>>> If you're worried about the underlying plot, make up a world conveniently similar to yours and then discuss the ideas. Most times I've been able to generalize my story plans without giving too much away.
+>>>> 
+
+>> **u/gabbalis** [+3] *
+>> 
+>> In addition to other suggestions, Fleep by Jason Shiga is a classic. As well as the first half of his later work, Demon.
+>> 
+
+>> **u/ketura** [+2]  *Organizer**
+>> 
+>> Worm is an excellent rational web serial that isn't a fanfiction.
+>> 
+
+> **u/None** [+4] *
+> 
+> I'm reading Andy Clark's *Surfing Uncertainty* for a survey of the most up-to-date converging paradigm in cognitive science, neuroscience, and philosophy of mind!  Why aren't you?  You don't want to walk around in a brain you scarcely understand, do you?
+> 
+
+>> **u/Anderkent** [+4] *
+>> 
+>> > You don't want to walk around in a brain you scarcely understand, do you?
+>> Do you feel like improving your understanding of your brain (beyond a couple most pertinent biases) is really improving your life? I'm not sure how seriously to take this recommendation; I've seen little benefit to reading things like Kahneman or Burkeman, beyond an enjoyable literature that *explains* some of my brains bugs but doesn't really help work around them.
+>> 
+
+>>> **u/None** [+3] *
+>>> 
+>>> > Do you feel like improving your understanding of your brain (beyond a couple most pertinent biases) is really improving your life?
+>>> I'm slightly teasing, since I'm trying to be a probabilistic-cog-sci PhD student eventually.  I do think it gives me more empathy for other people?
+>>> 
+
+>>>> **u/Anderkent** [+6] *
+>>>> 
+>>>> Oh, yeah, I definitely found that effect too.
+>>>> Thanks for clarifying. I've never thought about it before but I often have difficulty distinguishing the rationalish lingo from its exaggerated, sarcastic or teasing form. There seems to be a huge variety of how seriously people are committed to ideas presented in basically the same tone, and I guess I try to err on the side of assuming someone's serious, not to give offence by dismissing a thought prematurely :P
+>>>> 
+
+>>>>> **u/None** [+1] *
+>>>>> 
+>>>>> Please do not ever err on the side of assuming I'm serious unless I explicitly ask you to do so.
+>>>>> 
+
+>>>>>> **u/Anderkent** [+3] *
+>>>>>> 
+>>>>>> Suppose I might tag you as 'Probably not serious'. But I think you underestimate the 'Reddit is the one weird internet guy' effect; I rarely look at nicks before reading the comments :P
+>>>>>> 
+
+>>>>>>> **u/Iconochasm** [+2] *
+>>>>>>> 
+>>>>>>> Give a tag and an easily noticeable color.  It's fun to see who pops up in other subs sometimes.
+>>>>>>> 
+
+>>>>>>>> **u/Dwood15** [+2] *
+>>>>>>>> 
+>>>>>>>> It's true. I've seen /u/WormSlayer all over reddit and he's a mod of /r/oculus.
+>>>>>>>> 
+
+>>>>>>>>> **u/WormSlayer** [+2] *
+>>>>>>>>> 
+>>>>>>>>> RES tags are cool, remember to back that shit up though! I lost years of tags and stuff due to a lame bug :(
+>>>>>>>>> I now have you tagged as "*That guy who RES tagged me*" :P
+>>>>>>>>> 
+
+>>>>>>>>>> **u/Dwood15** [+2] *
+>>>>>>>>>> 
+>>>>>>>>>> lol. At this point, I just recognize your username (I don't even have RES installed right now). You're like that /u/Warlizard guy to me, except without the Warlizard gaming forums. I'd recognize the name even without tagging.
+>>>>>>>>>> 
+
+>>>>>>>>>>> **u/WormSlayer** [+2] *
+>>>>>>>>>>> 
+>>>>>>>>>>> /u/Warlizard levels of fame? I'm living the dream! ;)
+>>>>>>>>>>> 
+
+>>>>>>>>>>>> **u/Warlizard** [+1] *
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Have fun :)
+>>>>>>>>>>>> 
+
+>> **u/None** [+3] *
+>> 
+>> [deleted]
+>> 
+
+>>> **u/None** [+3] *
+>>> 
+>>> > would you mind elaborating a bit more on what value you feel like you've gotten from it so far?
+>>> It gives a nice broad overview of "predictive processing = Monte Carlo hierarchical Bayes + expected-precision-directed prediction-error propagation to perform updates".  So since I want to enter MIT's Brain and Cog department, getting an overview of the Friston et al paradigm in neuroscience is pretty useful.  I think some of the computational work I'm citing might actually be cited in the book some places.  And the book actually anticipates my own paper and gives me one or two things more to cite.
+>>> 
+
+---
+

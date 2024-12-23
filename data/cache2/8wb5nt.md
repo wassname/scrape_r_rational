@@ -1,0 +1,460 @@
+## [D] Monthly Recommendation Thread
+
+* Author: u/AutoModerator *
+* URL: https://www.reddit.com/r/rational/comments/8wb5nt/d_monthly_recommendation_thread/
+* Score: 48
+
+* Created: 2018-07-05T15:06:25
+
+### Post:
+
+
+Welcome to the monthly thread for recommendations, which is posted on the fifth day of every month.
+
+Feel free to recommend any books, movies, live-action TV shows, anime series, video games, fanfiction stories, blog posts, podcasts, or anything else that you think members of this subreddit would enjoy, whether those works are rational or not. Also, please consider including a few lines with the reasons for your recommendation.
+
+Alternatively, you may *request* recommendations, in the style of [the weekly recommendation-request thread of r/books](http://np.reddit.com/r/books/comments/6rjai2).
+
+Self promotion is not allowed in this thread.
+
+---
+
+[Previous monthly recommendation threads](http://www.reddit.com/r/rational/wiki/monthlyrecommendation)  
+[Other recommendation threads](http://pastebin.com/SbME9sXy)
+
+
+### Comments:
+
+> **u/Noumero** [+15]  *Self-Appointed Court Statistician**
+> 
+> **Request:**
+> Any good *Dark Souls*/*Bloodborne* fanfiction? Preferentially with the following qualities, ordered by importance:
+> 1. Rational/rationality-adjacent.
+> 2. Length: 20k words or more.
+> 3. Good worldbuilding.
+> ___
+> **Book recommendations:**
+> * I recently read [*The Traitor Baru Cormorant*](https://www.goodreads.com/book/show/23444482-the-traitor-baru-cormorant) by Seth Dickinson, and found it to be a *marvelous* rational story. Goodreads' summary is pretty good:
+>  >Tomorrow, on the beach, Baru Cormorant will look up from the sand of her home and see red sails on the horizon.
+>  >The Empire of Masks is coming, armed with coin and ink, doctrine and compass, soap and lies. They'll conquer Baru’s island, rewrite her culture, criminalize her customs, and dispose of one of her fathers. But Baru is patient. She'll swallow her hate, prove her talent, and join the Masquerade. She will learn the secrets of empire. She’ll be exactly what they need. And she'll claw her way high enough up the rungs of power to set her people free.
+>  >In a final test of her loyalty, the Masquerade will send Baru to bring order to distant Aurdwynn, a snakepit of rebels, informants, and seditious dukes. Aurdwynn kills everyone who tries to rule it. To survive, Baru will need to untangle this land’s intricate web of treachery - and conceal her attraction to the dangerously fascinating Duchess Tain Hu.
+>  >But Baru is a savant in games of power, as ruthless in her tactics as she is fixated on her goals. In the calculus of her schemes, all ledgers must be balanced, and the price of liberation paid in full.
+>  Its worldbuilding is excellent — calling it "low-fantasy" would be an understatement: it has a "fantasy" feel, but everything is fully reducible to physics. It has a truly fascinating number of [Level 2 Intelligent](http://yudkowsky.tumblr.com/writing/level2intelligent) characters. Its themes, of power and well-intentioned extremism, would be very appealing to this subreddit.
+>  I'm somewhat surprised it's not more popular here.
+>  (Also, [the first sequel](https://www.goodreads.com/book/show/35485447-the-monster-baru-cormorant) is scheduled to be released this October.)
+> * [*14*](https://www.goodreads.com/book/show/15062217-14) by Peter Clines is not as good as the aforementioned book, but is still pretty interesting. Premise: A man moves into a new apartment building, and gradually discovers a lot of seemingly-supernatural or just weird anomalies. Lightbulbs in his kitchen shine black light, five-legged green cockroaches are running around the building, door to one of the other apartments lacks a doorknob, and so on.
+>  Naturally, he attempts to figure out what's going on.
+>  Characters generally act reasonable, and there's quite a few tropes r/rational would enjoy. It's not without flaws, though, [light spoiler](#s " especially the latter half").
+> * [*The Fifth Defiance*](https://thefifthdefiance.com/about/) by u/WalterTFD is a rational story set in post-apocalyptic ruins of a "superheroes" setting. It has an interesting flavour, and a lot of high-power-levels conflicts. It's pretty grim, though.
+> **Film recommendations:**
+> * [*Annihilation*](https://en.wikipedia.org/wiki/Annihilation_(film\)) follows a group of researchers set to investigate a strange, slowly-expanding anomaly, possibly of extraterrestrial origin. It's generally rational, and doesn't try to dumb anything down. It also [conceptual spoiler](#s " features a properly alien alien"), which is nearly unheard-of in movies.
+> * [*10 Cloverfield Lane*](https://en.wikipedia.org/wiki/10_Cloverfield_Lane). Premise: the protagonist wakes up in a bunker after suffering a car incident, with two men — the bunker's owner, and his acquaintance. The owner tells her that he saved her life, that there has been "an attack", and that the air outside is "contaminated", so they all must stay there. She must figure out what to do and who to trust.
+>  The protagonist is pretty sensible, and the movie is pretty good at playing with an inquisitive viewer's expectations.
+> 
+
+>> **u/GaBeRockKing** [+10]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> 
+>> I very much second Annhihilation.
+>> As an aside, I was actually kind of surprised to see the movie and realize the main cast was only comprised* of women. It was obvious in the trailer, but I guess it didn't register because they didn't make a big deal out of it. I thought that was pretty impressive; the characters weren't just *incidentally* women, in that their gender did matter and affected the plot, but at the same time, they weren't *exclusively* women, in that their gender was advertised as a primary trait. Basically, Annihilation was what the new ghostbusters should have been.
+>> Also, the soundtrack was fucking dope.
+>> 
+
+>>> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png**
+>>> 
+>>> > ~~compromised~~ comprised
+>>> \*composed
+>>> > Basically, Annihilation was what the new ghostbusters should have been.
+>>> See also [the RedLetterMedia discussion of this issue](https://youtu.be/UtePG4Pon_M).
+>>> 
+
+>>>> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>>> 
+>>>> >composed
+>>>> Huh, I legit didn't know that using "compromised" in that way was invalid. Thanks for the tip.
+>>>> 
+
+>>>>> **u/None** [+5] *
+>>>>> 
+>>>>> Compromised can’t be used in that way because it’s the wrong word entirely. Comprised, on the other hand, is perfectly legitimate there.
+>>>>> 
+
+>>>>> **u/Amonwilde** [+1] *
+>>>>> 
+>>>>> Comprised of isn't wrong, but sometimes frowned on in a Strunk and White sort of way. It's better to say comprises:
+>>>>> > As an aside, I was actually kind of surprised to see the movie and realize that women comprise the whole main cast.
+>>>>> I wouldn't actually say composed of is any better than comprised of.
+>>>>> Compromised is right out.
+>>>>> There's a good Wikipedia article on "comprised of" that discusses its frequent deprication by prescriptivists. tl;dr, it's legit, but people frequently complain about it without much justification.
+>>>>> https://en.wikipedia.org/wiki/Comprised_of
+>>>>> 
+
+>>>>>> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>>>>> 
+>>>>>> > Strunk and White; "comprised of" that discusses its frequent deprication by prescriptivists
+>>>>>> Then it's a good thing I'm a descriptivist! "compromised" was obviously the wrong word so I changed it ,but "comprised" has a good-enough meaning, is widely understood to mean what it means, and doesn't pose any ambiguity.
+>>>>>> 
+
+>>>>>>> **u/Anderkent** [+1] *
+>>>>>>> 
+>>>>>>> You can also say "the main cast comprised only women", so it's mostly the unnecessary "of" that is frowned upon
+>>>>>>> 
+
+>>>>>>>> **u/addmoreice** [+1] *
+>>>>>>>> 
+>>>>>>>> "the main cast comprised only of women"
+>>>>>>>> and
+>>>>>>>> "the main cast comprised of only women"
+>>>>>>>> both sound fine to my ear but without the 'of' it sounds weird. It might be just a regionalism thing though.
+>>>>>>>> 
+
+>>>>> **u/ToaKraka** [+0]  *https://i.imgur.com/OQGHleQ.png**
+>>>>> 
+>>>>> You're mixing up "compromised", which is *unquestionably* wrong, and "comprised", which is *""questionably""* wrong. Regardless, "composed" is *un*questionably *right*.
+>>>>> > These ten wolves compose (make up) the pack.
+>>>>> > The pack comprises (comprehends, includes) these ten wolves.
+>>>>> > The pack is composed of (is made up of) these ten wolves.
+>>>>> 
+
+>> **u/Anderkent** [+3] *
+>> 
+>> Baru Cormorant was indeed amazing. Probably the best book of 2015
+>> 
+
+>> **u/OutOfNiceUsernames** [+1]  *fear of last pages**
+>> 
+>> *[Breaking the Cycle](https://www.fanfiction.net/s/9209033/1/Breaking-the-Cycle)* (~400K WL) seemed to have good (if dry) prose, worldbuilding, and character designs. It just wasn’t my idea of fun, so I’ve dropped it. 
+>> If you decide to give it a try, please reply to this comment of mine with your thoughts on it.
+>> 
+
+> **u/GaBeRockKing** [+8]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+> 
+> I'm going to reccomend the manga (and anime, although I haven't watched it) [Kingdom](https://www.google.com/url?sa=t&source=web&rct=j&url=https://myanimelist.net/manga/16765/Kingdom&ved=2ahUKEwiHv7KbyIjcAhUB4YMKHURQBT0QFjAlegQIBhAB&usg=AOvVaw2N7-2k5R5jQg-Un9TZG2lg), which is in theory, a manga about the historical Qin dynasty's unication of china,and in practice a maximally hot blooded shonen violence fest with awesome, larger than life characters, devious plotters, and impressive art.
+> The main character is explicitly a-rational, but a number of the side characters and antagonists have INT as their primary stat.
+> 
+
+>> **u/DioMaligno** [+6] *
+>> 
+>> After a few volumes kingdom is basically dragon ball, with battle auras and characters capable of destroying entire armies. It's absolute shit.
+>> 
+
+> **u/JustForThis167** [+6] *
+> 
+> [Destiny's Crucible](https://www.goodreads.com/series/215776-destiny-s-crucible)
+> *Oh my god*
+> Easily the best thing I've read this year.
+> About a chemist that winds up in a nasty invasion on an island in a pre-industrial world. World is consistent and interesting. Realistic populations, inventions, administration, and people. Author has a really nice writing style on top of that. I even bought the 4th book since I was so invested.
+> 
+
+> **u/DangerouslyUnstable** [+19] *
+> 
+> Just because I haven't seen it posted here in a while, I'm going to recommend [With this Ring](https://forums.sufficientvelocity.com/threads/with-this-ring-young-justice-si-story-only.25076/).  
+> It's a self insert fan fiction of the Young Justice animated tv show where the main character is given an Orange Power Ring (in case you are unfamiliar, Orange rings are fueled by avarice, and have a tendency to drive their users insane over time. Dealing with this and trying to still be a productive super hero is a major theme of the early chapters). 
+
+> It updates every day (literally every day, he hasn't missed a single day in years, it's ~2 million words by my rough estimate). The protagonist is pretty rational but the world he is in (DC comics) is decidedly non-rational. I think the writing is pretty good (although there are definitely some quirks that the author does that take some getting used to), the characterization and growth of even side characters is generally engaging and interesting and there is also some pretty good munchinkry of power ring abilities.  
+> The worst thing about it is that in my time zone (Pacific Time) new updates usually post between 10 and 11 pm and so I end up staying up too late waiting for the new chapter.
+> 
+
+>> **u/Onwards_and_Downward** [+3] *
+>> 
+>> Ok, so I've read this story and I like it.
+>> Something I've never understood - The red chapter titles. So its like a timeline split? And most (all?) of the Red chapters are part of the "renegade" timeline (color/symbols from Mass Effect series)? However not all of the chapters seem to be part of the timeline? Or just some stuff gets ignored/retconnned without reference?
+>> I've only read the story on the Story Only thread and... it is just weird. It detracts from my read, I want two "story only" threads if my interpretation of the Red/Not Red chapters is correct. 
+>> Anyway, I'm confused. Is it just me? Can anyone explain?
+>> 
+
+>>> **u/sicutumbo** [+9] *
+>>> 
+>>> I understand the confusion, since it really isn't explained in the story only, and only kind of explained in the main thread FAQ.
+>>> The divergence is actually before the story starts. The Renegade had a bad day at the office the day before he was transported to the DC universe, and was determined not to take shit from anyone. This was exacerbated by the orange ring, and later venombuster injection, meaning the Renegade will usually take the aggressive, less diplomatic options and the Paragon will take more diplomatic and generally longer term options. The author notes however that neither is strictly auperior to the other, unlike in the Mass Effect games that the system takes its name from. When the viewpoint character would normally take one option and suddenly changes their mind, that decision change is indicated by the paragon/renegade symbol. All actions taken in either timeline are internally consistent, but have no bearing on the other, so there's no retconning. Not intentionally anyways, the author may forget something occasionally. One bit you may have gotten confused on is that there were a few updates from the Red Lantern's perspective that also had the date colored red, but that was fairly distinctive. Maybe you're talking about when the episode title is in a different color than the date and time? The episode title's color indicates who will be the focus of the episode, the date and time color says who will be the focus of that single post.
+>>> The timelines can't be separated into different threads because you often need context from the other timeline in order to understand the current one. Otherwise details would have been written twice.
+>>> For the early part of the story, you can generally assume that the Renegade parts went about as the Paragon ones did except where otherwise noted.
+>>> If you have any other questions, I should be able to answer.
+>>> 
+
+>>> **u/redrach** [+5] *
+>>> 
+>>> Sure, it's pretty simple.
+>>> The story has two separate parallel timelines. The first and original one is the "Paragon" timeline, and the second is the "Renegade" timeline. Initially the only difference between them is that the protagonist had a bad day at work before the events of the latter, and as a consequence was uncharacteristically impulsive and rude to the people he came across. That quickly snowballs like crazy leading to them being very different characters at this point of time, and the contrast between the two is entertaining.
+>>> The story is divided into episodes, and each episode is mostly from the viewpoint of either the Paragon character (indicated by white-colored date) or the Renegade (red-colored date). Episodes are further divided into chapters, with one chapter being released every day. Occasional a chapter will show what's going on at the same time in the other timeline. The color of the timestamp (again white/red) is used to indicate which of the two timelines is the focus of the current chapter.
+>>> So for example there could be an episode dealing with the Paragon investigating a series of crimes and how he solves them, with a single Renegade chapter at the end showing the aftermath of how he solved the problem.
+>>> I recommend reading both time lines. A lot of people get turned off of the Renegade segments because of how much of a jerk he acts like, but he gets a ton of character development and has some of the best parts of the story.
+>>> 
+
+>> **u/Amonwilde** [+1] *
+>> 
+>> I feel like you need to know a lot about DC to enjoy this. Would that be correct?
+>> 
+
+>>> **u/DangerouslyUnstable** [+9] *
+>>> 
+>>> Not really. He is very good about linking to wikis for characters the first time he introduces them (and usually there is enough in story info to get their motiviations etc.). I have watched the TV show (it's great, you should watch it) but I have read nearly zero DC comics. Knowing a lot would add some slight depth to your understanding and probably help you guess upcoming twists better, but it is almost completely unnecessary to enjoy the story.
+>>> 
+
+>>>> **u/sicutumbo** [+6] *
+>>>> 
+>>>> Given how many different versions of DC there are, and how the author chooses which version to use in his story, not knowing DC as well can actually be helpful because you don't get confused as to various characters origins and histories, or how their powers work. Lanterns have been shown to have wildly varying power levels in the comics, so having a consistent knowledge of how they work in this one story where the author really tries for consistency is convenient.
+>>>> It is nice to know what characters look like, but that's pretty easy to find out if they aren't given sufficient description in story.
+>>>> 
+
+>>>> **u/Amonwilde** [+2] *
+>>>> 
+>>>> I've seen the show and was confused by the fact that,as I recall, there are no orange lanterns in it. But I'm thinking the orange lanterns are in the green lantern show on the same network?
+>>>> 
+
+>>>>> **u/DangerouslyUnstable** [+3] *
+>>>>> 
+>>>>> Orange lanterns never appear in the Young Justice show and I have no idea if they every appear in any other animated DC show (I doubt it, they are kind of obscure). But the author pulls a lot of content from the wider DC comic universe that wasn't in the show. It only lasted for two seasons so if he restricted himself to just what actually aired, it wouldn't have lasted very long.
+>>>>> 
+
+>>>>>> **u/sicutumbo** [+3] *
+>>>>>> 
+>>>>>> Larfleeze made a brief appearance in Green Lantern The Animated Series or whatever its name is.
+>>>>>> 
+
+>>>>> **u/ketura** [+3]  *Organizer**
+>>>>> 
+>>>>> In DC canon there's only a single orange lantern, since he was so greedy he stole the rings (and bodies) from all the rest. He's basically got a non-aggression pact with the green lantern Corps and sticks around his territory unless Plot intervenes.
+>>>>> 
+
+>>> **u/InfernoVulpix** [+1] *
+>>> 
+>>> The only points I really felt lost was when he was covering an episode of Young Justice that started in medias res.  I'd recommend reading the episode synopses of Young Justice season 1, but that's about it.
+>>> 
+
+>>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>> 
+>>> I don't know a lot about DC.
+>>> And most of what I know, I learned from repeatedly reading With This Ring.
+>>> 
+
+>>>> **u/Amonwilde** [+1] *
+>>>> 
+>>>> I tried reading this pretty concertedly, but it felt kind of low stakes for a lot of it. He's just like, "I'l mine some asteroids and buy a lantern off a green lantern." Really? Im sure it heats up later but I wasn't sold. A ton of superhero name dropping that I had no clue about, and I've watched a ot of DC cartoons.
+>>>> 
+
+>>>>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>>>> 
+>>>>> :D Well, I'm sure Mr Zoat would say that the first few chapters probably weren't his *best* work. If I were (somehow) in his shoes, having written millions of words over nearly 5 years, I certainly hope that I'd be a better writer than when I started :D.
+>>>>> There is a lot of name dropping, yeah. He seems to have encyclopedic knowledge of all manner of mainstream and obscure characters. Still, as mentioned previously, he's pretty good about linking to wikis and snippets when introducing new names and faces. I'm sure I recognised even less than you, and still enjoyed it.
+>>>>> (Is there any particular reason why an Orange Lantern, powered by greed and avarice, should *not* attempt to get ahead by collecting a huge stack of precious metal and buying a powerful artifact so he can keep drawing on more of the orange light? It seems to fit in just fine with the rules governing his powers.)
+>>>>> By the way, you might find that you prefer the Renegade episodes. Initially it's just an occasional retelling of a chapter with a bit more rudeness, but as the story progresses, he develops into a full-blown and quite independent character whom many people have come to appreciate. The Paragon and Renegade timelines no longer have much in common; different powers, different people, different challenges
+>>>>> 
+
+>>>>>> **u/Amonwilde** [+1] *
+>>>>>> 
+>>>>>> It just seemed...kind of easy? It seems like someone who was once a lantern wouldn't be blown away by some minerals. But I admit to not giving it muchof a chance.
+>>>>>> 
+
+>>>>>>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>>>>>> 
+>>>>>>> How far did you read?
+>>>>>>> Alan wasn't blown away by the amount offered. He was surprised, because although villains had tried to steal the lantern before, no one had just tried to buy it. [But](#s " what he really wanted was a legacy, a successor. The apprenticeship to Wonder Woman was what really mattered to him. He'd been running on willpower for many years since the passing of his wife, and this situation gave him new hope for the future.")
+>>>>>>> 
+
+>>>>>>>> **u/Amonwilde** [+1] *
+>>>>>>>> 
+>>>>>>>> I might try it again sometime. It just might not be for me.
+>>>>>>>> 
+
+>>>>>>>>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>>>>>>>> 
+>>>>>>>>> Could be. It's certainly way too much story to read if you aren't enjoying it.
+>>>>>>>>> It's hard to describe the overall theme, because a) there's loads of it; b) in line with the source material, it's very episodic, full of smaller partly-self-contained stories. But it's basically an uplift story. The DC human race has loads of undeveloped and ignored potential, and the SI wants to develop it.
+>>>>>>>>> 
+
+>>>>>>>>>> **u/Amonwilde** [+1] *
+>>>>>>>>>> 
+>>>>>>>>>> That sounds compelling. I will probably revisit at a time of great anxiety when I need an escapist story to crawl into.
+>>>>>>>>>> 
+
+>> **u/OutOfNiceUsernames** [+1]  *fear of last pages**
+>> 
+>> Is there any hint at all about when it is going to get finished? I keep waiting and waiting, and the authur just keeps writing and writing. 
+>> On one hand, it’s a good thing that the future me will be reading a longer story by this author (who, as you said, writes rather well). On the other hand, if it keeps going like this, the world as we know it may collapse sooner than the author gets done with the story.
+>> 
+
+>>> **u/thrawnca** [+3]  *Carbon-based biped**
+>>> 
+>>> There was a five year time skip between seasons one and two of canon. He plans to cover it *without* a time skip.
+>>> His current rate is just under 4 real years to every story year - it's been nearly 5 years real, and nearly 1 year 4 months in-story, so that's about 15-20 years total.
+>>> A lot of this is because of the level of detail. "Show, don't tell" is a good writing principle for engaging your audience, but it makes a lot of work for the author and makes your story far too long for traditional publishing methods. In this case, he's just embraced it and to Vega with the costs. The estimate of 2 million words is actually low; I heard 2.3 a while ago, it would be more now.
+>>> 
+
+>>>> **u/OutOfNiceUsernames** [+1]  *fear of last pages**
+>>>> 
+>>>> >There was a five year time skip between seasons one and two of canon. He plans to cover it without a time skip.
+>>>> Oh, so *that’s* what’s going on! I’ve tried once or twice to locate the story’s current progress related to canon, but after canon’s season one it felt like the two stories lost touch with each other. Which wasn’t very helpful in figuring out when it would touch back with C!S02, and get finished.
+>>>> >His current rate is just under 4 real years to every story year
+>>>> So it would be another RL year for the 5th year, and then maybe another one for S02, seems like? Which gives an estimated completion date around 2020-ish?
+>>>> 
+
+>>>>> **u/thrawnca** [+2]  *Carbon-based biped**
+>>>>> 
+>>>>> > So it would be another RL year for the 5th year, and then maybe another one for S02, seems like? Which gives an estimated completion date around 2020-ish?
+>>>>> Er, no. Read it again. He has taken 5 real years - since August 2013 - to write 1 year and nearly 4 months (4 July 2010 to 1 November 2011) in-story, and that rate doesn't seem to be changing. To reach the 5th year of the timeskip won't take one real year, it will take more like 20. Estimated completion 2030-ish, give or take 5 years each way.
+>>>>> 
+
+>>>>>> **u/OutOfNiceUsernames** [+1]  *fear of last pages**
+>>>>>> 
+>>>>>> That is... damn.
+>>>>>> If you’re aware of the most recent "episodes", do you know if there is an important "checkpoint" coming soon, at least? Or one that has been reached relatively recently? 
+>>>>>> With a schedule like that the only thing I can think of is to re-read it again now, up to some important plot landmark, and then read once more 10-15 year from now (if the circumstances allow for it by then).
+>>>>>> The last time I’ve read it was to somewhere around episodes 40-50.
+>>>>>> 
+
+>>>>>>> **u/thrawnca** [+2]  *Carbon-based biped**
+>>>>>>> 
+>>>>>>> Nope, no idea what checkpoints might be coming up. We're in uncharted waters. Finishing his year of service to the League was a big one, I guess, but that was over a (real) year ago, before I even started reading it.
+>>>>>>> However, since it updates daily without fail, my approach has simply been to follow it throughout the journey. There's never very long to wait for the next instalment.
+>>>>>>> I guess you could consider in-story April 1 to be a checkpoint of sorts? It got pretty crazy last time, and Mr Zoat has indicated that he has a bunch of ideas for the next one. But consider, there has only been one occurrence of that date thus far.
+>>>>>>> 
+
+>>>>>>>> **u/OutOfNiceUsernames** [+1]  *fear of last pages**
+>>>>>>>> 
+>>>>>>>> > my approach has simply been to follow it throughout the journey. There's never very long to wait for the next instalment.
+>>>>>>>> I’ve tried doing that, but it didn’t work out for me. I noticed that treating it like an ongoing TV show was making me gradually lose interest \ enjoyment in it altogether.
+>>>>>>>> Thanks for all the replies.
+>>>>>>>> 
+
+>>>>>>>>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>>>>>>>> 
+>>>>>>>>> Well, it's broken into episodes, which are each a few weeks long. You could read it every month or so.
+>>>>>>>>> 
+
+>>> **u/DangerouslyUnstable** [+1] *
+>>> 
+>>> He does have an end goal in mind. I think he's planning on writing through the events of the second season (including the intervening years). Last I heard, this was planned to take a couple more years to finish. I have no idea if this has been updated with the news of a new season or not. If you post on the discussion thread of sufficient velocity, I'm sure someone can give you a better answer.  
+>>> In summary: he has an end goal I'm just not sure exactly when he'll reach it other than "in a while"
+>>> 
+
+>>>> **u/OutOfNiceUsernames** [+1]  *fear of last pages**
+>>>> 
+>>>> Without any spoilers, have the more recent "episodes" \ plot arcs experienced a drop in quality, in your opinion?
+>>>> 
+
+>>>>> **u/DangerouslyUnstable** [+2] *
+>>>>> 
+>>>>> Umm, what do you consider recent? There have been the usual ups and downs with slow chapters but I don't think it's gotten any worse and there have been some pretty good story lines. There was one plot arc (which hasn't been finished quite yet, just put aside) that a lot of people weren't huge fans of but I thought it was fine.
+>>>>> 
+
+>>>>> **u/Green0Photon** [+2]  *Student in Cyoria, Minmay, and Ranvar**
+>>>>> 
+>>>>> >Without any spoilers, have the more recent "episodes" \ plot arcs experienced a drop in quality, in your opinion? 
+>>>>> Not really. Honestly, the first few chapters were the worst, as they were pretty fanfic-y/SI-y.
+>>>>> It's been pretty good, really.
+>>>>> 
+
+> **u/Tenoke** [+7]  *Even the fuckin' trees walked in those movies**
+> 
+> **Request**  
+
+> I'm looking for stories which are **grimdark** and/or have very **gray morality** and/or have **villains** as the **protagonist**, while also having **smart/driven main characters**.
+> A few varied (but limited) examples:
+> [Worm](https://parahumans.wordpress.com/)
+> [Ruthless](https://www.fanfiction.net/s/10493620/1/) (one of the best HP fanfics I've read - smart and depressing)
+> [Practical Guide to Evil](https://practicalguidetoevil.wordpress.com/table-of-contents/)
+> [Metropolitan Man](https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man)
+> [The Dark Wizard of Donkerk](http://alexanderwales.com/darkWizardNaNo2015.html)
+> [Superman: Red Son](https://www.goodreads.com/book/show/154798.Superman)
+> [How To Succeed in Evil](https://www.goodreads.com/series/83726-how-to-succeed-in-evil)
+> [Neil Gaiman's Snow, Glass, Apples](https://www.goodreads.com/book/show/12917233-snow-glass-apples)
+> [The Dire Saga](https://www.goodreads.com/series/179186-the-dire-saga) (Though I stopped reading after book 3)
+> [The End of the F***ing World ](https://www.imdb.com/title/tt6257970/)
+> I've also tried a few asian translated novels like [Warlock of the Magus World](https://www.wuxiaworld.com/novel/warlock-of-the-magus-world) but (possibly mainly because of the translation) to me they read like written by stereotypical overly excited 13 year old gamers though some of the concepts seem great at first. So maybe there's something that can sate my thirst there, although I am starting to doubt it.
+> 
+
+>> **u/Amonwilde** [+5] *
+>> 
+>> I would recommend Joe Abercrombie. [Best Served Cold](https://www.joeabercrombie.com/books/best-served-cold/) isa good place to start, but you could also start with the first book in the First Law series.
+>> I feel like you must have tried [A Practical Guide to Evil](https://practicalguidetoevil.wordpress.com/), though it's not as grimdark as some of your others.
+>> Another one to try is [Prince of Thorns](https://www.amazon.com/dp/B0052RERW8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1).
+>> 
+
+>>> **u/sparkc** [+2] *
+>>> 
+>>> Seconding the recommendation for Joe Abercrombie’s novels (and to a lesser extent the Mark Lawrence novel). Best Served Cold is, from the outset, the novel that most ticks the boxes but I would recommend starting with the first novel in that world, The Blade Itself, which is from a trilogy that develops in a very interesting way.
+>>> 
+
+>> **u/Escapement** [+3]  *Ankh-Morpork City Watch**
+>> 
+>> The Engineer Trilogy by K J Parker.
+>> 
+
+>> **u/dappercino** [+1] *
+>> 
+>> Hmm, I read both a long time ago, but I think you might enjoy them: Girl who ate a death God (and maybe the other books in the same world), Saga of Tanya (official epubs are hard to find but they read better imo)
+>> 
+
+> **u/tjhance** [+7] *
+> 
+> The webcomic [The Adventures of Dr. McNinja](http://drmcninja.com/) is certainly not rational fic but I think it has some elements that readers here will enjoy.
+> *Dr. McNinja* is about a man raised as a ninja, who dreamed of being like Batman, and now serves as a Vigilante crimefighter in the city of Cumberland while also running a medical practice that treats exotic ailments. All to the disappointment of his ninja family.
+> It's a very silly comic and ridiculous things happen all the time.
+> It has some trappings familiar to us rational-fic readers: [spoiler](#s "The cloning tech, which McNinja used to become as broadly-skilled as he is, and which brought Ben Franklin back to life, is vastly underutilized by the world at large. Also, at one point, McNinja intends to help invent immortality, but this thread is dropped.")
+> However, it's genuinely funny and it has a pretty well-constructed plot overall. Furthermore,
+> * The antagonist King Radical is definitely the hero of his own story. [spoiler](#s "He wants to save his dying homeland by summoning its citizens into Dr. McNinja's universe. To this end, he needs to make the universe more radical, by improving the local economy, building orphanages, introducing better pizza recipes, etc. He plans a summoning ritual which will replace the 'worst dudes' of society with the radical citizens from his homeland. He hopes that 'naturally radical' citizens like McNinja will join him.") He is also an intelligent villain, and he [spoiler](#s "actively tracks down time-travelers from the future, believing he'll eventually find one who was sent to stop him.")
+> * The immortal Dracula [spoiler](#s "is considering ending his life. But first, he needs to know what the afterlife is like, so as a test, he hatches a plan to kill Ben Franklin II and bring him back to life, in order to find out what it was like")
+> * Franz Rayner is genre-savvy, even when the genre is absurd. [spoiler](#s "To defeat McNinja, He makes 1000s of clones of McNinja and then fights them, using the principle that one lone man can take down hordes of faceless opponents.")
+> 
+
+>> **u/SeekingImmortality** [+3]  *The Eldest, Apparently**
+>> 
+>> Read the series as it was being released, enjoyed it, own all the print compilations. :)  Hilarious and entertaining, but not rational unless you assume that in-universe things consistently work via Rule-Of-Cool laws.
+>> 
+
+> **u/None** [+3] *
+> 
+> Brilliant Star Wars: Knights of the Old Republic short story:
+> [https://www.fanfiction.net/s/5759101/1/On-Being-A-Sith-Lord](https://www.fanfiction.net/s/5759101/1/On-Being-A-Sith-Lord)
+> 
+
+> **u/ilI1il1Ili1i1liliiil** [+4] *
+> 
+> Would you recommend litRPGs in a similar style as [Everybody Loves Large Chests](https://www.royalroadl.com/fiction/8894/everybody-loves-large-chests)? I enjoy the humor and the feeling of progression/improvement in that work.
+> 
+
+>> **u/Solaire145** [+5] *
+>> 
+>> I had to stop reading that one. I couldn't continue after what happened to Cornie Fizzlesprocket.
+>> 
+
+>> **u/lecupra** [+3] *
+>> 
+>> [The Dao of Magic](https://www.royalroadl.com/fiction/11397/the-dao-of-magic) might qualify depending on what features you like.
+>> 
+
+>> **u/Mellow_Fellow_** [+2] *
+>> 
+>> Closest I can think of is [The Legend of Randidly Ghosthound](https://www.royalroadl.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/127131/chapter-1), though it's not really the same.
+>> 
+
+>>> **u/Izeinwinter** [+6] *
+>>> 
+>>> I decided that I bloody well hated that on the grounds that it is just straight up carnography, the social setups make zero percent sense (.. Where are the cities with gun-focused classes? The societies that deal with monsters via organized armies? One of their initial neighbours had an infinite ammo source.. but nope instead we have societies with such toxic focus on violence that they have major to-the-death tournaments while under constant external attack..), and also there is no logic to the world building. ¨
+>>> The casualty rates are much to high to work in the absence of resurrection magics (Everywhere. Not just on earth. Every society we see loose so many more people to combat than they can possibly get from reproduction that it is not funny) and the xp/ power curves are whatever makes the best masturbatory power fantasy. 
+>>> Re; the last bit, the main character should start falling approximately infinitely behind when everyone else starts using dungeons, but this never happens. His initial edge in power was from spending time in a fast-time dungeon. He never enters another one, while everyone else makes use of them... but somehow he does not get left behind. ARRGH.
+>>> 
+
+>>>> **u/Amonwilde** [+2] *
+>>>> 
+>>>> Not to defend what is mostly a ridiculous story too much, but he spends years in the prison on Shal's world. At almost all parts in the story, he has consistently been in the system for longer subjective time than the other people from the town.
+>>>> Almost every war has shown that you can have a ridiculously high casualty rate and not affect population considerably over time, as long as most of the people that die are men and not women.
+>>>> 
+
+>>> **u/Amonwilde** [+2] *
+>>> 
+>>> I would say The Legend of Randidly Ghosthound is better. You might also try [The Snake Report](https://www.reddit.com/r/TheSnakeReport/), though I'm not a fan.
+>>> 
+
+>>> **u/ilI1il1Ili1i1liliiil** [+2] *
+>>> 
+>>> I gave it a try. It's nonsense from a rational viewpoint, but modestly entertaining. So.. a tentative thanks for the recommendation.
+>>> 
+
+>> **u/BashDashovi** [+0] *
+>> 
+>> The Legacy Builder is the only LitRPG that comes to mind. Way less tentacle tape than ELLC, though.
+>> 
+
+---
+

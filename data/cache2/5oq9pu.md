@@ -1,0 +1,113 @@
+## A pretty interesting idea about Dragons
+
+* Author: u/ckn06 *
+* URL: https://www.youtube.com/watch?v=6grLJyqIM8E&t=0s
+* Score: 0
+
+* Created: 2017-01-18T16:19:15
+
+### Post:
+
+[Link to content](https://www.youtube.com/watch?v=6grLJyqIM8E&t=0s)
+
+### Comments:
+
+> **u/callmebrotherg** [+20]  *now posting as /u/callmesalticidae**
+> 
+> The biggest problem with this argument is that it supposes that dragons, as such, existed outside of Western mythology. Eastern "dragons" are not actually dragons, and neither is Quetzalcoatl. These are interpolations by Western scholars, a sort of mythological equivalent to the same drive that led people to give out names like "sea cucumber" and "sea lion." 
+> I also dislike how the video takes out of context quotations and supplies them with a different meaning. The video means for you to infer that Nietzsche and Chesterton are referring to dragons as symbols of the same ideas that the video is using them to represent, but in these three statements (Nietzsche, Chesterton, and the video) you have three separate symbolic meanings. Also, I am highly doubtful that "He who fights dragons" was even the intended translation of Nietzsche's passage; I have never heard it till now and googling this alternate translation turns up very little. 
+> Other things that don't add up: 
+> * The snake did not make Gilgamesh mortal. It **kept** him from becoming immortal, but he was already mortal, which is not what the video implies. Furthermore, to the best of my knowledge, scholars are in agreement that the snake figured in this myth not because it was dangerous but because the shedding of its skin represented eternal youth. I am more than happy to hear arguments against the idea, but to not even bring up the current consensus implies that VSauce is unaware or else unwilling to admit that this idea would be controversial. 
+> * There were predatory birds and mammals before there were primates. Why is it only primates that are described as having these instincts?
+> * "Birds of prey" may not have evolved immediately after the end of the Mesozoic, but the first birds evolved from meat-eating theropods. If VSauce wants to posit that birds universally dropped carnivory for a time, only to pick it back up later, then this needs to actually be  argued. 
+> * Similarly, some major forms of carnivorous mammal did not appear until later in Earth's history but miacoids were a group of predatory mammal that first appeared 66 million years ago (near the end of the Mesozoic) and ate, among other things, mammals that were smaller than themselves. 
+> * Not all dragons have legs or wings. In fact, the earliest dragons were likely legless. 
+> * The book *An Instinct for Dragons* is basically this video in writing and shares many of its flaws. Checking reviews, I can't find any scholars who actually liked the book. 
+> In short, this video is not just wrong, but so wrong that I'm hesitant to watch any other videos by the same creator. I know enough about comparative mythology to spot the problems here (and I'm enough of a skeptic and procrastinator to fact-check the biology side of things when I ought to be doing schoolwork) but the next video could be just as horribly wrong, but about a subject that I know nothing about.
+> 
+
+>> **u/MattBGenomics** [+1] *
+>> 
+>> Idk about the dragon analogy. to define the different views and in VS2's interpretations HAS THE same meaning as that of a darth vader head in our popular era. IMO, VSauce2 told us an anthropomorphic meta-allegory and not a philosophical argument so much. What Beyond G&E says is:
+>> “He who fights too long against dragons becomes a dragon himself; and if you gaze too long into the abyss, the abyss will gaze into you.”
+>> VS2 is looking for is Lacan to explain his convoluted reasoning. It is like a feeling of the abyss staring back is a "sinthome" - which is a neurotic symptom. It is a characteristic of the psychological analysis of an individual and derisive of innocence and exploits sovereignty.
+>> [In the context of the creation of a new signifier or sinthome, creation is only creation insofar as it builds upon the lack of the Other, that is, insofar as it is a creatio ex nihilo: “It is by this [the lack] that I try to meet the function of art, what is implied by what is left blank as fourth term, when I say that art can even reach the symptom.”58](http://www.psychoanalysis.ugent.be/pages/nl/artikels/artikelsPaulVerhaeghe/Englishsymptom.pdf)
+>> 
+
+>>> **u/callmebrotherg** [+3]  *now posting as /u/callmesalticidae**
+>>> 
+>>> VSauce told us an anthropomorphic meta-allegory and started it out with ten minutes of what turns out to be bad mythology and pseudoscience. I'm cool with spinning conspiracy theories and writing psychology fanfiction but I *don't* appreciate it when people try to pass it off as fact. There are people who are watching this video and coming away with misinformation; I don't require that fiction be banned, or even that every page of it be plastered with disclaimers, but I do expect people to have the common decency to not present themselves as informative and in that guise present fiction. 
+>>> It is okay to present fiction, but you do not pass it off as fact. You just don't. Never ever forever. I recognize that I might be considered extreme by the community because I advocate for radical honesty and dislike even white lies, but I would expect that we can at least agree that it's a bad idea to *create a supposedly educational video that misinforms people.*
+>>> I am familiar with the full quote from *Beyond Good and Evil*. In German, it says: 
+>>> > Wer mit Ungeheuern kämpft, mag zusehn, dass er nicht dabei zum Ungeheuer wird. Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein.
+>>> "Ungeheuer," to the best of my knowledge, does not translate to "dragon." I am have been searching up and down and have not found any source that offers "dragon" as even an alternate definition. 
+>>> (Btw, your link is broken)
+>>> EDIT: typo
+>>> 
+
+>> **u/Vakuza** [-3] *
+>> 
+>> Mythical creatures appear to be amalgams of our ancestors predators, I don't understand why you'd refute that idea. It's not exactly something new.
+>> I think you're digging too deep, far too deep. Reminds me of this video in a game called the witness where one reviewer completely loathed what this one woman had to say, but my interpretation was literally "if you can't do something stop trying and explore" which made the game much more enjoyable for the most part.
+>> Sure he's "potentially" misrepresenting things but that's something you cannot avoid without facts, there is always a bias in the absence of facts.
+>> 
+
+>>> **u/callmebrotherg** [+7]  *now posting as /u/callmesalticidae**
+>>> 
+>>> > Mythical creatures appear to be amalgams of our ancestors predators, I don't understand why you'd refute that idea. It's not exactly something new.
+>>> I refute it because the evidence is weak and at odds with reality. I don't understand why you think that something should not be refuted just because "it's not exactly something new." Many old ideas are flat-out wrong. 
+>>> He isn't *potentially* misrepresenting things. He's one-hundred percent, straight up, without a doubt misrepresenting things. There's as much unvarnished truth in this video as there is in a Christian preacher's sermon on how the creation myth in Genesis is a secret metaphor for the Big Bang. The only question in my mind is whether he's doing so intentionally or he's just bad at researching things.
+>>> 
+
+>>>> **u/Vakuza** [-1] *
+>>>> 
+>>>> > I refute it because the evidence is weak and at odds with reality.
+>>>> You mean that dragons (from any culture) have no similarities with snakes or large birds? Uh huh.
+>>>> I think I would say the animal traits that make up mythical creatures are chosen because a fair number of people find those traits impressive or creepy, that the animals turn out to be predators of our ancestors is just coincidence in this case.
+>>>> You don't need to refute an idea just because it is presented badly, though I agree that his evidence and stuff was of poor quality.
+>>>> 
+
+>>> **u/inteuniso** [+2] *
+>>> 
+>>> A statement without truths is false. Why would anyone willingly listen to false statements?
+>>> 
+
+> **u/ckn06** [+2] *
+> 
+> First of all, I personally think i should have given a description of what was in the video when sharing it. Therefore, I apologise for not already doing that.
+> Yes, I am aware that eastern mythology represents dragons very differently from western mythological dragons. And yes, that means i know that by the western definition of dragon (a usually huge powerful beast covered in reptile-like scales, claws, wings etc.) the eastern dragons like Chinese or Japanese dragons (floating serpentine four legged creatures usually representing some sort of divine power), Indian mythological creatures (like naga’s etc) do not qualify as dragon’s under it.
+> From what i have seen of Vsauce videos, they have a pretty unique (sort of meandering from topic to topic) quality to them. They feel like moving from one topic to a completely different and disconnected one with barely any transition. I just took the quotes as transition’s and assumed an entirely different idea was being presented after each such quote/transition. I did this almost reflexively and so the idea of seeing the entire video as a whole didn’t even occur to me. I am used to seeing them as a series of barely related ideas.
+> I should have done a little more independent research before sharing this video, and thus possibly share it in a more appropriate thread. The premise of the video doesn’t really belong in Rational Fiction.
+> I shared this by the name “A pretty interesting idea about dragons”, because I really didn’t put much faith in the idea of Dragon’s being a chimera made of ancient predator’s of our very very distant ancestors (the first mammals). It was just something interesting, and so i thought worth sharing.
+> So, Yes. I agree that it is much more likely that dragon’s were just fanciful imaginations resulting from our fear of snakes or something. It is also likely the less convoluted theory.
+> 
+
+>> **u/eaglejarl** [+1] *
+>> 
+>> Could you save me 15 minutes and just summarize what the point was that you thought was interesting?
+>> 
+
+>>> **u/ckn06** [+2] *
+>>> 
+>>> I thought that "the dragon as amalgamation of predator's" even though unlikely was interesting.
+>>> I thought the thing about co-evolution with snakes and it's probable effect on us was interesting.
+>>> I just feel stupid for sharing it, should i just delete the link and be done with it?
+>>> 
+
+>>>> **u/eaglejarl** [+1] *
+>>>> 
+>>>> Whether or not to delete it is up to you, but don't feel stupid. It was offered with good intentions and a sincere desire to share something you liked. It didn't land well, but take it as a guidepost for the future and roll with it.
+>>>> 
+
+>>>>> **u/ckn06** [+1] *
+>>>>> 
+>>>>> Thank you.
+>>>>> 
+
+> **u/None** [+1] *
+> 
+> quiet spoon glorious flowery slimy dirty agonizing coordinated wrong toy ` this message was mass deleted/edited with redact.dev `
+> 
+
+---
+

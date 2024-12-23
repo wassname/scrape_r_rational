@@ -1,0 +1,825 @@
+## Looking for something new to binge read(finished Worth the Candle today).
+
+* Author: u/generalamitt *
+* URL: https://www.reddit.com/r/rational/comments/72uavi/looking_for_something_new_to_binge_readfinished/
+* Score: 35
+
+* Created: 2017-09-27T18:35:09
+
+### Post:
+
+Once again, I am done with an amazing piece of literature and feel like this is it, this time I have really exhausted all the great stuff out there. time for the horrible long wait, winter has come. Well, things had always worked out in the end, but recently the search has become quite difficult, I think this time I need help.(seriously,I can't go through the day without at least 5 hours of reading. save me!).
+
+What I am looking for is always the same thing, a protagonist who works hard within an established and well explained magic/combat system to get better at something... and the rational touch. Romance and good character interactions/dialogue are always a great bonus, And strong professional writing is a must( One of the reasons I could never get into those Wuxia novels/japanese LN).
+
+This general personal preference always reflects on the stories I love:
+
+HPMOR
+
+Mother of learning 
+
+The games we play 
+
+Harry potter and the natural 20
+
+The good student
+
+Worth the candle
+
+Savage Divinity( I wouldn't call it a rational fic, but good nonetheless)
+
+Cradle series by will wight 
+
+A virtual dream
+ 
+Dream drive
+
+Not rational, but I also enjoyed- Not this time, fate and Professor Arc by Coeur. Mostly because of the comedy, time loop aspect and the great character interactions.
+
+I have tried and couldn't get into: worm, The Wandering inn, The arcane emperor. 
+
+Anything( webnovels, books, manga, comics) along those lines that already has at least one book worth of content published is welcome.
+
+### Comments:
+
+> **u/ben_sphynx** [+16] *
+> 
+> I've been enjoying [The Gods Are Bastards](https://tiraas.wordpress.com/2014/08/20/book-1-prologue/) recently. There is quite a lot to it, though, so you won't finish it in one binge. There are a number of main characters, and mostly they work hard (well some more than others) at getting better at stuff.
+> Also, [With this ring](https://forums.sufficientvelocity.com/threads/with-this-ring-young-justice-si-thread-twelve.25032/) has had quite a lot of good character empowering themselves stuff over the years.
+> 
+
+>> **u/CouteauBleu** [+12]  *We are the Empire.**
+>> 
+>> I'll second With This Ring, with a caveat: I think it's very much the "junk food" of superhero stories. There's no grandiose story-spanning arcs like Worm, or exploration of deep social issues like Strong Female Protagonist or The Metropolitain Man.
+>> But it's there. It's just that story that consistently has a new post every single day (the author is *really* serious about that), with consistently okay writing, fun moments, mini character arcs, explorations of DC Comics and superhero tropes, etc.
+>> 
+
+>>> **u/OutOfNiceUsernames** [+8]  *fear of last pages**
+>>> 
+>>> Why is it junk food? Among its main themes are deconstruction, [technology uplift](http://tvtropes.org/pmwiki/pmwiki.php/Main/TechnologyUplift) and [schizotech](http://tvtropes.org/pmwiki/pmwiki.php/Main/SchizoTech), and it works on these themes quite well. It also has good fight scenes and rational (if somewhat marysueish) protag.
+>>> It does have a slower-paced, “zoomed-in” narrative that also includes slice-of-life moments, but that’s just what its format is — it’s not trying to gain its competitive ability through the story length alone (which is what I’d call “junk reading” — just feeler chapters, but lots of’em).
+>>> Though admittedly I haven’t checked on this story for some time by now, its quality could’ve deteriorated from what I know.
+>>> 
+
+>> **u/josephwdye** [+5]  *I love you**
+>> 
+>> I really wanted to like the gods are bastards. I just couldn't keep interest with how many povs and how often they changed.
+>> 
+
+>>> **u/GeeJo** [+4]  *Custom Flair**
+>>> 
+>>> It's much better read in bulk than as-it-updates, I found. I've taken to catching up just once every couple of months.
+>>> 
+
+>>> **u/mojojo46** [+1] *
+>>> 
+>>> What's good about it? I've tried reading the first chapter or two, but never really got drawn in. Should I give it more time?
+>>> 
+
+>> **u/SaintPeter74** [+3] *
+>> 
+>> I'll second The Gods are Bastards as my current favorite.  It is epic in scope and length.  I do agree that there a pretty significant number of POV characters.  It's not quite Infinite Jest, though.  I think it holds together better when read straight through. 
+>> It's harder for me when I come back after a month and try to remember who everyone is, especially once everyone starts to come together (as they are in the current arc).
+>> 
+
+> **u/Mellow_Fellow_** [+13] *
+> 
+> Give *[Sufficiently Advanced Magic](https://www.amazon.com/Sufficiently-Advanced-Magic-Arcane-Ascension-ebook/dp/B06XBFD7CB)* a try.  It's a pseudo lit-rpg with a rationalist protagonist.  In some ways it's similar to the Cradle series by Will Wight.
+> 
+
+> **u/Makin-** [+10]  *homestuck ratfic, you can do it**
+> 
+> Not actually trying to convince you, just curious, what made you drop worm?
+> Anyway, [Dream Drive](https://www.literotica.com/s/dream-drive-ch-01) seems like it will be your kind of story. Have fun, and don't worry, the website is misleading.
+> EDIT: wait shit did you just add dream drive after my post or did I miss it the first time around, if it's the latter oops
+> 
+
+>> **u/vakusdrake** [+13] *
+>> 
+>> I mean I'm not the OP but I suspect like a lot of people including myself they dropped it because it just gets too depressing and grimdark and everything you hear about the story indicates it's only going to get moreso as things progress. Plus the pacing gets a bit too slow in parts as well for some people's taste.
+>> Also the OP mentioned dream drive as being something they already read and liked in the post.
+>> 
+
+>>> **u/trekie140** [+6] *
+>>> 
+>>> You hit the nail on the head for why I dropped it. Seeing Taylor suffer one setback after another when I wanted to see her succeed was emotionally unsatisfying. Breaking Bad at least had protagonists who I rooting against as much as for, so I was okay with seeing them get screwed over again and again while still wanting them to keep trying.
+>>> 
+
+>>> **u/monkyyy0** [+3] *
+>>> 
+>>> But Taylor has plot amour how does that make sense?
+>>> 
+
+>>>> **u/vakusdrake** [+9] *
+>>>> 
+>>>> The oppressively grimdark atmosphere needn't actually stem from any danger to the protagonist.
+>>>> 
+
+>>>> **u/None** [+5] *
+>>>> 
+>>>> [deleted]
+>>>> 
+
+>>>>> **u/Noumero** [+5]  *Self-Appointed Court Statistician**
+>>>>> 
+>>>>> [Worm, some meta spoilers ](#s "Aegis, one of the Brockton Bay Wards, not Chevalier. Additionally, as far as I know, Wildbow rolled for survival only during the Leviathan fight, which indeed, amusingly, saw Taylor survive, but killed the planned second protagonist.")
+>>>>> 
+
+>> **u/Calsem** [+3] *
+>> 
+>> I dropped it because Taylor *always* managed to get herself out of the most rediculous situations she shouldn't have survived.  When she somehow managed to escape [](#s "dragon") I quit the story.  A little plot armour is fine but it got to the point of rediculousness.
+>> 
+
+>>> **u/Amonwilde** [+2] *
+>>> 
+>>> Pact is even worse in this regard. At least Taylor doesn't go out of her way to do stupid things.
+>>> 
+
+>> **u/monkyyy0** [+5] *
+>> 
+>> I think people drop it who aren't used to not knowing peoples names with that 100 person cast they have
+>> 
+
+>> **u/Zephyr1011** [+2]  *Potentially Unfriendly Aspiring Divinity**
+>> 
+>> What makes you recommend Dream Drive? (This is the first time I've ever heard of dream drive)
+>> 
+
+>>> **u/Makin-** [+2]  *homestuck ratfic, you can do it**
+>>> 
+>>> I saw he tried Arcane Emperor, and Dream Drive is pretty much AE but well written and with a planned plotline. It's the best litRPG I've read, though Worth The Candle has been giving it a run for its money lately so I might have to update that.
+>>> I'd say Dream Drive's biggest strength is characters, in litRPGs non-main characters usually aren't that important, but in DD they feel like real people with real agency. It's appealing in a rational fiction way. Technical writing is flawless too. 
+>>> Shame it's not finished, but again, WtC hits the same spot for me.
+>>> 
+
+>>>> **u/Amonwilde** [+1] *
+>>>> 
+>>>> Agree that Dream Drive is actually pretty good. Only downsides are that it's not finished and the choice of venue is a little weird. The author has a published book that's much less compelling.
+>>>> 
+
+>>>> **u/LimeDog** [+1] *
+>>>> 
+>>>> I read it. I finished it. I looked for more of it. Then I came to this comment. Now I ask you find me more like Dream Drive to fill this hole in my reading belly. Already did your other recommendations. Find me more.
+>>>> 
+
+>>>>> **u/Makin-** [+2]  *homestuck ratfic, you can do it**
+>>>>> 
+>>>>> Assuming you mean the game aspect of Dream Drive...
+>>>>> It's honestly pretty hard to find decent litRPGs, but I quite liked the first act of [SHINOBI](https://forums.spacebattles.com/threads/shinobi-the-rpg-naruto-si.380860/), a Naruto fic focused around the real life consequences of having only 1 point in Charisma. 
+>>>>> That said, stop reading after the first act is over, it's really not worth it to continue. 
+>>>>> [The Wandering Inn](https://wanderinginn.wordpress.com/) is also alright, though it's pretty hit and miss.
+>>>>> I know I have read more good ones, but I can't remember them. [This fic](https://www.fanfiction.net/s/10252240/1/When-Signing-a-Contract-Always-Read-the-Fine-Print) was in my favorites, for example, but I don't know if that means it's great or just passable. I really should start writing down the stuff I read that's actually worth recommending... I'll get back to you if I remember.
+>>>>> 
+
+>>>>>> **u/ShiranaiWakaranai** [+1] *
+>>>>>> 
+>>>>>> > That said, stop reading after the first act is over, it's really not worth it to continue.
+>>>>>> I got engrossed in the story and forgot about this warning. Now I feel horribly frustrated and unsettled. X_X
+>>>>>> 
+
+>> **u/None** [+2] *
+>> 
+>> Almost clicked.  Saw literotica.  May click with incognito mode, but extremely wary.
+>> 
+
+>>> **u/Adeen_Dragon** [+2] *
+>>> 
+>>> There's porn. To be fair, it's used as a tool, and the story seems to be more plot-with-porn than porn-with-plot. 
+>>> As an example, the main character has a one night stand, which serves to emphasize the shallowness of the Hub.
+>>> 
+
+>>> **u/Makin-** [+2]  *homestuck ratfic, you can do it**
+>>> 
+>>> The sex scenes are less than 5% of the story, I did say the website was misleading.
+>>> 
+
+>>> **u/Amonwilde** [+1] *
+>>> 
+>>> Are you imagining that incognito mode protects you from "bad" websites? All it does it stop your history and cookies from persisting after the session.
+>>> 
+
+>> **u/nolrai** [+2] *
+>> 
+>> Personally I dropped it because the action sequences got longer, and very predictable in structure. (The earlier ones have the same pattern, but it took me a while to notice/care).
+>> I just stopped caring about how she was going to win by screwing her self over.
+>> Taylor was kind of dumb too, and her self destructive spiral was taking too long.
+>> 
+
+> **u/thrawnca** [+11]  *Carbon-based biped**
+> 
+> Have you read [The Waves Arisen](https://wertifloke.wordpress.com/2015/01/25/chapter-1/)? The magic system of Naruto isn't all that well defined, but this protagonist certainly makes an attempt to fix that.
+> 
+
+> **u/SvalbardCaretaker** [+11]  *Mouse Army**
+> 
+> webcomics: 
+> www.genocideman.com  finished
+> www.strongfemaleprotagonist.com work in progress 
+> http://unicornjelly.com/  finished, some non-canon comics at first 
+> www.leftoversoup.com finished
+> 
+
+>> **u/GaBeRockKing** [+6]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> 
+>> > www.genocideman.com finished
+>> > www.strongfemaleprotagonist.com work in progress
+>> I'll strongly second these. Genocideman was mind blowing when I sped-read through it, and SFP is a pretty strong work too.
+>> 
+
+>>> **u/SvalbardCaretaker** [+4]  *Mouse Army**
+>>> 
+>>> Random NPC: "You - you survived Oslo!?" 
+>>> Genocideman: "Oslo didn't surive *me*."
+>>> 
+
+>> **u/KilotonDefenestrator** [+5] *
+>> 
+>> For those that plan on reading Genocide Man, [here is the link to the first page](http://www.genocideman.com/?p=40) (haven't checked the other links for spilers).
+>> Related question: how much of a spoiler would you say the last page of Genocide Man is?
+>> 
+
+>>> **u/SvalbardCaretaker** [+3]  *Mouse Army**
+>>> 
+>>> Not too much? Still, putting up some redirect to the first page would probably be a good move by the author. 
+>>> EDIT: paging /u/RemusShepherd as for thoughts to spoiler on the comics mainpaige.
+>>> 
+
+>>>> **u/RemusShepherd** [+4] *
+>>>> 
+>>>> I've been meaning to put up a entry page.  Thanks for reminding me, I might get that done.  I didn't know that anybody still cared.  :)
+>>>> 
+
+>>>>> **u/SvalbardCaretaker** [+2]  *Mouse Army**
+>>>>> 
+>>>>> "The only way to kill an idea is to kill all the people who hold it"  :-)
+>>>>> 
+
+>> **u/edwardkmett** [+3] *
+>> 
+>> > Genocide Man
+>> I just binged through this one. Well worth the read.
+>> 
+
+>>> **u/SvalbardCaretaker** [+3]  *Mouse Army**
+>>> 
+>>> I totally forgot to link to http://archives.erfworld.com/Book%201/1 - our protagonist gets dropped into a game-like world that runs on "turns" and hexes and exploits the heck out of it. Books 1/2 completed.
+>>> 
+
+> **u/everything-narrative** [+20]  *Coral, Abide with Rubicon!**
+> 
+> If the framework is medieval infantry warfare, a world that runs partially on narrativium, and international politics, then _A Practical Guide to Evil_ is a good one.
+> If the framework is industrial (and social) revolution as a weapon against a literal Zombie apocalupse, then _A Hero's War_ is a good call.
+> 
+
+>> **u/Noumero** [+8]  *Self-Appointed Court Statistician**
+>> 
+>> OP stated that "strong professional writing is a must". For all that *A Hero's War* has a fascinating plot, its writing is pretty clunky, which I think should be noted.
+>> 
+
+>>> **u/everything-narrative** [+4]  *Coral, Abide with Rubicon!**
+>>> 
+>>> I'd say there was some pacing issues, but I didn't notice the writing being 'clunky.'
+>>> 
+
+>> **u/josephwdye** [+3]  *I love you**
+>> 
+>> A Hero's war is so good! I would say it's one my favorite reads so far this year.
+>> 
+
+>> **u/themousehunter** [+3]  *Sunshine Regiment**
+>> 
+>> Seconding Practical Guide to Evil as a rec! Love it
+>> 
+
+>> **u/Ardvarkeating101** [+3]  *Father of Learning**
+>> 
+>> I fucking fucking fucking fucking fucking fucking hate hate hate hate hate hate hate you.  I'm on chapter 87 and I started yesterday and I have a paper due Sunday fuck fuck fuck fuck fuck
+>> 
+
+>>> **u/everything-narrative** [+3]  *Coral, Abide with Rubicon!**
+>>> 
+>>> you: academics is hard
+>>> me: git gud
+>>> 
+
+>> **u/I_Hump_Rainbowz** [+1] *
+>> 
+>> DO NOT READ A HEROS WAR! The author stopped updating it. It has been like 2 years since a chapter and it is such a shame because it was so good.
+>> 
+
+>>> **u/thrawnca** [+4]  *Carbon-based biped**
+>>> 
+>>> Actually there was an update in June.
+>>> But yeah, it seems to be mostly inactive.
+>>> OTOH, the OP mentioned liking HP and the Natural 20, which is quite dead.
+>>> 
+
+>>>> **u/Green0Photon** [+7]  *Student in Cyoria, Minmay, and Ranvar**
+>>>> 
+>>>> I pm'd him a little more than a month ago and he said that he was working on the next Morey interlude, but was having writers' block. He said that he would give up on the interlude if he couldn't get anywhere and move on, at which point the normal plot would move faster. He was hoping to move on in about a month, so he should resume updating pretty soon, I'd think.
+>>>> 
+
+>>>>> **u/Ardvarkeating101** [+2]  *Father of Learning**
+>>>>> 
+>>>>> I pray we aren't facing a repeat of their culture vs. 40k crossover, The Mysterious Case of the Astronomicon was enough blue balls for one lifetime.
+>>>>> 
+
+>>>>> **u/Ardvarkeating101** [+2]  *Father of Learning**
+>>>>> 
+>>>>> Double checked, she says she'll be back to her regular schedule in a week or two
+>>>>> 
+
+> **u/EliezerYudkowsky** [+11]  *Godric Gryffindor**
+> 
+> "Worth the Candle" is pretty high on the list of things I've binged recently, but you've already read that, alas.  If you didn't say you were against xianxia I would have recommended "Forty Millenniums of Cultivation" which is pretty much the *Tengen Toppa Gurren Lagann 40K and the Methods of Rationality* fic that the margins of HPMOR Ch. 64 were too small to contain, except that it's more "The Methods of Economics and Engineering" that are creeping in around the sides of the xianxia cliches.  "The Erogamer" (requires login, very NSFW) has some of the same actually-thinking-about-the-implications as "Worth the Candle", plus the author is into either stats or ML and sometimes throws in math easter eggs or references.  It happens to be randomly true that I've been rereading "Alchemical Solutions" (the wormfic) which might not be too far off the theme of your list.  In case you weren't already on notice, ShaperV aka E. William Brown, the author of Time Braid, has an original SF book "Perilous Waif".
+> 
+
+>> **u/MultipartiteMind** [+14] *
+>> 
+>> (Minor thoughts.)
+>> After reading through the first 97 chapters of 'Forty Millenniums of Cultivation', chapter 79's “Amiableness is Amiableness. Happiness is happiness. Blazing flames are flames. But Dreams… aren’t something that can be sold!" was surprising and refreshing, the main character choosing the route of greatest utility and engineering-knowledge-acquisition even in the face of hotbloodedness, friendship, and the dramaticness of slaughter.  Making the choice that was right for him, rather than taking the easier route of smooth interpersonal relationships.
+>> At the same time, I had an unhappy worry that this would turn out to be lip service, and that the narrative would forcefully push him to the path in conflict with those values he'd chosen (and in favour of friendliness and hotbloodedness), after token resistance.
+>> As part of in parallel with the feared pushing, the interpersonal side of the chosen path went to extreme lengths to throw its face away as far as possible, making itself as unattractive as possible.
+>> The true finally-followed path, revealed in chapter 97, did not make me happy.
+>> I must now (rant about/)paraphrase conversations from a completely different author!
+>> ---
+>> "Hey, there's an opportunity for violence and conflict!  Are you going to join in?"
+>> "No, for I am a noble soul, and would far prefer spending the time with my loved ones here.  I have chosen that I will not be going."
+>> "Ooh, ooh, here are now some random reasons that you can't avoid going!"
+>> "Oh well.  VIOLENCE AHOY!"
+>> [Repeat x2-20]
+>> ---
+>> Specific plotthread (Coiling Dragon):
+>> "Only two more Macguffins and you can reach your special level to become more powerful than anyone ever, something that you've always dreamed of!"
+>> "Yes!  I long for it so much!"
+>> "Okay, now you've gotten one, just one more to go!  Then you can finally attain what you've always dreamed of!"
+>> "No, no...  I would have to choose someone to kill in order to take the last Macguffin I need, so I'm just going to shelve that whole idea."
+>> "Okay, now there's someone here who viciously hates your guts and is part of a group trying to kill you and your loved ones, and he also has a Macguffin you need!  Are you going to get his Macguffin?"
+>> "No, no...  no call for violence, it would be so uncouth to raise my hand against him."
+>> "Hey!  You went up against the final boss with only half-baked incomplete power, and now he's going to kill you--"
+>> "QUICK QUICK I HAVE TO QUICKLY KILL SOMEONE FOR THEIR MACGUFFIN!"
+>> _"I am the final boss.  I am responsible for all the worst unnecessary misery and suffering and torment that you have experienced.  If you kill me normally, I will die tormented and regretful, my dearest wish unfulfilled, and you will finally have delivered true punishment, or vengeance, or whatever.  If you instead use your full power to kill me, I will die completely happy and satisfied, thinking 'All those horrible things I did?  Worth it!'.  Will you make me happy?"_
+>> "Yes.  Yes, fulfilling your dearest wish--which you did horrible things to my loved ones for--and making you happy is a worthwhile thing to do.  In fact, it's so worthwhile I'm even going to kill lots of non-complicit bystanders too with the power of this strike, and not display even a moment of guilt or regret, despite my earlier words about not killing even one murderous enemy for his Macguffin that would bring me to my own desired heights of power."
+>> _"Joy!"_
+>> -----
+>> Edit:  ...Ahh, and more memories...
+>> "...And then, for personal benefit, I slaughtered an entire family, including the elderly and weak and babies, every single one I could find."
+>> "Meh, it happens.  Morally neutral thing, in the world we live in."
+>> "Oh, and though you never had any interactions with them or knew anything about them, it turns out you shared some of their genes."
+>> "YOU ARE PURE EVIL AND MUST BE PUT TO JUSTICE FOR YOUR CRIMES!"
+>> 
+
+>> **u/SaintPeter74** [+5] *
+>> 
+>> I can also recommend E. William Brown's other quasi-LitRPG series starting with [Fimbulwinter (Daniel Black, #1) ](https://www.goodreads.com/book/show/22500562-fimbulwinter).  It's got a bit of sex and a harem, but is otherwise an engrossing bit of fun.
+>> 
+
+>>> **u/TwoxMachina** [+4] *
+>>> 
+>>> On a related note, I recommend E. William Brown's Alice Long series, with Perilous Waif (1 only so far).
+>>> Quite fun, and different from his other series, no sex.
+>>> 
+
+>>>> **u/celeritatis** [+2] *
+>>>> 
+>>>> It's not what I would call "strong professional writing", but nothing OP listed that I've read meets my standards for that, so it may be worth ignoring me.
+>>>> Fimbulwinter and sequels are particularly great for the "Protag builds things, works with others, doesn't completely ignore potential allies, etc" feeling that is missing from so much. It's particularly bad if you mind stunningly blatant self-inserts that the author doesn't seem to realize aren't subtle at all.
+>>>> 
+
+>>>>> **u/vorpal_potato** [+1] *
+>>>>> 
+>>>>> The OP gave wuxia and light novels as examples of not-strong-professional-writing, so let me illustrate what that means with a random snippet from [a good light novel](https://www.baka-tsuki.org/project/index.php?title=Mushoku_Tensei):
+>>>>> > This is the kind of grassland that stretches towards the horizon.
+>>>>> > No, at the furthest one can barely see some hints of a mountainous area.
+>>>>> > At least this scenery can't be seen in Japan.
+>>>>> > It gives me a feeling that there is a place like this in a textbook, like the Mongolian grasslands.
+>>>>> > "It should be fine if we are here."
+>>>>> > Roxy directs the horse to a lone tree and ties the reins onto it.
+>>>>> > Then she carries me down from the horse.
+>>>>> > We are finally face-to-face.
+>>>>> > "I'm going to use the saint ranked water attack magic, Cumulonimbus. This technique is a magic that creates lightning strikes with violent rain."
+>>>>> > "Yes."
+>>>>> > "Please copy what I do."
+>>>>> > Using a saint ranked water magic.
+>>>>> > So it is this. The content of the final test.
+>>>>> > Roxy is about to use her biggest spell. If I'm capable of learning it, she will not have anything more to teach me. [...]
+>>>>> Perilous Waif is probably much closer to what you're thinking of, even if it doesn't quite meet your standards of prose quality.
+>>>>> 
+
+>>>>>> **u/baroqueSpiral** [+1] *
+>>>>>> 
+>>>>>> Japanese light novels have a style that tends to sound very conversational, understandably given their influences.
+>>>>>> All the xianxia I've glanced at, including Cultivation 40K, has what translates as a kind of oddly and repetitively stylized purple prose, but maybe sounds completely normal in Chinese.  
+>>>>>> Don't speak enough of either language to say for sure but translation quality standards seem slightly higher with JLNs, which might have something to do with the smaller number of translations and slower release schedules.
+>>>>>> 
+
+>> **u/mojojo46** [+1] *
+>> 
+>> Is Perilous Waif any good? I've got it on my Kindle, but had trouble getting past the first chapter due to lack of engagement.
+>> 
+
+>> **u/nolrai** [+1] *
+>> 
+>> And I would say while less crazy, it is over all much better then his fanfic.
+>> 
+
+> **u/Fredlage** [+11] *
+> 
+> One story I have enjoyed a lot lately, though I wouldn't call it rational per se, is [Everybody Loves Large Chests](http://royalroadl.com/fiction/8894/everybody-loves-large-chests).
+> The story features a very consistent system, and a main character that starts very weak (physically and mentally) and gets progressively smarter and stronger in a believable way. It is also rather funny.
+> As should be apparent from the link, the story has quite a lot of NSFW content. In fact, there are a couple of interludes early on that can be pretty much skipped if one isn't interested in smut but, after reader complaints, the author reduced the amount of sex significantly.
+> 
+
+>> **u/josephwdye** [+5]  *I love you**
+>> 
+>> Maybe i'll give it another go! all the smut was a bit of a turn off.
+>> 
+
+>>> **u/Fredlage** [+3] *
+>>> 
+>>> If memory serves, from the Gainful Employment arc onwards the amount of smut decreases significantly. There is still the occasional sex scene, but they're shorter and much more spaced out.
+>>> 
+
+> **u/lsparrish** [+5] *
+> 
+> [Oh This Has Not Gone Well](https://www.reddit.com/r/HFY/comments/61ya08/oh_this_has_not_gone_well/) if you like HFY stuff. (Has some NSFW content.)
+> 
+
+>> **u/generalamitt** [+2] *
+>> 
+>> Thanks, I checked everyone's suggestions and this was the only story I hadn't tried before and that actually interested me. I should have included a more complete list of the things I have already tried.
+>> 
+
+>>> **u/FordEngineerman** [+3] *
+>>> 
+>>> It's only somewhat rational though and the last third of it or so is starting to follow a lot of common anime tropes. I like it anyway.
+>>> 
+
+>>> **u/mojojo46** [+2] *
+>>> 
+>>> I read the first 35 chapters or so, and while it kept my interest for a while, I feel like it really falls apart or maybe just never really comes together. Personally, I'd give it a miss.
+>>> 
+
+> **u/detrebio** [+7] *
+> 
+> Liked HPMOR? Try Significant Digits. It builds into the characters set by EY and expands a lot into the world, when the rational Hogwarts trio are young adults.
+> I consider it a canonical continuation, as it doesn't change Yudkowsky's version, is extremely good and rounds up some loose threads of the original HPMOR quite nicely
+> 
+
+> **u/CouteauBleu** [+4]  *We are the Empire.**
+> 
+> [The Moon's Apprentice](https://www.fimfiction.net/story/196256/the-moons-apprentice). It's very HP:MoR-ish, and centered about the protagonist trying to become a God, so I think it fits your itch pretty well. The writing goes from meh to pretty good, and is overall pretty strong.
+> On the other hand, it's pretty dark and depressing; the protagonist is bitter and self-destructive in some ways, and her quest isn't exactly motivated by healthy reasons. Still worth a try.
+> [Prequel Adventure](http://www.prequeladventure.com/) The story can be extremely depressing, not in the "Holy shit this character I liked just died" way, but in a way that hits very close to home. Like, "Holy shit, this girl is a loser, I am really not comfortable with how much like her I am". The characters builds herself up, in the sense that she starts at the bottom of the barrel, with nowhere to go but up.
+> The moments where Katia does get her wins feel like some of the most moments I've felt from any work of fiction. This is a story that tells you something about yourself, and in a twisted way, gives you hope for the future.
+> 
+
+>> **u/nerdguy1138** [+3]  *GNU Terry Pratchett**
+>> 
+>> [A Mark of Appeal](https://www.fimfiction.net/story/131321/a-mark-of-appeal)  
+>> If you happen to be into MLP FiM, this dives deep into the nature of Marks, and how that affects the culture. It's also a character study on the ruling princesses.
+>> Completed several years ago, part of a larger universe, consistent magic system. No grammar problems, solid writing.
+>> 
+
+> **u/Cariyaga** [+6]  *Kyubey did nothing wrong**
+> 
+> I thoroughly recommend the quest, [Marked for Death](https://forums.sufficientvelocity.com/threads/marked-for-death-a-rational-naruto-quest.24481/), personally. It's set in the Naruto universe and written by our own eaglejarl, Velorien, and OliWhail.
+> 
+
+> **u/monkyyy0** [+3] *
+> 
+> Pact; its has a smaller cast then worm making it more manageable
+> 
+
+>> **u/None** [+8] *
+>> 
+>> [deleted]
+>> 
+
+>>> **u/Zysek** [+4] *
+>>> 
+>>> It's worth saying that reading Pact can be *very* frustrating. The protagonist makes intelligent, rational choices (maybe not the best choices, but reasoned and rational nonetheless) and everything just seems to get worse for him. Ad infinitum.
+>>> It's frankly depressing. Fitting, perhaps, considering the universe it's set in, but reading "*And then it got worse*" every single chapter gets tiring and boring quick. Or at least it did for me, I know many people liked it, though it didn't have nearly the same acclaim Worm had.
+>>> 
+
+>>>> **u/Amonwilde** [+1] *
+>>>> 
+>>>> I'm not sure about the reasonable and rational choices. He doesn't read any of the super-duper books in the library, chooses weak or nonsensical people for his team, endangers his friends repeatedly, and turns down badly needed help whenever it's offered. He survives every encounter with plot armor and should really just have died about a hundred times over.
+>>>> 
+
+>>>>> **u/Zysek** [+1] *
+>>>>> 
+>>>>> Considering his ignorance on the supernatural and the fact that some threats (especially demons) have really esoteric ways of getting at you, I don't exactly blame him for not reading the "super-duper" books in the library. There's also the fact that as far as I can remember (it's been a couple years since I read Pact) he had basically no allies and almost everybody was out for his head.
+>>>>> I am not saying he made the best or most optimized choices, but neither did he choose stupid things (most of the time). Actually, the point of my comment was to warn about the fact that regardless of his choices, he only survives each encounter by sacrificing something.
+>>>>> Much like Worm, I would say it suffers from a pacing problem, with no time to unwind and relax and a protagonist that simultaneously has both plot armor and heaps of suffering piled upon him.
+>>>>> 
+
+>>>>>> **u/Amonwilde** [+1] *
+>>>>>> 
+>>>>>> Kind of agree with most of your points, though these events were still frustrating to read. But going after the thing in the warehouse at his current power level made no sense. Been awhile, but I recall a few other points where I was really scratching my head. Too bad, because the cosmogony and many of the characters were great.
+>>>>>> 
+
+> **u/serge_cell** [+3] *
+> 
+> There is a plenty of good quality and more or less rational Worm fanfiction, some of wich is not dissimilar to "Worth the Candle", but it  wouldn't make sense without reading original.
+> 
+
+> **u/IgonnaBe3** [+2] *
+> 
+> You dont like xianxia or wuxia but you like savage divinity ?
+> i mean doesnt it like gets its inspiration from those genres and LNs. Its also extremaly "wishfulfilly" but i didnt read it after 100 or so chapter so i wont judge too much
+> I would also recommend "A Practical Guide to Evil" as many others have tried before me
+> edit: I would also recommend "Void Domain" although it isnt really rational but i enjoyed it greatly with the exeption of the latest arc i guess but its still good.
+> 
+
+>> **u/OutOfNiceUsernames** [+2]  *fear of last pages**
+>> 
+>> Do you know any good ~~xianxia wuxia~~ Asian webnovels?
+>> 
+
+>>> **u/IgonnaBe3** [+3] *
+>>> 
+>>> Not really. I have a particular hate of wishfulfillment xianxia wuxia xuan huan and harem Light Novels( they dont need to be harem but they usually are...)
+>>> I just dont like powertrip fantasy wishfulfillment, in fact i despise it with hate. Thats why i try to not read things from /r/noveltranslations nowadays. 
+>>> There are always classic Light Novel that i very much recommend tho like Bakemonogatari and the monogatari series. Katanagatari too(i separate series by the same author). I would tell you more but my knowledge is failing me. If you stick to the classics then you rather wont meet any wishfulfillment power trips.
+>>> 
+
+>>>> **u/sneakpeekbot** [+2] *
+>>>> 
+>>>> **Here's a sneak peek of /r/noveltranslations using the [top posts](https://np.reddit.com/r/noveltranslations/top/?sort=top&t=all) of all time!**
+>>>> \#1: [Upvote to Ban Qidian](https://np.reddit.com/r/noveltranslations/comments/6pndj4/upvote_to_ban_qidian/)  
+>>>> \#2: [\[CN\] I Shall Seal the Heavens - Book 10 ~ Chapter 1614 { FIN }](https://np.reddit.com/r/noveltranslations/comments/6kr514/cn_i_shall_seal_the_heavens_book_10_chapter_1614/)  
+>>>> \#3: [\[CN\] Coiling Dragon - Book 21, Chapter 44](https://np.reddit.com/r/noveltranslations/comments/3u1zuf/cn_coiling_dragon_book_21_chapter_44/)
+>>>> ----
+>>>> ^^I'm ^^a ^^bot, ^^beep ^^boop ^^| ^^Downvote ^^to ^^remove ^^| [^^Contact ^^me](https://www.reddit.com/message/compose/?to=sneakpeekbot) ^^| [^^Info](https://np.reddit.com/r/sneakpeekbot/) ^^| [^^Opt-out](https://np.reddit.com/r/sneakpeekbot/comments/6l7i0m/blacklist/)
+>>>> 
+
+> **u/ZeCatox** [+5] *
+> 
+> How come no one mentioned [The Arithmancer](https://www.fanfiction.net/s/10070079/1/The-Arithmancer) ?
+> 
+
+>> **u/Ardvarkeating101** [+4]  *Father of Learning**
+>> 
+>> The protagonist becomes a mary sue in the sequel, about the time the entire casts get a lobotomy at the start of the war.
+>> 
+
+>>> **u/ZeCatox** [+1] *
+>>> 
+>>> lobotomy ? How so ?
+>>> 
+
+>>>> **u/Ardvarkeating101** [+6]  *Father of Learning**
+>>>> 
+>>>> "Hey, there's a system that makes enemy troops appear every time we say a word"
+>>>> "That's terrible, now we can't say that word"
+>>>> "Yeah, and though someone suggested we use it as an ambush, we won't because..... they don't always do the same stuff I guess?  I mean, I'm a magical genius coming up with spells every other day, but a simple landmine is too much thought for my pretty little head.  Oh, and if we ever capture a death eater, we should just let them go instead of killing, crippling, mind wiping, or mind controlling them."
+>>>> "That's a great idea Mary, it's not like we fought an incredibly bloody war 20 years ago and are now suffering the consequences of not murdering them when we had the chance.  Also, I love you!"
+>>>> "Neat!  Take a number."
+>>>> 
+
+>>>>> **u/ZeCatox** [+0] *
+>>>>> 
+>>>>> I'm not sure I can see where's the lobotomy here... Most HP characters have always been against dark/lethal/gruesome methods.
+>>>>> So basically she's a mary sue that... makes mistakes ? Kind of a paradox, huh ?
+>>>>> Also, I don't remember which death eater they captured and released... ?
+>>>>> 
+
+>>>>>> **u/thrawnca** [+3]  *Carbon-based biped**
+>>>>>> 
+>>>>>> > makes mistakes
+>>>>>> Not any that actually *matter*, though. Almost everything bad that happens in Lady Archimedes is fixed in the following chapter, sometimes approaching retcon levels.
+>>>>>> 
+
+>>>>>>> **u/Ardvarkeating101** [+2]  *Father of Learning**
+>>>>>>> 
+>>>>>>> Not to mention that anyone who  criticizes her is either treated as or OOC stupidly wrong.  Mary Sue's make mistake, it's just that everyone who calls them out for it are considered "wrong"
+>>>>>>> 
+
+>>>>>>> **u/ZeCatox** [+1] *
+>>>>>>> 
+>>>>>>> I just read the recent chapter 58 to see how the last one went and... indeed, that got sorted out quite easily (though most of it does seem to make sense to me) and I guess I can see how you could find some elements approaching "retcon levels" (thanks, I didn't know this word :)
+>>>>>>> I don't know... Her struggling has always felt real enough to me...
+>>>>>>> Maybe I don't have the right definition of what a mary sue is...
+>>>>>>> 
+
+>>>>>> **u/Ardvarkeating101** [+1]  *Father of Learning**
+>>>>>> 
+>>>>>> Everyone they got saying his name in the ritual thing, both times they just let go
+>>>>>> 
+
+>> **u/thrawnca** [+2]  *Carbon-based biped**
+>> 
+>> I'm not sure that the magic system is really all that well established...though I did enjoy the story.
+>> 
+
+>>> **u/ZeCatox** [+2] *
+>>> 
+>>> Oh ? I find those systems pretty well thougth and explored. The mathematical aspect behind the creation of spells, the runes, the stones lay lines, the rituals... the way Hermione has to hack those down and invent from seems to me to be a core of the story.
+>>> 
+
+>>>> **u/thrawnca** [+4]  *Carbon-based biped**
+>>>> 
+>>>> > The mathematical aspect
+>>>> Yes and no. The mathematical concepts in the story may be real enough, but the application of them feels a bit like Captain Picard giving orders to "adjust shields to compensate for the instability."
+>>>> It's definitely a step - several steps - up from canon, and book 1 felt reasonably well balanced. The sequel is where I really get a Hermy Sue vibe.
+>>>> 
+
+>>>>> **u/ZeCatox** [+0] *
+>>>>> 
+>>>>> > Hermie sue
+>>>>> Well, while she is extremely powerful/competent,  
+>>>>> - hints where given that she may have to deal with how she frightens her own friends,  
+>>>>> - she is not perfect and do make mistakes,  
+>>>>> - her adversaries are competent enough to adapt to her own advancements.
+
+>>>>> > mathematical aspect
+>>>>> Well, for someone who isn't too versed in mathematics (which I like but didn't study), I'd say the presentation makes enough of an illusion to not break my suspension of disbelief ^^
+>>>>> 
+
+>>>>>> **u/Ardvarkeating101** [+2]  *Father of Learning**
+>>>>>> 
+>>>>>> >  - her adversaries are competent enough to adapt to her own advancements.
+>>>>>> HA!  Voldemort was in control of the in ministry and gave her a fucking apparition license.  How is that in any way competent?
+>>>>>> 
+
+>>>>>>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>>>>>> 
+>>>>>>> I'm pretty sure she is not licensed to combine magical transportation with intimate relations.
+>>>>>>> 
+
+>>>>>>> **u/ZeCatox** [+1] *
+>>>>>>> 
+>>>>>>> Well, I was more referring to "technical competence" than anything strategic or something like that. Rookwood's ability to reverse engineer her spells being the main thing I had in mind.
+>>>>>>> 
+
+>>>>>>>> **u/Ardvarkeating101** [+2]  *Father of Learning**
+>>>>>>>> 
+>>>>>>>> So he himself is retarded, but he has at least a single technically competent minion.  That's not exactly rational or a good story make.
+>>>>>>>> 
+
+>>>>>>>>> **u/ZeCatox** [+1] *
+>>>>>>>>> 
+>>>>>>>>> So if I follow you correctly :  
+>>>>>>>>> - making one mistake, like not thinking of some solution, or not being able to put in in application for lack of sufficient control of the environment (he controls the ministry, but that's clearly still a long way from an official situation : it's reasonable to consider the possibility that he doesn't have *full* control over it) makes someone... retarded ?  
+>>>>>>>>> - "retarted" main characters will prevent any story from being rational ?
+>>>>>>>>> I thought the rational aspect of a story applied on a story rather than its characters, the idea being that what goes on makes sense if you consider the knowledge and intellectual capabilities of those who make choices.
+>>>>>>>>> Hermione (and by extension, Voldemort too) making mistakes here and there isn't necessarily completely nonsensical.  I don't remember how the letting go of death eaters happened exactly, so I can't comment on this, but the other mistakes I can think of right now (the quite recent "Dobby could have teleported us" and the very recent "Oops, I teleported myself in the middle of a war zone") seem to me quite forgivable/understandable... unless she has to be perfect, in which case she would indeed be an mary sue... So it's hard to follow really : how can she be too perfect and not good enough in your opinion at the same time ?
+>>>>>>>>> 
+
+>>>>>>>>>> **u/Ardvarkeating101** [+3]  *Father of Learning**
+>>>>>>>>>> 
+>>>>>>>>>> > Hermione (and by extension, Voldemort too) making mistakes here and there isn't necessarily completely nonsensical. I don't remember how the letting go of death eaters happened exactly, so I can't comment on this, but the other mistakes I can think of right now (the quite recent "Dobby could have teleported us" and the very recent "Oops, I teleported myself in the middle of a war zone") seem to me quite forgivable/understandable... unless she has to be perfect, in which case she would indeed be an mary sue... So it's hard to follow really : how can she be too perfect and not good enough in your opinion at the same time ?
+>>>>>>>>>> My problem is both sides have an enormous number of options for quickly and decisively ending the other.  None are used because they apparently suffered partial lobotomies.  Hermione make reasonable mistakes and is disproportionately harped on, and everyone is shown to be in the wrong for criticizing her.  When she does something stupid "we can't use ambush tactics against the murderers, torturers, and rapists, as that would be wrong" no one calls her out on it.  This is war.  People are tortured to death by an enemy that they are **letting go**.  Someone being treated as perfect and/or being hated for no reason just to show what a fucking martyr they are when there are perfectly rational reasons to hate them makes them a Mary Sue.
+>>>>>>>>>> > I thought the rational aspect of a story applied on a story rather than its characters, the idea being that what goes on makes sense if you consider the knowledge and intellectual capabilities of those who make choices.
+>>>>>>>>>> You mean that most of the characters have pretty much no agency, just sitting there waiting for Hermione to do stuff for them?  Because since Dumbledore died that seems to be the role of almost everyone.
+>>>>>>>>>> 
+
+>>>>>>>>>>> **u/ZeCatox** [+1] *
+>>>>>>>>>>> 
+>>>>>>>>>>> Well, I must say that the lack of agency of most characters is real, to be honest.  
+>>>>>>>>>>> Yet "lobotomy" still seems a strong word to me...
+>>>>>>>>>>> Now, how I remember the ambush thing : the enemy wouldn't fall for it unprepared more than one or two times ; and consequently, that would jeopardize their ability to perform it in the near future, so they should try to wait some time between rituals.
+>>>>>>>>>>> I'll have to keep those points in mind (especially the "letting go" one) when I decide to go for a second read of this story ;)
+>>>>>>>>>>> Side note : last chapter I was surprised to see Ron basically proposing to hunt and kill death eaters and even more surprised that it got a non offended answer (roughly "well, absolutely but let's be careful, 'kay ?")  
+>>>>>>>>>>> A position I can't imagine this Hermione sharing exactly : she knows that she will have to kill at some point (and that she most certainly did it in the heat of the moment recently) but I'm pretty sure she would rather avoid doing so if she could. Moral dilemma don't always have to make logical sense.  
+>>>>>>>>>>> What I mean here is those other characters do seem to have a bit of free will... maybe ?
+>>>>>>>>>>> 
+
+>>>>>>>>>>>> **u/Ardvarkeating101** [+1]  *Father of Learning**
+>>>>>>>>>>>> 
+>>>>>>>>>>>> > Now, how I remember the ambush thing : the enemy wouldn't fall for it unprepared more than one or two times ; and consequently, that would jeopardize their ability to perform it in the near future, so they should try to wait some time between rituals.
+>>>>>>>>>>>> I don't understand how someone could keep reading after such a stupid line of "logic"
+>>>>>>>>>>>> On Ron, no.  Note they literally ask her permission to do stuff.  She is costing them the war with her stupid "ethical" hangups.  SD Harry could fight a war like that because he fucking prepared alternatives, had places to keep captives, and was willing to kill if necessary.  LA Hermione is a hippie in the holocaust
+>>>>>>>>>>>> 
+
+>>>>>>>>>>>>> **u/ZeCatox** [+1] *
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> Well, I don't really see how that line of logic is "stupid" but... oh, well...
+>>>>>>>>>>>>> On Ron, neither :)  
+>>>>>>>>>>>>> My perception was certainly not that they were asking her permission for anything : more like discussing the matter together. Especially the one I mentionned : Ron asks about killing death eaters, and it's his father who replies to him. Hermione doesn't intervene at all in that part of the discussion.  
+>>>>>>>>>>>>> Now the adults seem keen on giving leadership to their kids, I'll give you that.
+>>>>>>>>>>>>> ----
+>>>>>>>>>>>>> Also : "SD Harry" ?
+>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>> **u/Ardvarkeating101** [+1]  *Father of Learning**
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> Significant Digits Harry
+>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>> **u/ZeCatox** [+1] *
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> Oh, I didn't read that one yet.  
+>>>>>>>>>>>>>>> Well, I like Harry Potter-Evans-Verres, but it's hard to humanly/realistically relate to the character. I mean, if it weren't for the intelligence boost given to basically everyone in the cast that goes way beyond the point of making them "not stupid", this Harry would be quite a mary sue of his own kind.  
+>>>>>>>>>>>>>>> (but again, I may not have exactly the same understanding of that term : to me, a character too perfect making problems non existent, being used to solve them in a deus ex machina fashion, or making the story uninteresting when used as a main character)
+>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>> **u/Ardvarkeating101** [+1]  *Father of Learning**
+>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> A Mary Sue is someone who is perfect *to the author.*. Who never makes mistakes according to the author, who only gets in trouble because of unreasonable people being unreasonably harsh.  
+>>>>>>>>>>>>>>>> A Mary Sue is usually a "genius" to gain these traits, but a genius fighting other geniuses is a more even playing field than a Sue is comfortable with, since it's possible for them to lose
+>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>> **u/ZeCatox** [+1] *
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> "to the author"
+>>>>>>>>>>>>>>>>> \* checks definitions around \*
+>>>>>>>>>>>>>>>>> oh, well... huh... nope...  
+>>>>>>>>>>>>>>>>> The "author" part of those definitions is basically about how a Mary-Sue is generally a self representation of the author, nothing being said about that author believing or not that this character is perfect or not (which in itself would be saying quite a lot about that writer)
+>>>>>>>>>>>>>>>>> The notion of "too perfect" is brought, though, and I'm not sure I can see how an author would wish (aside from writing a parody) to make a character or story "too much" something. The pejorative aspect of the term speaks for itself.
+>>>>>>>>>>>>>>>>> So... Hermione doesn't think of trying to use elf magic to apparate in the horcrux cavern because of... nobody. She just dismissed the idea by herself when she thought about it... I don't see how the author could be willing to let her make such mistake if he or she wanted her to be perfect.
+>>>>>>>>>>>>>>>>> Hermione jumps in the middle of a battle like a noob : that is so perfect... right ?
+>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>> **u/Ardvarkeating101** [+1]  *Father of Learning**
+>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> > So... Hermione doesn't think of trying to use elf magic to apparate in the horcrux cavern because of... nobody. She just dismissed the idea by herself when she thought about it... I don't see how the author could be willing to let her make such mistake if he or she wanted her to be perfect.
+>>>>>>>>>>>>>>>>>> So she can be shit on for making a reasonable mistake, thus making her a martyr.  To silence the critics who called her stupid for his various other stupid actions saying "see, she's not perfect!  I made her forget something once!"  To make her more a self-insert Mary Sue.
+>>>>>>>>>>>>>>>>>> Suffering heroically for reasonable or minor mistakes is totally in keeping with a Mary Sue.
+>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>> **u/ZeCatox** [+1] *
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> So, as I was saying previously, she's not allowed to make mistakes, but when she does, that's still wrong :P
+>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>> **u/Ardvarkeating101** [+1]  *Father of Learning**
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> Reasonable mistakes and suffering heroically for it, yes.  Mary Sue.
+>>>>>>>>>>>>>>>>>>>> 
+
+> **u/SaintPeter74** [+2] *
+> 
+> I've read (and enjoyed) almost everything you listed.
+> If you like "The Good Student", you may also enjoy Mooderino's other two stories:  
+> [How to Avoid Death on a Daily Basis](http://gravitytales.com/novel/how-to-avoid-death-on-a-daily-basis) - It's an atypical portal fantasy.  The main character is a selfish asshole, but in a good way.  Can't say if it's especially rational, but it is a heck of a lot of fun.
+> [Bitter](https://royalroadl.com/fiction/10293/bitter) - An atypical LitRPG story with a (refreshingly) female non-gamer as a main character.  Lots of fun as he explores the idea that it's a game . . . some of the the worst excesses of game companies.  Certainly rational-adjacent.
+> 
+
+>> **u/Adeen_Dragon** [+3] *
+>> 
+>> Female and he? Honest mistake, or gender-fluid protagonist?
+>> 
+
+>>> **u/SaintPeter74** [+5] *
+>>> 
+>>> In this case I meant He = Mooderino, the author.  More a meta level commentary on the themes of the story, not what the MC does/is.
+>>> As far as I know the MC is cis female, but there are no relationships, as such, in the story so far.
+>>> 
+
+>>>> **u/Adeen_Dragon** [+1] *
+>>>> 
+>>>> Ok, that makes sense. 
+>>>> I suppose my confusion stemmed from the fact that I just assume that the characters would question the narrative. I assume that step zero in every Saturday Munchkin thread is "Who else suddenly has super powers?"
+>>>> Of course, that isn't the default, and it's my fault for thinking it was.
+>>>> 
+
+>> **u/generalamitt** [+1] *
+>> 
+>> How is the comedy and romance in HTADODB?
+>> 
+
+>>> **u/SaintPeter74** [+2] *
+>>> 
+>>> > How is the comedy and romance in HTADODB?
+>>> The humor is VERY dry and self deprecating.  I frequently laugh out loud at it, though.  It's almost a parody/farce as everyone around the MC tries to do the tropey thing while he face palms.  
+>>> There is mild sex and arguably romance, but it's not particularly romantic.  The MC is a misanthrope who has a hard time accepting affection.
+>>> 
+
+> **u/Calsem** [+2] *
+> 
+> I would highly reccomend [crystal society.](http://crystal.raelifin.com/society/ChapterOne).  It's a very interesting take on AI that I've never seen before.
+> 
+
+> **u/Zysek** [+1] *
+> 
+> I see we have a similar taste in fiction. I've been in a wuxia/xianxia kick lately, but it's very hard to find anything readable, all translated LN I've found are trash. 
+> If you liked the Cradle series and Savage Divinity, you'll probably enjoy [Forge of Destiny](https://forums.sufficientvelocity.com/threads/forge-of-destiny-xianxia-quest.35583/). It's a xianxia quest currently being written on Sufficient Velocity. If you haven't seen a forum quest before it's something like a choose your own adventure story where everyone who has an account on the forum can vote on the options the author gives after each "chapter" or update. As sufficient velocity's (and it's sister forums: spacebattles and QuestionableQuesting (NSFW)) userbase tends to act mostly rational it's very enjoyable.
+> It's worth reading it one the forum just to see the discussion and thoughts behind the choices, but if you prefer to read in a ebook like me I'll leave a fairly up to date version in epub [here](http://www120.zippyshare.com/v/DcMKrdro/file.html).
+> 
+
+>> **u/nolrai** [+1] *
+>> 
+>> https://www.amazon.com/Unsouled-Cradle-Book-Will-Wight-ebook/dp/B01H1CYBS6 and sequels is very Xania, but has actually relatable characters, and is English original.
+>> I think his previous series is good too but might be getting authors confused.
+>> 
+
+> **u/tomcatfever** [+1] *
+> 
+> You should look at the d&d [appendix n.](http://www.digital-eel.com/blog/ADnD_reading_list.htm)
+> From there, I'd highly recommend Fritz Leiber's Farfrd and The Grey Mouser series.  Starting with *Swords And Devilry*.
+> Leiber is (perhaps) the originator of the trope Swords and Sorcery, Thieves (Adventures) Guilds, and basically the whole modern concept of humorous fantasy (L. Sprague de Camp's *Complete Compleat Enchanter* came later).
+> Gary Gygax based huge amounts of AD&D on Leiber's works.  Nearly all of the stories you have mentioned and everything in modern fantasy draws from Leiber.  As much or more so than JRR Tolkien.
+> Read it, you'll understand better.
+> You can find all of it on sale as epubs or (better) at your local library.
+> For web serials?  Maybe check out [Unsong](http://unsongbook.com/)?
+> 
+
+> **u/godlyvex** [+1] *
+> 
+> You never read the pureblood pretense? It's a harry potter thing and honestly it made me embarrassed for liking hpmor, it was just that much better for me
+> 
+
+---
+

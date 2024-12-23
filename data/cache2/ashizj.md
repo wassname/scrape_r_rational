@@ -1,0 +1,26 @@
+## Cold Fusion (Pokémon Quest)[RT][FF] - Chapter 2
+
+* Author: u/None *
+* URL: 
+* Score: 12
+
+* Created: 2019-02-20T00:25:44
+
+### Post:
+
+[Link to content]()
+
+### Comments:
+
+> **u/Dwood15** [+3] *
+> 
+> SufficientVelocity thread here: https://forums.sufficientvelocity.com/threads/cold-fusion-pokémon-quest.53061/
+> 
+
+> **u/Sailor_Vulcan** [+3]  *Champion of Justice and Reason**
+> 
+> I'm pretty sure the player character's new employer here is working for Team Plasma. Probably the reason they're withholding funding from his research is because it doesn't mesh with Team Plasma's ideology. Team Plasma thinks pokemon are \*already\* human level intelligent, and the research is about how to \*make\* pokemon \*become\* human level inteligent.
+> 
+
+---
+

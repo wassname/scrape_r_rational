@@ -1,0 +1,41 @@
+## [RT][WIP][HF] The Whispering Light
+
+* Author: u/Nagadac  *Challenge Winner**
+* URL: https://www.reddit.com/r/rational/comments/fqrar0/rtwiphf_the_whispering_light/
+* Score: 10
+
+* Created: 2020-03-28T19:59:59
+
+### Post:
+
+[https://www.royalroad.com/fiction/31160/the-whispering-light](https://www.royalroad.com/fiction/31160/the-whispering-light)
+
+As a child Redmun Briandry had an ancient evil forced into his heart, something far worse than the monsters that roam the desolate land his people have been stranded in. Now a young man, it has whispered in his ear ever since, promising that it only wants to help, despite the pain and suffering it has caused.
+
+At the behest of his abusive mother, he has been sent to track down his father's corpse and put an end to the legendary rampage the thing within it has unleashed. Yet the closer he gets, and the more he understands, the more terrified Redmun becomes that the Whispering Light inside of him is getting exactly what it wants.
+
+Mild Trigger Warning: Emotional Abuse
+
+Side note:
+
+While rationality isn't a hard focus, neither was it for my last story, 'Brains of the Operation' which won the final bi-weekly challenge a while back, so I thought I'd give it a shot and see if you all like it as much!
+
+### Comments:
+
+> **u/Yodra_B** [+2] *
+> 
+> A very promising beginning!
+> 
+
+>> **u/Sonderjye** [+2] *
+>> 
+>> Indeed, looking forward to seeing where they take it.
+>> 
+
+>>> **u/Nagadac** [+1]  *Challenge Winner**
+>>> 
+>>> Glad you seem to like it! I'm updating every week with 1-2 chapters, since it's already finished. Feel free to let me know how you think it's going
+>>> 
+
+---
+

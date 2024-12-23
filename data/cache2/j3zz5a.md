@@ -1,0 +1,53 @@
+## [WIP] Wise Blood, Part Two: Straight to Hel
+
+* Author: u/Wizard-of-Woah *
+* URL: https://www.reddit.com/r/rational/comments/j3zz5a/wip_wise_blood_part_two_straight_to_hel/
+* Score: 20
+
+* Created: 2020-10-02T18:23:50
+
+### Post:
+
+&#x200B;
+
+[A boy wakes up from a long, dark dream... ](https://preview.redd.it/z6k1xzxk4qq51.jpg?width=520&format=pjpg&auto=webp&s=75bfb7e4e7eb7adf047722fa0f45e722c27a9e4c)
+
+When we last left Nicholas Collins, our hero had died after a harrowing encountering with a Neo-Nazi, and something far scarier. This is what happens after:
+
+[https://www.royalroad.com/fiction/36197/wise-blood/chapter/563533/straight-to-hel](https://www.royalroad.com/fiction/36197/wise-blood/chapter/563533/straight-to-hel)
+
+Any and all critque welcome.
+
+### Comments:
+
+> **u/elrathj** [+4] *
+> 
+> Was I expecting Neo Nazis versus vampires? No, but I enjoyed it anyway.
+> I'm looking forward to nick having a chance to reflect on the monster he's become (and the fact prayers affect him). He's taking all this pretty well.
+> Do you imagine he still has the mind of a child? Not intellectually, but emotionally. It's interesting how little he's wanted to visit his family...
+> Thanks for part 2, looking forward to the next chapter!
+> 
+
+>> **u/Wizard-of-Woah** [+3] *
+>> 
+>> I'd say Nick still has a child's emotions, more or less. He's just... preoccupied, right now.
+>> 
+
+> **u/Wizard-of-Woah** [+1] *
+> 
+> [https://www.reddit.com/r/rational/comments/j8szd9/wip\_wise\_blood\_part\_3\_surf\_nazis\_must\_die/](https://www.reddit.com/r/rational/comments/j8szd9/wip_wise_blood_part_3_surf_nazis_must_die/)
+> *Wise Blood* has updated!
+> 
+
+>> **u/Dezoufinous** [+1] *
+>> 
+>> it's almost like you're a Wolfenstein game fan and you're referencing it in the name "Wise Blood" (vs "Old Blood"), with all those nazis and monsters
+>> 
+
+>>> **u/Wizard-of-Woah** [+1] *
+>>> 
+>>> Not that the comparison is *unwelcome* at all, but the title actually comes from an old Western flick. Seemed... thematically appropriate.
+>>> 
+
+---
+

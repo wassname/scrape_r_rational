@@ -1,0 +1,587 @@
+## [D] Friday Off-Topic Thread
+
+* Author: u/alexanderwales  *Time flies like an arrow**
+* URL: https://www.reddit.com/r/rational/comments/3efyab/d_friday_offtopic_thread/
+* Score: 13
+
+* Created: 2015-07-24T13:25:35
+
+### Post:
+
+Welcome to the Friday Off-Topic Thread! Is there something that you want to talk about with /r/rational, but which isn't rational fiction, or doesn't otherwise belong as a top-level post? This is the place to post it. The idea is that while reddit is a large place, with lots of special little niches, sometimes you just want to talk with a certain group of people about certain sorts of things that aren't related to why you're all here. It's totally understandable that you might want to talk about Japanese game shows with /r/rational instead of going over to /r/japanesegameshows, but it's hopefully also understandable that this isn't really the place for that sort of thing.
+
+So do you want to talk about how your life has been going? Non-rational and/or non-fictional stuff you've been reading? The recent album from your favourite German pop singer? The politics of Southern India? The sexual preferences of the chairman of the Ukrainian soccer league? Different ways to plot meteorological data? The cost of living in Portugal? Corner cases for siteswap notation? All these things and more could possibly be found in the comments below!
+
+### Comments:
+
+> **u/AmeteurOpinions** [+5]  *Finally, everyone was working together.**
+> 
+> Started playing Terraria again since the 1.3 Update, and I never noticed before how the game subtly encourages the transiston from a scorched-earth extraction policy to careful conservation. Acorns and seeds are plentiful, and but wood and herbs are scare enough (compared to how much you need) that you are incentivized to replant forests after cutting them down and to cultivate gardens of dayblooms, glowing mushrooms, etc. in their respective biomes.
+> I also like the truly fantastical nature of the game, which has absolutely no compunctions about giving Magic Missile and a handgun as loot from the same area, and how there's just enough lore to seed a nice fanfic but no real story whatsoever. 
+> I want to say it's an excellent little game, except for the fact that it isn't little at all. I'm currently working on a grand castle with an underground apartment and biome complex, and probably won't be finished till after summer is over.
+> 
+
+>> **u/gabbalis** [+4] *
+>> 
+>> Hey I'm playing Terraria again too! Maybe we should set up a server...
+>> Anyway it's much easier to just level a bunch of worlds for wood than to replant. Hey don't look at me like that! those worlds were doomed to be consumed by the corruption anyway. Deforestation is the least of their problems.
+>> 
+
+>>> **u/AmeteurOpinions** [+2]  *Finally, everyone was working together.**
+>>> 
+>>> Oh definitely. There's something incredibly satisfying about running across the landscape while thowing sticky bombs and dynamite at the bases of all the trees, and watching them explode one by one by one.
+>>> 
+
+> **u/puesyomero** [+5]  *The Culture**
+> 
+> I've noticed that it's been a long time since a book or movie has elicited any strong emotional response from me (I do enjoy them greatly, but don't cry or laugh as before) . Is it normal to stop empathizing as you grow older or do I need to find better books? When was the last time a work of fiction really *moved* you?
+> 
+
+>> **u/alexanderwales** [+10]  *Time flies like an arrow**
+>> 
+>> Find better books. Try to read them more deeply as well; it might be that you're just going through the motions of reading without making an attempt at investment. (Edit: I will say that I had some temporary setbacks in this regard; once you've read enough fiction, you can eventually get to the point where you say, "Oh, powerful mentor figure, he's either going to turn bad or die at the end of the first act." If that's your problem, the solution is mostly to stop caring.)
+>> The last work of fiction that really moved me was *Inside Out*, which I saw about two weeks ago, but there are a few works that have personal resonance that I can continually get an emotional response from. (For reference, I'm nearly thirty.)
+>> 
+
+>>> **u/Cariyaga** [+4]  *Kyubey did nothing wrong**
+>>> 
+>>> As far as that goes, video games aren't terrible either. It is, in some ways, easier to find yourself invested into them. 
+>>> The Mother series in particular is poignant for me; just hearing some of their songs is enough to make me cry, much less in association with the recently deceased Satoru Iwata. But even that aside, Mother 3 is an utterly heartbreaking game.
+>>> 
+
+>>> **u/Frommerman** [+2] *
+>>> 
+>>> RIP Bingbong :(
+>>> 
+
+>>> **u/None** [+2] *
+>>> 
+>>> > 
+>>> > 
+>>> > The last work of fiction that really moved me was Inside Out, which I saw about two weeks ago, but there are a few works that have personal resonance that I can continually get an emotional response from. (For reference, I'm nearly thirty.)
+>>> I've been meaning to go see that, especially after seeing the Museum of Science exhibit about Pixar.
+>>> 
+
+>>>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>>> 
+>>>> I'd definitely recommend it; it's an interesting premise that's executed quite well. I consider it something of a return to form for Pixar.
+>>>> 
+
+>> **u/gabbalis** [+3] *
+>> 
+>> Hmm, I've definitely experienced less empathy for characters as time goes on. But I have found a method of sort of meditating myself into an equivalent state of sorrow. It mostly just requires slow breathing, and focusing on your core and the feeling of the negative emotion until it expands.
+>> It doesn't quite get to the level I've experienced when people I know have died, but I haven't really practiced it that much because I prefer psyching myself into joy than sorrow.
+>> Sorrow is my second favorite emotion though. I wonder if that's unhealthy...
+>> Edit: Come to think of it, the fact that I tend to psyche myself into joy regardless of circumstance might be the reason I have less empathy. Hard to feel the suffering of others as much when your own lever is glued to happy. Maybe I should practice sorrow more after all.
+>> 
+
+>> **u/None** [+2] *
+>> 
+>> I've actually had the opposite experience. When I was first reading very few of the characters mattered to me, and I didn't really care about events that weren't related to the plot. Now, if I care about a character and, say, their wife dies, I at least understand why that is a big deal.
+>> The last time I watched K-19 I wept. I recommend it as a test.
+>> 
+
+>> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png**
+>> 
+>> The only stories I can remember to have brought tears to my eyes are *[Death Note](http://www.hulu.com/death-note)* ([spoiler](#s "Light dies without completing his crusade")) and *[Atlas Shrugged](https://www.goodreads.com/book/show/662)* ([spoiler](#s "Minnesota grain trains are stolen for no good reason by politicians, letting the grain rot and the people starve")). (There was also *Inspector Gadget 2* ([spoiler](#s "The Inspector loses his badge after botching a stakeout")), but that's long enough ago that it probably doesn't count.)
+>> I'm pretty sure several fanfiction stories have made me *literally* gasp in utter amazement at their sheer awesomeness since then, on my first readings of them--*[Time Braid](https://www.fanfiction.net/s/5193644)* and *[Methods of Rationality](http://hpmor.com/)* are the obvious candidates, but *[People Lie](https://www.fanfiction.net/s/3745099)*, *[Little Moments](https://www.fanfiction.net/s/8440324)*, and even *[Chunin Exam Day](https://www.fanfiction.net/s/3929411)* and *[Partially Kissed Hero](https://www.fanfiction.net/s/4240771)* may have done it as well.
+>> 
+
+>>> **u/None** [+2] *
+>>> 
+>>> Wait.  The moments in fiction that bring tears to your eyes are about Yagami Hikari's goals, and a thing from Ayn Rand?
+>>> Have you double-checked your alignment?
+>>> 
+
+>>>> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png**
+>>>> 
+>>>> Really, I'm less sympathetic to the *ideas* than I am inspired by the *people.* Sure, if you think about it, it's rather ridiculous that Light could control six or seven billion people with *at most* half a dozen artifacts spread among his most devoted followers--but I'm still moved to tears every time I see the incredible conviction and devotion to righteousness (defined however suspectly) that Light displays in the first episode of *Death Note*, and the final episode brought similar feelings to my mind. Likewise, it's not the objectivist ideas themselves that allows *Atlas Shrugged* to move me--rather, I get teary-eyed at the incredible descriptions of how the corrupt politicians and businessmen slowly destroy the USA from the inside over the course of the book, plus some extra stabs of pity for the eternal tribulations of Dagny's brother.
+>>>> On the alignment test [here](http://easydamus.com/alignmenttest.html), I'm evenly split between lawful neutral and lawful evil ([image](http://i.imgur.com/htQnbLU.jpg))--as of two months ago, at least.
+>>>> (The given name of *Death Note*'s protagonist is literally "Light" (or "Raito", depending on the translator or fanfiction writer), not "Hikari"--though the kanji is some kind of weirdness...)
+>>>> (Oh, I forgot to mention that the ending of *Angel Beats!* also made me tear up a little.)
+>>>> 
+
+>>>>> **u/None** [+2] *
+>>>>> 
+>>>>> Welp, I got Lawful Good.  Huh.  The last time I took one of those I got Neutral Good.  I should move a little more Chaotic again.
+>>>>> >I'm still moved to tears every time I see the incredible conviction and devotion to righteousness (defined however suspectly) that Light displays in the first episode of Death Note, and the final episode brought similar feelings to my mind.
+>>>>> But doesn't his actual goal *matter*?  Would all that valor be so glorious if it served the goal of maximizing paper-clips?
+>>>>> >rather, I get teary-eyed at the incredible descriptions of how the corrupt politicians and businessmen slowly destroy the USA from the inside over the course of the book, plus some extra stabs of pity for the eternal tribulations of Dagny's brother.
+>>>>> But that's so... unrealistic.  Implausible.
+>>>>> 
+
+>>>>>> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png**
+>>>>>> 
+>>>>>> > But doesn't his actual goal *matter?* Would all that valor be so glorious if it served the goal of maximizing paper-clips?
+>>>>>> Actually, I vaguely recall being somewhat moved by a story featuring the thoughts of a paperclip-maximizer on this very subreddit...
+>>>>>> > But that's so... unrealistic. Implausible.
+>>>>>> (shrugs) I just assume that, in the world of *Atlas Shrugged,* most humans are just greedier than in the real world.
+>>>>>> 
+
+>>> **u/Frommerman** [+1] *
+>>> 
+>>> Have you read Ra?
+>>> 
+
+>>>> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png**
+>>>> 
+>>>> Yes--I didn't like it all that much.
+>>>> 
+
+>>>>> **u/Frommerman** [+1] *
+>>>>> 
+>>>>> Really? Why?
+>>>>> 
+
+>>>>>> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png**
+>>>>>> 
+>>>>>> It's been a while since I read it, so my memory of it is extremely fuzzy. IIRC, though, I didn't care about the plot *at all,* especially since it derailed the initial *Time Braid*-style investigation of magic that I was hoping to read.
+>>>>>> 
+
+>>>>>>> **u/Frommerman** [+1] *
+>>>>>>> 
+>>>>>>> Derailed it in an epic way, IMO. It's more of a philosophical piece than a scientific one. Less about investigation, and more about the costs of human arrogance and imperfection.
+>>>>>>> 
+
+>> **u/Kishoto** [+1] *
+>> 
+>> I would say that there is a certain degree of desensitization that comes with both growing older and becoming more rationalist, so I'm not surprised that that is happening.
+>> However, I'm willing to wager that there is media out there that could pluck at your heartstrings. I'm not the most compassionate of individuals, but here's a few things I've played/seen/read that really got me:
+>> Shadow of the Colossus (PS2 video game)[](#s "The overall feel of the game is powerful. And the ending is fairly emotive.")
+
+>> I Am Sam (Movie)[](#s "Don't analyze this one too deeply. It's pretty easy to deconstruct. But if you just sit there and experience it, it can be pretty damn touching.")
+
+>> Final Fantasy VII (PS1 game)[](#s "Aerith's death. Nuff said.")
+
+>> Game of Thrones (Show)[](#s "When Ned dies, it's like 'Wow dude'. When Robb dies, it's like 'Come on'. When Joffrey dies, it's like 'Yea, fuck you' and when  Jon Snow dies, you just cry...")
+
+>> Scrubs (Show) - [](#s "As a medical show, people die fairly regularly, but there are a few times where we really care, such as when Laverne died")
+
+>> The Prestige (Movie) - [](#s "From a rationalist point of view, it's a chilling concept.")
+
+>> The Metropolitan Man (fanfiction) - [](#s "When Superman dies, it's fairly wrenching. Maybe because you expect he's going to win, as he's the hero. :(")
+
+>> There's a lot more, but I've ingested so much fiction over the years, I honestly can't remember.
+>> 
+
+>>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>> 
+>>> >as he's the hero
+>>> No, he isn't. He really isn't.
+>>> 
+
+>>>> **u/Kishoto** [+1] *
+>>>> 
+>>>> [Hero](http://www.merriam-webster.com/dictionary/hero) 
+>>>> He....kinda is, by most conventional definitions. Lex is the *protagonist*, sure. But A hero, let alone THE hero? Debatable.
+>>>> 
+
+>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>> 
+>>>>> No, Superman is the villain. That was the point of the fic. [](#s "He was too dangerous to live, and he proved it in the story.") He was an existential risk. You weren't supposed to want him to win.
+>>>>> 
+
+>>>>>> **u/Kishoto** [+1] *
+>>>>>> 
+>>>>>> I guess, for me, a villain is a villain because of his choices. Superman was a huge risk, undeniably, but he was a good person. Extremely so. It's his strong moral adhesion that makes him unstable in the first place. 
+>>>>>> It's like this for me. If you kill Darth Vader in Episode 5, you've slain a villain. If you go back in time and kill Anakin on Tatooine, you've *prevented* the rise of Darth Vader but you didn't kill a villain. You killed a little boy. 
+>>>>>> [](#s "Killing Superman prevented disaster. But he wasn't the villain. If anything, I would say the vastness of his power was the villain. ")
+>>>>>> 
+
+>>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>>>> 
+>>>>>>> > Superman was a huge risk, undeniably, but he was a good person
+>>>>>>> [](#s "Not by the time he was killed. He had already made his face-heel turn, and he was in the process of taking over the world, with his frankly delusional sense of moral justice. You are not supposed to want him to win.")
+>>>>>>> 
+
+>>>>>>>> **u/Kishoto** [+1] *
+>>>>>>>> 
+>>>>>>>> Yup. 
+>>>>>>>> EDIT: I did NOT notice the spoiler tagged, as I read that out of my inbox, and I would disagree. While I can't promise it wasn't going to happen at some point in the future, I don't think Superman was setting out to become some sort of dictator. He just wanted to help humanity. And he'd finally realized that his heroics were paltry compared to what he could actually accomplish.
+>>>>>>>> 
+
+>> **u/None** [+1] *
+>> 
+>> The last one that I'll talk about was *Gurren Lagann*, which is why I have a tendency to quote it so much.
+>> >*All the lights in the sky are stars, where our Spiral cousins are waiting.*
+>> 
+
+> **u/DreadChill** [+3] *
+> 
+> Anyone else super excited for VR? I can't wait till the Vive is commercially available.
+> 
+
+>> **u/alexanderwales** [+6]  *Time flies like an arrow**
+>> 
+>> VR (like a lot of platforms) is going to live and die by the apps that run on it. Right now, the use case seems to mostly be novelty and immersion, roughly in that order. I have two friends who have the Oculus Rift, and I've played it quite a bit, but ... what's the killer app for VR? An exercise program combined with a videogame?
+>> Without a killer app, early adopters are the only ones that buy in, which means that development resources aren't put towards building with the platform in mind, which means that new apps aren't made, which in turn slows adoption. I've seen this happen quite a bit with other platforms, and it's part of why I'm of a "content first" mindset.
+>> This is part of why I think AR is the one that's going to change things. I can imagine lots of virtual things that you'd want to tack onto the real world.
+>> 
+
+>>> **u/MugaSofer** [+3] *
+>>> 
+>>> > ... what's the killer app for VR? An exercise program combined with a videogame?
+>>> ( ͡° ͜ʖ ͡°)
+>>> 
+
+>>>> **u/Qwertzcrystal** [+2]  *assume a clever flair**
+>>>> 
+>>>> ...hehehe. But true, it's already in the works.
+>>>> 
+
+>> **u/traverseda** [+4]  *With dread but cautious optimism**
+>> 
+>> As a software dev, bleh.
+>> I don't want games on AR/VR, I want tools. And those are going to be a bitch to program.
+>> 
+
+>> **u/okaycat** [+2] *
+>> 
+>> I'm so excited for the Vive and the Oculus.  2016 is going to be the year that VR takes off.
+>> I'm even more excited for AR though.  I think it will be a big revolution, as big as the TV.  Hopefully Magic Leap doesn't end up being vaporware.
+>> 
+
+> **u/traverseda** [+3]  *With dread but cautious optimism**
+> 
+> Did you know you can use autoModerator to schedule posts?
+> https://www.reddit.com/r/AutoModerator/comments/1z7rlu/now_available_for_testing_wikiconfigurable/
+> 
+
+>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>> 
+>> I did. I keep meaning to set this up to be posted by AutoModerator, but it seems like a poorly documented and poorly maintained feature. And that means that whenever I think about doing it, it seems like the sort of thing that I should just put off until later. (As with most automation tasks, it's better in terms of time saved to do it early in order to get the most payoff, and I know that ... but it feels like less work to just manually post it.)
+>> Edit: Alright, created a schedule and added the Off-Topic Thread to it, hopefully that works next week.
+>> 
+
+>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>> 
+>>> Cool
+>>> 
+
+>>> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life**
+>>> 
+>>> Yep, that'll work.  I do a lot with scheduled posts in /r/dwarffortress
+>>> 
+
+> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+> 
+> If you could chose to research absolutely anything and get unlimited funding for precisely one research, what would you research?
+> P.S. Does anyone know how common it is for someone applying to grad school to have had research papers published?
+> EDIT: You have a lot of money to burn, so you can use it to pay other people to help/do-it-for-you with your research. However you're still required to be the leader and to direct the progress of the project. Thanks /u/alexanderwales for pointing that possibility out.
+> 
+
+>> **u/lsparrish** [+3] *
+>> 
+>> /r/replicatingrobots
+>> Self replicating robotic machinery in space.
+>> Reason:
+>> 1. The energy and materials available in space are abundant, so replication rates of greater than once per year are almost certainly feasible. The abundant vacuum lets us use vacuum deposition of ions in place of current electrolytic methods, and the negligible gravity reduces the material costs for supporting structures, while permitting fine structures to be formed with less distortion.
+>> 2. Exponential doubling at an annual rate or better is fast enough to reach megascale engineering levels within a matter of decades. Megascale engineering allows for the creation of trillions of parallel robotic laboratories for running experiments which can improve efficiencies and resolve nagging human problems like aging.
+>> 
+
+>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>> 
+>> Do I have to research it myself, or can I just throw money at the problem? Will I have people working with me?
+>> I guess if I don't personally have to do it, I would say self-sustaining systems, though I don't know if that violates "precisely one". In other words, I want to research how to attain small-scale homeostasis for an environment, preferably one that has humans in it. This would be useful in space, but also useful in creating sustainable cities, as well as creating pockets of civilization which can exist independently of each other (ensuring long-term species survival).
+>> If I have to do it all by my lonesome ... natural-language processing, I guess. Automated text generation is going to be one of the big new fields; you already see some of it for simple business news articles and sports reports. Some day (probably sooner than we think) it's going to be possible to have a computer write a book that people would actually want to read, and not just for the novelty of it.
+>> 
+
+>>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>> 
+>>> It's a project where you have a lot of money to burn, so you can use it to pay other people to help/do-it-for-you with your research. However you're still required to be the leader and to direct the progress of the project.
+>>> 
+
+>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>> 
+>> Friendly AI, natch. Not just Friendliness, the AI part too.
+>> 
+
+>>> **u/None** [+1] *
+>>> 
+>>> *drools over funding*
+>>> 
+
+>> **u/puesyomero** [+1]  *The Culture**
+>> 
+>> safe implementation of nanotechnology or its sister synthetic biology
+>> 
+
+>> **u/thesteamboat** [+1] *
+>> 
+>> > Does anyone know how common it is for someone applying to grad school to have had research papers published?
+>> This will vary from discipline to discipline and department to department. However it seems fairly common at the top Math/Computer Science departments.
+>> 
+
+>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>> 
+>> Operating system design.
+>> Programming is hard, I'd like it to be easier. I think a state synchronized pseudo file system would go a long way towards making collaborative software easier.
+>> 
+
+>> **u/TimTravel** [+1] *
+>> 
+>> Clinical immortality. Once we have a cure for age it's just a matter of time until we solve all other problems.
+>> 
+
+>> **u/atomfullerene** [+1] *
+>> 
+>> I'd do Biosphere 2 _right_.
+>> I don't think most people starting grad school have published papers.  I didn't.
+>> 
+
+>>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>> 
+>>> Finally! I expected to at least have some people to come up with *fun* answers by now, but everyone else just went for the serious and the most important (to them) proposals.
+>>> 
+
+>>>> **u/atomfullerene** [+1] *
+>>>> 
+>>>> If I'd been born in a different world I would have loved to get a job designing closed ecosystems and parks and things for spacecraft and space colonies.  Something about the challenge of making it self-sustaining and balanced but also aesthetically pleasing, and merging technological and biological systems.   Playing around with a biosphere would be a good second best option, though.
+>>>> 
+
+>>>>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>>>> 
+>>>>> Oops!
+>>>>> I misread Biosphere 2 as Bioshock 2 and thought you meant designing your own video game.
+>>>>> *hides face in embarrassment*
+>>>>> 
+
+>> **u/None** [+1] *
+>> 
+>> >If you could chose to research absolutely anything and get unlimited funding for precisely one research, what would you research?
+>> But but but but but *subproblems!*
+>> > P.S. Does anyone know how common it is for someone applying to grad school to have had research papers published?
+>> Somewhat common among the top echelons, but still not that common overall.  If you've done it, you've got an advantage.
+>> 
+
+> **u/Polycephal_Lee** [+2] *
+> 
+> What's everyone's take on global finance/economy at the moment? It seems like the world is a powderkeg of debt ready to default, and we're just waiting for the spark of default to set it off.
+> Also, how are you playing this? I'm speculating a little on Bitcoin, and have pulled out of the stock market almost altogether in favor of US dollars.
+> 
+
+>> **u/alexanderwales** [+4]  *Time flies like an arrow**
+>> 
+>> I'm mostly just not worrying about it, given my lack of domain knowledge on the subject. I have investments through a fairly conservative 401K run through my company, but that's about it. Finances are one of those things where I worry about the Dunning–Kruger effect quite a bit. The market preys on unwise investors.
+>> If the global economy *does* melt down, I have marketable skills and live a fairly spartan lifestyle, meaning that I can probably weather whatever comes better than most other people, short of civilizational collapse (which is a whole different topic).
+>> 
+
+>> **u/None** [+1] *
+>> 
+>> > What's everyone's take on global finance/economy at the moment? It seems like the world is a powderkeg of debt ready to default, and we're just waiting for the spark of default to set it off.
+>> The economy is really screwed right up until the moment policymakers remember that this is all a legal fiction anyway, and they don't actually have to dragoon the entire world's worth of productive resources and labor for the sake of people speculating on land with mass-printed certificates.
+>> 
+
+> **u/None** [+2] *
+> 
+> I've been pondering how to approximate a mesh for collision detection by packing it full of ellipsoids.  I had a uniform sphere packing algorithm working decently, which placed spheres at grid points that were inside the mesh and then ran a few iterations colliding them with each other and the mesh boundaries to get a tight packing.  However for thin objects you have to use way too many tiny spheres, and allowing variably oriented and sized ellipsoids could vastly reduce the particle count.  I'm really not sure how to structure that optimization problem though.
+> 
+
+>> **u/traverseda** [+3]  *With dread but cautious optimism**
+>> 
+>> I suspect that sphere packing isn't the right approach for that problem.
+>> But perhaps you could have a stage where your spheres grow? Throw some spheres in, grow them until they're filling the space. Obviously your grow them on each axis independently.
+>> Then pack in more spheres. Repeat. You probably actually want to be using capsuleShape if you're using bullet.
+>> I'd be inclined towards trying to segment the mesh into convex-hull-able shapes, generally.
+>> 
+
+>>> **u/None** [+2] *
+>>> 
+>>> I'm actually using my own real time physics engine (based on positional dynamics, I can go into more details if anyone is curious).  
+>>> Inflating ellipsoids is an interesting iterative approach, but the trick would be adjusting the orientations.  Ideally as it inflated each ellipsoid would rotate to fit the space.  That might just mean implementing full rigid collision resolution during the packing process so that resolving against the faces can apply a torque.
+>>> The other tricky thing is choosing good seed locations... it's probably best if these ellipsoids grow at the same time and collide with each other as they grow so you end up with a roughly uniform packing.  Consider the following test case: a board that is 2m x 0.5m x 0.1m.  I would consider an ideal packing to have an 8x2 rectangular packing of mentos shapes all slightly overlapping each other, but if I grow one ellipsoid at a time I will likely end up with a big one occupying the whole board and then a couple tiny ones in the corners.
+>>> 
+
+>> **u/Charlie___** [+2] *
+>> 
+>> Bearing in mind that I know nothing about the subject...
+>>  How about inflating shapes? Start with a sphere of some minimum size in a random valid location. When your shape isn't in contact with anything, increase its radius. When it's in contact with things only on one half of the sphere (in practice, things that are almost opposite may be a problem, so one-third or one-quarter might be better), inflate it by moving it away from the contacts as you increase the radius (the farther apart the contact points are, the more you have to move). When you can't grow as a sphere any more, find the average plane that the points of contact lie in and try to grow as an ellipsoid with long axis normal to that plane.
+>> There are some interesting problems with this approach, but I bet someone else has worked out a good implementation.
+>> 
+
+>> **u/TimTravel** [+1] *
+>> 
+>> An idea: have "additive" ellipsoids and "subtractive" ellipsoids for defining collision bounds. It might help in some cases.
+>> 
+
+> **u/RMcD94** [+1] *
+> 
+> No hype about the new Hearthstone expansion? I thought you would have commented about that considering how much I've seen you in the subreddit. 
+> This tavern brawl has been really fun for me. I play mage and make the terrible choice of when second to mulligan entirely for chromag and arcane intellect just for the joy. 
+> I also wondered how they decided hero powers should only get one use a turn, and how the game would be different if they hadn't designed it like that. Also I wonder if classes had no hero powers and it was only class cards that made heros different. 
+> Does anyone else feel that Hearthstone design seems to encourage less and less skill and more on random chance. Obviously card games will have chance elements but it seems like they are too impactful.
+> 
+
+>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>> 
+>> I'll be more hyped when the expansion actually drops; this slow roll of card reveals is killing me.
+>> I've been running priest for the current brawl. It's really surprising to me how many people are just going around with big stompy decks. The ideal distribution of cards seems to be roughly half utility and removal, with the other half being huge threats. That already basically described the priest deck that I've been using to ladder with (Burn Priest). I've been playing around with other classes, but priest is still my favorite, both for this brawl and in the general sense.
+>> Historically speaking, before there was Hearthstone there was the World of Warcraft TCG, which came out in 2005. I played that quite a bit with my friends; almost all of the artwork (and a few of the mechanics) came to Hearthstone by way of that game. In the WoW TCG, you had a hero power that you could use once per game, and I think the idea for per-turn hero powers probably comes from a similar place. As for restricting it to once per turn, I think the worry was that hero powers would come to dominate the late game; there are already hero power "match-ups" where some heroes have a worse time than others strictly on the basis of what their hero power can do. Without being able to spam the hero power, it's possible to "run out of gas", which is a desirable result.
+>> 
+
+>>> **u/RMcD94** [+1] *
+>>> 
+>>> Do you avoid the announcements or consume everything? I can't imagine you watch Reynad or Forsen for their thoughts on the cards though. 
+>>> Priest seems to be the flavour for this, easily the most common, which I'm happy with since Priest has been the worst class in the game since its inception and I used to play it in beta. 
+>>> I don't know if I agree that people are front loading their decks with big ones . Two  sw:d, two bgh, two light bomb is already 20% and I imagine all priests are running that. Mage has it even easier with fireball and pyro being burn and removal. My deck runs 8 secrets too which might be too much as coining away my counterspell seems to happen a lot. How many wins do you have with priest? 
+>>> Do you have a large collection? It is a very p2w brawl though I won on na and asia with heros that weren't even level 10. 
+>>> That's a good point regarding late game. Warrior versus priest in a control match up used to be a disaster for priest since end game hero power pass was normal. If warrior could gain 10 from that it would be no surprise to see them dominating even more.
+>>> 
+
+>>>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>>> 
+>>>> I consume everything as it comes out, but don't really pay too much attention to "pro" reviews (partly because they have a bad track record, partly because it's impossible to evaluate cards outside their context -- which explains the bad track record).
+>>>> I have 20 wins with priest this brawl, though some of those are early-game concedes. I think my winrate for actual games is about 70%, which is quite good. Part of the reason that priest is good in this brawl is that it's got so many ways to respond to threats, which (if the game doesn't just open with big stompy creatures on my side that aren't contested) means that I can usually regain the board.
+>>>> I have a large enough collection that I find myself surprised when I don't have a card in it. I'm missing a good chunk of (bad) legendaries, along with a few epics, but have most of the rest. This brawl is far more p2w than the others have been, though I think it's still feasible with certain builds of basic/common cards (and I tried it for a bit before deciding that was less fun).
+>>>> 
+
+>>>>> **u/RMcD94** [+1] *
+>>>>> 
+>>>>> >I consume everything as it comes out, but don't really pay too much attention to "pro" reviews (partly because they have a bad track record, partly because it's impossible to evaluate cards outside their context -- which explains the bad track record).
+>>>>> Sure enough, but the idea is that the guys who are winning tournaments are best likely to gauge the impact of a card, they weren't all so bad for GvG.
+>>>>> >
+>>>>> I have 20 wins with priest this brawl, though some of those are early-game concedes.
+>>>>> I haven't been getting concedes as soon as you join in this brawl (unlike say the nef-rag one). I've only gotten 15 wins and I'd definitely say that I have played this tavern brawl the most, though the games are a lot shorter so I might have put more time in the spell one. Plus I've played a fair bit with friends.
+>>>>> I also don't use any tracking tools so I have no idea about my winrate.
+>>>>> > Part of the reason that priest is good in this brawl is that it's got so many ways to respond to threats, which (if the game doesn't just open with big stompy creatures on my side that aren't contested) means that I can usually regain the board.
+>>>>> Turn 1 Alex op op (who I don't have sadly), I feel that people are overvaluing priest however. It's not that much better than mage (if at all). Though even stranger I see warriors with weapons and I have to take a step back.
+>>>>> >This brawl is far more p2w than the others have been, though I think it's still feasible with certain builds of basic/common cards (and I tried it for a bit before deciding that was less fun).
+>>>>> Well you can definitely win a game with that combo priest that wins on turn 1 and is mostly basic cards. 
+>>>>> http://i.imgur.com/zlJvPty.png (Warlock only gold because I played priest before they introduced win tracking) I'm still missing some important legendaries especially class ones (Alex for neutral big one for brawls)
+>>>>> 
+
+> **u/None** [+1] *
+> 
+> [deleted]
+> 
+
+>> **u/BadGoyWithAGun** [+1] *
+>> 
+>> That depends, what are your qualifications and how far are you willing to move? I got a bachelor's degree in CS, three jobs later I gave up on it and went to grad school for data science/machine learning. Definitely can recommend - most of your CS knowledge is still useful, but your job nominally doesn't revolve around programming.
+>> 
+
+> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+> 
+> *investment opportunity?* 
+> So if 3D printinghpmor has liftoff, I think companies who produce feedstock will be in great shape. Are there any (exclusively) 3D printing feedstock companies? Whats the next best thing? The 3D-printer manufactures I'd assume. Any other thoughts that spring to mind?
+> 
+
+>> **u/PeridexisErrant** [+5]  *put aside fear for courage, and death for life**
+>> 
+>> (as owner of a 3D printer)  I think the RepRap project means that manufacturing 3D printers is never going to be a high-margin business - imagine the OS market if Microsoft didn't get an early monopoly; anyone can sell a clone of the latest Free hardware, but making money is harder.  Feedstock has to be standard to be useful, so no big profit there.
+>> Exceptions will likely exist but are very hard to pick in advance.  A better bet would be the Red Hat model; support contracts for Free stuff.
+>> 
+
+>>> **u/lsparrish** [+2] *
+>>> 
+>>> What about feedstocks (as in the plastic filament that gets used to make stuff)?
+>>> 
+
+>>>> **u/PeridexisErrant** [+5]  *put aside fear for courage, and death for life**
+>>>> 
+>>>> Plastic filament is a commodity - anyone who deals with plastic can make it, and there's not much profit there at all.  Worth setting up a product line if you have the plant already (well, maybe - small sales volume is an issue), but there's too few buyers and too much competition for much of a margin.
+>>>> All this is excellent news for consumers though - or small 3D printing consultancies.
+>>>> 
+
+> **u/Kishoto** [+1] *
+> 
+> So people are up in arms over this Caitlyn (Bruce?) Jenner thing. Now, I don't have much of an opinion either way, but I do find it an interesting topic because, as someone who's read and thought about certain transhumanist things, I find biology to be largely immaterial. Yes, we are governed by it. And we're miles away from being able to seperate ourselves (what we call consciousness, I'm going to say our "brains" for simplicity) from it. But I just find it fairly irrelevant, despite the fact that I'm a fairly standard straight guy. So what do the rest of you think about things like gender X feeling like gender Y or vice versa? And about all the controversy something like it has started, both now and in past times?
+> 
+
+>> **u/Transfuturist** [+4]  *Carthago delenda est.**
+>> 
+>> > So what do the rest of you think about things like gender X feeling like gender Y or vice versa?
+>> I'm trans, so I have a fairly personal view on it...
+>> >And about all the controversy something like it has started, both now and in past times?
+>> I consider gender dysphoria to be necessary and sufficient. If that's not the controversy you're talking about (the one leaking out of tumblr), I'm not sure.
+>> >But I just find it fairly irrelevant, despite the fact that I'm a fairly standard straight guy.
+>> I'm not sure what you're saying you find irrelevant. Dysphoria may be irrelevant to those unaffected by it, but those who have it also have disproportionately high suicide rates. Since gender conversion works about as well as sexuality conversion, I think it's a fairly obvious position to say that society should move towards accepting transitioning individuals. We're not going to be transcending biology any time soon.
+>> 
+
+>>> **u/alexanderwales** [+8]  *Time flies like an arrow**
+>>> 
+>>> I just don't really *get* gender dysphoria.
+>>> I'm aware that this is something that people experience, and willing to take them at their word on this. But I have no idea what it's supposed to feel like from the inside. I've heard people compare it to the trauma of waking up as the opposite gender and being stuck that way, but that doesn't seem traumatic to me. I immediately start thinking about the differences in utility associated with gender, rather than any emotional component. Being transgendered has been described to me as feeling a "wrongness" associated with gender ... but I don't feel a "rightness" associated with gender right now. I don't feel any particular attachment to maleness over femaleness, beyond arguments of utility.
+>>> So I'm all for transrights, but the part I find confusing is the internal psychological aspect of it. Mostly because I don't have an attachment to my gender (or feel that it matters too much). Whenever I read someone trying to describe what being transgender feels like, they always start with this assumption that people feel like they have a gender that they're supposed to be? Which doesn't square with my personal experience, and makes it hard to relate.
+>>> 
+
+>>>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>>> 
+>>>> Communication isn't very good on either side. I'm not even sure what legitimate complaints there are against my position. With feminism co-opting LGBT issues, I feel like discussion of the T is being both diluted and radicalized between feminism and anti-feminism. My position, which I think is more moderate and medically-based, isn't ever addressed due to the polarization.
+>>>> 
+
+>>>> **u/Colonel_Fedora** [+2]  *Ravenclaw**
+>>>> 
+>>>> Honestly I have no idea how to put it into words satisfactorily. The thing is that it's sort of a slow burn, it just keeps getting worse over time. I don't mean to be insulting, but have you considered that not feeling it is what rightness feels like? Or you might not have a strong attachment to your gender, I don't know.
+>>>> Okay, so imagine something about yourself that's important to you. Imagine that you see depictions of this everywhere, and constantly see people that embody this. Now imagine that you just aren't that no matter how much you want to be, and if you tell people how much you admire this trait they only think you're strange. This is the closest I can think of, and it's still pretty vague.
+>>>> Look, give me some time and I'll try and write something up about this.
+>>>> 
+
+>>>>> **u/None** [+4] *
+>>>>> 
+>>>>> This seems like the common problem that if you are white, the idea that cops would casually shoot your dog seems kind of weird.  It indicates mostly that there are questions which you have lucked out of having to wonder about... The universe just seems consistent.  Values are orthogonal to logic, and gender may contribute a great deal toward those values... I value competition and self sacrifice, but I honestly don't know if those are instrumental values or terminal values that come from me being male.  I can certainly see how being defined in terms of implicit values that don't all apply to my innate utility function can seem alienating.
+>>>>> 
+
+>>>>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>>>> 
+>>>>> > I don't mean to be insulting, but have you considered that not feeling it is what rightness feels like? Or you might not have a strong attachment to your gender, I don't know.
+>>>>> > Okay, so imagine something about yourself that's important to you. Imagine that you see depictions of this everywhere, and constantly see people that embody this. Now imagine that you just aren't that no matter how much you want to be, and if you tell people how much you admire this trait they only think you're strange. This is the closest I can think of, and it's still pretty vague.
+>>>>> I think it must be that I have no strong attachment to my gender. That's probably where the disconnect is coming from. My gender *isn't* important to me, and it's hard to see (on an empathic level) how gender is important to others. Like ... when I imagine myself getting turned into a woman, I don't imagine that making any particular difference to me? My life doesn't have gendered activities in it right now. None of my friendships are contingent on gender. Even my sexuality would remain pretty much unchanged. And I guess I also don't really understand admiring one gender over the other, if that's what you're saying.
+>>>>> Like I said, I'm more than willing to accept that gender dysphoria is something that other people experience, but I'm starting to think that it must come from some experience of gender as integral to self that I don't have.
+>>>>> (Edit: My wife informs me that she is not a lesbian. So that would be a problem. But that's more one of sexual preference than gender identity.)
+>>>>> 
+
+>>>> **u/None** [+2] *
+>>>> 
+>>>> According to how I've talked it over with some people on Facebook and reddit before, basically, the problem with dysphoria is that most people actually experience it most of the time.  It only acquires a specific label when we find some specific element of our lives whose change would *lessen* the general dysphoria and alienation we often assume to be a Fact of Life.
+>>>> 
+
+>>> **u/Kishoto** [+1] *
+>>> 
+>>> I find biology, gender, sexuality etc. to be fairly irrelevant, in the context of judging people for it. YOUR gender and sexuality can be important to you, if you choose, but considering how I view biology and the fact that we are a bigender species as more circumstance than anything designed or fated, I personally do not care that much about it.
+>>>  I won't try and pretend I'm a champion for transrights or anything of the sort, but I am a champion for personal choice being the main factor in your decision making, so I do count myself as an LGBT supporter. And when you say "gender conversion works about as well as sexuality conversion", what exactly are you saying? That it doesn't work that well? And, if that is what you're saying, how does that statement support what you say after the comma? 
+>>> Not disagreeing, I'm just honestly unclear on what you meant there.
+>>> 
+
+>>>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>>> 
+>>>> > YOUR gender and sexuality can be important to you, if you choose
+>>>> The problem is that gender is *not* a choice. There are physical differences in the dysphoric mind that we can detect, and I'd bet a whole bunch that we can't yet, and those cause a disconnect between the physical characteristics of a body and those that the brain feels should be there. Those who are trans have this disconnect; those who aren't don't, and don't understand the problem. The disconnect causes great amounts of suffering to those who have it, and a good deal of it is exacerbated by society's current state of acceptance when trans people try to do something about it.
+>>>> When I say that gender conversion works about as well as sexuality conversion, I'm saying it doesn't work, because neither "conversion" actually *does* anything. The difference is all in the brain, in ways that we cannot change, which is why those who decry acceptance of transition because dysphoria is a "mental illness" and should be treated in the brain are themselves utterly mental. The only option we have to decrease suicide rates and suffering of trans people in general is to accept transition as a society. We cannot change the brain, so we must allow changes in the body. All of us, as individuals. The culture needs to change.
+>>>> 
+
+>>>>> **u/Kishoto** [+1] *
+>>>>> 
+>>>>> Well, I feel like it's trending in that direction. Trans-sexuality and Transgender(ism?) is definitely a lot more accepted than it used to be, although there are still strides to be made. I'm guilty of a few outmoded ways of thinking, I admit. :\
+>>>>> 
+
+>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>>> 
+>>>>>> Don't feel guilty, there's no real point. You already seem plenty accepting.
+>>>>>> 
+
+>>>>>>> **u/Kishoto** [+1] *
+>>>>>>> 
+>>>>>>> I don't feel guilty, I just meant that I was guilty in the legal sense, as in I did it. "It" being "having outmoded ways of thinking".
+>>>>>>> 
+
+>> **u/None** [+0] *
+>> 
+>> I've started referring to the kinds of people who Care Deeply about their inborn biology, or who just think there's a Fixed Human Condition that Determines Our Fate, as "cishuman scum" and telling them to "check your ignorance".
+>> I too am an only-mildly nonstandard straight guy, but *I'll wear whatever shape I please and so should everyone else.*  Mind, I got into a *massive* argument with a trans friend a year ago for saying that gender is no more *Essentially Real* than wanting to have tentacles.
+>> 
+
+> **u/ajuc** [+1] *
+> 
+> So, anyone played Witcher 3?
+> It's funny mix of rational and irrational characters. For example every single mage in Novigrad hold idiot ball for a few-hours long quest, but usually npcs are very well thought out and consisten.
+> 
+
+> **u/None** [-2] *
+> 
+> Am I insane?  Seriously?  Because this is why I generally have given up with having conversations
+> https://www.reddit.com/r/math/comments/3ejfjo/triviality_as_a_zero_dimensional_space/
+> 
+
+---
+

@@ -1,0 +1,1064 @@
+## [D] Friday Off-Topic Thread
+
+* Author: u/AutoModerator *
+* URL: https://www.reddit.com/r/rational/comments/3n8fep/d_friday_offtopic_thread/
+* Score: 18
+
+* Created: 2015-10-02T15:06:22
+
+### Post:
+
+Welcome to the Friday Off-Topic Thread! Is there something that you want to talk about with /r/rational, but which isn't rational fiction, or doesn't otherwise belong as a top-level post? This is the place to post it. The idea is that while reddit is a large place, with lots of special little niches, sometimes you just want to talk with a certain group of people about certain sorts of things that aren't related to why you're all here. It's totally understandable that you might want to talk about Japanese game shows with /r/rational instead of going over to /r/japanesegameshows, but it's hopefully also understandable that this isn't really the place for that sort of thing.
+
+So do you want to talk about how your life has been going? Non-rational and/or non-fictional stuff you've been reading? The recent album from your favourite German pop singer? The politics of Southern India? The sexual preferences of the chairman of the Ukrainian soccer league? Different ways to plot meteorological data? The cost of living in Portugal? Corner cases for siteswap notation? All these things and more could possibly be found in the comments below!
+
+
+### Comments:
+
+> **u/blazinghand** [+17]  *Chaos Undivided**
+> 
+> Man, I know it's totally within the scope of this subreddit, but I've been feeling a bit grumpy about the uptick of brainstorming threads or question threads. We have tons of space since this is a small subreddit so I don't really mind, BUT STILL. Don't expect downvotes from me for this kind of thread, but don't expect upvotes either. As a general rule, I upvote almost all fiction linked/posted here in order to encourage authors.
+> 
+
+>> **u/alexanderwales** [+10]  *Time flies like an arrow**
+>> 
+>> I'm mostly upset by the *lazy* brainstorming/question threads. If you want to *actually* brainstorm, I think there's some onus on you to do the legwork first and give something for people to bouncing ideas off of. If it's just "Rational _____?", I tend to downvote those threads for their laziness. But if it's something like ... I don't know, getting someone to double-check your logic, point out something obvious you might have missed, get advice on storytelling, then I tend to think that's a lot better.
+>> (Obviously I would prefer for the story to be fully written and the advice to be given after the fact, but getting advice after the fact increases the total workload because it involves both writing and editing instead of just writing correctly the first time.)
+>> 
+
+>>> **u/blazinghand** [+3]  *Chaos Undivided**
+>>> 
+>>> I have enjoyed BST threads where there's a decent amount of legwork by the author or it's about a specific enough topic. Lazy BST or question threads are the worst though. I like to be entertained or to have a lively discussion here.
+>>> 
+
+>> **u/Charlie___** [+2] *
+>> 
+>> Yeah, I downvote almost all of them.
+>> 
+
+>>> **u/eaglejarl** [+2] *
+>>> 
+>>> May I ask why?
+>>> 
+
+>>>> **u/Charlie___** [+3] *
+>>>> 
+>>>> I regard most low-effort posts as clutter, and as a class I'd like to see less of them. So while I'll upvote a link to a story that's even mildly good and rarely downvote one, I'll downvote basically any "Rational X" posts or similar whose premise and comments I don't immediately find interesting.
+>>>> 
+
+>> **u/eaglejarl** [+1] *
+>> 
+>> May I ask what bothers you about them?
+>> 
+
+>>> **u/blazinghand** [+4]  *Chaos Undivided**
+>>> 
+>>> They're not what I'm looking for here on r/rational and they rarely entertain me. They're not technically off topic so I don't downvote them, and people clearly post in them and like them, but they do not get my upvote. I typically only upvote rational fiction.
+>>> 
+
+>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+>> 
+>> I get what you mean. They're technically okay, but I certainly wouldn't want any more of them than there are at the minute.
+>> 
+
+> **u/Escapement** [+10]  *Ankh-Morpork City Watch**
+> 
+> I recently read Scott Hawkins' first novel, the Library At Mount Char. It's the best SF&F first novel I can remember since Clarke's Johnathan Strange and Mr. Norrell. Thanks to Nostalgebraist on tumblr for the rec.
+> The story is about a library that contains all the secrets and knowledge of the world, and a power struggle over it. The head of the library is ancient and seems immortal, but has now disappeared. This immortal raised a dozen orphan children and trained them all in the various arts the library contains such as medicine that allows true resurrection and languages of all of mankind as well as things like animals; and these characters, now in their thirties, are having to cope with leaving the library.
+> The novel is really exceptionally written and paced, and contains a lot of great humor. Also, very well written character interactions. Not for the faint of heart, though - it gets quite dark and disturbing a number of times.
+> Just a really wonderfully written novel, a strong recommendation. Not really rationalist in any way, so I waited to this off-topic thread to recommend it here.
+> Hawkins' description of the evolution of the title is amazing:
+> > I've found that a good way to get myself moving is to take the most ridiculous phrase I can come up with and try to write a book around that. For comparison, the working title of The Library at Mount Char was The Library at Mt. Sammich. In case you're wondering, the 'Library' part of the story came easily enough, but I had to really work to get the 'Mt. Sammich' part to fit. Ultimately the good folks at Crown decided "Sammich" had a misleading ring, so it got changed. For the record, I'm amazed that title made it as far as it did.
+> 
+
+>> **u/want_to_want** [+1] *
+>> 
+>> For what it's worth, I just read this book on your recommendation, and found it to be a way downgraded version of Gaiman's "American Gods" (first chapter [available here](http://www.neilgaiman.com/works/Books/American+Gods/in/181/), it's quite self contained, don't bother with the rest of the novel because it's much worse).
+>> 
+
+> **u/None** [+6] *
+> 
+> [deleted]
+> 
+
+>> **u/alexanderwales** [+11]  *Time flies like an arrow**
+>> 
+>> I put the likelihood as "high", assuming that society continues to function more or less the same.
+>> Colonization killed a lot of languages. Globalization is killing a lot more. The reason we had so many languages in the past is that people were spread far apart and couldn't communicate with each other, which meant that language drift happened. Now, with the internet in play and increased connectivity, it seems like the pressures are all in place for languages to compete with each other until only one is left.
+>> Language seems to me to be a sort of natural monopoly; it's more efficient if everyone is speaking the same one. Languages can only really specialize with regards to *culture* now that geography is largely not an issue, because languages are too mutable to be missing vital features for long. There will still be *dialects*, *shifts*, and *jargon* but a single common standard is so beneficial that we're naturally going to shift to a single one, even without government intervention.
+>> 
+
+>> **u/Magodo** [+4]  *Ankh-Morpork City Watch**
+>> 
+>> In my opinion, never. I live in India where speaking superior English gets me called a 'Britisher'(angrezi) and a betrayer of our glorious culture.  
+>> Simultaneously there's an entire industry which thrives on this insecurity that most people here feel towards their inferior English. I can walk across the street and see at least two English coaching centers, these are the places that source your typical Indian call center support.  
+>> There's a few fringe elements that exploit people's pride in their local languages
+>> [like this](https://www.youtube.com/watch?v=2h5KzWac0_E). To say that these people reject English would be an understatement. But, and this is my personal observation, unless you know English in India, your career is fucked.  
+>> Personally, I wish I knew no other language than English. Because knowing local languages (I know 3 others) has messed up my accent and changes the way [I think](http://www-psych.stanford.edu/~lera/papers/mandarin.pdf). Indian languages are usually a mish-mash of the actual language and English itself and most have maybe 400-500 words in their spoken form.
+>> 
+
+>> **u/scruiser** [+3]  *CYOA**
+>> 
+>> > What does anyone think of the likelihood of there one day being a global language? 
+>> Roughly equal to the likelihood of the internet staying intact.  I think the internet and other global communications being destroyed would be the only thing that could really stop the possibility of a global language.  I guess one other scenario that could happen would be if permanent space colonies were developed prior to the full emergence of a global language.  Then the lightspeed delay might create enough separation in communication to allow new dialects and words to develop faster than they can spread.
+>> 
+
+>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>> 
+>> I sincerely doubt that we'll ever have a single language. The reason is because languages are kinda like animal species in the sense that it's subject to evolution. Languages are constantly changing, growing, and shrinking all the time. The massive die-out of languages today is due to how globalization has forced the multiple languages to "compete" for speakers (think of languages as competing memes where there's not enough space for them all). Just like how when humans first traveled to new places on the globe and caused massive extinctions, so did English kill off foreign languages when it first spread to new places.
+>> I predict that we'll reach some equilibrium in the number of languages present, and then new languages will start appearing again (probably some Internet-based languages or people will start emphasizing corporate loyalty and everyone will be speaking Pepsinese, Coca-colian, or McDonaldian).
+>> 
+
+>>> **u/Transfuturist** [+5]  *Carthago delenda est.**
+>>> 
+>>> > I predict that we'll reach some equilibrium in the number of languages present, and then new languages will start appearing again (probably some Internet-based languages or people will start emphasizing corporate loyalty and everyone will be speaking Pepsinese, Coca-colian, or McDonaldian).
+>>> I seriously doubt that.
+>>> 
+
+>>>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>>> 
+>>>> You doubt what? That we'll reach an equilibrium, what will cause new languages (I was kinda just spitting out random stuff there), or that we will even have any new languages?
+>>>> 
+
+>>>>> **u/Transfuturist** [+2]  *Carthago delenda est.**
+>>>>> 
+>>>>> New languages will result like speciation in evolution, very slowly, and as a continuous process of mutation from our existing languages. I'm not sure what an Internet-based language even is, unless you're talking about conlangs, but conlangs, neither the personal sort that are created by hobbyists nor those created by institutions, will never take hold as primary languages. People speak what their parents spoke. As for brand loyalty, that's simply ludicrous. People partake in multiple major brands, and major brands do not separate geographically.
+>>>>> As for equilibrium, we already have it. Languages remain stable in population over years unless there are mass deaths of one or another. Languages that large populations speak are not made, they only ever arise out of old ones.
+>>>>> 
+
+>> **u/STL** [+2] *
+>> 
+>> Machine translation will make this highly unlikely and irrelevant.
+>> 
+
+>>> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>>> 
+>>> *HAHAHAHAHA!*
+>>> *gasp!....breathes*
+>>> I'm not laughing at you but rather how I used to think the same thing.
+>>> So far machine translation is at the stage where computers are really good at translating words and phrases, but they can't really do a very good job with longer sentences or idioms. The best I have seen in machine translation so far is in Google who has so much data to throw at the problem that it works but it's not feasible for translating between two languages that aren't already extensively recorded online.
+>>> Granted there are amazing things happening in the field as we get better and better at handling large amounts of data and working with neural networks, but there's a reason why some people (nowadays? or used to?) think machine translation is equivalent to true AI.
+>>> 
+
+>>>> **u/None** [+3] *
+>>>> 
+>>>> > Granted there are amazing things happening in the field as we get better and better at handling large amounts of data and working with neural networks, but there's a reason why some people (nowadays? or used to?) think machine translation is equivalent to true AI.
+>>>> The question is not whether "true" machine translation is AI-complete.  *Perfect* machine translation is probably superintelligence-complete, because *translations are innately imperfect*, so you'd need something with extremely thorough knowledge of multiple languages and cultures to do perfect, professional-quality translation that lets consumers of the translated product really experience all the depth and nuance that went into the original piece.
+>>>> The question is *how good* you can make your machine translation *without* superhumanly well-cultured AI.  It's entirely possible that we can get "90% effective" machine translation with 30% the statistical/cognitive machinery of a real brain.
+>>>> 
+
+>>>> **u/SvalbardCaretaker** [+4]  *Mouse Army**
+>>>> 
+>>>> Great quote from Fire Upon the Deep (from memory): 
+>>>> "As they were flying deeper into the slow zones, their higher order computers slowly failed. This made the archives intelligeble, since proper translation software needed to be almost sentient to properly parse nuances."
+>>>> 
+
+>> **u/TimTravel** [+1] *
+>> 
+>> My opinion is that all existing languages are defective and ideally we should all speak one well-designed language but that's never going to happen.
+>> 
+
+>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+>> 
+>> Well it depends. One thing I could see happening would be two or three major languages spreading out as people pick the most common languages to learn, because those are obviously most useful. Eventually you would end up learning two main languages, much like most of Europe knows their native language and also English. So the Chinese would know English and the English would learn Chinese. 
+>> I'm not so sure it's going to happen though. English has the advantage of being the language of science. If you want knowledge, the majority of it is written in English and not translated when it comes to scientific papers and such. I'm not sure if Chinese has anything of similar pull. Whatever does happen, it will be slow. Most people don't learn new languages after they become adults.
+>> 
+
+> **u/Nighzmarquls** [+9] *
+> 
+> I'm constantly curious about what people's backgrounds/culture or countries of origin are in relation to the rationalist community.
+> Mostly because it seems like a useful bridge to learn what being from different cultures would be like from the inside.
+> 
+
+>> **u/Transfuturist** [+18]  *Carthago delenda est.**
+>> 
+>> White bisexual trans female, apparent male. Arizona. I was raised as a nondenominational Protestant. I was also raised as a science-lover, my biggest influence being Douglas Hofstadter.
+>> Previously I saw Christianity as having a God-directed mission, and I was wondering why Christians didn't act consistently with moral duties laid out in the bible. At the same time, I was learning more and more science, and some moral philosophy. Evolution was never discouraged in our household, though I opposed it in middle school because it threatened my worldview. With some help from atheist writings, including Common Sense Atheism, I eventually learned what evolution was, learned what the problem of evil was, and the entire secular, empirical side of my life clicked into place and simply squashed my religious upbringing.
+>> I have always been interested in AI research, and motivated thinking prevented me from really seeing AI safety as a problem. I dismissed the question of malice naturally, and at the same time I did not think value alignment was a problem, because AIs could approximate human value systems, and people have never tried or wanted to take over the world or anything. Continued exposure to MIRI's research, the Sequences, and Eliezer's deprecated publications (General Intelligence and Seed AI, Creating Friendly AI, Coherent Extrapolated Volition), convinced me that AI safety *was* a serious problem, and that I had been wanting all along to build a gun without a handle.
+>> My primary goal is to live as long as I like in a body I enjoy. This is contingent on safe AI. I was previously somewhat scornful of MIRI's research, even (especially) after I became convinced that AI safety was a problem, because all of their publications focus on incomputable agents. Then a friend reminded me that publishing research on bounded agents destroys the world. This makes me wonder if MIRI has a section of unpublished research purely for internal use. This makes me want to join MIRI.
+>> I don't think I can join MIRI.
+>> I am nearly twenty, and I feel old. Time is speeding up, and I can't keep the pace. I find it extremely hard to hold focus on one project for over two weeks, and my interests constantly cycle without ever progressing. Writing, AI, games, writing, AI, games. There are programmers I follow who are more capable than me, and I think one might be younger. I see the kind of people who *do* join MIRI, Harvard, Stanford, MIT, and I wonder why I ever thought I could slack off in high school. I am constantly masculinizing, and I hate the shape of my body. I have no job. I can't drive. I'm going to community college, taking more classes than I think I can handle in order to avoid being forced to *get* a job, and I'm wasting time not studying math and computer science this semester. I'm isolated from people I know offline, and I don't have the social skills to make new friends even if I managed to find people I thought could stand me. I'm worried that all of the tests I've taken since kindergarten were wrong, and that I can't hack it in STEM. I have had these thoughts and problems continuously, even when I was on antidepressants, and I'm worried that they're right despite my depression, and that I will never get past them. I don't want to die, but I would sacrifice my life as it is to improve the chances of eutopia for the rest of the world. I just want to be told what to do. I can't handle this social, emotional bullshit.
+>> ..Excuse me. I am very broken, I seem to be leaking.
+>> 
+
+>>> **u/xamueljones** [+10]  *My arch-enemy is entropy**
+>>> 
+>>> *tears up*
+>>> *Gives tight hug*
+>>> Have a virtual Internet cookie!....or something else to share positive feels without the ability to see or physically comfort someone.
+>>> *Intensely beams happy thoughts at Transfuturist*
+>>> 
+
+>>>> **u/Transfuturist** [+6]  *Carthago delenda est.**
+>>>> 
+>>>> Thanks... *hug*
+>>>> I wish I knew my path to victory.
+>>>> 
+
+>>>>> **u/SvalbardCaretaker** [+4]  *Mouse Army**
+>>>>> 
+>>>>> You can outsource part of PtV. Having depressed thoughts even on antidepressants is pretty normal; you not only need to stop abnormal brain chemistry, you also need to stop engrained neuronal connections. 
+>>>>> For this reason I'd recommend seeing a therapist, or read a few self-help books... Have a look at http://slatestarcodex.com/2014/06/16/things-that-sometimes-help-if-youre-depressed/ 
+>>>>> Source: am a bit broken myself and am a bit older than you.
+>>>>> 
+
+>>>>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>>>>> 
+>>>>>> I'm taking a look at mindfulness meditation to start training myself to notice things and promote good habits of thought. I think that's part of cognitive/dialectical behavior therapy, so I think that might be a pretty good path to test.
+>>>>>> I will admit, even taking into account this minor breakdown, my PHQ-9 score is definitely lower than it was earlier in my life. 
+>>>>>> I wish you luck in fixing yourself.
+>>>>>> 
+
+>>>>>>> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+>>>>>>> 
+>>>>>>> Thank you. Got a clinic stay coming in soon, which hopefully will do some lasting good. 
+>>>>>>> All the best to you as well, and if you need an ear of someone who can relate a bit (depression) shoot me a PM.
+>>>>>>> 
+
+>>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate**
+>>> 
+>>> >I am nearly twenty, and I feel old. Time is speeding up,
+>>> I feel you, they say the chains of habit are too light to notice until they become too heavy to break. I worry I built the wrong habits while they were light and now I am failing at changing them.
+>>> > I'm isolated from people I know offline, and I don't have the social skills to make new friends even if I managed to find people I thought could stand me.
+>>> I can't help with the rest but this bit here at least is something you can mostly solve with [properly applied learning.](http://www.improveyoursocialskills.com/best-social-skills-books) Social skills are called skills because they can be learned and practised. In fact, I would call it a rather important thing to do because social skills improve ones life in multiple non-obvious ways.
+>>> 
+
+>>>> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>>>> 
+>>>> > I worry I built the wrong habits while they were light and now I am failing at changing them.
+>>>> *Exactly.* Now all I need to do is learn to change habits.
+>>>> >Social skills are called skills because they can be learned and practised.
+>>>> I wish my college offered those classes.
+>>>> 
+
+>>>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+>>>>> 
+>>>>> It would be too obvious if everyone learned the same methods. But yes, they are surprisingly useful. My social life was much improved when I did the same thing at about your age.
+>>>>> 
+
+>> **u/alexanderwales** [+8]  *Time flies like an arrow**
+>> 
+>> White heterosexual male, software engineer, 29 years old, American (Minnesota). I believe I'm almost exactly typical of reddit's userbase, perhaps with the exception that I live in a small city in the Midwest instead of a large city on one of the coasts.
+>> 
+
+>> **u/paradoxinclination** [+7] *
+>> 
+>> I'm a Canadian First Nations, male, 21, I live in British Columbia and work as a driller-swamper (it's a very dirty job). Studied for a year in Uni but couldn't keep my head in the game. My family is upper-middle class, mostly working in the logging industry, and primarily atheist. 
+>> I was introduced to rationality by HPMOR, and it hooked me. Having new and better ways to communicate and debate are absolutely some of the most useful things I've ever learned. However, I live in a rural community, so I haven't ever actually had another person to discuss things rationally with. It's rather lonely having no one to talk to as an equal, so I frequent reddit quite a bit.
+>> 
+
+>>> **u/Marthinwurer** [+2] *
+>>> 
+>>> Make sure that you don't get too aloof or cocky about having no one as an equal. If you get too aloof, you start to lose friends and with that, happiness goes downhill fast.
+>>> 
+
+>> **u/xamueljones** [+5]  *My arch-enemy is entropy**
+>> 
+>> White. Bi-curious. Male. 20 years old with a double major in CogSci and CompSci. Ethnicity's Ashkenazi Jewish, but I am atheist. Live in New York State. Really want to move to a modest sized community which is not too crowded. Political beliefs are leaned towards socialist, but have concluded the time to invest in keeping up with politics beyond news headlines is not worth it. I have never managed to go more than a few hours without reading something since I entered high school.
+>> I pride myself on always learning *something* in my free time without needing a teacher and grades to motive me. Disappointed that it's all in stuff like computers or neurology. There's other important things I really should get around to learning sooner or later.
+>> 
+
+>> **u/ArgentStonecutter** [+5]  *Emergency Mustelid Hologram**
+>> 
+>> Caucasian, straight, male, '50s, Australian expatriate in America, parents a conservative engineer and an artist, brought up Anglican but recovered, married, kids grown up.
+>> 
+
+>> **u/None** [+5] *
+>> 
+>> Ashkenazi Jewish male, currently working on embedded firmware and volunteering for an AI/cog-sci lab (sorta), originally from the United States, Israeli by preference, but currently stuck living in the USA for spousal reasons.  Oh, and a red-diaper socialist, on the political spectrum (meaning: far-left and raised by similar).
+>> Weirdly enough, from a sample size of two, I've found that I like the Israeli rationalist community better.  They seem to have a lot of domain expertise and to *really value* scientific and mathematical domain expertise, whereas the Stateside "rationality community" I've visited a few times seems to more prefer to have a kind of "rationality" that allows for ignoring or criticizing domain experts rather than citing them.
+>> 
+
+>>> **u/BadGoyWithAGun** [+5] *
+>>> 
+>>> > whereas the Stateside "rationality community" I've visited a few times seems to more prefer to have a kind of "rationality" that allows for ignoring or criticizing domain experts rather than citing them.
+>>> This mirrors my experience, although I haven't engaged any in person. The MO of the "rationality community" seems to be that the harder you signal your pro-rationalism, the more your edgy contrarian opinions are tolerated.
+>>> 
+
+>>>> **u/None** [+2] *
+>>>> 
+>>>> In utterly face-palmy confirmation of this, I swear to fucking Allah that I have, by now, accumulated a net -6 LW comment karma for the irrational, insufficiently edgy opinion of *open atheism*.
+>>>> Like, people are actually attempting to contend that the Christian God is a sufficiently simple hypothesis as to warrant a high prior probability.
+>>>> Fuck this shit.
+>>>> WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGH!
+>>>> 
+
+>>>>> **u/BadGoyWithAGun** [+1] *
+>>>>> 
+>>>>> >Like, people are actually attempting to contend that the Christian God is a sufficiently simple hypothesis as to warrant a high prior probability.
+>>>>> This could be a case of instrumental rationality taking priority over epistemic rationality - for example, I don't want to live in a society where it's socially acceptable to be openly atheist. This has to do with my terminal values, not my ontological beliefs.
+>>>>> 
+
+>>>>>> **u/None** [+1] *
+>>>>>> 
+>>>>>> I'm not really sure how you're supposed to have a rational society of either kind if you're making it socially unacceptable to hold rational views.
+>>>>>> 
+
+>>>>>>> **u/BadGoyWithAGun** [+1] *
+>>>>>>> 
+>>>>>>> I don't see what's rational about subverting the tradition of your state and the moral basis of your society. You appear to be conflating instrumental and epistemic rationality. I'm not opposed to heterodox beliefs when they have predictive power and obviously present a more likely hypothesis than any presented by Christianity, but I don't think they should be signalled about in the same manner as organised religion, especially when we're talking about ontological beliefs with little if any predictive power or importance to the world other than signalling edgy hatefacts.
+>>>>>>> 
+
+>>>>>>>> **u/None** [+1] *
+>>>>>>>> 
+>>>>>>>> Uhhh well generally I would say you poison any idea at all by *worshiping* it.  So the solution is to eliminate worship as a mind-killing social phenomenon.
+>>>>>>>> A society based on non-realist morals can't really get that far anyway, in my opinion.
+>>>>>>>> 
+
+>>>>>>>>> **u/BadGoyWithAGun** [+1] *
+>>>>>>>>> 
+>>>>>>>>> > Uhhh well generally I would say you poison any idea at all by worshiping it.
+>>>>>>>>> How so? Rituals reinforce community and social bonds. The idea behind the ritual doesn't matter, but I don't see reductionist materialism replacing traditional organised religions in this role, cringeworthy attempts at introducing "rational rituals" to the contrary.
+>>>>>>>>> >A society based on non-realist morals can't really get that far anyway, in my opinion.
+>>>>>>>>> I don't know, we got pretty far and I don't see any obvious signs of stopping. What would "realist morals" look like, anyway? Strict mean-value utilitarianism? Don't you also ridicule EA, which is predicated on such a value system?
+>>>>>>>>> 
+
+>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>> 
+>>>>>>>>>> > How so?
+>>>>>>>>>> Gah, you're making me invent new vocabulary on the fly.  I can't promise to be clear, sorry.
+>>>>>>>>>> Normally, we reason openly and inductively rather than closedly and deductively.  That is, we experience things, and *then* we generalize from the experiences.  In fact, according to all the scientific and mathematical knowledge we have about cognition, *this is the only correct way*: you *can't* build a map of the real world, effective in navigating the real world, from "first principles".  You need information, and you need a process of inductive reasoning that transforms the information into increasingly accurate maps.
+>>>>>>>>>> "Open" and "closed" here are just expressing whether or not our maps of the world can be updated to accommodate new information, or necessarily "break" and contradict themselves when trying to do so.  Statistical, inductive, "cognitive" reasoning does the former; deterministic, deductive, "logical" reasoning does the latter.
+>>>>>>>>>> Now, the problem with the psychology of religious worship, is that it takes ideas which were originally just important spots on very useful maps, and it turns them into the axioms of closed, deductive systems of reasoning.  In doing so, it divests them of their original semantic content - the way they once mapped some territory - and instead replaces the semantic content with steadily increasing amounts of moralized browbeating.  Over time, statements of the syntactic form, "It is the will of X!" or "It is for the honor of Y!" come to replace what were originally (understood to be -- many people thought their gods were real) justifications based on ordinary, bounded-consequentialist reasoning, of the form, "Do it so A will happen" or "Do it so B *won't* happen".
+>>>>>>>>>> To quote Terry Pratchett on what this looks like:
+>>>>>>>>>> >“Around the Godde there forms a Shelle of prayers and Ceremonies and Buildings and Priestes and Authority, until at Last the Godde Dies. Ande this maye notte be noticed.”
+>>>>>>>>>> Thus my belief that if you really, actually *like* your ideas/gods/whatever, you should avoid *worshipping* them under any circumstances.  This is not some Popperian belief about how "everything should be criticized", especially because I tend to believe that a *sufficiently motivated* critic can find something to criticize even in entirely true statements and entirely real phenomena, simply by inventing "foundational" or "philosophical" problems where none had previously existed.  It's from the belief that if I like an idea, the best loyalty to that idea is to understand it (including any flaws it might genuinely have), understand its context among ideas, and understand its domain of applicability.  Loyalty to a map *means* keeping it accurate, which entails never drawing sparkles on one spot on the map and scribbling out everything else on grounds of "holy holy hallelujah!".
+>>>>>>>>>> >Rituals reinforce community and social bonds.
+>>>>>>>>>> You can also have rituals that are *about* community and social bonds, in which case they won't spoil any poor ideas.
+>>>>>>>>>> >I don't know, we got pretty far and I don't see any obvious signs of stopping.
+>>>>>>>>>> I don't think that's true.  I think that civilization got far precisely by using the data of real-world experience to reason inductively and adjust our maps of the world (including the counterfactual structure of the world, the coulda-beens and woulda-beens).  If people *really* used *totally* non-realist, anti-naturalist meta-ethical reasoning, the phrase, "Well that's just a bad idea" *would not exist*.  People would just doggedly push on with absurd, stupid things of no value whatsoever *because holy-holy-hallelujah*.  Sufficiently advanced non-realist moral codes of the kind you're describing become indistinguishable from compulsive disorders *precisely because*, to everyone else around the person with the sense of moral compulsion, they appear to be trading things off in ways that don't correspond to world-states that they care about minus the compulsion.  The compulsion is a desire or sense of duty that is far out of accord with the rest of the person's desires and senses of duty.
+>>>>>>>>>> (Notably, compulsive disorders are fairly good evidence that normativity is a kind of emotion or sense-of-thought that can be tuned up or tuned down and, like all other such human emotions and senses, has to be carefully calibrated before it can be used as an instrument for measuring something about world-states.)
+>>>>>>>>>> >What would "realist morals" look like, anyway?
+>>>>>>>>>> [This is at least one good book on the subject.](http://www.cambridge.org/us/academic/subjects/philosophy/political-philosophy/facts-values-and-norms-essays-toward-morality-consequence)
+>>>>>>>>>> >Strict mean-value utilitarianism?
+>>>>>>>>>> No.
+>>>>>>>>>> >Don't you also ridicule EA, which is predicated on such a value system?
+>>>>>>>>>> I tend to make fun of Effective Altruism for these reasons:
+>>>>>>>>>> * Hedonic utilitarianism, which I think is wrong because it leads to wireheading and thus *fails to map the moral territory*.
+>>>>>>>>>> * Most especially, *Peter Singer's* writings about ethics and utilitarianism, in which he *openly states* that he does not necessarily think moral realism can be defended, but that he feels an ethical duty to brush this anti-realist stance under the rug in favor of getting more people to do good.  This isn't just intellectual dishonesty, it's a basic intellectual self-contradiction: ["Morals aren't real, but don't tell people that or they'll stop donating to charity!"](http://lesswrong.com/lw/rq/what_would_you_do_without_morality/)
+>>>>>>>>>> * Unconsidered, unreflective support of the present form of neoliberal global capitalism, and its modes of doing philanthropy and development.
+>>>>>>>>>> As /u/EliezerYudkowsky once stated when expressing his relationship to neoreaction, "The wheel of progress only turns one way."  I am not making fun of Effective Altruism because they think morals are real.  To the contrary, I am making fun because they think morals are a silly game of appeasing their single emotion of duty!
+>>>>>>>>>> 
+
+>>>>>>>>>>> **u/BadGoyWithAGun** [+1] *
+>>>>>>>>>>> 
+>>>>>>>>>>> You're talking about a hypothetical religious society/person that completely closes its thought process to the idea of updating based on evidence, or somehow implying that such a society has ever existed. In other words, you've constructed an elaborate strawman and proceeded to pummel it mercilessly at length to signal your allegiance to non-religious thought and societies.
+>>>>>>>>>>> But the fact is, that's not the kind of society I'm advocating in favour of, at all, nor is this generally how religious societies work. In case you haven't noticed, religious beliefs and rituals mostly deal in assertions with little or no predictive power, in fact, they mostly tend to avoid situations that would expose them to falsifiability. In general, religious institutions (of the kind I'm advocating for) don't tend to magistrate on areas that are both
+>>>>>>>>>>> * Easily falsifiable by rational inference from available evidence
+>>>>>>>>>>> and
+>>>>>>>>>>> * Have significant predictive power in an area that affects people's daily lives
+>>>>>>>>>>> So, for example, organised religions tend to magistrate on what amounts to sin and what kind of penance is required for its absolution, which reinforces societal norms and a sense of community, but they don't tend to magistrate on the required wing areas of aeroplanes, which would probably cause several deaths before they got it right, for no measurable benefit over just trusting engineers.
+>>>>>>>>>>> >This is at least one good book on the subject.
+>>>>>>>>>>> I disagree with the assertion that there is such a thing as a "moral territory". My own ethical leanings are somewhere between consequentialism and eigenvalue utilitarianism.
+>>>>>>>>>>> >Most especially, Peter Singer's writings about ethics and utilitarianism, in which he openly states that he does not necessarily think moral realism can be defended, but that he feels an ethical duty to brush this anti-realist stance under the rug in favor of getting more people to do good. This isn't just intellectual dishonesty, it's a basic intellectual self-contradiction: "Morals aren't real, but don't tell people that or they'll stop donating to charity!"
+>>>>>>>>>>> That's pretty much the exact same justification I used in favour of organised religion. For its rebuttal, see your own earlier post. I hope your strawman is sufficiently permeable when it comes to your own beliefs.
+>>>>>>>>>>> 
+
+>>>>>>>>>>>> **u/IomKg** [+1] *
+>>>>>>>>>>>> 
+>>>>>>>>>>>> It's not really my fight here but 
+>>>>>>>>>>>> > organised religions tend to magistrate on what amounts to sin and what kind of penance is required for its absolution, which reinforces societal norms and a sense of community
+>>>>>>>>>>>> Doesn't that count though? I mean those societal norms might be found to be negative, and religion will tend be fairly cemented on the topic.
+>>>>>>>>>>>> 
+
+>>>>>>>>>>>>> **u/BadGoyWithAGun** [+1] *
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> Unless a foreign religion was inposed onto it, at some level the religion of a society reflects its values and desires. Think of it as an attempt at CEV with 5th century BC social technology. At any rate, it's just an example - the point is, it's an institution that enforces a society's actual values, preventing it from dragging itself into blind change as fast as its morally apathetic legal system will allow and giving it time to consider the fact that actions have consequences.
+>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>> **u/IomKg** [+1] *
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> As mentioned i wasn't so much into the argument for\against religion as a whole.
+>>>>>>>>>>>>>> I just felt that while you said that religions don't so much deal with issues which could be falsified doesn't quite work when a few sentences later you give an example of an actual and significant way in which religions affect daily life. which could be positive or negative.
+>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>> **u/BadGoyWithAGun** [+1] *
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> It could be positive or negative, but it isn't falsifiable - remember, the claim the religious institution itself makes isn't "enforcing our moral code is socially beneficial", that's just a side effect - the claim itself is "X is forbidden, Y is compulsory, thus spake the lord".
+>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>> **u/IomKg** [+1] *
+>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> Of course, in that sense most religions obviously have adjusted.
+>>>>>>>>>>>>>>>> and the things they say that should\shouldn't be done are based on their own internal systems.
+>>>>>>>>>>>>>>>> If your argument separates between the things that religions advocate are scientifically correct(i.e. the existence of dinosaurs), vs correct\good in general(should we kill people that disagree with our religion) then everything is clear and you guys can get back to your main discussion..
+>>>>>>>>>>>>>>>> 
+
+>>> **u/traverseda** [+3]  *With dread but cautious optimism**
+>>> 
+>>> >whereas the Stateside "rationality community" I've visited a few times seems to more prefer to have a kind of "rationality" that allows for ignoring or criticizing domain experts rather than citing them.
+>>> Might have something to do with the quality of domain-experts and education in those regions. At least if the stereotypes are true.
+>>> 
+
+>>>> **u/None** [+6] *
+>>>> 
+>>>> No, the Stateside area I'm talking about is rather known for being educated, and in fact for being *superbly* educated, and in fact for having the very best educational institutions on Earth within its borders.
+>>>> Which is why I get *surprised* to find people doing the what-does-science-know-compared-to-rationality thing *within 20 minutes bike ride from MIT.*
+>>>> 
+
+>>>>> **u/traverseda** [+3]  *With dread but cautious optimism**
+>>>>> 
+>>>>> Alternatively, it could be people complaining about academic culture. Which is distinct from Science.
+>>>>> But that does sound bad.
+>>>>> 
+
+>>>>>> **u/None** [+3] *
+>>>>>> 
+>>>>>> On the other hand, I might have just gotten spoiled by the LW-TA community, which does tend to do things like attend "Science on the Bar" lectures and "Secular spirituality" events, hold lectures on scientific and mathematical material (Anatoly did "History of Modern Mathematics", Ziv Hellman is doing, "Sex with No Regrets: Sexual Reproduction as a Form of Machine Learning"), and have board-games meetings every two weeks.
+>>>>>> I really, *really* liked those guys.
+>>>>>> 
+
+>>>>> **u/AugSphere** [+1]  *Dark Lord of Corruption**
+>>>>> 
+>>>>> Depends on the science. On one hand you have hard sciences with sfuff like 5 sigma evidence for Higgs boson. On the other, you have psychological science with 5% significance level fetishism and [all the other problems](http://blogs.nature.com/news/2012/11/psychologists-do-some-soul-searching.html).
+>>>>> 
+
+>>>>>> **u/None** [+4] *
+>>>>>> 
+>>>>>> Look, if people want to criticize the abusive use of frequentist statistics, *that's fine*, but then I expect a talk from someone who *knows statistics* and has perhaps even done statistics professionally (or at least taken a class).  This shouldn't be that hard, since "data scientist", aka "professional rationalist", is an actual profession these days: in a major metro-area with lots of scientists, engineers, and technologists, we should be able to find *one* friend-of-a-friend or something who has worked with real datasets in their real life.  Like, for instance, my girlfriend, who does data analysis as a lab scientist at work.
+>>>>>> What I don't expect is, "NHST sucks, and Bayesianism best -ism, and that's why I didn't read those 30 science papers on that subject."
+>>>>>> Stateside LWers seem to be dangerously close to philosophy students in some aspects.
+>>>>>> 
+
+>>>>>>> **u/AugSphere** [+3]  *Dark Lord of Corruption**
+>>>>>>> 
+>>>>>>> The problem is not really NHST, although it's extremely easy to misuse, which doesn't exactly help. The problem is that, in some sciences, quality replications are rarely published and the negative results are almost never published.
+>>>>>>> 
+
+>>>>>>>> **u/None** [+3] *
+>>>>>>>> 
+>>>>>>>> Well that's definitely true.
+>>>>>>>> Source: my MSc thesis is actually a fishing expedition.
+>>>>>>>> 
+
+>>> **u/Frommerman** [+3] *
+>>> 
+>>> I have had a few thoughts about this lately, actually. I think the reason so many good scientists are Jewish is because of the way Judaism works, specifically due to the fact that Talmudic interpretation is a process that nearly everyone is at least a little involved in and requires one to read a source, coherently understand it, and extrapolate from that. Essentially, for hundreds of years, being a "good jew" required being able to think about rules and figuring out ways to accomplish what you want without breaking them, which is exactly what science does.
+>>> 
+
+>>>> **u/None** [+3] *
+>>>> 
+>>>> It's probably also a historical coincidence that Jews were feeling a scrappy need to move up in the world at just about the time when being a scientist was a good way to do so.  Now that American Jews are more assimilated (which, admittedly, would affect both cultural hypotheses and material-conditions hypotheses), they're going into science less often.  Secular Israeli society still produces disproportionately many scientists, though.
+>>>> 
+
+>>> **u/notmy2ndopinion** [+1]  *Concent of Saunt Edhar**
+>>> 
+>>> >sample size of two
+>>> That sounds underwhelming as a basis for your judgment of an entire community...
+>>> 
+
+>>>> **u/None** [+1] *
+>>>> 
+>>>> Yes, hence my stating that the sample size is too small.
+>>>> 
+
+>>> **u/Marthinwurer** [+1] *
+>>> 
+>>> What kind of embedded systems stuff? I'm CS and planning on focusing on low-level stuff,a and would like anopther perspective on it other than my thoughts of "ohmygod this is so cool."
+>>> 
+
+>>>> **u/None** [+1] *
+>>>> 
+>>>> Basically, ARM microcontrollers *everywhere*.  Working with interrupts, hardware bugs, performance measurements, memory-mapped buffers, and manual memory management is my day job.
+>>>> If you really think "ohmygod this is so cool" (I know I did at that age!), I have the following advice:
+>>>> * *Also* learn some web development, because while systems programming will get and keep you some very good jobs, those jobs are hard to find.  Everyone wants fucking web-dev-ihateitsomuch.
+>>>> * *Also* take one course on databases.  Nowadays, basically everyone needs to know at least the basics about databases to work in industry.  Well, not everyone, but like the web-dev, it helps you appeal to the least common denominator of employers.
+>>>> * Do projects with embedded controllers in a toy robot or something while you're still in college.  Build something cool with an Arduino, a Raspberry Pi, a BeagleBoard, anything labelled a "dev board".
+>>>> * Learn anti-electrostatic discipline and love it.
+>>>> * Put programming projects you do on github.
+>>>> But hey, I think it's a pretty all right field to work in!
+>>>> 
+
+>> **u/ToaKraka** [+5]  *https://i.imgur.com/OQGHleQ.png**
+>> 
+>> *Genetic background:* African (Caribbean--but no accent for *me,* thank Kira!)
+>> *Religious background:* I vaguely recall that my parents dragged me to some Protestant Christian churches and summer camps, but it all seemed rather halfhearted, and gradually petered out somewhere around age ten, without any real pushback on my part. I don't think I myself was religious at any point in the process, but I could be misremembering. (*VeggieTales* was pretty fun to watch, though.)
+>> *Sexual orientation:* Heterosexual cisgender male
+>> *Political orientation:* [Meh](http://i.imgur.com/vdKYlE7.png) ([source](https://www.politicalcompass.org/)); also, [Gamergate](http://www.reddit.com/r/KotakuInAction)
+>> *Personality:* Grumpy and intolerant (see flair) (but [has been described as "honest and transparent" by a charitable person](http://i.imgur.com/Sxjgmd0.png)); also, whiny and materialistic
+>> *Occupation:* Student of civil engineering
+>> *Location:* Northeastern United States
+>> *Discovered fanfiction through:* I have no idea (I feel as if maybe TV Tropes had something to do with it), but the first stories I read were NaruHina fluff in the *Naruto* fandom. *[Time Braid](https://www.fanfiction.net/s/5193644)* is what really cemented fanfiction as a core part of my life, though--I discovered FanFiction.net just a few weeks before that story's completion.
+>> *Discovered* HPMoR *through:* I can't remember at this point. (Remember, this was before FanFiction.net allowed users to sort stories by number of favorites or reviews.) I think it may have had something to do with TV Tropes or *Fallout: Equestria*, but I'm probably completely wrong.
+>> *Discovered Reddit through:* The TV Tropes article on Polandball.
+>> 
+
+>>> **u/None** [+6] *
+>>> 
+>>> > Political orientation: Meh[1] (source[2] ); also, Gamergate[3] 
+>>> Wait.  So you're a libertarian-leftist.  How is that "meh"?
+>>> >Location: Northeastern United States
+>>> Oh, where?
+>>> >Discovered Reddit through: The TV Tropes article on Polandball.
+>>> That's the best way to into reddit.
+>>> 
+
+>>>> **u/ToaKraka** [+3]  *https://i.imgur.com/OQGHleQ.png**
+>>>> 
+>>>> > How is that "meh"?
+>>>> By "meh" I mean "vaguely". I haven't bothered to do any research on such complicated issues as, e.g., firearms or prostitution--that's just what that site says I am, based on my answers to the questionnaire. [This assessment may be of more interest](http://i.imgur.com/htQnbLU.jpg) ([source](http://www.easydamus.com/alignmenttest.html)).
+>>>> > Oh, where?
+>>>> New Jersey (home) and Pennsylvania (college).
+>>>> 
+
+>> **u/CopperZirconium** [+5] *
+>> 
+>> White female American, age 20. I grew up in a very Mormon family, but life happened and my whole immediate family left the church. I started questioning my religion when I was in high school. I read the Old Testament in it's entirety and was appalled by the cruelty and darkness that was never addressed in Sunday School. There were lots of other things that caused me to doubt my faith, too. During that time I came across HPMoR and the attached communities. I already loved science, so I immediately got hooked. I was drawn to the moral system that wasn't handed down by God, but built up by logic. 
+>> I'm currently in college pursuing a computer engineering degree. I want an art minor, but my college doesn't offer one. :(
+>> 
+
+>> **u/avret** [+4]  *SDHS rationalist**
+>> 
+>> White heterosexual cis male, 16 years old, originally tristate area now DC area, Ashkenazi Orthodox Jew.
+>> 
+
+>> **u/MrSink** [+4] *
+>> 
+>> Asian 17yro heterosexual cis male. Raised Catholic, but I deconverted sometime in middle school. My brother recommended hpmor, and through it I found the rationalist community.
+>> 
+
+>> **u/blazinghand** [+3]  *Chaos Undivided**
+>> 
+>> I'm a 25 year old male software engineer living in Silicon Valley. Except for my ethnicity (Korean / Iranian) I'm pretty close to the typical rationalist demographically speaking. I grew up in an upper-middle-class household in an upper-middle-class neighborhood. I'm college-educated.
+>> My parents are electrical engineers and one is a tech entrepreneur. They are atheists from religious backgrounds. I was raised without any particular religious tradition. Though we celebrated the usual Christian things-- Christmas, Easter, etc-- I was never told God was real. It wasn't until I was 10 that I realized my peers and extended family thought of God as a thing that actually exists. My parents vote for Democrats for a variety of pragmatic reasons. My religious and political beliefs are suspiciously similar to my parents', though I think these beliefs are correct anyways.
+>> I was introduced to rationality many years ago while reading the blog at [Marginal Revolution](http://marginalrevolution.com/). Tyler Cowen would occasionally link to or debate with another blogger, his coworker Robin Hanson at [Overcoming Bias](http://www.overcomingbias.com/). I read a few other blogs and found the movement generally interesting, though outside of a few places (like here, at r/rational) I haven't felt any desire to engage with people at length. I'd rather discuss on the internet than argue on the internet.
+>> 
+
+>> **u/embrodski** [+3] *
+>> 
+>> White heterosexual male, 35, American (Colorado), Accountant. Born in Poland, but raised here since age 3. Grew up in an apocalyptic protestant offshoot (Jehovah's Witness), dropped that in my early teens. Dropped out of college after one year. Basically middle-class my whole life.
+>> 
+
+>> **u/MugaSofer** [+3] *
+>> 
+>> White, Irish - I've been told I'm "black Irish", whatever that is. Irish-American (Catholic) on one side, some English immigrant heritage on the other. Liberal, vegetarian, CoI upbringing. Just entered college.
+>> 
+
+>>> **u/Transfuturist** [+3]  *Carthago delenda est.**
+>>> 
+>>> > black Irish
+>>> Wiki says it's Irish-descended black-haired peeps.
+>>> 
+
+>> **u/LeonCross** [+3] *
+>> 
+>> White heterosexual male. 28, Small town in Southern Indiana. Extended family is Christian while I'm agnostic in theology and Secular Humanism in a more practical sense.
+>> I've got about 6 years of college in my past though no degree. Did three years of random courses to no actual degree before a bunch of life stuff came up.
+>> Did another 3 years towards Sociology with a focus on the statistics side of things before a bunch of real life stuff came up.
+>> From working odd and end jobs over the years and having little in the way of actual wants I've got a low five figure amount of money saved up and live in a family members antique.
+>> I have a brain state that I find odd in that I have little in the way of wants or desires. I believe, despite having a reasonably large spending pool and very little in the way of life expenses due to my situation, that I've spent less than $300 on anything that wasn't a need in the past year. Similarly, I have no need for external human contact and spend most of my time reading fiction, non-fiction, or learning whatever random subject interests me.
+>> I wager my life expectancy is dependent on how long I have a family member willing / able to shelter me from the requirement to pay to live.
+>> /End report.
+>> 
+
+>>> **u/Marthinwurer** [+1] *
+>>> 
+>>> Have you ever been to a mental health professional? It might be helpful for you.
+>>> 
+
+>> **u/BadGoyWithAGun** [+3] *
+>> 
+>> Bavarian, male, early-30s, heteronormative, patriarchal, cissexist, cultural-catholic, neoreactionary. Raised in a mixed conservative-modern catholic rural environment. MSc in electrical engineering, currently working as a junior researcher in the area of machine learning. 
+>> I was introduced to the "rationalist community" by Overcoming Bias after being a Kurzweil singularitarian for a year or so. To this day, I find far more sense and rationality in Hanson's works than EY - the "less wrong" brand of rationalism seems to me to consist mostly of signalling how rational you are until your audience is impressed enough to accept your edgy contrarian opinions.
+>> 
+
+>> **u/traverseda** [+4]  *With dread but cautious optimism**
+>> 
+>> White heterosexual male, software engineer, 23 years old. Nova Scotia.
+>> I dropped out of highschool, and grew up in a lower-class household, ghetto adjacent. Now days I generally don't have trouble finding a job that pays more then the medium household income for my region.
+>> You see a lot of rationalist software engineers, and part of me thinks that's because it's the correct choice when you're got the kind of skills that lead you towards the rationalist movement.
+>> 
+
+>>> **u/None** [+4] *
+>>> 
+>>> > You see a lot of rationalist software engineers, and part of me thinks that's because it's the correct choice when you're got the kind of skills that lead you towards the rationalist movement.
+>>> It's easily one of the most advantageous career choices to go for, if you don't happen to have career goals beyond, "It's indoor work with no heavy lifting, they'll pay nicely for it, and people will consider me a Respectable Member of Society."  It also fits *very* nicely with certain incentives people deal with these days, such as more traditional Respectable Professions like law or medicine carrying heavy burdens of student debt; finance, consulting, and management being founded around elite cliques; and Generic White Collar Employees slowly ceasing to exist.
+>>> If you have an analytical turn of mind, don't want to spend more than 3-4 years in school, don't want to take on slave-labor or heavy debts at the beginning of your career (or want to be able to pay them off reasonably), and want to make a living with your analytical turn of mind, software engineering is a good choice.
+>>> 
+
+>>>> **u/blazinghand** [+5]  *Chaos Undivided**
+>>>> 
+>>>> Eaturbrainz is correct. I think if you're able to be an engineer of any sort, that's often a safe, solid choice for a career and does not require an expensive graduate degree. Being a software engineer has lower entry requirements than other forms of engineering, like electrical engineering. 
+>>>> I wonder if it's something where being a rationalist helps one make this sort of decision, or if being the sort of person who makes this kind of decision makes one likely to seek out rationalism. I imagine it's more of the latter and less of the former.
+>>>> 
+
+>>>>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate**
+>>>>> 
+>>>>> Well, I chose my mech eng course for Uni before I became a formal rationalist (though the stirrings were there). I think mostly it's just a very pragmatic choice to make, so it selects for pragmatic people more likely to go to rationalism. 
+>>>>> Remember when you were choosing a course? Everyone seemed to be picking things based on what sounded cool and you were just sitting there thinking 'you're going to work at tescos scanning baked beans, none of these courses lead to actual jobs'. Everyone else was deciding based on thing that didn't feel like logic, but you couldn't tell them otherwise because it felt like you were insulting their free spirit or whatever.
+>>>>> 
+
+>> **u/notmy2ndopinion** [+2]  *Concent of Saunt Edhar**
+>> 
+>> I'm a mixed Asian-American (Chinese-Japanese-Okinawan) male, age 32, born and raised in Hawaii. I consider myself to be Kama'aina (that's 'local Hawaiian,' but lacking Native Hawaiian ancestry) primarily, since Asian has a connotation that you're fresh-off-the-boat in Hawaii.  I grew up in a household without religion and I continue to be an atheist (although I tend approach people as a confused agnostic when I ask about their religions.) I went to college and med school in Hawaii and moved across the country to Cambridge, Massachusetts for Family Medicine Residency. I'm happily engaged to my female fiancee and we're interested in starting a family soon.
+>> I stumbled across a shout-out to HPMOR in a youtube comment on MrBtongue's Tasteful-Understated-Nerdlove on Magic! The youtuber had a surprisingly constructive comment on how to make something magical while removing the mysticism. I burned through HPMOR, then Ra, then Worm, as a result. After concluding these rationalist stories, I needed more. So... now I'm here!
+>> 
+
+>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate**
+>> 
+>> Early 20's white heterosexual male (unless a really perfect guy came along I guess). Breakdancer, rock climber, archer, out of work Mechanical Engineering graduate. Born and raised in the UK. I consider it a wonderful country but I wonder if that is merely the result of me having been raised here and thus considering its idiosyncrasies to be normal. I think practically speaking the chances of me being born in the country that is most suited to me by chance are low, but as I age I think I internalise more of the things about the country as 'just the way I like it'. I want to get chartered as an Engineer while scouting other countries, then move to one if it seems better. As time passes though I seem to be growing into the country I am in now, so by the time I am in a position to put my plan into place I may no longer want to. This worries me.
+>> I met some very fun, sexually liberated people last night and plan to meet them again tonight. We'll see how that goes.
+>> 
+
+> **u/Cariyaga** [+6]  *Kyubey did nothing wrong**
+> 
+> So. [Undertale](http://store.steampowered.com/app/391540/). It's pretty much my favorite game ever, beyond any shadow of a doubt.
+> It's a deconstruction of traditional RPGs and video games in general. While you're given the option to fight monsters, the game tacitly encourages you to use MERCY -- talking things out with monsters in order to avoid killing them. Whether you choose MERCY or to FIGHT everything you come across vastly affects whether the game is a lighthearted, heartwarming (and heartbreaking) adventure or whether the game will treat you like the genocidal scum you play at being. 
+> It is entirely possible to get through the entire game without killing a single monster.
+> The humor, to me at least, was top notch -- though YMMV on that -- if you enjoy either Earthbound or Homestuck humor, you'll probably enjoy this. And on the topic of Homestuck, the creator, Toby Fox, is one of the musicians for it, and it shows in this game; the music is exceptional, and so is the story. Most of the soundtrack is available at his [bandcamp](https://tobyfox.bandcamp.com/), excepting a few more spoilery songs.
+> I really enjoyed Undertale and it's left me a tearful mess the last few weeks.
+> 
+
+>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+>> 
+>> > So. Undertale . It's pretty much my favorite game ever, beyond any shadow of a doubt.
+>> > 
+>> Are the controls re-mappable? It looks like fun but my arrow keys are busted.
+>> 
+
+>>> **u/Cariyaga** [+2]  *Kyubey did nothing wrong**
+>>> 
+>>> Not the arrow keys, as far as I'm aware... it does support gamepad functionality, though, as well as the possibility of using a third-party remapper.
+>>> Otherwise... I'm pretty sure you could modify the game files to use a different control scheme, but I'm not sure how you'd go about that. Sorry I can't be more help.
+>>> 
+
+>>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+>>>> 
+>>>> Looks like I'll give it a miss then. I really need to get a new laptop.
+>>>> 
+
+>>> **u/blazinghand** [+1]  *Chaos Undivided**
+>>> 
+>>> The game is compatible with gamepads and joysticks. I played through it on an xbox gamepad with no difficulities.
+>>> In terms of my review: This game is easily on par with Tales of Game’s Studios Presents Chef Boyardee’s Barkley, Shut Up and Jam: Gaiden, Chapter 1 of the Hoopz Barkley SaGa. It's fun to play, interesting, and comments on JRPGs / RPGs in an interesting way.
+>>> 
+
+> **u/CopperZirconium** [+5] *
+> 
+> I JUST SAW THE MARTIAN AND HOLY GLORIOUS MARS IS IT AMAZING!!! Also fairly faithful to the book, though of course they had to cut out a lot of the info-dump exposition of the clever hacks. But other than that, it's one of the best movie adaptations I've seen!
+> 
+
+>> **u/PL_TOC** [+1] *
+>> 
+>> I thought it was worth a rental but that's about it. There was a severe lack of dramatic tension.
+>> 
+
+>>> **u/CopperZirconium** [+1] *
+>>> 
+>>> I think that's mostly from already knowing the story. I already knew which things would work and which wouldn't, so things like the first emergency rations shipment blowing up didn't surprise me at all. 
+>>> I went in to the movie hoping that it would be faithful to at least the tone of the book, and fearing that it would turn out like the movies for Eragon, Percy Jackson, The Hobbit, etc. Compared to my expectations it was awesome. It was everything I want in a movie adaptation of a book I loved. Yes, they got rid of most of the clever science Apollo-13 parts, but I can forgive them for that because they kept the plot and the tone.
+>>> 
+
+> **u/xamueljones** [+6]  *My arch-enemy is entropy**
+> 
+> Let's say you meet a real-life Scooby-Doo (not the character, but a talking Great Dane) and the dog then leads you into witnessing a nasty real-life supernatural event such as watching a ghost-like figure made of ectoplasm possessing a man and attempting to kill the man through suicide as revenge. How would you react?
+> Assume you were convinced of the supernatural, what would you do?
+> EDIT: For anyone who's curious why I'm doing this, I'm thinking of writing some rationalist Scooby-Doo fanfiction for RaNaNoRiMo and I wanted the instinctive reactions of bystanders when they meet Scooby-Doo and see the (seemingly) supernatural events all of a sudden.
+> So no, you should not have any prior knowledge of Scooby-Doo.
+> 
+
+>> **u/traverseda** [+11]  *With dread but cautious optimism**
+>> 
+>> Step 1: Randi
+>> Step 2: ???
+>> Step 3: Torchwood
+>> ---
+>> Or, to put it another way, I need to know why there aren't more-competent-then-me authorities who can handle this sort of thing.
+>> 
+
+>>> **u/Transfuturist** [+7]  *Carthago delenda est.**
+>>> 
+>>> Let us make clear the fact that the only reason going to Randi is an option here is because it is not your power that he would be stealing. :P
+>>> 
+
+>> **u/gabbalis** [+2] *
+>> 
+>> Is this the Mystery Incorporated continuity or the normal one? Actually... why is nearly nobody ever surprised scooby can talk in any of the canons? How common are talking dogs in scooby's universe anyway? Everyone related to him seems to have the ability at least...
+>> 
+
+>>> **u/xamueljones** [+6]  *My arch-enemy is entropy**
+>>> 
+>>> Actually, I want as little restriction on my creativity as possible when it comes to the world-building so all I'm going to be using is the characters of Shaggy, Scooby, Velma, Daphne, and Fred. Otherwise, I'll be coming up with the setting all by myself.
+>>> I'm veering towards having the supernatural be a real thing, but where the Mystery gang are dealing mostly with normal people in a monster get-up. It would partially explain why there's never any actual authorities to investigate. They're too scared or incapable of handling the supernatural and whenever there's a possibility of the supernatural, everyone steers clear. The Masquerade is partially maintained through willful ignorance and it's more common than not for people to have had a supernatural encounter or to know someone who has 'disappeared'. Therefore, the Mystery gang are often the only ones actually willing investigate and stop people using the possibility of the supernatural as a threat. Of course, it helps that they are better prepared than the average individual if it turns out to be a genuine supernatural event...
+>>> Scooby-Doo talks because....well....I'm actually spoiled for choice on what to go with. Telepathy with only the group, failed possession by ghost granting speech, a friend cursed into the form of a dog, spiritual connection granting the ability to communicate with any living creature, or even a dog-shaped eldritch abomination who was the first supernatural encounter/monster who they beat and bound into servitude. The last one is really tempting and I think I might have him only speak in words starting with the letter R as part of the **Rules** he follows as part of his unnatural nature.
+>>> Also, cursed monster costumes would explain why so many weekly-villains will be such perfect actors. Seriously, they will act so much like an actual animal/beast/monster that one would swear that they were really monsters.
+>>> Don't talk to me about Scrappy. He doesn't exist.
+>>> EDIT: For anyone who's curious, I blame /u/TimeLoopedPowerGamer for this [idea](https://www.reddit.com/r/rational/comments/39986f/q_can_a_dumb_protagonist_exist_in_a_rational_work/cs1m9c3).
+>>> 
+
+>>>> **u/gabbalis** [+2] *
+>>>> 
+>>>> Who is this 'Scrappy'? I was just talking about Scooby Doo's mentally challenged cousin, [Scooby Dum](https://www.youtube.com/watch?v=AdVeKxDt7GU).
+>>>> 
+
+>>>>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>>>> 
+>>>>> ........
+>>>>> ........
+>>>>> ........
+>>>>> Well this is new.....
+>>>>> I'm glad that I'm not going to be trying to incorporate anymore than the 5 main characters.
+>>>>> 
+
+>>>>>> **u/gabbalis** [+1] *
+>>>>>> 
+>>>>>> There's also Scooby's movie star cousin... [Scooby Dee](http://scoobydoo.wikia.com/wiki/Scooby-Dee). His Grandfather [Grandad Scooby](http://scoobydoo.wikia.com/wiki/Grandad_Scooby) and... yeah actually it's probably best to just stick with normal Scooby.
+>>>>>> 
+
+>>>> **u/scruiser** [+1]  *CYOA**
+>>>> 
+>>>> I should have read this post before writing out my first reply...
+>>>> > They're too scared or incapable of handling the supernatural and whenever there's a possibility of the supernatural, everyone steers clear. 
+>>>> If the supernatural is known to exist in-universe, then I think in this counterfactual universe, I would have been drawn to whatever scientific field is doing the most to study it.  I mean, right now I am interesting in AI and computational neuroscience because AI has the most potential to alter/influence the world, and neuroscience has so much left to learn and develop.  In a world were the supernatural existed, often enough for it to be recognized to exist, but still rare, exotic and dark enough that science hasn't really studied it, I would definitely be interested in it, and I think most rationalists would (even if the acknowledged danger made it not worth the trouble to actually study).
+>>>> In terms of meeting the Scooby gang, I would definitely want to talk to them once I realized they regularly encountered supernatural phenomena.  Maybe try to get some phone numbers and offer to do analysis or experimentation on any previous mysteries that have leftover persisting supernatural phenomena? (They may have banished that ghost a few months ago, but they saved samples of ectoplasm that a solid analysis on could be the basis of some good dissertation work) 
+>>>> > Scooby-Doo talks because....well....I'm actually spoiled for choice on what to go with.
+>>>> Rare breed of dog bred (possibly with magic) to achieve sapience.
+>>>> 
+
+>>>>> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+>>>>> 
+>>>>> .....I probably should have mentioned this earlier, but I'm planning on there being a fairly severe economic depression and a technological slowdown (or minor crash?) to explain why there are so [many haunted and abandoned buildings](http://www.cracked.com/article_19496_6-classic-kids-shows-secretly-set-in-nightmarish-universes.html) in the Scoody-Dooverse. So technology is at the level of simple computers with no real working Internet. I need to make it hard for the gang to contact with the rest of the world without forcing them into extremely isolated places. So I'm nerfing communication technologies with the cause being either a techno-crash, or the supernatural actively cutting communications to keep their 'prey' from ganging up on them like a herd of cows stampeding. So probably 1990s level of technology like in the show, but with a few more advanced pieces from the 2020s.
+>>>>> In addition, the supernatural isn't just a strange breed of creatures or exotic physics-bending energy. They're meant to be more like the creatures from the Brothers Grimm fairy tales where they were atrocious, horrifying monsters who you could only run away from and not fight. These are not your Tinker-Bell style fairies. Before you even suggest humans working together and using technology against them, I'll point out that they are *smart* monsters who have learned to adapted to using technology. These monsters are careful to never overprey on any one city to terrify everyone into fighting instead of fleeing, and they are cautious to remain as the scary *unknown* threat instead of the scary *known* threat. Also they understand the out-of-sight, out-of-mind rule very well.
+>>>>> I mean, if I'm going to be writing a rational story, then I better make the monsters rational as well.
+>>>>> The story's going to an even balance of dark and light-hearted moments, but it's set in a fairly dark world.
+>>>>> PS Thanks for talking things out with me! I'm coming up with lots of more details to add to the story as we go on.
+>>>>> 
+
+>>>>>> **u/scruiser** [+1]  *CYOA**
+>>>>>> 
+>>>>>> >  So technology is at the level of simple computers with no real working Internet.
+>>>>>> ... And you just made this setting super dark and depressing... Is it messed up that I find no working internet worse than monsters that actively prey upon humanity?
+>>>>>> To brainstorm more on the internet angle... it seems like high tech, high information areas like universities or such should at least be able to set up a good local network.  So even if there is no internet, there should be at least the occasional intranet used by research communities or such.  Also, are phone lines down also?  It seems like a very low bandwidth internet might be possible, with text only discussion groups.
+>>>>>> Also, commenting on your other reply to consolidate threads.
+>>>>>> > deliberate misleading groups by those in the know, and monsters deliberately tend to prey on groups like that.
+>>>>>> Just imagine it, you survived an encounter with a vampire or other monster, you go online to search out more information about it, you find a group that meets to discuss issues like your experience.  They are meeting in a public place, like a restaurant or something, so you think you are safe going to the meetup.  At the meetup, someone locks the door and half the people there change into horrible monsters who slaughter everyone.
+>>>>>> >  to explain why there are so many haunted and abandoned buildings in the Scoody-Dooverse.
+>>>>>> If buildings are getting abandoned so frequently, that might mess with the common plot of the villain faking the haunting the buy the property cheap.  Why try to scare people out when their is an abandoned building that no one is using nearby that they could buy for cheap?
+>>>>>> 
+
+>>>>>>> **u/eaglejarl** [+4] *
+>>>>>>> 
+>>>>>>> > And you just made this setting super dark and depressing... Is it messed up that I find no working internet worse than monsters that actively prey upon humanity?
+>>>>>>> No. Absence of Internet is far more harmful to humanity than a moderate amount of supernatural predation. Supernatural predation can even end up being positive, but things are strictly better with internet than without.
+>>>>>>> 
+
+>>>>>>>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>>>>>>> 
+>>>>>>>> > Supernatural predation can even end up being positive
+>>>>>>>> How do you figure this can ever be true?
+>>>>>>>> 
+
+>>>>>>>>> **u/MugaSofer** [+1] *
+>>>>>>>>> 
+>>>>>>>>> Well, they might eat bad people.
+>>>>>>>>> 
+
+>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>> 
+>>>>>>>>> Because if the supernatural exists to predate on us, then we can exploit it. Humans are *the* apex predator on this planet for a reason -- we're smart, we work well together, and we have good weapons. Prove the existence of vampires and we'll hunt them down and put their magic healing blood in standard first aid kits.
+>>>>>>>>> 
+
+>>>>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>>>>>> 
+>>>>>>> > ... And you just made this setting super dark and depressing...
+>>>>>>> Hey, I needed an actual problem that most W.E.I.R.D. folks could sympathize with. Not the traditional wasteland where everyone needs to forage for food, I want my characters to *suffer!*
+>>>>>>> I was planning on allowing localized networks to continue working, since humanity didn't lose the ability to make the tech, they just lost the ability to implement it on a national to global scale.
+>>>>>>> Phone lines are a bit of a tricky choice. I need to think about it, but there definitely should still be some allowance for localized telephone lines. The monsters just want to make it easy to isolate smaller towns, but they'd also like the ability to make a phone call. So significantly more infrastructure for phones should remain versus the infrastructure for the Internet. I need to spend some time studying just how one could shut down the Internet and what point in its history and development would the monsters have done it (they definitively wouldn't have allowed it to get to the current day's level of connectivity).
+>>>>>>> I'm thinking about how long range radio and sending low band-width texts might work.
+>>>>>>> > If buildings are getting abandoned so frequently, that might mess with the common plot
+>>>>>>> Who says I'm going for the **common** plot?
+>>>>>>> 
+
+>>>>>>>> **u/scruiser** [+2]  *CYOA**
+>>>>>>>> 
+>>>>>>>> > Hey, I needed an actual problem that most W.E.I.R.D. folks could sympathize with. Not the traditional wasteland where everyone needs to forage for food, I want my characters to suffer!
+>>>>>>>> The characters are basically being forced to forage for information.  They know there exists a ritual to banish the ghost or stop the witch or whatever the monster of the week is... but the only book they know of that has instructions on this is in a University hundreds of miles away... So instead they are left with  the option of searching through the spooky abandoned library in the mansion for some applicable knowledge.
+>>>>>>>> >  I need to spend some time studying just how one could shut down the Internet and what point in its history and development would the monsters have done it (they definitively wouldn't have allowed it to get to the current day's level of connectivity).
+>>>>>>>> Here is a good example to consider:
+>>>>>>>> https://en.wikipedia.org/wiki/2011_Thailand_floods#Damages_to_industrial_estates_and_global_supply_shortages
+>>>>>>>> Floods in Thailand knocked out 25% of the world's hard drive production, causing prices to double for some time.  If the monsters have access to magic that can cause natural disasters, then carefully targeted natural disasters to various key locations could gradually slow technological progress.  Moore's law is a self fulfilling prophecy... and people have been expecting to end or slow for some time.  It takes a lot of investment to keep improving.  If the right companies had gotten hit at the right times maybe the monsters could break the cycle of technological improvement.
+>>>>>>>> Also, in general you might consider what technologies depend on computers to improve, what technologies could continue to advance without computers improving.  Also, what technologies require large centralized infrastructure development and investment to be possible.  I imagine SpaceX wouldn't exist in this run-down world.
+>>>>>>>> 
+
+>> **u/scruiser** [+2]  *CYOA**
+>> 
+>> >  I wanted the instinctive reactions of bystanders when they meet Scooby-Doo and see the (seemingly) supernatural events all of a sudden.
+>> So first just addressing meeting a talking dog, before I run into any supernatural stuff.  Hmm... is this set in the modern day?  I would google for talking dog if I didn't already know about talking dogs... actually how would the existence of talking dogs play out?
+>> Possibility 1) In this universe, maybe talking dogs are actually a rare, but scientifically known thing?  I mean Scooby has relatives that can talk, right?  Maybe in-universe a breed of dogs was breed to be sapient.  In this counter-factual universe, I would be a vegetarian if there wasn't know to be massive neuro-anatomical or neuro-biological differences between this talking dog breed and other dogs (I would interpret it as evidence that dogs, and animals in general are much closer to human level of sapience).  I would excited to meet a talking dog in person, but I would try not to be too awkward or weird about it.  My googling (or maybe asking reddit for advice if I have time) would let me know how to interact in a polite way with a non-human sapient.
+>> Possibility 2) Talking dogs aren't known in universe.  I would be expecting it to be a prank or surrealist art or something weird like that.  If I can rule out these possibilities, then I get suspicious of some weird possibilities.  I would google search for Scooby... if I found evidence that Scooby and his talking relatives were scientifically known, I would be highly puzzled why they aren't famous... I might expect some kind of conspiracy or mass mind manipulation.  If Scooby is entirely unknown to the internet and society, then I really expect some form of mind-manipulation.  Once I see other supernatural stuff, I am going to be almost sure of some kind of [masquerade](http://tvtropes.org/pmwiki/pmwiki.php/Main/Masquerade).  I would be expecting the Scooby gang or government agents to try to wipe my memory when this was done.  They are probably used to people trying to resist, so I will only put up a believable token resistance, and then leave myself hidden messages according to plans I have worked out ahead of time.
+>> If I can make it through everything without getting my mind wiped or any other thing to make me ignore it, either Randi (assuming he is not in on the conspiracy/masquerade  also), or I am probably going to heavily pursue occult knowledge/power.  Depending on what type of time commitment and skill set developing magical knowledge/skill requires.  I might give up working on my PhD and try to find a job that will pay enough to get by and have flexible enough hours so I can work on studying magic more.
+>> 
+
+>>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>> 
+>>> Thanks! In the Scooby-Dooverse I'm imagining, strange things are extremely common and the people in the know attempt to disguise it by manufacturing entirely different, yet also weird events to minimize accurate knowledge spreading.
+>>> So many people would be aware that something weird is happening but it's dangerous to get involved, and they all live in a culture where it's normal to ignore it (like how Japanese society will ignore people not acting appropriately (not sure how accurate this is, but something similar is what I'm going for)).
+>>> So your reaction from possibility #1 is very helpful.
+>>> 
+
+>>>> **u/scruiser** [+2]  *CYOA**
+>>>> 
+>>>> More brainstorming on the talking dog thing: I would imagine there would be subreddit or two devoted to talking dogs.  Maybe some tumblr hashtags for talking dog rights?  It would be kind of a fringe social issue.  Religious nuts would deny talking dogs' rights, while more liberal religions would treat them as a target for evangelism.  
+>>>> > So many people would be aware that something weird is happening but it's dangerous to get involved, and they all live in a culture where it's normal to ignore it 
+>>>> I can imagine getting excited about witnessing the supernatural, then going on reddit and finding a subreddit where people are discussing similar things, only to find that there experiences are ignored by most people around them and that I am now statistically at risk for dying in a supernatural event.
+>>>> >  strange things are extremely common and the people in the know attempt to disguise it by manufacturing entirely different, yet also weird events to minimize accurate knowledge spreading.
+>>>> I think that will be a really clever and original take on the whole masquerade thing.
+>>>> 
+
+>>>>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>>>> 
+>>>>> > I think that will be a really clever and original take on the whole masquerade thing.
+>>>>> Thanks I'm really proud of it. I just asked myself, "If in that movie, it's really obvious that magic exists with the wizards flinging spells in broad daylight and yet people are still ignorant, what could explain this effect without using any magic?"
+>>>>> From there I came up with either fear/caution of getting involved with high dangerous activities, knowledge it exists but there's no reliable information, or some souped-up Bystander Effect ingrained into the culture itself. Of course, why use only one method to maintain the masquerade when you can use them all!
+>>>>> > I would imagine there would be subreddit or two devoted to talking dogs.
+>>>>> There's a lot of causes/subreddits for the more benign and minor supernatural stuff, but they rarely get anywhere since a lot of people are just running some sort of financial scams, deliberate misleading groups by those in the know, and monsters deliberately tend to prey on groups like that. Of course when the Internet went down permanently, such groups dissolved.
+>>>>> However, while they lasted there was a large number of groups where one could learn the right things quickly enough (and caused the monsters to focus attacks on the communications systems) and that's how I imagine Velma getting a lot of her encyclopedic knowledge from and giving the gang a nice initial boost in experience to survive the initial unlucky occurrences.
+>>>>> 
+
+>> **u/traverseda** [+2]  *With dread but cautious optimism**
+>> 
+>> Fits nicely with cabin in the woods.
+>> 
+
+>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>> 
+>> If a talking great dane led me to an apparent supernatural event, I would assume that either someone was pranking me with a Scooby Doo set-up, or Scooby-Doo was not fiction after all. Since the only _genuinely_ supernatural thing in Scooby Doo is the fact that Scooby can talk, I'd still assume the supernatural event was faked.
+>> 
+
+>>> **u/Jiro_T** [+2] *
+>>> 
+>>> I think that questions like this are subject to the [Celebrity Paradox](http://tvtropes.org/pmwiki/pmwiki.php/Main/CelebrityParadox), so you should assume a version of yourself in a universe where Scooby Doo doesn't exist as fiction.
+>>> 
+
+>>>> **u/ArgentStonecutter** [+5]  *Emergency Mustelid Hologram**
+>>>> 
+>>>> Friend, if Scooby Doo didn't exist I'd be a completely different person. \^\^
+>>>> 
+
+>> **u/MugaSofer** [+1] *
+>> 
+>> Does he talk in a goofy Scooby-Doo accent? Because otherwise, I don't think I'd make the connection.
+>> Anyway, I'd react by asking a load of questions, and searching the dog for hidden speakers and so on.
+>> 
+
+>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+>> 
+>> Reaction 1: ask to borrow the dog and go figure this shit out with some scientists (MRI and stuff).
+>> Reaction 2: Leave the area for a week or two. Other people can deal with supernatural shit, I don't want to be murdered by a ghost. By the time I get back it'll either be sorted or obvious that I need to leave permanently.
+>> 
+
+> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+> 
+> I've been wondering for a while now, but can anyone give me advice on how to write a female character? I mean, I'm a male and I don't know if I should be taking anything in particular into account when I write from a female perspective instead of just writing normally anyway.
+> 
+
+>> **u/alexanderwales** [+15]  *Time flies like an arrow**
+>> 
+>> I just write them the same as I would a male and hope that no one calls me on it. So far as good!
+>> 
+
+>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>> 
+>>> Lol, that's pretty much how you should do it.
+>>> 
+
+>> **u/CopperZirconium** [+3] *
+>> 
+>> *This is advice from a real female* 
+>> People are varied and there is a wide spread of personalities across both genders. Treat all your characters as if they are supposed to be people, not stereotypes. Write your female characters the same as you would your male characters.
+>> Speaking as a women pursuing a degree in computer engineering, I don't really feel the gender disparity. I *notice* stereotypes and social conventions but then I choose to do my own thing. I notice that there are five other girls in a class of thirty (the only reason I notice is because everyone makes a big stink over women in STEM), and then I move on. I don't behave differently in classes with different gender ratios. Most of the differences I see between me and my classmates I chalk up to personality differences, not gender differences. People are People.
+>> 
+
+>>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>> 
+>>> That's kind of what I thought I should do, but thanks for the confirmation. ;)
+>>> 
+
+>> **u/None** [+1] *
+>> 
+>> I'm going to second the people saying: the character's personality matters more.  Do real character-building first, then basically flip a coin to tack on a gender identity at the end.  This will make sure your character-design process more-or-less reflects the way gender really happens to people.
+>> 
+
+>>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>> 
+>>> This only really works if you're writing in a setting where society has achieved perfect gender equality, or you're writing a character whose gender has never had any explicit *or implicit* impact on them (alternately, a character who you backfill the details on, but then I'd argue you're not tacking that stuff on *last*).
+>>> Like, if my character doesn't have a gender, I can't really think about how they react to their gender norms. They can't possibly be shaped by a mother who wanted a daughter instead of a son. Hell, if they have children, their experience with that child is probably a quite different depending on their gender. And the further back in time you go, the more differences you're going to run into; if your character is a reporter in the 1930s, you can't flip a coin at the *end*, because a female reporter in the 1930s is necessarily going to look totally different from a male reporter in the 1930s, just because of the way that they were shaped by society (whether that's conforming or reacting against).
+>>> So I tend to flip a coin on gender early on and think about what effect gender would have had, which causes changes even if I assume that men and women are internally identical.
+>>> 
+
+>>>> **u/None** [+3] *
+>>>> 
+>>>> Very good point.  It's more accurate to decide on a character's core personality, then their social role, and then base the gender off the social role or something like that.
+>>>> But the point being, treat gender as a *role* rather than as a core personality trait.
+>>>> 
+
+>> **u/avret** [+1]  *SDHS rationalist**
+>> 
+>> Do you have female friends who are good writers and willing to write a few lines of dialogue/perspective?
+>> 
+
+>>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>> 
+>>> There are some people who I can talk about this with. But I don't want to write a few lines of dialogue for a supporting female character. I want to be able to write a female protagonist.
+>>> 
+
+>>>> **u/avret** [+1]  *SDHS rationalist**
+>>>> 
+>>>> Extrapolate from a few lines to the full character.
+>>>> 
+
+> **u/eaglejarl** [+3] *
+> 
+> Heath Ledger or Jack Nicholson -- who did a better Joker?
+> (Definition of "better" deliberately left vague.)
+> I'll start:
+> Jack, all the way. First, his makeup was more true to the character. Second, he had the whole "psychotic clown" thing down, whereas Heath did "psychotic" but not "clown."  Look at the art museum scene with Jack, his mooks, and Kim as an example of why I think Jack was better at "psychotic clown."
+> 
+
+>> **u/GlueBoy** [+1]  *anti-skub**
+>> 
+>> Kinda late, but my answer is that while Nicholson's joker was more faithful to comic, Ledger's was a more interesting character as a whole.
+>> 
+
+> **u/FuguofAnotherWorld** [+4]  *Roll the Dice on Fate**
+> 
+> People always hype the Wheel of Time series, so I thought I'd give it a try. Got 3/4 into the first book and just gave up. It's just so... stereotypical? Obvious? Tropey? Was all this stuff fresh and new when it first came out?
+> The characters annoy me. Small Town McDestiny is incapable of following basic instructions (What's that? You're in a ruined haunted city and the wizard lady has told you not to go wander? Better go wandering!). Wizard Lady is incapable of giving proper instructions and basic pattern recognition (What's that? You want McDestiny to stay close? Better give some vague and cryptic warning instead of actually telling him any actionable facts. Like, said, you could mention that you've warded the room and smoke demons will try to eat him if he leaves it. Seems like the kind of thing you'd want to know.). Missy Manhater I assume is supposed to be a strong female character, but her defining traits seem to be bigotry with a side of sexism rounded off with a dollop of stubbornness. 
+> Now, I wouldn't care about this. I'd just brush it off as and move on. I read worse things often enough and they don't bug me at all, but everyone keeps talking like this book is some fantastic classic on the level of aSoIaF and such and I just don't get it. What am I missing here. Does it suddenly improve?
+> 
+
+>> **u/alexanderwales** [+5]  *Time flies like an arrow**
+>> 
+>> I had more or less the same experience with *Wheel of Time* and was similarly puzzled. The books came out in 1990, so it can't really be that they were doing anything *new*, since so many series predate it.
+>> Here are my twin explanations:
+>> 1. While it wasn't doing anything too terribly new, it caught a generation of fantasy readers at just the right time. Let's say that you're born in 1975. The first book comes out when you're 15. It's entirely possible that this is among the first fantasy books that you read. So you don't really know the cliches, you don't really care about the places where it's uneven, it fires your imagination.
+>> 2. The series is long, so people have buy-in. I have long had the theory that even if quality is low (something I'm not really ready to say about *Wheel of Time*, even if the first book didn't do it for me) you can make up for it with length. There's some sort of literary Stockholm Syndrome thing that goes on if someone is a million words in. So *Wheel of Time* is long and builds up credit by being long.
+>> 
+
+>>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+>>> 
+>>> You think the act of putting so much effort into a reading a thing makes people want to justify reading such a long thing to themselves so they decide that it is good? Well... I can't fault your thinking. That makes a depressing amount of sense. And I suppose some of the things I enjoyed reading at 15 were truly awful.
+>>> 
+
+>>>> **u/Marthinwurer** [+2] *
+>>>> 
+>>>> As another reader of WoT, half of it is buy-in - the other half is it's just fun to read (for me, at least - as shown, YMMV). On the other hand, I really love tropey stuff, so I'm not the best one to judge. I get really into the worldbuilding and plot, notice some of the plotholes, and just keep on reading. I may just be used to stuff like that by now.
+>>>> 
+
+>>>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>>> 
+>>>> I think, as a more general principle, length is virtue. *Why* is a complex question, but I think there are a few parts to it:
+>>>> 1. [Mere-exposure effect.](https://en.wikipedia.org/wiki/Mere-exposure_effect) We tend to like things that we're familiar with. A book that's two hundred pages gives you less of a chance for familiarity than a book that's a thousand pages, or a series of books that are each five hundred pages. By the time you're a million words in, you're very exposed to the material, which means that you'll look on that thing favorably.
+>>>> 2. [Post-purchase rationalization.](https://en.wikipedia.org/wiki/Post-purchase_rationalization) A longer book (or long series of books) requires more from the reader, both in terms of money spent on the books and time spent reading the books. We want to think that we've made the right choice in how we spend our time/money, so we convince ourselves that we made the right choice.
+>>>> 3. [Selective perception](https://en.wikipedia.org/wiki/Selective_perception). We get used to minor annoyances. After maybe twenty pages, you get used to any quirks in the prose or other issues with the writing. You have to go through this again with each new session of reading, but you get better at acclimating every time. Eventually it's just automatic and your brain is censoring out all the problems unless you're particularly good and/or diligent at being a mindful reader.
+>>>> And I should note that this applies even if the books in question are *fantastic*.
+>>>> 
+
+>>>> **u/JaundicedDragon** [+1] *
+>>>> 
+>>>> Putting so much effort in might also shape what we think is good. Wheel of Time fits my tastes in Epic Fantasy perfectly, but after 12,000+ pages it's probably had a fair bit of influence.
+>>>> 
+
+>> **u/JaundicedDragon** [+1] *
+>> 
+>> While *Wheel of Time* doesn't really do anything new, it generally does things well. Particularly strong are the worldbuilding, magic system, 3rd person perspective, and endings. 
+>> It was magic system drew me in as a teen. I'm hard pressed to think of other fantasy series around in the 90s that had as strongly developed systematic magic. And I stuck with them because they had good strong endings. There were satisfying payoffs to plot threads that'd had 15 years of waiting/anticipation, which is something to savour.
+>> As far as improvement, as the series goes on it gets more intricate and or sprawling - more characters, more plotlines, more details. I'd probably say books 4-6 are the high point - there's half a dozen separate plot threads in each, but they still reinforce each other through structure and theme, and come together for a big climax.
+>> 
+
+> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png**
+> 
+> Though I am by no means creative enough to write a story, I have managed to come up with a few (quite unoriginal) premises for (fanfiction) stories, if anyone's interested in using them:
+> * [One incomplete summary, one complete summary, and five premises](https://www.fanfiction.net/u/4098737/)
+> * [Two incomplete beginning excerpts](http://pastebin.com/D3b75E7T)
+> Also, I had some fun attempting a vaguely-rational branch of an erotic-mind-control story [here](http://chyoa.com/story/absolute-power-corrupts/thread/be-cautious-c1cfadf8) (it's an "addventure" site like *Dungeon Keeper Ami*).
+> 
+
+>> **u/eaglejarl** [+2] *
+>> 
+>> What is "addventure"?
+>> 
+
+>>> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png**
+>>> 
+>>> Rather than being written sequentially by a single author, an "addventure" is a set of branching scenes, of which each may be written by a different author. It's like a choose-your-own-adventure story, but any writer may add a new branch wherever he wants to and none of the branches ever converge.
+>>> [A visualization of the tree of scenes extending from the first scene of *Dungeon Keeper Ami*](http://addventure.bast-enterprises.de/tree.php?episode=224921)
+>>> [A visualization of the tree of scenes extending from the first scene of the story to which I contributed](http://chyoa.com/story/absolute-power-corrupts/map?thread=202309)
+>>> 
+
+> **u/None** [+2] *
+> 
+> So in last week's edition of "Learning About Ourselves"...
+> I always thought I would like travelling, and would enjoy how my job gives me opportunities to travel, but it turns out I actually really dislike travelling.  What I really like is being able to fend for myself like an adult when it comes to basic needs and tasks like food, laundry, and furnishings, and so if you ship me off to stay in a four-star hotel for a week during a conference, I feel infantilized and unhappy about it.
+> The fact that you're charging me $50 for three days' worth of laundry and surrounding me with falsely servile staff who feel the need to ask me for a room number to charge for breakfast doesn't help.  I don't want to be *served*, I want to feasibly, conveniently take care of myself!
+> 
+
+>> **u/ArgentStonecutter** [+3]  *Emergency Mustelid Hologram**
+>> 
+>> Stay in a cheaper hotel, or drive to the conference and turn it into a camping trip.
+>> 
+
+>>> **u/None** [+1] *
+>>> 
+>>> In this case, the trip and hotel were sponsored (so I didn't pay for them personally), and the conference itself was in the basement of that very hotel each day.
+>>> Also, driving across a whole continent is at the level where I stop feeling like it's "Living by your own strength" fun-theory stuff, and more like I took a week off work to drive across the damn continent, and why are there all these cars, and oh God I'm terrified, and so forth.
+>>> 
+
+>>>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>>>> 
+>>>> Admittedly, I've never driven across more than half a continent. But then I like not having to worry about taking care of myself when I'm at a conference and have like real things to do. Unless it was some kind of low information level junket, in which case yeh...
+>>>> 
+
+>>>> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+>>>> 
+>>>> You could also only sleep in the hotel, and spend the rest of your time in the city "foraging" for tasty food shops etc. 
+>>>> I'd add that you obviously dislike hotels, but you still can do your own traveling thats less pampering.
+>>>> 
+
+> **u/LiteralHeadCannon** [+2] *
+> 
+> Okay, so "Rational [x].  Discuss." is a pretty shitty thread format, as has been widely acknowledged.  But is it an okay off-topic post format?
+> Rational Heathers.  Discuss.
+> 
+
+>> **u/traverseda** [+3]  *With dread but cautious optimism**
+>> 
+>> Hmm. I don't want to get put on any more lists.
+>> 
+
+>>> **u/LiteralHeadCannon** [+2] *
+>>> 
+>>> A promising start.
+>>> 
+
+>> **u/rineSample** [+1] *
+>> 
+>> ...Are you referring to the name "Heather" or something else?
+>> 
+
+>>> **u/LiteralHeadCannon** [+2] *
+>>> 
+>>> https://en.wikipedia.org/wiki/Heathers
+>>> 
+
+>>> **u/traverseda** [+1]  *With dread but cautious optimism**
+>>> 
+>>> Think 1988 fight club.
+>>> >People will look at the ashes of Westerburg and say, "Now there's a school that self-destructed, not because society didn't care, but because the school was society." Now that's deep.
+>>> 
+
+>> **u/eaglejarl** [+1] *
+>> 
+>> Working only from decades-gone memory here...
+>> Arguably, it already is. Christian Slater's character is a psychopath who seems to actively enjoy death. He does a great job of convincing others to help him get his jollies, all without threats. Honestly, I thought his performance was better than Heath Ledger's Joker.
+>> 
+
+> **u/None** [+1] *
+> 
+> Has anyone else here read the comic book series "[Alias](https://en.wikipedia.org/wiki/Alias_\(comics\))"? It', getting a live-action Netflix adaptation "[Jessica Jones](https://en.wikipedia.org/wiki/Jessica_Jones_\(TV_series\))" which comes out on November 20th ([Teaser 1](https://www.youtube.com/watch?v=ywZE-NEJ2Ik), [Teaser 2](https://www.youtube.com/watch?v=eQ3s178GW0Q), [Teaser 3](https://www.youtube.com/watch?v=Pw7lAFlCSlY))...
+> ...and I am reaching CRITICAL levels of hype!!!
+> It's somewhat hard for me to explain what this comic book means to me, but it has definitely helped shape who I am as a person. I first read it in middle school and it's been my favorite comic book ever since. It deals with the idea of "picking yourself up from rock bottom" better than any story I've ever experienced. The idea that come November 20th I'll be able to share this personally influential story with so many people...I'm ecstatic just thinking about it.
+> 
+
+---
+

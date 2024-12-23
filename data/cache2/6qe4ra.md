@@ -1,0 +1,16 @@
+## [RT][EDU]Batman Extinction Burst, Accurate Empathy Part 5](https://www.fanfiction.net/s/12275245/18/Batman-Extinction-Burst)
+
+* Author: u/None *
+* URL: 
+* Score: 1
+
+* Created: 2017-07-29T23:16:24
+
+### Post:
+
+[removed]
+
+### Comments:
+
+---
+

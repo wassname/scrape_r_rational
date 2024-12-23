@@ -1,0 +1,94 @@
+## [RT][DC] How is a giant evil lair financed and built? Military plunder, taxes, issuing bonds, or selling shares in the lair? Loyal followers, hired workers, or slaves?
+
+* Author: u/ToaKraka  *https://i.imgur.com/OQGHleQ.png**
+* URL: http://www.critical-hits.com/blog/2017/01/24/debt-financing-the-evil-lords-iconic-dungeon/
+* Score: 38
+
+* Created: 2017-01-24T17:16:23
+
+### Post:
+
+[Link to content](http://www.critical-hits.com/blog/2017/01/24/debt-financing-the-evil-lords-iconic-dungeon/)
+
+### Comments:
+
+> **u/xamueljones** [+6]  *My arch-enemy is entropy**
+> 
+> Has there been any books made with all of the articles in it?
+> 
+
+>> **u/ToaKraka** [+6]  *https://i.imgur.com/OQGHleQ.png**
+>> 
+>> If you mean a compilation of the articles, I could make one.
+>> 
+
+>>> **u/xamueljones** [+2]  *My arch-enemy is entropy**
+>>> 
+>>> Thank you for the offer, but you don't need to go to the trouble to do so. I was actually wondering if there was anything already made by the writer(s) on the site since it likely would be professional quality. If no such book exists, then I would prefer to create it myself to best customize it to my tastes than accept a fan-made version from anyone else.
+>>> 
+
+>>>> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png**
+>>>> 
+>>>> > I was actually wondering if there was anything already made by the writer(s) on the site since it likely would be professional quality.
+>>>> What differentiates a "professional-quality" EPUB file from a "fan-quality" one? Making an EPUB file out of a webpage involves nothing but downloading the page, removing the CSS, and tweaking the HTML (to remove everything but the desired content, to add part/chapter/section headings, etc.). Is [this three-volume copy](https://dl.dropboxusercontent.com/u/42443024/In%20the%20Blood.zip) of *[In the Blood](https://www.fanfiction.net/s/6207715)* not "professional-quality"?
+>>>> For a physical book, you could make a case that something printed on standard 8.5"×11" printer paper and collected in a three-ring binder is not "professional-quality", in comparison to fancy paper and proper binding--but I see no such distinction for EPUB files.
+>>>> 
+
+>>>>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>>>> 
+>>>>> The difference is that if the original content creator is involved there may be extra material. And even if there isn't then the ordering and foreword and even page size and font use all still become part of the official author's vision. If it's just a fan compilation on the other hand then it isn't strange to prefer to make a personal compilation instead since either way it adds nothing and by making it alone one can give it whatever features one prefers.
+>>>>> Edit: A typo
+>>>>> 
+
+>>>>>> **u/xamueljones** [+1]  *My arch-enemy is entropy**
+>>>>>> 
+>>>>>> Precisely!
+>>>>>> 
+
+>>>>>> **u/ToaKraka** [+1]  *https://i.imgur.com/OQGHleQ.png**
+>>>>>> 
+>>>>>> I was addressing the problem of "edited by *a professional editor* vs. edited by a fan", while you seem to be addressing the problem of "edited by *the authors* vs. edited by a fan".
+>>>>>> 
+
+>>>>>>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>>>>>> 
+>>>>>>> Professional editors are paid and work under the guidelines and specifications of the author. The author still gets to look at it and say "this is exactly how I imagined it" or "could you maybe still..."
+>>>>>>> 
+
+> **u/EliezerYudkowsky** [+2]  *Godric Gryffindor**
+> 
+> http://bastiat.org/en/twisatwins.html
+> Again.
+> ALWAYS.
+> 
+
+> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+> 
+> Always good articles even if this isn't one of thier best.
+> 
+
+> **u/TacticusThrowaway** [+0] *
+> 
+> >archetypal Evil **Lord**
+> Nitpick: Why does the article use feminine pronouns? I could understand if it used "they" or "Lord/Lady" and "he/she", but this is just awkward. Is this about that one Lord Dominator in Wander over Yonder?
+> >Doing good things for the local economy counters the “Evil Lord” narrative. What Evil Lord stimulates local economies by providing good paying jobs via a completely stable system that covers cost overruns and reaps later financial rewards in more immigration, more jobs, and large tax bases?  This makes no sense.
+> Doesn't mean s/he's not evil. They might still have foul machinations in play. 
+> In fact, in **Fullmetal Alchemist**, turns out Amestris is supposed to be fuel for the bad guys' evil scheme. Everyone. The whole country.
+> >Player characters will have to pay for fighting monsters.
+> There was a 4chan quest on TG that did something like this. Audit Quest, IIRC.
+> 
+
+>> **u/ToaKraka** [+3]  *https://i.imgur.com/OQGHleQ.png**
+>> 
+>> > Nitpick: Why does the article use feminine pronouns?
+>> Alternating between `he` and `she` on an article-by-article (or chapter-by-chapter, or book-by-book) basis is just as valid an approach as using one of the two exclusively.
+>> Also, Fire Lord Azula provides precedent.
+>> 
+
+>>> **u/TacticusThrowaway** [+1] *
+>>> 
+>>> This article is supposed to be about *archetypal* evil (over)Lords. There's also Evil Ladies, but they're usually Evil Witches, or Evil Sorceresses, and come with their own cliches and tropes. But they do tend to have big, fancy lairs, just like the Lords do, so the same logic would apply.
+>>> 
+
+---
+

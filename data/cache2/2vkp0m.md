@@ -1,0 +1,33 @@
+## [TH] Inheritance - a 7-player Theater LARP
+
+* Author: u/Aretii  *Cultist of Cthugha**
+* URL: https://www.reddit.com/r/rational/comments/2vkp0m/th_inheritance_a_7player_theater_larp/
+* Score: 4
+
+* Created: 2015-02-11T20:38:21
+
+### Post:
+
+(I'm not sure how well this fits this subreddit, but you folks seem like a good target audience for transhumanist themes.)
+
+[*Inheritance*](http://www.paracelsus-games.com/theatrical-experiences/inheritance) is a theater LARP written by my friend, Warren Tusk. I was in its first run, and it has since run multiple times at various conventions in the New England LARP community. It has now been cleaned up, professionally laid out, and offered for sale.
+
+The product page explains the premise of the game much more elegantly than I might, but I would like to say that I found it a very compelling exploration of what identity means when many of the constants of human-life-as-we-know-it have been made mutable. My character was a mass mind. Another character is a software simulation of a fictional character, and knows it. Another is a Friendly AI. There are two relatively "vanilla" humans, who provide a useful baseline for the cognitive weirdness of everyone else, but their goals and motivations are fitting for the future in which they find themselves.
+
+I'm very fond of this game, and I hope someone here might similarly enjoy it.
+
+### Comments:
+
+> **u/Sailor_Vulcan** [+1]  *Champion of Justice and Reason**
+> 
+> This looks really cool. How do you play it though? Is it possible to try a demo of it or something?
+> 
+
+>> **u/Aretii** [+1]  *Cultist of Cthugha**
+>> 
+>> There's a description of the genre [on his website](http://www.paracelsus-games.com/theatrical-experiences-explanation), but it's really geared at people who aren't that familiar with role-playing games to begin with. If you are, though, the concept is identical to a tabletop RPG, except that instead of sitting around a table, you're moving around in a game space, in character except when you specifically signal that you aren't, and mingle (or whatever else the game might have you doing). "Boxed" theater LARPs like this are a lot like certain tabletop RPG modules: the documents include rules and character sheets that tell you everything you need to know to play. Different theater games have different personnel/logistical requirements, but this one is rather small (seven people and a GM) and very simple: when I played, we played in two small rooms of the author's apartment.
+>> As far as a demo goes: it's not really a demo-able game, because the game experience doesn't lend itself to being broken down into chunks. Mostly, you're seven people talking at a funeral (for varying definitions of "person," which is where a lot of the thematic meat of the game is).
+>> 
+
+---
+

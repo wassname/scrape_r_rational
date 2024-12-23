@@ -1,0 +1,241 @@
+## How would a society deal with an easily teachable, powerful telekinesis ability?
+
+* Author: u/luminarium *
+* URL: https://www.reddit.com/r/rational/comments/5ldb9z/how_would_a_society_deal_with_an_easily_teachable/
+* Score: 15
+
+* Created: 2017-01-01T03:26:42
+
+### Post:
+
+I recently watched an anime called Shinsekai Yori, which is about how society has adapted to deal with people having telekinetic powers that are only really useful for offense and not defense. It however has a variety of other things thrown into the mix, and its solution is unsatisfying in that it presupposes a lot of stuff that isn't intrinsic to the telekinesis itself or which is implausible, so I wonder, how would you think a society would deal with this setup:
+
+* The ability to use telekinesis starts off being known to only one person, but is something that is easily taught and learnable by everybody.
+* Telekinesis includes movement (including self levitation), molecular tearing and melding (so can raise stone walls etc), and heating/combustion on any matter (solid, liquid and gas) including directly on people.
+* Telekinesis can be worked without ingredients, implements, gestures, incantations, etc, without giving any outward indication. 
+* Telekinesis is worked by focused will alone. Poor concentration / surprise can result in 'rogue' telekinesis.
+* Telekinesis requires you knowing your target and what you want to do, but isn't line-of-sight limited.
+* The 'precision' is accurate to what can be discerned by the unaided eye (so no cellular modification etc).
+* The 'power' (in terms of mass times acceleration per unit time) is several hundred times human strength.
+* The 'energy' (in terms of becoming exhausted) is unlimited.
+* The 'range' is unlimited.
+* Telekinesis can't be blocked (you can TK past any 'force barrier' and tear a person apart, and there's no way to use TK to keep oneself from being shredded apart)
+* There is no way to prevent a person from using their power (no hypnosis, no anti-magic wards, no 'death feedback' like in the anime). Also no genetic modification tech is available (unlike in the anime).
+
+The solution of course would need to be one that allows a society to out-compete societies that adopt any other strategy. Ie. the anime has the TK users giving themselves death feedback, however the rules of evolution would have wiped them out since any TK-using society that doesn't do so (even one that decimated itself until only one member was left) can completely annihilate/enslave any group that did so.
+
+### Comments:
+
+> **u/None** [+21] *
+> 
+> [deleted]
+> 
+
+>> **u/None** [+6] *
+>> 
+>> Agreed.  I've spend a few cycles thinking about telekinesis for world-building / story purposes:
+>> When you allow unlimited range and no size limits, even without all the phase changes/etc (so basically just kinematics), you are now a literal existential threat--literal planet-wrecking capabilities are at your finger tips (ram Moon into the Earth, ram Earth into Sun, etc.)
+>> Letting yourself be used as a battery to generate (pretty much) free energy is probably one of the more altruistic things you could do.
+>> t3tsubo's idea of becoming a cult leader is probably the most plausible path to victory, if you don't have ethical qualms with messing with beliefs.
+>> 
+
+>> **u/luminarium** [+5] *
+>> 
+>> Oh wow that's a nice comic!
+>> Of course the first person would be circumspect with sharing its knowledge. He could take over the world with that kind of power. But eventually he'd get old, he'd want to have an heir. And would he be willing to never tell his wife and children the secret? So long as he doesn't die with the secret (and for this challenge I'm assuming the secret doesn't die), it will get out one day.
+>> 
+
+>>> **u/None** [+13] *
+>>> 
+>>> [deleted]
+>>> 
+
+>>>> **u/luminarium** [+2] *
+>>>> 
+>>>> I feel like you're just avoiding the question. I'm looking for a solution, how would society deal with /adapt to this knowledge being available.
+>>>> 
+
+>>>>> **u/None** [+14] *
+>>>>> 
+>>>>> [deleted]
+>>>>> 
+
+>>>>>> **u/Kishoto** [+2] *
+>>>>>> 
+>>>>>> > who for the most part keep an eye on potential psychos. 
+>>>>>> This is *blatantly* false. I must say.
+>>>>>> 
+
+>>>>>>> **u/None** [+1] *
+>>>>>>> 
+>>>>>>> [deleted]
+>>>>>>> 
+
+>>>>>>>> **u/Kishoto** [+2] *
+>>>>>>>> 
+>>>>>>>> Not sure, I was mostly just commenting on the extreme lack of general magical supervision. Little to no supervision in school and, once you're 17, no Trace.
+>>>>>>>> 
+
+>>>>> **u/t3tsubo** [+3] *
+>>>>> 
+>>>>> You phrased your prompt poorly then, just state that the knowledge of tk is widely disseminated to start instead of having only 1 person know it.
+>>>>> 
+
+>> **u/ArgentStonecutter** [+1]  *Emergency Mustelid Hologram**
+>> 
+>> I wonder if [that](http://www.smbc-comics.com/comics/20110713.gif) inspired [this](http://slatestarcodex.com/2015/06/02/and-i-show-you-how-deep-the-rabbit-hole-goes/).
+>> 
+
+> **u/ArgentStonecutter** [+11]  *Emergency Mustelid Hologram**
+> 
+> To quote Larry Niven's ["Theory and Practice of Teleportation"](http://www.e-reading.club/chapter.php/75689/7/Niven_-_All_The_Myriad_Ways.html) with regard to an unrestricted teleportation machine: _"you don't really get a society. You get a short war."_
+> 
+
+>> **u/luminarium** [+1] *
+>> 
+>> so... no solution, then?
+>> 
+
+>>> **u/ArgentStonecutter** [+4]  *Emergency Mustelid Hologram**
+>>> 
+>>> Not without restrictions above and beyond the ones in the OP.
+>>> 
+
+> **u/ari_zerner** [+5] *
+> 
+> So
+> > Telekinesis can be worked without ingredients, implements, gestures, incantations, etc, without giving any outward indication.
+> there's no way to detect who does it (making punishment very difficult)
+> >There is no way to prevent a person from using their power
+> and no way to prevent it?
+> Don't get on anyone's bad side.
+> 
+
+>> **u/luminarium** [+2] *
+>> 
+>> Well I'm kind of looking for a societal solution.
+>> 
+
+>>> **u/pedanterrific** [+9] *
+>>> 
+>>> A strong tradition of total anonymity? Everyone wears burqa and uses voice changers all the time?
+>>> If everyone in a society has a perfect weapon that cannot be blocked or traced and works over any distance, everyone in the society has veto power over everyone else's life. If these powers were given to everyone in the US right now, bare minimum all celebrities and politicians would be dead in five minutes. Most likely everyone in the world would be dead very shortly, but the people who are in the news are definitely the first to go.
+>>> 
+
+>>>> **u/luminarium** [+1] *
+>>>> 
+>>>> hmm interesting, this is similar to one of the solutions I had thought of. How would such a society pan out?
+>>>> 
+
+>>>>> **u/Kishoto** [+4] *
+>>>>> 
+>>>>> > How would such a society pan out?
+>>>>> It wouldn't. Based on what you've said, most of the posters here are of the opinion that any society with humans capable of that level of telekinesis on an unfiltered scale would quickly destroy itself. Especially considering the lack of identifying traits.
+>>>>> 
+
+>>>>> **u/chaosmosis** [+2]  *and with strange aeons, even death may die**
+>>>>> 
+>>>>> Individual people hide in bunkers, speaking over radio, and don't give their location out to anyone. No meaningful society exists.
+>>>>> 
+
+>>>>>> **u/luminarium** [+1] *
+>>>>>> 
+>>>>>> Yea this makes sense !
+>>>>>> 
+
+> **u/Roxolan** [+5]  *Head of antimemetiWalmart senior assistant manager**
+> 
+> > Telekinesis includes [...] molecular tearing [...] directly on people.
+> > Telekinesis requires you knowing your target and what you want to do, but isn't line-of-sight limited.
+> > The 'range' is unlimited.
+> So, as a starting point, this is a super-duper-Death Note. Hell, you don't need the name *or* face of your victims as long as you can identify them. You still can't kill L, but L can't find you either.
+> Like /u/KorinTower said, you *really* don't want the skill spread around.
+> 
+
+> **u/vallar57** [+2]  *Unseen University: Faculty of High-Energy Magic**
+> 
+> Can telekinesis be directly applied to a living human?
+> 
+
+>> **u/luminarium** [+1] *
+>> 
+>> Absolutely. Biggest challenge I see is that a rogue person can simply massacre people by tearing them apart from a long distance away, whilst acting as horrified and panicked as anyone else and seeming to run away, and no one would even know who did it.
+>> 
+
+>>> **u/vallar57** [+8]  *Unseen University: Faculty of High-Energy Magic**
+>>> 
+>>> Then, I suspect, there wouldn't be a society in the first place. Technology arises from war, and here we already have a perfect weapon that doesn't need refining. It will be an eternal stone age, because there is no need to produce metals. And, consequently, eternal tribal structure, probably constantly migrating, because hunting and gathering are way more efficient than any agriculture with telekinesis, and the tribes will never grow big, because migrating lifestyle can only support so much people.
+>>> 
+
+>>>> **u/luminarium** [+1] *
+>>>> 
+>>>> I'm positing a person in an existing society suddenly discovering a method to use TK, so while I understand where you're coming from, it's not really addressing the scenario here.
+>>>> 
+
+>>>>> **u/vallar57** [+1]  *Unseen University: Faculty of High-Energy Magic**
+>>>>> 
+>>>>> Ah, ok. Sorry I misunderstood you.
+>>>>> If we are talking about today's society, things probably won't devolve into world war. Nuclear weapons still exist, and it doesn't look like TK can prevent their usage.
+>>>>> 
+
+>>>>>> **u/Kishoto** [+4] *
+>>>>>> 
+>>>>>> You're now giving an extreme amount of agency to literally EVERYONE in the world though. A select few individuals (with large systems behind them) have control of today's nuclear weapons, hence the lack of (extinction level) world war. Imagine if every single person now had the power to exert however much force they wanted on anything in their sight line (the horror is magnified if the proposed TK can work through things like the Internet or television) with absolutely no identifying markers. It would be anarchy.
+>>>>>> 
+
+> **u/t3tsubo** [+2] *
+> 
+> It depends on the values and how rational the personperson who figures out how TK works  is. For example, I could see your typical /r/rational min-maxxer try take over the world - probably by starting a cult/religion where s/he alone can perform "miracles". Then they could teach the TK to those who are sufficiently brainwashed into the cult in order to gain even more credibility. 
+> At some point the 3 letter organizations would probably have intel/surveillance on the group from all their anti-terror networks, since even if the leader is ultra secretive/vigilant it's unreasonable to expect the entire group to escape attention. Should the CIA/FBI/KGB figure out the TK is legit and not a hack, the originator and/or the small circle of "practitioners" would probably get disappeared. 
+> The first few attempts at kidnapping the TK users would probably fail due to the agencies not knowing the extent of the TKs abilities, but eventually someone would probably let their guard down. 
+> What i CANT see happening is for TK to spread to the general populace unless the originator is holding the idiot ball. There is literally no incentive to teach anyone if it is as easily learn-able as the prompt says.
+> 
+
+>> **u/luminarium** [+2] *
+>> 
+>> So in this scenario, the original guy teaches it to those who are brainwashed into the cult. After failing a few times trying to capture the guy (since capture doesn't work), the 3-letter organizations manage to kill him. But then the next guy in the cult becomes the new cult leader. Eventually the 3-letter organizations realize that in order to root out the organization entirely they have to send in undercover agents to join the cult, and they in turn learn the secret. Also any one of the cult members or the plants could want to protect their families by teaching it to their family members (since it does offer a leg up on everyone who can't use TK, which would be just about everybody). Eventually some idiot teenager is going to post it online...
+>> 
+
+>>> **u/t3tsubo** [+1] *
+>>> 
+>>> Right, it depends on how smart and paranoid the original guy is. Just brainstorming myself I could see the originator setting up the cult such that he is just a mid level member (by all appearances), and simply does the TK in the public display of miracles that the [fake] leader displays, especially since there doesn't need to be any physical or otherwise noticeable gestures. 
+>>> As per my original scenario, I would argue that your characterization of the 3 letter organizations is off - if there was no chance of capture they wouldn't attempt to kill the cult - what's the incentive of doing that?  It would be capture ideally or negotiate if they fail at capturing. I'd assume they'd succeed at capturing sooner or later - they'd just drug the person unawares. I left my idea here since I'm not so confident on know what these organization would do with an unconscious person that had demonstrable TK powers and could also commit un-preventable suicide the moment they woke up and found out they were captured.
+>>> Also I'd assume the originator is smart enough to only teach it to those cult members sufficiently brainwashed - which by my definition means literally zero sense of ego/self preservation and would commit suicide/atrocioties/personal humiliation on request. Members like that wouldn't teach their families, in fact they likely wouldn't have families.
+>>> 
+
+>>>> **u/luminarium** [+1] *
+>>>> 
+>>>> While that may be true, it only takes one person posting the method online for pandora's box to be unleashed.
+>>>> 
+
+> **u/girl-psp** [+1] *
+> 
+> Has anyone noticed that you can fix the problems with this scenario by changing just one variable in the power -- the anonymity factor? Worlds in which use of the telekinesis is not anonymous develop varying societies relating to the anonymity range of the setting, from a telekinesis power where every use of the power is tagged and stored worldwide in some kind of information grid, possibly psychic or possibly technological, and in which global societies are possible, right down to tribal societies in worlds where the use of telekinesis is only detectable by gestures.
+> Then there are interesting cross class societies resulting from when telekinesis is introduced into a high tech world which is able to develop the technology to detect use and broadcast that information into a global information net allowing for a global society. However, if for some reason the global information net broke down, if technology was substantially interrupted for any length of time, then the society would fall to the tribal level and never be able to climb back up, never able to recover the use of technology to allow for a global society. This would be a world in which strict enforcement of the law is everything, absolutely essential to preserve the backbone of civilization. Perhaps much of the population would be employed in telekinesis use monitoring and law enforcement?
+> 
+
+> **u/Galap** [+1] *
+> 
+> Well, in the show, they gave themselves death feedback but they also keyed in methods of killing that would not trigger it (the impure cats, the psycho buster), so essentially a monopoly on force by the governing body was reestablished.
+> And I think that they would not be outcompeted because the way the death feedback society was created was once the PK slave dynasty civilizations self-destructed a group holding onto advanced technology came out of hiding and forcibly performed the death feedback engineering on everyone.
+> So I think the best solution is to have a global movement to enforce creation of a death feedback-like situation. I suspect the numbers in favor of it would be greater than those against, so those in favor would probably win out. If people can cooperate in the prisoner's dilemma (and often they do), they can cooperate on this. And yes you would have to key in more complicated methods of force that do not trigger the death feedback in order to deal with mishaps or lapses.
+> As an aside, there was an interesting fic of Shinsekai Yori on here a while back:
+> https://www.reddit.com/r/rational/comments/4hmicq/rtcffhfhsf_death_and_transfiguration_fanfiction/
+> 
+
+>> **u/luminarium** [+1] *
+>> 
+>> > And I think that they would not be outcompeted because the way the death feedback society was created was once the PK slave dynasty civilizations self-destructed a group holding onto advanced technology came out of hiding and forcibly performed the death feedback engineering on everyone.
+>> My reason why they'd be outcompeted is that a single person who doesn't have death feedback can go into that village and murder everyone and no one there can do much about it (which is pretty much what happens at the end of the anime).
+>> The copycats are only a threat if they have the advantage of surprise, otherwise they're easily ensnared with TK (as seen in the anime).
+>> The psychobuster is anthrax (per the anime), if you released that in a village you'd wipe it out, TK or no. Hardly a counter to someone using TK indiscriminately. It is also not really available (which is why at the end they go on a quest to get it), so the village can't really expect to be able to use it.
+>> 
+
+> **u/monkyyy0** [+1] *
+> 
+> Why would anything change? We already have nukes.
+> Fun fact: the majority of historical soilders couldn't pull a trigger, a large cunk of training is towards skipping past what seems to be an evolutionary response ofavoiding killing each other.
+> 
+
+---
+

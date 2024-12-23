@@ -1,0 +1,48 @@
+## Twisted Branches - Book 1 - Chapter 0
+
+* Author: u/None *
+* URL: 
+* Score: 10
+
+* Created: 2019-06-20T20:08:12
+
+### Post:
+
+[deleted]
+
+### Comments:
+
+> **u/ashinator92** [+6] *
+> 
+> Tl; Dr 
+> It would be useful if you could post what makes this a rational fiction, what the and least rational parts of it are. 
+> Use the sidebar for reference if you need. 
+> Temporarily downvoted.
+> 
+
+>> **u/cheffyjayp** [+2] *
+>> 
+>> Why do I believe this is a rational fiction?  
+
+>> The protagonist dreams of becoming a sorceress but is limited by her socioeconomic status and the Arcane Attunements the three Trials of Magehood grant her. However, she's not willing to let any of the above get in her way. Throughout the story, she uses her mastery of the runic text to design her own spells(which most tend to buy from Witches and Wizards who're the scholars of the Arcanic community), and craft enchantments for her equipment to compensate for her shortcomings. She relies on her mental aptitude to get where she wants to go, as opposed to the cards fate has dealt her.
+>> &#x200B;
+>> \----
+>> &#x200B;
+>> I'll add this to the top of the post as well.
+>> \----
+>> 
+
+>>> **u/xland44** [+1] *
+>>> 
+>>> If anyone can create their own spells, why doesn't everyone do so?it's cheaper, more flexible and more specific to its caster
+>>> 
+
+>>>> **u/cheffyjayp** [+1] *
+>>>> 
+>>>> Creation of spells requires knowledge and mastery of the runic text. Creating a spell or enchantment(the latter is more complex) involves arranging the runes into a formulaic programming language. Not everyone has a head for it.  
+>>>> Kat is driven to it out of desperation and starts with the most basic of spells but learns she has a talent for it.   
+>>>> For most, it's much easier to buy spells as opposed to crafting them. Also, Kat gets pretty lucky with her first spell. It's an old spell in the public domain that's featured in lots of stories/myths/legends, Blinding Flash. Otherwise, if she were modifying a spell someone owns the rights to, she'd have to pay for the rights to it. Then selling the spell would involve royalties going to the base script's owner.
+>>>> 
+
+---
+

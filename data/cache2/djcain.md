@@ -1,0 +1,213 @@
+## [Q] What would you ask about Medusa's power?
+
+* Author: u/Jameskirk10 *
+* URL: https://www.reddit.com/r/rational/comments/djcain/q_what_would_you_ask_about_medusas_power/
+* Score: 22
+
+* Created: 2019-10-17T20:34:30
+
+### Post:
+
+Suppose your eyes were switched out for a pair of "Medusa" eyes - and you can turn people to stone just by looking at them. What questions would you ask or what experiments what you do to test its limits?
+
+### Comments:
+
+> **u/ShiranaiWakaranai** [+34] *
+> 
+> Do the people who turn to stone need to be looking at you? Or is it enough for you to look at them? Is there a range limit? I sure hope I'm not killing off countless alien civilizations just by looking at up at the stars in the night sky. 
+> Does your power affect all lifeforms? Can you sterilize a place (turn all bacteria/fungi/viruses into tiny tiny stones) just by looking around?
+> 
+
+> **u/red_adair** [+18]  *{{explosive-stub}}**
+> 
+> Just people, or also animals? Or is it straight transmutation of carbon to silicon, like in Stross' *Laundry Files* universe?
+> Does it work on what my eyes are pointed at, or what I'm seeing with my eyes? Does the subject have to be visible for my gaze to affect it?
+> Does it work through glass or polycarbonate?
+> What's the range?
+> 
+
+>> **u/fubo** [+10] *
+>> 
+>> If the range is very long, what's the speed?
+>> If it works through glass, can it work through lenses and fiber optics?
+>> If it is an emitted beam, can it be amplified? Can it be modulated to, e.g., turn wood into sheep instead of flesh to stone?
+>> 
+
+>>> **u/red_adair** [+9]  *{{explosive-stub}}**
+>>> 
+>>> If it is an emitted beam, is it a wave or a particle? How does it behave in a double-slit experiment?
+>>> 
+
+> **u/SvalbardCaretaker** [+28]  *Mouse Army**
+> 
+> Better to ask basic questions like these in the saturday munchkin threads! 
+> Charles stross has written extensively about basilik eyes in his The Laundry Files series, namely The Concrete Jungle.
+> 
+
+> **u/kozinc** [+13] *
+> 
+> Is it selective, e.g. by person or organism? Can it be turned on and off or is it an 'always on' type of stonegaze eyes? Does it have a reverse mode? How long does the transformation last and how quickly does it take effect? Does it work through glass? How opaque does the glass have to be for the stonegaze to stop working, if at all? Does it have to be glass? What types of stone do turned people become? Can that be controlled? So many more questions...
+> 
+
+> **u/luminarium** [+10] *
+> 
+> Mirrors? Water reflections?
+> Eyeglasses? Sunglasses?
+> How long does it take?
+> Does it require looking intently at someone, or is simply looking in the general direction sufficient?
+> Does it require the other party to make eye contact (as is the case for classical Medusa)?
+> Does it have power limitations? Or can I turn an entire army of 10,000 troops into stone in a heartbeat?
+> Range limit?
+> Self immunity? There better be self immunity.
+> Can I toggle the power on and off when I don't want to turn people to stone?
+> Can I revert people back from being stone? Is there a time limit?
+> What happens to their clothes and belongings?
+> What kind of stone? Do I get to choose?
+> 
+
+> **u/archpawn** [+6] *
+> 
+> I suppose the first question would be if I have the guts to gouge out my own eyes so I don't accidentally kill someone.
+> 
+
+>> **u/fubo** [+5] *
+>> 
+>> Wearing goggles, or even a blindfold, would be a slightly less disabling approach.
+>> 
+
+>>> **u/archpawn** [+2] *
+>>> 
+>>> I could test if it works on animals and if it does test of goggles work, but that still seems really risky. How certain can I be that the goggles will never come off? If I gouge out my eyes, they're not coming back.
+>>> 
+
+>>>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>> 
+>>>> Use skin glue on your goggles. Offer stoning to cryonics facilities in the hope that somewhen in the future humanity will discover the secret to unstoning people.
+>>>> 
+
+>>>>> **u/archpawn** [+1] *
+>>>>> 
+>>>>> I imagine stoning wouldn't work on corpses, and it would be illegal on someone who is merely dying.
+>>>>> 
+
+>>>>>> **u/fljared** [+1]  *United Federation of Planets**
+>>>>>> 
+>>>>>> Might be possible in cases of "remove life support"/Do Not Resuscitate patients who are alive-but-temporarily.
+>>>>>> 
+
+> **u/Banarok** [+4]  *Ankh-Morpork City Watch**
+> 
+> on the experiment side, since i live in a bit rural suburb i'd see if the deer get turned to stone if i looked at them, we see them as pests anyway and a stone statue would be nice.
+> would experiment if it worked on live TV, with some dude i really disagree with, but this would probably be a late stage experiment since it would attract more attention then i want if it works.
+> would try different kind of eyeglasses to see if it can stop the effect,
+> 
+
+> **u/lolbifrons** [+4]  *Fifteenth Legion of Terror**
+> 
+> FYI the original "power" wasn't a gaze attack, it was just ugliness.
+> 
+
+> **u/None** [+3] *
+> 
+> [deleted]
+> 
+
+>> **u/kaukamieli** [+2] *
+>> 
+>> If it doesn't work through cameras magically, make eyetap system by having displays on your eyes and cameras after them so you can see the world but be looking at the camera.
+>> Might as well do some augmented reality stuff with it too then.
+>> 
+
+> **u/slightlysane94** [+2] *
+> 
+> Can it be turned on and off?
+> Does it work through sunglasses?
+> Does it work through cameras?
+> What about a live feed? 
+> Does it work by making eye contact?
+> Does it work on anyone I look at?
+> Does it work if anyone looks at my eyes (even if I dont meet their gaze)?
+> What if i wear a mask and my eyes are in shadow but they make eye contact with the eyeholes? (Test this out by attending a KKK rally. If they turn to stone, good. If not, leave with my questions answered)
+> What happens if I wear coloured contacts? 
+> Does it work on things other than humans?
+> Is the power based on pupil or iris?
+> How quickly do they turn to stone?
+> What kind of stone? 
+> Do they retain consciousness (I really hope not)
+> Where did this magic come from?
+> Why me?
+> 
+
+> **u/BoxSparrow** [+2] *
+> 
+> Is the power will-based, or automatic? If a being jumps in front of you, will it instantly turn to stone? 
+> What parts of the being turn to stone? Will there be a bowl of hydrochloric acid just sitting inside the statue?
+> What constitutes a being? Is there some objective definition that the power works by? How 'alive' does it have to be to be affected? An animal? A plant? Fallen branches that could still grow if replanted? Bacteria? Cells? A corpse? 
+> How much do you have to see for the power to activate? Their eyes? Their skin? Any body part? What about their hair, which is technically dead?
+> To what extent does your eyes have to receive light? Does it have to be the exact photons that bounced off of them and nothing else? What counts as "bounced"? Does deflecting the photons with gravity count? Or refraction through substances like water or optical fibre? What about when through a lens, like a telescope? 
+> How much light do your eyes have to receive? What if its dark and you can barely see the being? What if you can't see the being at all, but there still an unseeable amount of photons bouncing into your eyes? 
+> Do you have to comprehend the being as a being? What if they're camouflaged, or your mind just doesn't notice them? What if you look at what you think is a rock but what is actually a lizard? What if you see a black dot in the distance that happens to be a bird? What if your vision is blurred and you only see a vague shape in front of you? 
+> What type of stone is created? What purity? What are its properties? Is it especially useful for anything?
+> Where did the stone come from? Where did the particles that originally made up the being go? Is it transmutation or destruction-then-replacement?
+> Does it violate the conservation of mass? Is the amount of stone produced dependant on the being's mass or volume? 
+> Does it violate the conservation of energy? Where did all the chemical energy stored in the body go?
+> How is it actually working? What is biologically different about your eyes? Can it be studied or reproduced?
+> What are the applications? Can you pass off the transformed beings as statues to be sold? Can it be applied in combat, like throwing light organic darts that can be turned into stone mid-flight, or throwing an organic blanket over an enemy and trapping them in a rock cage? Can you craft things with organic materials like plants then turn it to stone to make stone contraptions or constructions that would be exceedingly difficult or impossible normally?
+> 
+
+>> **u/thrawnca** [+1]  *Carbon-based biped**
+>> 
+>> >What type of stone is created?
+>> And is it selectable? Can you convert one type of stone into another?
+>> 
+
+> **u/jp4645** [+3] *
+> 
+> I think you have to look at Medusa to turn into stone. She doesn’t have to be looking at you.
+> 
+
+> **u/Sonderjye** [+1] *
+> 
+> I think to me is what defines the entity that are turned into stone. People consist of many small organisms. Does it depend on my intend or some external reference frame? I.e. can I target cancer cells?
+> 
+
+> **u/bigbysemotivefinger** [+1] *
+> 
+> Where does the extra mass come from, and what happens if you petrify something that is already in motion? (i.e. how hard will you end up breaking physics if you use this in weird ways?)
+> 
+
+> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade**
+> 
+> Megoosa is the best version of Medusa.  
+> [https://coinsandscrolls.blogspot.com/2019/09/osr-megoosa-or-gorgoose.html](https://coinsandscrolls.blogspot.com/2019/09/osr-megoosa-or-gorgoose.html)  
+
+> I always found the hair snakes a more interesting topic then the petrification ability.
+> 
+
+> **u/Jameskirk10** [+1] *
+> 
+> Thanks for all the responses, I hope to write a novel about someone with this power so it's been useful. I'll try to make up answers for these questions
+> * To turn people to stone both subjects must have direct eye-contact with eachother. Transparent material like windows or glass also works as long as both subjects can see eachothers eyeballs. An army of 100 could be stoned as long as they're all looking at the eyeballs.
+> * If the subject or user covers one eye closed, the subject is still stoned
+> * The power works by just transforming the subjects atoms into stone atoms (extremely scientific)
+> * Sunglasses don't work against it. The range of the power depends on the distance the subject and user can see eachother's eyeballs - if both have 20/20 vision it'll be further than if both are myopic.
+> * Blind subjects aren't affected. Subjects with extremely blurred vision aren't affected until up close. Although some subjects with blurred vision, who can still see the eyeball - will turn half to stone and their skin will become hard and rock-like. The results are varied, gruesome and unpredictable
+> * Camera and screen footage of the eyes will not stone the subject
+> * No strenuous staring is needed
+> * The power affects humans, animals and all creatures with eyes and sentience, so not bacteria.
+> * The speed of the power is instant, maybe a millisecond, although it might take a second for the stone form to replace the skin.
+> * Mirrors are deadly, and so the eyes must be protected with some opaque material. Although, the power can be controlled with training, and then is able to be switched on or off at will. Because of the shifting molecules - water reflections will not usually stone the user, but I wouldn't risk it.
+> * Clothes are stoned too with the subject, and carried items that are smaller than the subject's size - swords, handbags are stoned. But not if the subject is just touching an object. If the subject is carrying another live being like a dog or baby, they are not stoned unless they are looking at the eyeballs too.
+> * Once you're stoned you can't be un-stoned. The stone material is always the same standard rock.
+> * When the power is activated, the eye may glimmer a little but is not very noticable
+> * Often when the subject is stoned, they collapse to the ground as their balance isn't controlled. All of their internals are also turned to stone.
+> * If the eyeballs are camoflagued/hidden or painted into a background, the subject must still recognise the individual eyeball itself to be stoned.
+> * If the subject is pregnant, the baby will also be turned to stone
+> * Once the eye is blinded - (by laser, looking at the sun) the power is deactivated. A successful operation to regain sight will restore the power
+> * Eye operations like laser eye surgery present no affect on the power
+> * Theoretically the eyeball could be experimented on to reproduce its effects, though little is known about this
+> * The eyeballs must be connected to the user to work. It is possible for the eyeball to be transplanted to another user, but modern surgery is not there yet.
+> 
+
+---
+

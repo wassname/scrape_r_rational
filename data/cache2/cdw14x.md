@@ -1,0 +1,204 @@
+## Mistworm Chapters 9-12 (Worm|Mistborn)
+
+* Author: u/Lightwavers  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+* URL: https://forums.spacebattles.com/threads/mistworm-worm-mistborn.766090/page-7#post-59330438
+* Score: 18
+
+* Created: 2019-07-16T11:53:52
+
+### Post:
+
+[Link to content](https://forums.spacebattles.com/threads/mistworm-worm-mistborn.766090/page-7#post-59330438)
+
+### Comments:
+
+> **u/Sonderjye** [+7] *
+> 
+> I'm just going to throw out that you just made Taylor the most powerful cape in the universe, possibly baring Contessa, and that it's going to be really hard to get challenges. So if you want for it to be anything other than a powertrip you gotta find other ways of creating tension. And if you want the story to be rational you have to assume that Scion have a stronger power, otherwise the entities wouldn't jeapardize their existence by giving her this strong a power, which is going to be a significant power up from canon.
+> 
+
+>> **u/Charlie___** [+3] *
+>> 
+>> Yeah, this was pretty drastic.
+>> 
+
+>> **u/Lightwavers** [+5]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> 
+>> Scion has all the powers. Scion has all of *her* powers. (Edit: in this story.) Taylor's not going to be beating him even if she leverages her powerset to its fullest extent and makes literally everyone on the planet equal to her. I do have an outline of where the story will be going, though it is very flexible and has already changed multiple times so far.
+>> 
+
+>>> **u/Sonderjye** [+6] *
+>>> 
+>>> I am fairly confident that Scion doesn't have the powers that he have given out. If so he could just have stopped Taylor from using her mind control when they were fighting him.
+>>> 
+
+>>>> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>> 
+>>>> Edit: WoG contradicts what I inferred.
+>>>> 
+
+>>>>> **u/eous** [+7] *
+>>>>> 
+>>>>> [WoG](https://forums.spacebattles.com/threads/worm-quotes-and-wog-repository.294448/page-3#post-15024624) says otherwise:
+>>>>> >*I hope it's not too much to ask, but can we get a list of abilities that Scion didn't show in canon? It's mainly for a future fight in one of my D.C. crossover fics. Like force-fields, teleporting, other offensive attacks etc?*  
+>>>>> >  
+>>>>> >Don't mean to sound harsh or anything in any way shape or form, but that is a lot to ask - it demands a pretty comprehensive answer and a lot of tedious fact checking/digging, it's not a fun question to answer (like some of the ones I've answered in this thread), and it it just opens me up to a lot of unfun "But Wildbow you're wrong/then why didn't he/except!" responses where people just jump on me.  
+>>>>> >  
+>>>>> >Scion equipped himself to be able to fight pretty much any threat. His big weapon is a very versatile 'stilling' ability, which lets him cancel out wavelengths, which can be applied in a variety of ways, defensive or offensive - it lets him counteract, manipulate, and cancel virtually any parahuman or human generated effect. He can cancel out heat, eliminate sound, break Grey Boy's ability, disintegrate molecular bonds, etc. He can do so with beams, thrown orbs/bullets, a light he emanates, and a personal forcefield, among a variety of other mechanisms.  
+>>>>> >  
+>>>>> >He maintains a toolkit of a handful of other powers to be able to fly, thinker abilities to understand complex ideas/languages, the precog ability that costs him a lot of lifespan to use, and a bunch of other stuff I can't be arsed to name, as I said above.
+>>>>> Scion only has access to a few powers such as Stilling, PtV, flight, and others. He doesn't have access to all his powers, otherwise WB would have said he has access to all the powers of natural triggers in Worm.
+>>>>> 
+
+>>>>>> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>>> 
+>>>>>> Thanks, I read too much into the text.
+>>>>>> 
+
+>>>>>>> **u/MythSteak** [+1] *
+>>>>>>> 
+>>>>>>> Hey, I just wanted to thank you for writing chapter 2.1 Ive been checking the thread every day since then hoping to catch the next update.
+>>>>>>> When do you expect to have the next chapter out by?  Are you going to try to adhere to any sort of schedule (loose or otherwise)?
+>>>>>>> 
+
+>>>>>>>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>>>>> 
+>>>>>>>> Hi there! I don't really want to stick to a schedule since I know I'm going to break it. What I usually do is wait around until I get the urge to write again. I'd say expect the next chapter by tomorrow.
+>>>>>>>> Edit: You actually got me inspired to write the next chapter. It's up now.
+>>>>>>>> 
+
+>>> **u/MythSteak** [+2] *
+>>> 
+>>> I get the feeling that this is going to be a relatively short story, what with Taylor getting the broken lord-ruler powerset. But that’s ok!  I like what you have written so far and you should tell the story you want to tell
+>>> 
+
+>>> **u/MadVaughn** [+1] *
+>>> 
+>>> I trust where you're going with this. I binged the whole thing this morning. Cannot wait for more :)
+>>> 
+
+> **u/lmbfan** [+6] *
+> 
+> Just a small suggestion, the new metals and the powers associated with them are hard to keep track of. Steel and gold are well entrenched, cadmium and bronze's feruchemical uses are getting there, but the rapid-fire testing of the last chapter is a bit overwhelming. You may have already planned something similar, but spending a couple of chapters where one or two new metals are the primary focus would help with that.  This coming from someone who has read both Mistborn trilogies.
+> Other than that, an enjoyable read.
+> 
+
+>> **u/Lightwavers** [+5]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> 
+>> Don't worry, I'm going to move the focus to individual metals soon. The testing is just an acknowledgment that these metals exist.
+>> 
+
+> **u/hyphenomicon** [+3]  *seer of seers, prognosticator of prognosticators**
+> 
+> Taylor/Weld OTP
+> 
+
+> **u/royishere** [+3] *
+> 
+> Gotta say, I am a bit disappointed with how fast things have moved. I love Mistborn and one of the more compelling aspects of both Vin and Taylor's stories is watching them slowly gain knowledge in how to leverage their powersets, coming up with ways to beat more powerful opponents with strategy. I wanted to see Taylor interact with more heroes/villains having access only to a few metals, then slowly expand her repoitoire, as much in the tricks and interactions she figures out as in actual new powers. Then branching into Feruchemy and EVENTUALLY, at a climactic moment, discovering compounding and breaking the scale.
+> She's been in few enough combat situations that I can count them on one hand and she's already (basically) at Lord Ruler levels. I don't see much more room for (or need for) inventiveness anymore; she's not going to waste time steelpushing Kid Win's gear, for example, or getting involved in an emotional battle with Glory Girl, or testing the interplay between Bendalloy and other temporal powers.
+> There are still places for the story to go, don't get me wrong, bur there's a bunch of cool, compelling stuff that got skipped over and in my opinion, would be weird to delve into now, after Taylor can regenerate from near-death instantaneously, move faster than the speed of sound, and throw cars into the sun. And she has atium too!
+> 
+
+>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> 
+>> Yep. She's going to be empowering others, though, and I might be exploring an arc or two from the point of view of someone with a few granted powers.
+>> 
+
+>>> **u/None** [+3] *
+>>> 
+>>> [deleted]
+>>> 
+
+>>>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>> 
+>>>> Thanks for the criticism. Next time I’m dealing with a similar power I’ll most likely pick one of those two options. As for robo-Armsmaster, can you tell me what made you think I ran with this characterization? I’ve tried to portray him as terse, someone who doesn’t waste his time, but is aware of this and isn’t a bad person or anything. You could call him rude I guess, but I think that’s the greatest similarity I’ve allowed in the fic.
+>>>> 
+
+> **u/Sonderjye** [+2] *
+> 
+> How are things comming along? I don't hope that you were motivated by my last post here. I was just pointing out that you'd have to look for OTHER challenges than the regular cape on cape. Amelia was a fanfic that did a decent job at finding challenges for protagonists with high tier power sets and I personally love fics with MCs that tries to change bigger societal structures.
+> Edit: I don't know too much about the mistborn series but someone mentioned that you could create mistborns? If so an interesting challenge could come out of Taylor trusting the wrong person and giving them powers/information that would let them challenge her.
+> 
+
+>> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> 
+>> I'm taking things slow right now. And yeah, I have a few ideas. Pitting this Taylor against regular capes isn't even a competition.
+>> 
+
+>>> **u/Sonderjye** [+1] *
+>>> 
+>>> That's totally fine, I just wanted to check in. I experience being demotivated from feedback myself.
+>>> 
+
+>>>> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>> 
+>>>> If I'm being honest, that does play a part in the recent slowdown of updates, yeah.
+>>>> 
+
+>>>>> **u/Sonderjye** [+1] *
+>>>>> 
+>>>>> Encouragement and discouragement are totally things. I am considering releasing a story that I have been working on but I'm concerned about discouraging feedback. I wonder if there's anything one can do about that.
+>>>>> Real though, you got almost 100 likes on your last chapter. Clearly there's a large chunk of people who enjoy it. I think a part of the problem is incentive structures regarding feedback. If you like something you'll just throw a like and no have much critique, and if you dislike it the chance of lording it over someone else is compelling.
+>>>>> 
+
+>>>>>> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>>>> 
+>>>>>> Definitely. I hope you link that story when you release it. :)
+>>>>>> 
+
+>>>>>>> **u/Sonderjye** [+2] *
+>>>>>>> 
+>>>>>>> Will do (:
+>>>>>>> 
+
+> **u/sfinebyme** [+5] *
+> 
+> Just read the first two chapters. This is bad. Really bad, even by the low standards of Worm alt power fanfic (I say this having written eminently forgettable alt power fics like Logos myself).
+> EDIT: Ah, I see you're the author. No offense intended. If you're open to feedback, I'll write up some in-depth feedback when I get home.
+> EDIT 2: I'll take it from the downvotes that the answer's no. Good luck with it, mate.
+> 
+
+>> **u/Lightwavers** [+4]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> 
+>> Hmm? I’m not the one who downvoted you, mate, I went to sleep immediately after posting the latest chapter, but you’re certainly at positive votes now. Earlier feedback informed me that the first three or so chapters are pretty low quality but the story gets better after. Make of that what you will. I always accept feedback, which is why I’m posting on SpaceBattles and SufficientVelocity in the first place. And I do agree that Punctuated Equilibrium is ... well, awful, but I don’t think that even the first few chapters of this story are anywhere near that bad.
+>> 
+
+> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+> 
+> Continuation of Lord Ruler!Taylor.
+> Soon we'll be exploring the creations of devices such as the Bands of Mourning or the Scadrial medallions.
+> 
+
+> **u/SkyTroupe** [+1] *
+> 
+> I'm not going to be commenting on story/writing quality but something in this has inspired me to take a totally new direction in a Worm/Cosmere story Ive been writing. It's helped me get past a block I've had so thank you.
+> 
+
+>> **u/Lightwavers** [+2]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> 
+>> Please share it when you've posted it. :)
+>> 
+
+>>> **u/SkyTroupe** [+2] *
+>>> 
+>>> I will! I'm currently rewriting the first arc and when I finish the second arc and the outline of the first one I'll post it on here.
+>>> 
+
+>>>> **u/Lightwavers** [+1]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>>>> 
+>>>> Excellent! !RemindMe 1 week
+>>>> 
+
+>>>>> **u/RemindMeBot** [+1] *
+>>>>> 
+>>>>> I will be messaging you on [**2019-07-31 14:20:52 UTC**](http://www.wolframalpha.com/input/?i=2019-07-31%2014:20:52%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://np.reddit.com/r/rational/comments/cdw14x/mistworm_chapters_912_wormmistborn/euqglvn/)
+>>>>> [**CLICK THIS LINK**](https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Frational%2Fcomments%2Fcdw14x%2Fmistworm_chapters_912_wormmistborn%2Feuqglvn%2F%5D%0A%0ARemindMe%21%202019-07-31%2014%3A20%3A52) to send a PM to also be reminded and to reduce spam.
+>>>>> ^(Parent commenter can ) [^(delete this message to hide from others.)](https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20cdw14x)
+>>>>> *****
+>>>>> |[^(Info)](https://np.reddit.com/r/RemindMeBot/comments/c5l9ie/remindmebot_info_v20/)|[^(Custom)](https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://np.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://np.reddit.com/message/compose/?to=Watchful1&subject=Feedback)|
+>>>>> |-|-|-|-|
+>>>>> 
+
+---
+

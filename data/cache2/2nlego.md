@@ -1,0 +1,146 @@
+## [DC] The Clockwork inside Game of Thrones
+
+* Author: u/itisike  *Dragon Army**
+* URL: http://250bpm.com/blog:45
+* Score: 10
+
+* Created: 2014-11-27T17:45:32
+
+### Post:
+
+[Link to content](http://250bpm.com/blog:45)
+
+### Comments:
+
+> **u/Escapement** [+3]  *Ankh-Morpork City Watch**
+> 
+> This article sort of reminded me of something else: Zalgo Jenkins wrote [a neat little thread about the narrative structure of Dan Brown's fiction](http://forums.nrvnqsr.com/showthread.php/4821-Notes-on-Plotting-Grail-Wars-a-k-a-If-Dan-Brown-had-written-Fate-Stay-Night). It's ostensibly written to try to apply it to Fate/Stay Night fanfic, but I found it remarkable how regularly and thoroughly Brown had everything in his books set into patterns, and also how thoroughly Jenkins deconstructed and analyzed how the format of the book (pacing, high-level structure, etc) worked. 
+> note: [Jenkins' FF.net profile](https://www.fanfiction.net/u/3726889/Zalgo-Jenkins); He is probably most known for Postnuptial Disagreements, a F/SN and Sekirei cross that was actually readable and interesting; the biggest improvement Jenkins made compared to others trying that crossover (esp. In Flight) is that he got the pacing and structure very *right* - 88k words tells a full and complete and satisfying story quite easily when used correctly.
+> 
+
+>> **u/None** [+2] *
+>> 
+>> You should submit those links separately sometime; they seem to have the quality to deserve more attention that they'll receive in this comments section.
+>> 
+
+>>> **u/Escapement** [+2]  *Ankh-Morpork City Watch**
+>>> 
+>>> The first link has basically nothing to do with the /r/rational subreddit, and the second is mostly a rec for a story where most factions are driven by irrational motives and which is not particularly rational in any real sense IMO. 
+>>> For that matter, I personally wouldn't have linked the parent article to this sub. The observations are facile, and what substance there was would be way more suited to /r/writing or some other similar sub.
+>>> 
+
+>>>> **u/None** [+1] *
+>>>> 
+>>>> I think that a discussion of unorthodox or realistic narrative structure is always relevant to this sub – a good part of the historical feeling of Martin's writing comes from the structure detailed in the OP, and that's definitely useful to rational fiction.
+>>>> When I created this sub, I initially intended it to just be recs for the LessWrong / HPMOR crowd, regardless of the rationality of the story. That's why I added the hard scifi / hard fantasy / munchkinry / deconstruction / etc tags in the first place – to make it accommodating for all flavors of LW-enjoyable stories. In my mind, if you don't feel like you could submit a story to this sub, but you would otherwise recommend it to the subscribers here, then that's a problem with the sub, not the story.
+>>>> But. Yknow. That's just, like, my opinion, man.
+>>>> 
+
+>>>>> **u/None** [+1] *
+>>>>> 
+>>>>> [deleted]
+>>>>> 
+
+>>>>>> **u/AmeteurOpinions** [+1]  *Finally, everyone was working together.**
+>>>>>> 
+>>>>>> I will continue to advance the opinion that /r/TrueAnime has the best system for discussion-heavy subreddits.
+>>>>>> 
+
+> **u/None** [+4] *
+> 
+> *ASOIAF* is some really good hard fantasy, but not always appreciated as such. It definitely fits the characteristics of rational fiction, and there's something about it that's just so … *historical*, it doesn't even really feel much like fiction. GRRM is a truly masterful writer.
+> He just needs to do it faster.
+> 
+
+>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>> 
+>> Are you and I defining hard fantasy in different ways? To me, the fact that almost all the magic in the world of *ASOIAF* is completely unexplained means that it can't be hard fantasy. I'd agree that the characters actions are presented well, and I never think that anyone is doing something just for the sake of plot, but the magic ...
+>> There are about a dozen different types of magic within the world, and we only have vague rules for two or three of them. There's plenty of completely inexplicable magic happening all over the place. I would classify *ASOIAF* as more low fantasy.
+>> 
+
+>>> **u/duffmancd** [+2] *
+>>> 
+>>> Interesting that you say none of the characters do things just for the sake of plot. When I read the books, I couldn't look past Catelyn Stark. Everything she did seemed to be for the sake of plot. Sure, I understand that she was a worried mother, but it seemed to me at least that all her decisions happened to be bad in the best way to advance the plot. I didn't feel as if her back story adequately explained them/made me expect those actions, even in a retroactive aha way.
+>>> I assume some of the historical feeling comes from the fact that it is loosely based on the war of the roses. But I don't know enough of that history to say how much it is based on it.
+>>> 
+
+>>>> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life**
+>>>> 
+>>>> Hint: the Wars of the Roses weren't fought with dragons.
+>>>> 
+
+>>> **u/embrodski** [+1] *
+>>> 
+>>> I have a weird relationship with magic. The Folding Knife is an interesting book, in that it has no magic at all. But it presents regular physical phenomena (like plagues) in a way that is akin to magic. ie: shit happens for no reason that anyone in the book can figure out. It's just there. A lot of real life is like that, right? Fiction simply gives us the illusion of things making sense, by author fiat. So if the author doesn't bother to explain the magic, any more than he would explain the mechanics of transmissible disease to a pre-modern society, does that still make it low fantasy? IMHO, as long as the magic isn't used as a Deux Ex Machina to get the protagonists OUT of trouble, it's fine.
+>>> 
+
+>>> **u/E-o_o-3** [+1] *
+>>> 
+>>> I agree. It's a fairly *rational* fantasy in that there's no "well why can't you just use this obvious feature of the world to win everything" moment, but not a hard fantasy because fantasy elements *are* introduced fairly willy nilly and a new totally unpredictable magical thing can appear at any time. A hard fantasy can't really have more than one or two fantastic elements, and the reader has to know about most of them at the beginning.
+>>> Even HPMOR isn't really a hard fantasy, by that standard.
+>>> But I think, when the "rational" distinction isn't made, all "rational" stuff falls into "hard" stuff simply because the stories have similar mind-feels. Both feel vaguely like a puzzle, both require an analytic mind to write, Language is fuzzy, blah blah.
+>>> 
+
+>>> **u/None** [+1] *
+>>> 
+>>> I think there is a rigorous background structure for the magic(s), but we only learn about the principles and limits of magic when the characters do, so we're not quite at 100% comprehension yet.
+>>> Even then, I think it qualifies for its well-developed political system, history, and folklore, much in the same way as *Lord of the Rings* does. Basically, I think the "hard" in "hard fantasy" can apply to a number of aspects, and while *ASOIAF* might not be quite there with "hard magic", it's certainly there with "hard politics and society". You get me?
+>>> 
+
+>>>> **u/RMcD94** [+4] *
+>>>> 
+>>>> The original use of hard as a descriptor was in hard sci-fi which meant that which explained the science fiction it contained in the story. 
+>>>> Hard fantasy would explain the fantastical. It might be also a hard political drama but it's fantasy is not well justified
+>>>> 
+
+>>>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>>> 
+>>>> Yeah, I understand where you're coming from, I just disagree. :)
+>>>> 
+
+>>>>> **u/AmeteurOpinions** [+2]  *Finally, everyone was working together.**
+>>>>> 
+>>>>> It's *low* fantasy, not *hard* fantasy.
+>>>>> 
+
+>>>>> **u/None** [+1] *
+>>>>> 
+>>>>> Sounds good! :)
+>>>>> 
+
+> **u/RMcD94** [+2] *
+> 
+> > "I cannot think of such disruptive change to story telling technique without going back to the middle ages".
+> Now all I'd like to say is that this has been done before, just not successfully, nor so mainstream.
+> >He's the protagonist! He just cannot die like this in the middle of the story! Ridiculous! What's the next season going to be about?
+> I'd also like to say that ASOIAF never really had a single Protagonist, and that's what most stories that kill off a main character are like, they either have a secondary character who is telling the story of the protagonist (who then dies half way through or something). In GoT there were a ton of chapters from other perspective.
+> It kind of defeats the whole "omg this is so unique he killed off the protagonist no one has done that before" when the whole point that makes that surprising is the lack of someone else to take up the mantle. 
+> So yeah, the whole premise of this article is wrong, this isn't unique and GRRM certainly didn't invent it, though it's an interesting method of story telling. (Edit: When I started with this comment I did assume there would be more substance to the article than just praising GRRM for his uniqueness)
+> 
+
+>> **u/None** [+2] *
+>> 
+>> >Now all I'd like to say is that this has been done before, just not successfully, nor so mainstream.
+>> Can you list some examples?
+>> 
+
+>>> **u/AmeteurOpinions** [+3]  *Finally, everyone was working together.**
+>>> 
+>>> *Legend of the Galactic Heroes*, for one.
+>>> 
+
+>>> **u/embrodski** [+1] *
+>>> 
+>>> The Windup Girl (fantastic book), tho in fairness only one of the three main characters was killed halfway through. (and in double-fairness, it was published quite a while after the Game of Thrones)
+>>> 
+
+>>> **u/ajuc** [+1] *
+>>> 
+>>> Not exactly this, but similar technique:
+>>> Antoni Gołubiew in his "Bolesław Chrobry" series written in 40s-50s of XXth century. It's historic fiction based on real Polish prince/king Bolesław Chrobry and real events, but it's shown from perspective of around 100 fictional and historical characters. King has not much screen time, most of the time it's a few pages of one character life, flashback from 2 years ago of different character for a few pages, etc. You are shown consequences of some decision of a king, then reasons for that decision from 3 different POVs, then the king talking with his advisor for a moment about this decision, then what happened to the farmer that escaped his lord 2 tomes ago, then back to the consequences of the decision, etc. It's rarely said when and where the story currently takes place so you have to guess basing on characters and what they know what time and place it is.
+>>> Reader associates with the side characters more than with the king, and many of them die suddenly in the middle of the book (well, historical ones die when they should, but few people know history well enough to know that). But there's many of them, so it's similar to the GoT storytelling - it always keeps attention because there are many others.
+>>> It's one of my favorite series, but I think it wasn't translated to English.
+>>> 
+
+---
+

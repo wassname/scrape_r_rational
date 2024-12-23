@@ -1,0 +1,89 @@
+## [RT][FF]Hermione Granger and the Perfectly Reasonable Explanation - Ch 15: Responsible
+
+* Author: u/RobinDrew  *Ravenclaw - (Author: HGPRE)**
+* URL: https://www.reddit.com/r/rational/comments/50oydi/rtffhermione_granger_and_the_perfectly_reasonable/
+* Score: 18
+
+* Created: 2016-09-01T19:11:21
+
+### Post:
+
+[Fanfiction.net Link](https://www.fanfiction.net/s/9950232/18/Hermione-Granger-and-the-Perfectly-Reasonable-Explanation)
+
+[AO3 Link](http://archiveofourown.org/works/7441657/chapters/18128497)
+
+### Comments:
+
+> **u/iftttAcct2** [+3] *
+> 
+> I just found this story from an older post of yours in /r/hpfanfiction. I'm quite enjoying the story and I hope you persevere in continuing it.
+> 
+
+>> **u/RobinDrew** [+3]  *Ravenclaw - (Author: HGPRE)**
+>> 
+>> Thanks!  I pretty much have to, it nags at me now.  :)
+>> 
+
+> **u/MaddoScientisto** [+3] *
+> 
+> She should have gone straight to mcgonagall after she found out dumbledore was available, she was proven to be rational enough to actually listen to what Hermione would say
+> 
+
+>> **u/AugSphere** [+4]  *Dark Lord of Corruption**
+>> 
+>> She couldn't do what she thought she ought to, that's the point. She had only a small window of opportunity before she talked herself out of it, and Dumbles just happened to be unavailable during this crucial turning point, as is his custom.
+>> 
+
+> **u/RobinDrew** [+2]  *Ravenclaw - (Author: HGPRE)**
+> 
+> * Official Typo/Britpick Thread, if you are so inclined, helps if they're all in one place.
+> 
+
+> **u/AugSphere** [+2]  *Dark Lord of Corruption**
+> 
+> I wonder if motivated cognition is going to actually work out in her favour in this instance. She seems capable enough of capturing him, barring a diabolus ex machina similar to the ending of third canon book.
+> 
+
+>> **u/turbinicarpus** [+3] *
+>> 
+>> Is it motivated reasoning, or is it [](#s "Future!Hermione keeping her from getting the grown-ups involved")? After what happened the first time, she might have tried for a more subtle approach...
+>> 
+
+>>> **u/AugSphere** [+6]  *Dark Lord of Corruption**
+>>> 
+>>> It would be pretty awesome if she actually went ahead and mislead our heroine in the previous chapter and is now influencing her thoughts in a more subtle fashion, I admit.
+>>> 
+
+>>>> **u/stale2000** [+1] *
+>>>> 
+>>>> Old Hermione seems to be dead. There was a line about being "Truly on her own".  And the letter was signed with the flourishing, dramatic signature, like it was the final moment communication.
+>>>> 
+
+>>>>> **u/AugSphere** [+2]  *Dark Lord of Corruption**
+>>>>> 
+>>>>> That's precisely why it would be such a good ruse. The dramatic final signature suggests that Old Hermione is gone for good, if you're thinking like you're in a story, so young Hermione (and readers) would lower her guard and stop being paranoid about possible mental manipulation. But really, how good of an indicator is a dramatic gesture outside of story logic? It costs nothing for Old Hermione to make a dramatic gesture even if she has no intention to give up.
+>>>>> These kinds of subversions of the usual narrative rules are one of my favourite things in rational fiction.
+>>>>> 
+
+>>>>> **u/Kishoto** [+1] *
+>>>>> 
+>>>>> Old Hermione is not dead. I'm 95 percent certain. Simply because the way she "went out" doesn't fit thematically in the slightest with her intended goals. I can't see a competent, adult Hermione being content with leaving things as they are, considering how much there is to lose. Pomfrey's death was sad and unplanned and a complete blindside but DH!Hermione should be able to move past it. I'm confident any implication she's actually gone is a ruse perpetuated by her and the author.
+>>>>> 
+
+> **u/reasonablefideist** [+2] *
+> 
+> Keep up the good work!
+> 
+
+>> **u/RobinDrew** [+1]  *Ravenclaw - (Author: HGPRE)**
+>> 
+>> Thank you!  :)
+>> 
+
+> **u/Kishoto** [+2] *
+> 
+> Ah, and we come to a common crossroads in rational fiction involving young protagonists. While the sensible thing to do would be to go and find another Professor that has proven themselves trustworthy (McGonogall, Flitwick, etc.), that doesn't make for as good a story as our plucky, eleven year old heroine deciding to try her hand at apprehending a murderer. Of course, this could be the influence of Old Hermione, considering how much of this shit she did in canon.
+> 
+
+---
+

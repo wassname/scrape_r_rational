@@ -1,0 +1,735 @@
+## [D] Saturday Munchkinry Thread
+
+* Author: u/AutoModerator *
+* URL: https://www.reddit.com/r/rational/comments/ccqbp2/d_saturday_munchkinry_thread/
+* Score: 16
+
+* Created: 2019-07-13T15:05:55
+
+### Post:
+
+Welcome to the Saturday Munchkinry and Problem Solving Thread! This thread is designed to be a place for us to abuse fictional powers and to solve fictional puzzles. Feel free to bounce ideas off each other and to let out your inner evil mastermind! 
+
+Guidelines:
+
+* Ideally any power to be munchkined should have *consistent* and *clearly defined* rules. It may be original or may be from an already realised story.
+* The power to be munchkined can not be something "broken" like omniscience or absolute control over every living human.
+* Reverse Munchkin scenarios: we find ways to beat someone or something  *powerful*.
+* We solve problems posed by other users. Use all your intelligence and creativity, and expect other users to do the same.
+
+Note: All top level comments must be problems to solve and/or powers to munchkin/reverse munchkin.
+
+Good Luck and Have Fun!
+
+### Comments:
+
+> **u/NTaya** [+11]  *Tzeentch**
+> 
+> A very simple one, because I have a strong feeling it can be utterly broken but can't come up with an idea on spot.
+> You can shapeshift into anything that exists on Earth, as long as your mass stays the same (down to, say, a milligram) compared to the one you currently possess.
+> You retain your consciousness and ability to shapeshift, but everything else depends on what exactly you turn yourself into (a brick can't move on its own neither does it have any sensory organs, for example). 
+> You are not required to know the working details of the thing you transform into: if you try to shapeshift into a human, you'd become a random human with precisely the same weight you currently possess. When transforming, you can use only one word in order to describe the result; you can become a "human", but not, say, a "human with the knowledge of a certain password." (Your knowledge stays the same anyway, the change doesn't affect memory and cognitive patterns.)
+> If you attempt to become a liquid or a gas (or plasma; anything non-solid, basically), you won't transform at all. You don't know what becoming liquid or a gas in during the shapeshift would do to you, but you suspect you'd die.
+> Only stuff firmly attached to you is counted towards your weight. If you transform into a small tree, and then someone breaks your branch, the weight of the branch is no longer yours.
+> This ability has a four minutes (passing on the surface of Earth) cooldown.
+> How would you use this power?
+> 
+
+>> **u/Silver_Swift** [+12] *
+>> 
+>> Can I turn into multiple independent things, if I become morbidly obese and then turn into, say, a rockband does my conscience spread over 4 to 5 different bodies?
+>> If so, repeating that trick and turning yourself into a literal one man army seems like it would be a good start.
+>> 
+
+>>> **u/NTaya** [+8]  *Tzeentch**
+>>> 
+>>> It sounds like a cool idea. Yeah, it should work. Very nice, thank you. 
+>>> Btw, do you have any ideas about gaining weight other than eating as a human? I'm a bit stuck here, but maybe there's a more efficient way?
+>>> 
+
+>>>> **u/kraryal** [+7] *
+>>>> 
+>>>> Sneak into your local food factory, turn into one of the anaerobic microbes, they can grow faster and eat the local supply of sugar. 
+>>>> Go to a lake and turn into one of those "grow in water" dinosaur toys, 6x volume in two to three days, turn back, do it again...
+>>>> 
+
+>>>>> **u/NTaya** [+6]  *Tzeentch**
+>>>>> 
+>>>>> > 6x volume in two to three days
+>>>>> I don't think it gains much weight, it's mostly just volume. But yeah, an idea with microbes is nice, I'll think into it.
+>>>>> Thanks!
+>>>>> 
+
+>>>>>> **u/CreationBlues** [+7] *
+>>>>>> 
+>>>>>> all that volume is water. If water trapped in the dinosaur counts towards the weight, then it'd be pretty efficient. Or they could do a hydrogel
+>>>>>> 
+
+>>>>>>> **u/NTaya** [+1]  *Tzeentch**
+>>>>>>> 
+>>>>>>> I'll think about whether to count that or not, but yes, it seems very efficient. Thanks.
+>>>>>>> 
+
+>>>> **u/meangreenking** [+4] *
+>>>> 
+>>>> ~~If done properly you can gain weight as a human very fast using the keyword "hungry" over and over. Just eat a burger, use hungry to empty your stomach and then rinse and repeat until you have gained the desired mass.
+>>>> On average random transformations should have your stomach partially full as well, so repeatedly transforming into any large size animal and eating as much as you can in between each transformation should still allow you to gain weight pretty fast.~~
+>>>> Just read you farther down explicley prohibiting this by saying you need to digest the food first. You could still gain weight fairly fast by just skipping pooping or peeing, but that wouldn't really help you grow that fast.
+>>>> 
+
+>>>>> **u/NTaya** [+1]  *Tzeentch**
+>>>>> 
+>>>>> Thanks for the ideas anyway, this inspires me. :)
+>>>>> 
+
+>>>> **u/WarningInsanityBelow** [+2] *
+>>>> 
+>>>> Drinking two litres of water and then transforming into someone naturally two kilos heavier on cool down gets you half a kilo on average per minute per body, assuming that you cycle between bodies weighing 40 to 80 kg that gives a doubling time of 80 minutes. This means that 2 days of uninterrupted chugging water would give you 68 billion bodies, obviously logistical complications would arise before you get that high.
+>>>> 
+
+>>>>> **u/NTaya** [+1]  *Tzeentch**
+>>>>> 
+>>>>> Only digested food counts. It still can be effective but at a much slower rate.
+>>>>> 
+
+>>>> **u/BanjoPanda** [+1] *
+>>>> 
+>>>> It wouldn't be too hard. Eat a meal -> shapeshift into something 500g bigger  with an empty stomach -> eat a meal -> repeat
+>>>> 
+
+>>>>> **u/NTaya** [+1]  *Tzeentch**
+>>>>> 
+>>>>> You need to wait for food to digest, as I've mentioned in other replies. Still, eating is useful.
+>>>>> 
+
+>>>>>> **u/BanjoPanda** [+1] *
+>>>>>> 
+>>>>>> So you can't turn into a whale, swallow huge quantities of water and make it count as gaining mass?
+>>>>>> Otherwise to gain mass quickly I think taking anti-diuretic drugs and drinking a lot would be a good way to get around the digestion limitation
+>>>>>> 
+
+>>>>>>> **u/NTaya** [+1]  *Tzeentch**
+>>>>>>> 
+>>>>>>> >So you can't turn into a whale, swallow huge quantities of water and make it count as gaining mass?
+>>>>>>> I don't think so.
+>>>>>>> >Otherwise to gain mass quickly I think taking anti-diuretic drugs and drinking a lot would be a good way to get around the digestion limitation
+>>>>>>> This should work, thank you.
+>>>>>>> 
+
+>>>> **u/cae_jones** [+1] *
+>>>> 
+>>>> Eat heavy metals, shapeshift into yourself with their equivalent weight in extra muscle / fat / bone density. If they are threatening during the cooldown, try to wrap them in something that prevents them from getting into your tissues. Alternatively, shapeshift into something metal, have new bits welded onto your metal form.
+>>>> 
+
+>>>>> **u/NTaya** [+1]  *Tzeentch**
+>>>>> 
+>>>>> As I've answered in another comment, only the digested food counts.
+>>>>> 
+
+>> **u/sfinebyme** [+8] *
+>> 
+>> Word: "assassin"
+>> Shapeshift from a tall, fat nerd into a medium-sized person armed to the teeth. Kill the target. If I can escape the immediate environment, word:female. Now the security chasing me leaves me because the assassin was a medium-sized man. Move a bit. Word: self.
+>> If caught, let myself be imprisoned. Then, word:spaghetti. Slip through the bars. Word:guard. Make my way out. Word:female. Escape the vicinity. Word:self. Collect payment.
+>> 
+
+>>> **u/NTaya** [+3]  *Tzeentch**
+>>> 
+>>> Not sure how spaghetti would slip through the bars, but generally the idea of becoming an untraceable assassin is rather cool. Thanks.
+>>> 
+
+>> **u/Lightwavers** [+5]  * s̮̹̃rͭ͆̄͊̓̍ͪ͝e̮̹̜͈ͫ̓̀̋̂v̥̭̻̖̗͕̓ͫ̎ͦa̵͇ͥ͆ͣ͐w̞͎̩̻̮̏̆̈́̅͂t͕̝̼͒̂͗͂h̋̿**
+>> 
+>> I would try transforming into a computer and seeing if I can augment my intelligence that way. If you can partially shapeshift, become a cyborg.
+>> 
+
+>>> **u/NTaya** [+5]  *Tzeentch**
+>>> 
+>>> No, you can't partially shapeshift.
+>>>  I think the result of an experiment with a computer would be a conclusion that your consciousness is supported by magic and has nothing to do with your body, unfortunately.
+>>> 
+
+>>>> **u/Gurkenglas** [+1] *
+>>>> 
+>>>> Do I gain the sensorimotor capabilities of the target, though? (Such as turning into a small human and not having to spend months relearning to walk.)
+>>>> Firmly attach the motherboard of your computer to a precisely measured weight engraved with the word "Fnarglheim". Turn into Fnarglheim. Have an associate plug a CPU, RAM, SSD, PSU, a network card and maybe some peripherals into you. Can you see through a webcam? Can you interface with the internet?
+>>>> 
+
+>>>>> **u/NTaya** [+1]  *Tzeentch**
+>>>>> 
+>>>>> >Do I gain the sensorimotor capabilities of the target, though?
+>>>>> Yes, of course, even if the ones drastically different from human's would take some time getting used to.
+>>>>> >Firmly attach the motherboard of your computer to a precisely measured weight engraved with the word "Fnarglheim". Turn into Fnarglheim. Have an associate plug a CPU, RAM, SSD, PSU, a network card and maybe some peripherals into you. Can you see through a webcam? Can you interface with the internet?
+>>>>> Huh. If you'd transform into a computer all at once, you wouldn't be able to do what you are describing. However, if you first become the motherboard that has built-in support for peripherals and only then attach them... I'm not 100% sure how motherboards work, but I think the amount of *control* you would have is not different from turning into any other non-alive object. You won't be able to use the Internet as a user would, but you would be able to see through a webcam or hear through a microphone, I guess.
+>>>>> 
+
+>> **u/Ev0nix** [+2] *
+>> 
+>> Publicize your power, become an actor, become a celebrity and get stinking rich with wide influence, sure people might not trust you with an official position but it's still pretty good. Be a rescue worker or something on the side for good reputation. You'll be able to get pretty much anything you want for as long as civilization lasts and be in a position to help it continue a bit longer. No need for anything fancy.
+>> 
+
+>>> **u/NTaya** [+2]  *Tzeentch**
+>>> 
+>>> Sounds nice. Thanks for the input.
+>>> 
+
+>> **u/Iwasahipsterbefore** [+2] *
+>> 
+>> Do the words have to be in english specifically? If not, create a custom language that has all nouns be single words. Now you can turn into anything.
+>> If you wanted to kill all life on earth, say antimatter.
+>> What happens if you lose mass while transformed? What happens if you gain mass? For example if I become a sponge. Or if I become a piece of metal that then oxidizes.
+>> 
+
+>> **u/None** [+2] *
+>> 
+>> Does anyone know a one word version of stem cells?
+>> 
+
+>>> **u/RMcD94** [+2] *
+>>> 
+>>> Try a different language
+>>> 
+
+>> **u/CCC_037** [+1] *
+>> 
+>> If I turn into a tree and a branch is broken off, but that branch is still alive, does it become a smaller shapeshifter with my memories?
+>> 
+
+>>> **u/NTaya** [+2]  *Tzeentch**
+>>> 
+>>> No, the branch is not considered alive.
+>>> 
+
+>>>> **u/None** [+5] *
+>>>> 
+>>>> Ever heard of grafting? The branch very much stays alive, and is still genetically the same tree as before, but is now "firmly attached" to a whole other tree. That is the fastest mass-gain method I can think of.
+>>>> 
+
+>>>>> **u/NTaya** [+2]  *Tzeentch**
+>>>>> 
+>>>>> I think it would work in reverse. If you are a tree, and somebody plants a branch (or something like that) to grow on your rootstock, the system may consider that branch to be a part of your weight when you become physically connected to it. It might be a relatively fast way to gain weight, thank you.
+>>>>> 
+
+>>>> **u/CCC_037** [+1] *
+>>>> 
+>>>> What if I turn into a very large starfish? Starfish can be split apart such that each half remains individually alive (and can then regrow into two starfish).
+>>>> 
+
+>>>>> **u/NTaya** [+2]  *Tzeentch**
+>>>>> 
+>>>>> Your consciousness would be able to control only the largest part of a starfish. The other parts are still alive but become completely usual starfish.
+>>>>> 
+
+>>>>>> **u/CCC_037** [+2] *
+>>>>>> 
+>>>>>> ...okay, so no self-cloning and shrinking myself down by rapid loss of mass - with the help of an ally - is going to be tricky. Still, I can lose a lot of mass very quickly with the Starfish trick, or by turning into a tree and having some branches cut loose.
+>>>>>> I could *gain* mass by turning into a constrictor snake, having a good meal, and spending a day or two digesting. It's not *fast*, but the mass limits can be worked around with enough prep time.
+>>>>>> The Square-Cube Law will be my bane, however. I could turn into a human-sized ant, I'll just promptly start suffocating.
+>>>>>> Hmmmm. So I need to turn into something with a one-word description. Can that description involve me looking at a photograph and saying "Him"? I won't gain the target's knowledge, naturally, but gaining a specific person's appearance has plenty of uses.
+>>>>>> 
+
+>>>>>>> **u/NTaya** [+2]  *Tzeentch**
+>>>>>>> 
+>>>>>>> >Can that description involve me looking at a photograph and saying "Him"?
+>>>>>>> There's a restriction: to transform into something *exact*, that exists as a single copy, you need its *exact* weight, down to a milligram. It's a very difficult restriction to circumpass, so I'm likely to remove it in the story (then yes, your idea would work, thanks!), but for now, I'm thinking about what could be done with such limitation in play.
+>>>>>>> 
+
+>>>>>>>> **u/CCC_037** [+1] *
+>>>>>>>> 
+>>>>>>>> If I get the weight wrong, then doesn't that just scale me up or down by a few percent? If anyone even notices, I can blame it on new shoes.
+>>>>>>>> Can I bypass aging by, once a year, shape-shifting into myself at age 21? (Ideally from a photo after I did a six-month stint of hard exercise and really got myself into good shape)?
+>>>>>>>> I can certainly sneak into places as a seeing-eye dog (there are some very large breeds indeed) or travel through air ducts as a constrictor snake, should that prove necessary.
+>>>>>>>> ...talking of snakes, if I turn into something venomous, can I poison things?
+>>>>>>>> 
+
+>>>>>>>>> **u/NTaya** [+3]  *Tzeentch**
+>>>>>>>>> 
+>>>>>>>>> >If I get the weight wrong, then doesn't that just scale me up or down by a few percent? 
+>>>>>>>>> If you are trying to transform into something exact, then no, you would simply not transform. However, if you go for a generic "ant"/"whale"/"human", you would get scaled up/down if your weight doesn't match the target's possible range of weights.
+>>>>>>>>> >Can I bypass aging by, once a year, shape-shifting into myself at age 21? (Ideally from a photo after I did a six-month stint of hard exercise and really got myself into good shape)?
+>>>>>>>>> You can bypass aging by body surfing, i.e., transforming into a generic "human" until you find a suitable body. Your idea would work if you measure your weight at that point and then replicate it.
+>>>>>>>>> >I can certainly sneak into places as a seeing-eye dog (there are some very large breeds indeed) or travel through air ducts as a constrictor snake, should that prove necessary.
+>>>>>>>>> True.
+>>>>>>>>> >...talking of snakes, if I turn into something venomous, can I poison things?
+>>>>>>>>> Yes, you can.
+>>>>>>>>> 
+
+>>>>>>>>>> **u/CCC_037** [+2] *
+>>>>>>>>>> 
+>>>>>>>>>> Okay, so I have functional immortality. Can I be a little more selective that just 'human' by specifying, say, 'athlete' for a reasonably fit body? Can I revert to a sort of default form by specifying my own name?
+>>>>>>>>>> If I specify someone else's name (e.g. "James"), do I turn into a random James of the right weight? Can I turn into a specific James, at whatever age he was when he was my exact weight?
+>>>>>>>>>> --------------
+>>>>>>>>>> In case of financial emergency, I could always turn into something with expensive or valuable venom, milk my own venom, and then sell it. I'd probably take note of the addresses of the sort of people interested in buying rare venoms, perhaps for medical research.
+>>>>>>>>>> 
+
+>> **u/Palmolive3x90g** [+1] *
+>> 
+>> Become ageless and able to heal by transforming until you are a young and healthy human is the first thing that comes to mind.
+>> 
+
+>>> **u/NTaya** [+1]  *Tzeentch**
+>>> 
+>>> Thanks. Body surf kinda obvious, I was thinking something more obscure.
+>>> 
+
+>> **u/Hust91** [+1] *
+>> 
+>> Can you shapeshift parts of yourself?
+>> Can you shapeshift them when they are no longer attached to you?
+>> If not, there's always the antimatter suicide threat.
+>> Partial attached shapeshifting or surviving some tiny pieces being chipped off lets you get wealthy on producing materials that are extremely valuable even if you only have a few grams of it.
+>> 
+
+>>> **u/NTaya** [+1]  *Tzeentch**
+>>> 
+>>> No and no. You still can chop off valuable materials with a help of a friend, it's just that you would shapeshift into progressively lighter bodies after that.
+>>> 
+
+>>>> **u/Hust91** [+1] *
+>>>> 
+>>>> Though presumably you could regain the weight simply by eating, no?
+>>>> 
+
+>>>>> **u/NTaya** [+2]  *Tzeentch**
+>>>>> 
+>>>>> Yes, but you need to wait for food to digest. 
+>>>>> Gaining a lot of valuable metals was honestly my first idea, it seems like a good application of this power.
+>>>>> 
+
+>>>>>> **u/Hust91** [+1] *
+>>>>>> 
+>>>>>> Doesn't even have to be metals, could be downright exotic particles that are almost impossible to get by normal means, but are generally stable.
+>>>>>> Turning into a crab and giving a blue crab-blood donation might also work, apparently the liter-price on that is absurd.
+>>>>>> 
+
+>>>>>>> **u/NTaya** [+1]  *Tzeentch**
+>>>>>>> 
+>>>>>>> The idea about blue crab-blood is good, but I think you might accidentally crash the market if you donate a bit too much.
+>>>>>>> Thank you for your input!
+>>>>>>> 
+
+>>>>>>>> **u/Hust91** [+1] *
+>>>>>>>> 
+>>>>>>>> Definitely, but you could be a one-person monopoly on it. It's certainly enough for you specifically to become fabulously wealthy.
+>>>>>>>> And hey, if you manage to generate some negative matter (matter with reverse gravity, basically) because it exists in some atomic amount on earth, you can hold a monopoly on FTL travel for the foreseeable future.
+>>>>>>>> 
+
+>>>>>>>>> **u/NTaya** [+1]  *Tzeentch**
+>>>>>>>>> 
+>>>>>>>>> Sounds fun, thanks!
+>>>>>>>>> 
+
+>> **u/WilyCoyotee** [+1] *
+>> 
+>> Famous people names would still allow you to transform into specific persons, wouldn't it? If I say Obama, then wouldn't I be able to shapeshift into Barack or Michelle Obama? 
+>> Also one word is fairly limiting if intent can't specify the result. Blue whale vs Sperm whale, water tank vs military tank, american tank vs french tank. Speaking of whales, that might be one of the ways to increase mass fast, by eating krill.
+>>  Alternatively colonial organisms like  the Pando forest, which is an interconnected colony of like one clonal tree. Trees take in co2, roots take in nutrients, gain mass that way. 
+>> I'm assuming size isn't limited, you just have extremely low mass while being something large.
+>> 
+
+>>> **u/NTaya** [+1]  *Tzeentch**
+>>> 
+>>> >If I say Obama, then wouldn't I be able to shapeshift into Barack or Michelle Obama?
+>>> If your weight is precisely as the weight of one of them, down to the milligram. 
+>>> Otherwise, thank a lot for the idea how to gain weight quickly. That helps!
+>>> 
+
+>>>> **u/WilyCoyotee** [+2] *
+>>>> 
+>>>> Is it that you can't shapeshift into them if the weight isn't the same, or that you'll not match weights, but still look like them otherwise? (meaning that you'll have lighter or heavier limbs, etc, which might be noticable if in contact but visually indistinguishable?)
+>>>> 
+
+>>>>> **u/NTaya** [+1]  *Tzeentch**
+>>>>> 
+>>>>> >Is it that you can't shapeshift into them if the weight isn't the same, or that you'll not match weights, but still look like them otherwise? 
+>>>>> As I've answered in another comment, right now I'm actually unsure about this. I suppose that if you choose an exact person as a target, you would need their exact weight.  But a generic "human" would just make you a generic random body even if this exact weight is not currently present on Earth. If this is too inconsistent or just seems like a cop-out, I'd think up something else.
+>>>>> 
+
+>> **u/MilesSand** [+1] *
+>> 
+>> Instant weight loss method. Just get a friend with a hacksaw.
+>> Instant x, y, z, privilege, where the variables are any of the options that you prefer at the time.
+>> Since it's always tied to the relative "speed" of time at a particular location, there's probably a way to exploit the power for ftl communication and perpetual motion machine based power generation. 
+>> Does ingested food count as firmly attached? What if I eat a pound of lead, transform myself into a gold statue, have a friend cut off about a pound of material, and turn myself back to the state I was in without the lead.
+>> Actually hold on, if I transform at all I can't transform back, since another copy of me doesn't exist anymore. Maybe it's better not to use it at all.
+>> Then again, if I transform into Hugh Heffner (before his death) I'll have copied his memories and thus experienced his life up to that point, which is pretty sweet. 
+>> You could combine all human knowledge in this way, and come out with some incredible technology. Or just confused about all of life depending on how other peoples' memories affect your perception of the world.
+>> 
+
+>>> **u/NTaya** [+1]  *Tzeentch**
+>>> 
+>>> >Does ingested food count as firmly attached?
+>>> I was thinking about it and would go with no, only the digested parts of food count towards your weight. 
+>>> >You could combine all human knowledge in this way
+>>> I specifically stated that you can't gain memories (and thus knowledge) of others this way. It would be way too OP otherwise, IMO.
+>>> 
+
+>> **u/iftttAcct2** [+1] *
+>> 
+>> Balance yourself over a cutting machine, turn yourself into a precious metals, fall into the cutting machine. On the other side turn back into a (smaller human). Go to a buffet and enjoy yourself, transform into: "me". Infinite money or resources.
+>> Assign someone a unique name. Eg, call Emeril Lagasse "Liremelagassy" in your head and then transform into Liremelagassy. Bam, now you can do nefarious things (as a presumably less overweight Lagasse). Turn yourself into a porn star and have some fun? How about George Washington and see what kind of teeth he had?
+>> 
+
+>>> **u/NTaya** [+1]  *Tzeentch**
+>>> 
+>>> >Infinite money or resources.
+>>> Yeah, precious metals are the first thing I thought about. 
+>>> >How about George Washington and see what kind of teeth he had?
+>>> Let's say you are limited to living humans (to avoid confusion whether you'd transform into a corpse/skeleton or a person's original body). But anyway, this requires knowing the precise weight, the same goes you pornstars. I don't think it would be easy to transform into a certain person rather than a generic human/male/female/adult/child.
+>>> 
+
+>>>> **u/iftttAcct2** [+1] *
+>>>> 
+>>>> Oh, I figured you'd turn into a smaller (or larger) version of them. Like, what happens if you're the largest human alive, can you not transform into another person? If you say, "whale" and there are no baby whale fetuses exactly your size, would it just not happen?
+>>>> 
+
+>>>>> **u/NTaya** [+1]  *Tzeentch**
+>>>>> 
+>>>>> I'm actually unsure about this. I was thinking that you need exact weight for everything, and yeah, whale fetuses wouldn't work because of that, but in the end, this is too strong of a limitation. 
+>>>>> I'd say that the new rule is that if you choose an exact person/whale/etc as a target, you would need their exact weight.  But a generic "human"/"whale" would just make you a generic random body even if this exact weight is not currently present on Earth. If this is too inconsistent or just seems like a cop-out, I'd think up something else.
+>>>>> 
+
+>>>>>> **u/Gurkenglas** [+1] *
+>>>>>> 
+>>>>>> If the weight limit is merely supposed to pace your story, why not say that your new form must have at most your current mass? (If you're nice, keep track of the extra mass and count it towards the cap rather than deleting it.)
+>>>>>> 
+
+>>>>>>> **u/NTaya** [+1]  *Tzeentch**
+>>>>>>> 
+>>>>>>> I like heavy restrictions, they make actually doing something under them more interesting. If this particular one would make the story significantly more difficult to write, I would go with your idea, capping the highest mass (and probably the lowest, just in case).
+>>>>>>> 
+
+>>> **u/None** [+1] *
+>>> 
+>>> Or just be a music artist with one name like Beyonce or Rihanna.
+>>> 
+
+>> **u/BanjoPanda** [+1] *
+>> 
+>> Does transforming into small solid particules like dust works? Or is it banned same as liquid/gas? That would make you pretty much invulnerable
+>> Also, you basically have unlimited ressources. The moment you gain mass you can transform into something valuable and dividable and take some scraps. Like if you transform into a stack of gold and an accomplice take away one gold bar before you become human again, what happens?
+>> 
+
+>>> **u/NTaya** [+1]  *Tzeentch**
+>>> 
+>>> >Does transforming into small solid particules like dust works?
+>>> I think it either wouldn't work, or you would become one giant particle.
+>>> >Like if you transform into a stack of gold and an accomplice take away one gold bar before you become human again, what happens?
+>>> You would become a random human that is 31 grams (a standard weight for a small bar) or 12.4 kilograms (for supersized ones) lighter.
+>>> 
+
+>> **u/None** [+1] *
+>> 
+>> >You become utterly, Siberian-level invincible for one second a day, exactly at noon of whatever time zone you're currently in.You have one full day of invincibility to use whenever you like. Using it permanently depletes your store. (This is 236 years of using one second a day as above.)You may become invincible whenever you want, but you must spend an equal amount of time feeling like you have a bad flu (weak, shivery, headache/stomachache, vomiting, etc.) Payment begins as soon as you stop your invincibility, and it automatically ends after 24 hours of use. You can't go invincible while paying it back.  
+>> >  
+>> >Your goal is to amass as much wealth as possible while avoiding capture.
+>> Can you transform into things that don't exist?  If not, then could you use it as a way to find out information?  Could you say turn into the murderer of an unsolved crime?
+>> 
+
+>>> **u/09eragera09** [+2] *
+>>> 
+>>> You replied to the wrong top level comment, my dude
+>>> 
+
+>>> **u/NTaya** [+1]  *Tzeentch**
+>>> 
+>>> >Can you transform into things that don't exist?
+>>> No.
+>>> >If not, then could you use it as a way to find out information? Could you say turn into the murderer of an unsolved crime?
+>>> You need to describe the end result in one word. You can try to use "murderer" to cycle through *all* the murderers in the world, but with the four minute cooldown this would take quite some time.
+>>> 
+
+>> **u/lillarty** [+1] *
+>> 
+>> > You can shapeshift into anything that exists on Earth   
+>> >  
+>> > You are not required to know the working details of the thing you transform into 
+>> You'd be able to determine the existence of top-secret technologies, and if you had someone else you trusted nearby you could have them analyze the technology before you turn back. The biggest problem with this would be finding a way to refer to potentially nonexistent technologies/objects with a single word. Does the military have a gun that shoots tornadoes? No way to find out, unless there's a word for that which I don't know of. 
+>> Does the one word need to be in English? I assume you wouldn't be able to easily break your own power by just inventing your own "language," but there's likely many languages which have single words which would require many more words to convey in English. If you can mix and match which human languages you use, it makes your transformation abilities much more flexible.
+>> 
+
+>>> **u/NTaya** [+1]  *Tzeentch**
+>>> 
+>>> >Does the one word need to be in English?
+>>> Any language that you speak, where "speak" is an arbitrary but fairly low bound, something close to CEFR's A2. If you learn a lot of languages on a basic level, you would be able to do what you want.
+>>> >The biggest problem with this would be finding a way to refer to potentially nonexistent technologies/objects with a single word.
+>>> Yeah, it's not a good way to find out anything beyond stuff from popular culture, such as teleporters (even though you might become a device with which quantum teleportation is performed, I guess?).
+>>> 
+
+>> **u/09eragera09** [+1] *
+>> 
+>> If you shapeshifted into, say, a solid cube of gold, and then were cut precisely in the middle, which piece would be 'you'?
+>> 
+
+>>> **u/NTaya** [+1]  *Tzeentch**
+>>> 
+>>> If you manage to somehow have the parts weigh the same down to a milligram, then you become one of them seemingly at random.
+>>> 
+
+> **u/Sonderjye** [+5] *
+> 
+> You're part of the Resistance against an evil(well, greyish really) world-spanning organization in a world in which ideas have an effect on the world reality. Ideas affect reality in a way that is defined by the idea itself and it gathers power when people think of it. The evil organization already have a lot of content out there for people to think about and controls the media in a semi-autonomous way. Your ultimate goal is to topple the evil organization.
+> You want to create an idea that becomes a huge topic(such that people talk/think about it) and that is designed such that you can use it to fight the organization. The evil organization controls the biggest media but isn't monitoring actively, so if you want to use the news etc. to spread the idea it needs to be innocent on the surface, else you need to think of another way of spreading it. 
+> Idea descriptions should include how it helps you fight the evil organization, why people are thinking a lot about it, and why/how it spread.
+> 
+
+>> **u/IICVX** [+9] *
+>> 
+>> Make a meme about storming Area 51?
+>> 
+
+>>> **u/Sonderjye** [+2] *
+>>> 
+>>> Would you be willing to provide a little more details?
+>>> 
+
+>>>> **u/IICVX** [+10] *
+>>>> 
+>>>> This is obviously a "ripped from the headlines" suggestion, but there's currently a meme popping up in a few subreddits about "raiding" Area 51 - you can see it occasionally on /r/all right now. 
+>>>> Most of the memes are about the loot people expect to gain, or nonsensical videogame-based advice about what to do during the raid. The success of the raid is treated as a foregone conclusion.
+>>>> The thing is, most people don't really *know* where Area 51 is. Because of that, the idea really boils down to "on <the date specified in the meme>, a successful assault on a government property will happen and the attackers will get away with high-tech government loot (and/or alien babes because this is the internet)"
+>>>> So yeah. Spread a meme like that - vague location, concrete date, concrete action - and make sure it catches in the public conscience. Then on the day of, execute your plot with the assurance that this idea has your back. 
+>>>> Heck, it might even work in reality - security forces might be so tied up with the nonsense about raiding Area 51, that another attack somewhere else slips through.
+>>>> 
+
+>>>>> **u/Sonderjye** [+3] *
+>>>>> 
+>>>>> I like this. It's silly and complex and would have an actual chance of working.
+>>>>> 
+
+>> **u/CCC_037** [+7] *
+>> 
+>> Start spreading a meme about bureaucracy; spreading the idea that the bigger an organisation, the more inefficient it inevitably becomes, until it finally collapses under the weight of its own red tape.
+>> Merely discussing this Idea will eventually topple the evil organisation, or force it to split into smaller pieces (so, victory or partial victory)
+>> 
+
+>>> **u/Sonderjye** [+2] *
+>>> 
+>>> I like this one a lot! It's subtle and probably would slip by screening.
+>>> 
+
+>> **u/MilesSand** [+3] *
+>> 
+>> I mean just host a seance and ask the ghost to curse the organization's leadership into incompetence.
+>> Enough people believe in witchcraft that it should be pretty doable as long as you use the stupidest method you can think of.
+>> Edit: or pray the gray away.
+>> Anyway your big obstacle are probably the underground complexes this company has, full of people who are kept contained in an information-isolated environment to make them believe whatever it is the company's leaders think is most beneficial to themselves personally but also helps the company somewhat.
+>> 
+
+>> **u/Petrarch1603** [+0] *
+>> 
+>> How do you know the resistance that you’re part of isn’t evil too? Seems like there’s a lot of rationalization for unethical tactics. 
+>> To answer your question, the way you fight this evil is by holding true to your values. No ‘ends justifying the means’.
+>> 
+
+>>> **u/Sonderjye** [+1] *
+>>> 
+>>> Who said that the resistance isn't also evil? I'm just saying the world spanning organization have to go down.
+>>> How would you go about constructing ideas to support your cause while staying true to your values?
+>>> 
+
+> **u/Boron_the_Moron** [+4] *
+> 
+> You are the monarch of a feudal kingdom. You have the chance to forge an unbreakable alliance between your dynasty, and one species of animal. Within the bounds of your kingdom, this species will live alongside your people peacefully, and attempt to assist your people in their labours in any way they can. Your allied species will respect your authority in all matters.
+> What is the best species to ally with?
+> 
+
+>> **u/Palmolive3x90g** [+3] *
+>> 
+>> Well the cheat answer here would be human since you kingdom would become immune to rebellion.
+>> Do the animals get any boost to their ability to think or communicate? I think some sort of pess animal like rats or bugs might be a good one since they would be hard to deal with back then.
+>> 
+
+>>> **u/Boron_the_Moron** [+2] *
+>>> 
+>>> The animals become smart enough to understand human language, and communicate with your people, though they cannot physically speak human language. This intelligence is only granted to members of the species born within the bounds of your kingdom, and is not inherited by animals born outside of it.
+>>> 
+
+>> **u/None** [+2] *
+>> 
+>> Wolves.
+>> Note: I am assuming a feudal kingdom in medieval Europe or the sort of place commonly seen in western fantasy fiction which is often based on Europe.
+>> Wolves are common enough that I would expect them to be available in my kingdom, unlike, say, chimpanzees or elephants, and can be used for military/police purposes or for the sort of things we use dogs for generally, and making them my devout allies allows me to remove all the scary stuff that peasants hate about wolves.
+>> Eagles or hawks might also be good for spying because they can fly and see really well, but I consider wolves' sense of smell to be good enough for spying, and wolves probably are, on net, better for attack purposes.
+>> 
+
+> **u/LazarusRises** [+8] *
+> 
+> Three scenarios:
+> 1. You become utterly, Siberian-level invincible for one second a day, exactly at noon of whatever time zone you're currently in.
+> 2. You have one full day of invincibility to use whenever you like. Using it permanently depletes your store. (This is 236 years of using one second a day as above.)
+> 3. You may become invincible whenever you want, but you must spend an equal amount of time feeling like you have a bad flu (weak, shivery, headache/stomachache, vomiting, etc.) Payment begins as soon as you stop your invincibility, and it automatically ends after 24 hours of use. You can't go invincible while paying it back.
+> Your goal is to amass as much wealth as possible while avoiding capture.
+> 
+
+>> **u/ShiranaiWakaranai** [+14] *
+>> 
+>> >exactly at noon of whatever time zone you're currently in.
+>> It saddens me that this is time zone-based rather than sun location-based. I wanted to go to space and orbit around the Earth such that the sun is always exactly in the middle of the sky all the time, and thus have permanent invincibility.
+>> Then again, since this power is strangely reliant on time zones, can you take over a country and take the concept of daylight savings up to 11 by setting the time to always be 12 noon? Would that make you permanently invincible within the borders of your country?
+>> What happens if you are physically on the boundary between two time zones? Would only the half of you in the timezone currently at 12 noon be invincible? (What happens if there's a border dispute so the borders of a country aren't well-defined?)
+>> > You may become invincible whenever you want,  but you must spend an equal amount of time feeling like you have a bad flu 
+>> Is there a minimum interval of time between invincibility uses?
+>> If not, toggling your invincibility on for 1 nanosecond every 100 nanoseconds should be pretty much indistinguishable from being permanently invincible, since 99 nanoseconds isn't enough time for most attacks to penetrate your skin before your invincibility toggles on and negates the force of the attack. And 1 nanosecond of a bad flu every 100 nanoseconds shouldn't really affect how you feel significantly, so the side effect is manageable.
+>> You just need to watch out for attacks that can hurt you in those 99 nanoseconds. Which attacks can do so depands on how your invincibility actually works. If you're being burned alive, do your cells just not absorb any heat from the flames? Does the invincibility rapidly disperse or delete any amount of heat above the harmful threshold? Do your cells that die just magically respawn in the same location in perfect health?
+>> 
+
+>>> **u/ShiranaiWakaranai** [+5] *
+>>> 
+>>> Now let's think about how to actually exploit invincibility.
+>>> I'm thinking of hair. Grow your hair to extreme lengths and when you go invincible, you have an invincible mass of hair that you can use to cover arbitrary objects to make them invincible too.
+>>> If hair doesn't count for invincibility (or falls off too easily), what about skin grafts? I think you could mass clone your skin cells fairly easily then graft them back onto yourself, such that you have as much loose skin flopping around as you want.
+>>> Now you can make money legally by offering to be the heat shield for spacecraft. No more need for big and heavy heat shields that increase the fuel costs exponentially. Simply bring you on board as an astronaut, and whenever the spacecraft needs to re-enter the atmosphere you cover the front of the spacecraft with your body/hair/skin and turn on your invincibility. Depending on the mechanism behind your invincibility, you could re-enter the atmosphere without heating up at all, and also ensure the rocket behind you doesn't heat up either, yet still slow down to a safe velocity for landing.
+>>> 
+
+>>>> **u/dinoseen** [+6] *
+>>>> 
+>>>> > I think you could mass clone your skin cells fairly easily then graft them back onto yourself, such that you have as much loose skin flopping around as you want.
+>>>> Truly, this is what I've always wanted.
+>>>> 
+
+>> **u/Izeinwinter** [+7] *
+>> 
+>> 3: Stuntman. I mean, screw lawbreaking, skeptics prices and the rest. Absolute no-sell will save action movies *so* much money on sfx. 
+>> Just gotta find an actor who matches my build.
+>> 
+
+>> **u/Sonderjye** [+3] *
+>> 
+>> The third way is vastly superior compared to the two others, just have something that can knock you out when you feel bad. I don't think you have to worry so much about capturing, you can always just break out.
+>> Let researchers study your body when you go invincible. 
+>> Drive a big turbine to produce enough electricity for the entire world.
+>> Safe NASA fuel power by throwing rockets into space.
+>> 
+
+>>> **u/RMcD94** [+1] *
+>>> 
+>>> Or never release invincibility
+>>> 
+
+>>>> **u/Obvious_Pseudonym_** [+1] *
+>>>> 
+>>>> There's a 24 hour cap, remember?
+>>>> 
+
+>>>>> **u/RMcD94** [+1] *
+>>>>> 
+>>>>> Oh I can't read
+>>>>> 
+
+> **u/Veedrac** [+3] *
+> 
+> This is part 3 of the mini battle royale quest I've been running. It's very low effort, there's no voting, and it's intended to be simple fun.
+> Part 1: https://www.reddit.com/r/rational/comments/c7002f/d_saturday_munchkinry_thread/esgpnm7/  
+> Part 2: https://www.reddit.com/r/rational/comments/c9uk9q/d_saturday_munchkinry_thread/etb29mc/
+> ---
+> Felicity caught the paper plane before it hit her this time. Aside from a few oddly blacked out suggestions, it was much the same as the last time.
+> She had four options. Speed and reflexes, useful long-term and well-rounded. Mind control projectiles, hopefully capable of bypassing defenses that would survive the falling rocks—assuming they fell again. Retrying the last wish at a larger scale, with gas-filled boxes around the opponent and a trap-laden fortress to protect herself, doubling down on an idea that so far had worked. A magical decoy, to engage in combat on her behalf, with physical skills in excess of her own, and absorbs targeted wishes.
+> Mind control had, fairly evidently, the highest potential by some measures, but it seemed the most risky, and if it was even partially ineffective it would leave her undefended, a gamble she didn't want to take. A decoy would also nullify some set of attacks, but if the power of a wish is limited, its complexity would mean she would lose most head-to-head battles, since after the decoy falls she would have no follow-up. The final choice was between landing the kill herself with enhanced speed, exposing herself to danger but allowing her flexibility, and an optimized static arrangement of traps and poisons to take out the target without her direct involvement.
+> ---
+> The moment Arlene teleported into the arena, her heroic golden armour shining in the sunlight, her mythic warrior reflexes had her running for the gap between the slanted steel walls rising from the ground to entrap her. The moment she knew she was too late she changed course, charging at the centre of the wall, to climb her way up to the hole in the roof.
+> She reached the wall in a leap just as it ceased movement, and her hand, infused with unphysical strength, stabbed a grip into the smooth steel. Barely had she grasped its surface when a hundred rocks plummeted through the opening, cratering the unshadowed square in the middle of the room, other rocks pummelling against the sloped walls and wrenching her grip free.
+> The moment the rocks stopped, the square, steel roof fell into place, plunging Arlene into darkness. She heard canisters exploding, hearing and feeling a strange gas take hold over the room. Arlene screwed shut her eyes and refused to breathe. If she were in any other body, she would have lost all hope, but she was sure her strength was purely magical in nature, and it took no special effort to engage. However many seconds she had, it would be enough.
+> Tentatively opening her eyes, and relieved to find them unaffected, she regrabbed her handhold, and like an elite climber launched herself in one motion to the top, stabbing her fingers into the small gap between the walls and the roof. She made a handhold in the motion, but the force threw her free, and she had to leap back to and up the wall to secure herself again. Her chest was pounding for oxygen, but her body showed no trace as she pushed with all her force for the wall and roof to part. Neither gave enough—the walls were thick, and the roof heavy and littered from above with rocks.
+> The warrior spirit is indomitable, but Arlene's was not. She gasped for breath, and the hallucinogens took her.
+> ---
+> Sorry for people expecting this earlier; most of the weekend wasn't a good time to write it and, to give some more out-of-character information, the other legal wishes would probably have left you dead, so I wanted to make sure the choice was what Felicity would really have gone with.
+> Felicity has been observing the outside of the room that formed around her opponent from within her trapped fortress. She's noticed loud sounds from within the room, which have died down but not fallen silent, and she's starting to regret wishing for the room to be filled with hallucinogens instead of general anesthesia. She thinks she sees an entrance, but doesn't want to fight barehanded. What does she do?
+> I'll give fairly free reign for what is in the trapped fortress that she can use, as long as people don't try to push too far. She knows the layout in it and can move around safely. The room filled with hallucinogens is a separate thing, and the rocks that fell with the roof were in addition to the previously fallen rocks, which are to one side.
+> Note that only time travel that makes my job much harder is banned out-of-character; time travel that's less difficult to write may still be considered. Same for the library wish that got squashed.
+> 
+
+>> **u/siuwa** [+2]  *Puella Magi**
+>> 
+>> Alright, so we went with this one:
+>> >another is a fortress full of traps that can kill or disable the opponent and either poisonous gas or something that can disable the opponent, with herself and the cover at the center.
+>> I can't formulate a well-supported argument on why we should be winning without knowing what exact powers they have, but I suspect we could be winning with most other options.
+>> I suggest we wait outside the room and let the oxygen in the room out. If that's implausible then at least she would be wasting stamina doing whatever. Then we stab her with a spear when she breaks out.
+>> Edit: Also, may I borrow this idea and run a similar quest in SV?
+>> 
+
+>>> **u/Veedrac** [+1] *
+>>> 
+>>> > Edit: Also, may I borrow this idea and run a similar quest in SV?
+>>> Absolutely.
+>>> 
+
+>>>> **u/siuwa** [+2]  *Puella Magi**
+>>>> 
+>>>> Yay. Now I just need to actually write the thing!
+>>>> 
+
+>> **u/Veedrac** [+1] *
+>> 
+>> As before I'm going to cc anyone who replied to the directly prior chapter, and if you don't want me to ping you any more, just tell me or don't reply to this thread.
+>> /u/CCC_037 /u/causalchain /u/Palmolive3x90g
+>> 
+
+>>> **u/Veedrac** [+1] *
+>>> 
+>>> /u/siuwa /u/crivtox
+>>> 
+
+>> **u/CCC_037** [+1] *
+>> 
+>> Is there some sort of sound system inside the trapped fortress, so Felicity can speak into a microphone and have her voice appear to come from elsewhere?
+>> 
+
+>>> **u/Veedrac** [+2] *
+>>> 
+>>> The original proposal was
+>>> > a fortress full of traps that can kill or disable the opponent and either poisonous gas or something that can disable the opponent, with herself and the cover at the center
+>>> so speakers seems like a bit of a stretch.
+>>> 
+
+>>>> **u/CCC_037** [+2] *
+>>>> 
+>>>> That's fair.
+>>>> ...some sort of weapon should be possible, though. Pulling a spear out of a spear trap of similar.
+>>>> Wait... is the hallucinogenic gas *flammable* by any chance? There should be a fire trap in here somewhere...
+>>>> 
+
+>>>>> **u/Veedrac** [+1] *
+>>>>> 
+>>>>> Those are fine.
+>>>>> 
+
+>>>>> **u/Veedrac** [+1] *
+>>>>> 
+>>>>> > is the hallucinogenic gas *flammable* by any chance
+>>>>> Actually, this point needs clarification. I'll let the gas be flammable, but since it's not designed to be an explosive, this will be in a similar sense to deodorant being flammable. A can of the stuff, yes. The diffuse particulates in the air? Probably not.
+>>>>> Note that the hallucinogenic gas in the room around Arlene is a different thing to the poisonous gas in the traps in Felicity's fortress.
+>>>>> 
+
+>>>>>> **u/CCC_037** [+1] *
+>>>>>> 
+>>>>>> If it's flammable, then those diffuse particulates in the air are very likely forming a fuel-air explosive; considering that the gas is pretty much saturating the room.
+>>>>>> Drop a lit match in there, and the entire *room* will go BOOM. The only downside of this is, it will likely flatten the entire fortress and kill the match-tosser into the bargain...
+>>>>>> (This is why open flames are not permitted in grain silos).
+>>>>>> 
+
+>>>>>>> **u/Veedrac** [+2] *
+>>>>>>> 
+>>>>>>> If we look at the [lower and upper flammability limits](https://en.wikipedia.org/wiki/Flammability_limit) for different substances, we see methane is flammable at 5-15% concentrations and ammonia is flammable at 15-28% concentrations. Ammonia is difficult to burn, and methane is easily flammable but far from exceptionally so, but conservative numbers sound more reasonable for a substance not designed to be an explosive.
+>>>>>>> Since the presumed intended effect of the hallucinogen trap is to cause hallucinogenic effects, the wish would have used a concentration that is not toxic in the short term. Speaking as a total layman, 5% sounds excessive for potent hallucinogens, so I would expect the concentration to be under the lower flammability limit.
+>>>>>>> 
+
+>>>>>>>> **u/CCC_037** [+1] *
+>>>>>>>> 
+>>>>>>>> ...okay, good, then going in there with a flamethrower (or, failing that, a spear which might throw sparks) isn't an immediate death sentence.
+>>>>>>>> ...well, not unless the person inside there is really a lot more on-the-ball than I expect.
+>>>>>>>> Alternatively - and this might be the better idea - first get a weapon (just in case), then open the door and yell until I have her attention, then lead her into one of a variety of traps.
+>>>>>>>> 
+
+> **u/litten8** [+1] *
+> 
+> I wonder what kind of crazy stuff could happen if BoTW's Stasis power was Muchkined(is that a word?). I'll say you have to touch a thing to stop time from passing for it(because just seeing something seems a bit too overpowered), but anything done to the object will immediately take effect as soon as the effect wears off in 10 seconds. Also, to prevent weird stuff in space, let's say that it is frozen relative to whatever object has the highest gravitational pull, and all force done to it is relative to the gravitational pull of that object(so it wouldn't just destroy whatever it was on due to gravity).
+> 
+
+>> **u/dinoseen** [+2] *
+>> 
+>> You can essentially focus 10 seconds of work into an instant. If you use a machine to put a lot of energy into it, the acceleration will probably result in something like [relativistic baseball](https://whatif.xkcd.com/1/). Even without a machine to generate force, the effect of everything you can do to it over 10 seconds happening instantly is going to be insane.
+>> 
+
+---
+

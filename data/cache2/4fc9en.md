@@ -1,0 +1,561 @@
+## [D] Monday General Rationality Thread
+
+* Author: u/AutoModerator *
+* URL: https://www.reddit.com/r/rational/comments/4fc9en/d_monday_general_rationality_thread/
+* Score: 19
+
+* Created: 2016-04-18T15:04:18
+
+### Post:
+
+Welcome to the Monday thread on general rationality topics!  Do you really want to talk about something non-fictional, related to the real world?  Have you:
+
+* Seen something interesting on /r/science?
+* Found a new way to get your shit even-more together?
+* Figured out how to become immortal?
+* Constructed artificial general intelligence?
+* Read a neat nonfiction book?
+* Munchkined your way into total control of your D&D campaign?
+
+
+### Comments:
+
+> **u/SvalbardCaretaker** [+15]  *Mouse Army**
+> 
+> Another story from [my ongoing adventures in the day clinic](https://www.reddit.com/r/rational/comments/4eb2md/d_monday_general_rationality_thread/d1yxt6h):
+> The most amazing progress has been happening. My brain rather suddenly updatet from alieving that it is stuck in a child-like state that needs to be afraid of _everything_ to alieving that I am now an adult. 
+> Tasks that were previously were hard for me are kinda easy now, and I am rather happy as a result.
+> 
+
+>> **u/wtfbbc** [+5] *
+>> 
+>> That's awesome! Thanks for keeping us posted, I'm super eager to hear more about this
+>> 
+
+> **u/alexanderwales** [+14]  *Time flies like an arrow**
+> 
+> It's currently recommended that you not let infants watch television because of the risk of attentional problems and slowed brain development in regards to language and vision.
+> I'm not a hundred percent convinced of this, especially since there are studies like [this one](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4042392/) which contradict that wisdom. There are a lot of confounders, since there are a lot of things that are likely to be different between a child that watches a lot of television and one that doesn't. For example, I would expect that this divides along class, education, and wealth lines. In general, I find the state of early childhood science to be quite lacking.
+> However, if I'm going to follow the advice to limit television exposure *anyway*, because while it might not be detrimental I wouldn't really expect it to be beneficial and there's little risk in limiting television time, I'm left curious as to what mechanism might be at work there. Would we expect radio to be equally bad? Podcasts? Talking to children is supposed to be good for language development, but is it the component of interactivity or just hearing the words? (I think my biggest problem with trying to find out the answers to these questions is that so many of the results are idiotic blogs that are content to make assertions without backing them up.)
+> 
+
+>> **u/None** [+6] *
+>> 
+>> The perhaps more insane part is that early childhood science isn't the only area where these answers are lacking. It's still not clear how anyone goes about learning a language, including adults. Even a simple question like, "Is there any language learning task X such that, if I keep doing it, I will learn this language to fluency?" appears to have no definite answer. There are a lot of people with different ideas (such as conversation or comprehensible input, which both beg the question of how precisely you begin comprehending or conversing -- and if you converse using only Pimsleur phrases back and forth, how could that possibly help you learn the 99% of the language that cannot be represented in such a constrained format?), and is FAR from being settled at all. 
+>> If deliberate study is needed (again: we have no idea if it is) then can this be done without another human? Unknown, because we have no idea _what_ the deliberate study would entail. If we design a task that we think will allow people to learn a language a la Pimsleur, there is an additional wrench that _clearly this is not how children learn._ So we're back at square one. 
+>> EDIT: My two cents: I've been learning Mandarin, and I've found flash cards useful. Popping an infant down with those would be... I don't know. Everything is an experiment in this area, but like I said, I find flash cards useful for increasing comprehension in real life scenarios that occurs at much fast speeds and in different contexts than the flash cards.
+>> 
+
+>>> **u/Uncaffeinated** [+1] *
+>>> 
+>>> babies and children don't really learn any faster than adults. If anything they learn more slowly. It isn't much of a mystery how they learn either - immersion and immitation.
+>>> Anyway, I think the one thing that is certain is that immersion lets you learn faster.
+>>> 
+
+>> **u/Charlie___** [+5] *
+>> 
+>> This is probably one of those things where recommendations are being informed by the extremes. Babies whose human-play-time is neglected in favor of TV will for instance do worse on developmental milestones related to engaging with humans (big surprise). But IANA developmental psychologist.
+>> 
+
+>> **u/None** [+3] *
+>> 
+>> [deleted]
+>> 
+
+>>> **u/alexanderwales** [+8]  *Time flies like an arrow**
+>>> 
+>>> Well, here's the theory behind impairment of visual development, which I think makes a good deal of intuitive sense:
+>>> Normally, a baby hits some object with their poor motor skills and watches how it reacts. From that, they begin to build up an intuitive understanding of physics, just like our savannah ancestors did. The rules are easy to learn, given lots of examples, and eventually the baby understands physics.
+>>> Television doesn't follow physics. For one thing, it's all two dimensional. For another, there are a ton of cuts and fades. If a baby is watching bowling on television, he might see one shot as the bowler releases the ball, then a shot from a different angle as it goes down the lane, then a *third* shot from behind the pins as it makes a strike. Adults can follow this, but the movement of a regular ball in the room with him would be confusing enough for the baby. The baby not only doesn't understand what's happening on the screen, it actively hurts his developing sense of physics, because he's getting fed information that conflicts with the other rules his brain is learning. This results in an overall slowdown of him learning rules.
+>>> But nice sounding theories aren't what science is about, so maybe that's just totally wrong.
+>>> As far as language learning goes, it might be that the extra auditory input from television is harmful to development because it's so divorced from anything interactive; the baby can listen, but when they point to things off-camera and say words, the baby might be learning that those words don't carry meaning, in the same way that a baby might end up confused if you held up an apple and an orange and called them both bananas. It's not enough to just *hear* language, there need to be some feedback mechanisms in place so that the baby can actually learn; otherwise the baby learns that there *is* no feedback from that stimulus, or gets confused about what rules are in play. Further, a baby watching television gets exposed to a *huge* variety of accents and dialects, which might hinder development by obfuscating the rules.
+>>> At least, that's how I would steelman it. Needs more evidence though, and early childhood stuff is notoriously difficult to ethically test given consent issues.
+>>> 
+
+>>>> **u/Kuratius** [+3] *
+>>>> 
+>>>> I'd say that this applies to children below the age of 5 if at all.
+>>>> There's a minimum level of comprehension that you need to make TV a useful resource for learning a language (a few hundred words and basic grammar); and even then it kind of depends on the type of show.
+
+>>>> I'd expect research regarding how adults can learn a foreign language without access to study materials to have some useful information about this, assuming it covers media.
+
+>>>> I can tell you a bit about how I learned English, but it's not really proper research.
+>>>> Have you considered that watching TV might not necessarily hurt language development, but that these children simply lack other useful activities that would have been done in that time? In addition, there's also the possibility that early on in an infant's life there 's a crucial time where they can get a massive leg up compared to their competition by engaging in interaction instead of watching TV.
+>>>> 
+
+>>>>> **u/None** [+1] *
+>>>>> 
+>>>>> [deleted]
+>>>>> 
+
+>>>>>> **u/Kuratius** [+1] *
+>>>>>> 
+>>>>>> I concede that the 5 year estimate may be an exaggeration.
+>>>>>> Does this detract from what I said in any way?
+>>>>>> 
+
+>>>> **u/ayrvin** [+1] *
+>>>> 
+>>>> I wonder if it's less of a problem with tv as a general thing, and more of a problem with the type of things that are on tv.  If tv shows are designed now to constantly flash new things on screen to hook peoples attention, then it makes sense that you would lose ability to intentionally focus your attention.
+>>>> I have not seen the current state of modern childrens shows, so I have no data to back this up.
+>>>> 
+
+>> **u/ednever** [+3] *
+>> 
+>> More confusion:
+>> I read a study in The Economist that looked at the impact of the rollout of Sesame Street across the US. It didn't go national all at once so the researcher was able to see what impact it had. Turns out it increased the school grades and adult IQ of the kids who were exposed.
+>> So an example of TV being good. 
+>> Unless totalTV stayed the same and it was just SS instead of Giligans Island which made the difference. Both could have lowered IQ but SS by not as much?
+>> 
+
+> **u/Dwood15** [+6] *
+> 
+> Is Sanderson's book series Mistborn considered rational?
+> 
+
+>> **u/Rhamni** [+8]  *Aspiring author**
+>> 
+>> I would say so. The magic system has clear rules (Not all of which are perfectly understood by the characters in the beginning), and as the later books show, characters usually have reasons that make sense for why they do or want things.
+>> 
+
+>> **u/Charlie___** [+5] *
+>> 
+>> Border cases are precisely where words are least useful :P
+>> 
+
+>>> **u/Dwood15** [+3] *
+>>> 
+>>> What?
+>>> 
+
+>>>> **u/ulyssessword** [+7] *
+>>>> 
+>>>> Words carry a lot of hidden information, and whenever a word is used to describe a thing that only meets some (or none) of that hidden information, it is less useful.
+>>>> For example: Is this particular ostrich a bird? (alternatively, [is a whale a fish?](http://slatestarcodex.com/2014/11/21/the-categories-were-made-for-man-not-man-for-the-categories/))
+>>>> A "bird" is defined as a member of the class *Aves*, and an ostrich is a member of that class, therefore this ostrich is a bird.  
+>>>> The second question is how useful knowing that the ostrich is a bird actually is.  If I knew nothing else about ostriches, I could make the following predictions with relatively high certainty:
+>>>>  - It has four limbs (two legs, two wings), a beak, is endothermic with a four chambered heart, and lays eggs if female. (True)
+>>>>  - it has hollow bones (Partly true)
+>>>>  - It can fly. (False)
+>>>>  - It is larger than a golfball, and smaller than a toilet. (False)
+>>>> Describing an ostrich as "a bird" is less useful than describing a duck as "a bird" because it matches less of the hidden information about what "a bird" is.
+>>>> 
+
+>>>>> **u/Dwood15** [+4] *
+>>>>> 
+>>>>> Thanks for the info, I guess?
+>>>>> 
+
+>>>>>> **u/Quillwraith** [+4]  *Red King Consolidated**
+>>>>>> 
+>>>>>> I'm not sure I'm interpreting this correctly, but I believe u/ulyssessword is implying that Mistborn is a border case of the category 'rational fiction', and that describing it as rational is thus probably accurate, but not very useful. 
+>>>>>> (Sorry for stating the obvious, if I am. I'm not sure I interpreted your post correctly either.)
+>>>>>> Incidentally, I would certainly consider Mistborn to be rational fiction myself, for the same reasons Rhamni pointed out.
+>>>>>> 
+
+>>>>>>> **u/ulyssessword** [+2] *
+>>>>>>> 
+>>>>>>> /u/Dwood15,  /u/Quillwraith pretty much said what I was trying to:
+>>>>>>> (Mistborn spoilers below)
+>>>>>>> By the definition in the sidebar:
+>>>>>>>  - Nothing happens because the plot requires it.
+>>>>>>>  - The conflict is mostly due to factional differences instead of plot points.
+>>>>>>>  - The characters solve problems with their brains.
+>>>>>>>  - The rules are sane and consistent.
+>>>>>>> It meets those requirements fairly well.
+>>>>>>> On the other hand (repeating my spoiler warning):
+>>>>>>>  - The characters actions are also driven by prophecy and the subtle and direct actions of two opposed god/elemental/people (whatever you want to call Ruin and Preservation, or Ati and Leras)
+>>>>>>>  - Ruin is pretty much Evil.  That *is* its beliefs and values, and it *is* what drives it into conflict with everything else, but still...
+>>>>>>>  - No real complaints about how they solve problems.
+>>>>>>>  - The rules are sane and consistent, but the actions of Ruin and Preservation can make them act less like physics (including magic-physics) and more like something people do.
+>>>>>>> I'd give it a solid B+ for how well it fits the definition of "rational fiction."
+>>>>>>> The second question is how useful is knowing that Mistborn is rational fiction actually is.  (I'll leave it as an exercise for the reader.)
+>>>>>>> 
+
+> **u/Nighzmarquls** [+6] *
+> 
+> Yesterday I started implementing on a life hack attempt.
+> For every act of 'feel good' charity such as funding a cat's pacemaker, helping out a friend or maybe donating time at a soup kitchen/giving a bum some change.
+> You match it with a large scale 'best good' donation to a charity.
+> Ideally you should try and do these close together if able.
+> For me I'm currently siding with funding malaria nets as my 'best good' charity to match.
+> 
+
+>> **u/TennisMaster2** [+5] *
+>> 
+>> Pairing warm fuzzies with effective altruism in close temporal proximity in order to create an association between the two, and a conditioned feeling of warmth when doing effective charity?
+>> If you can, queue up the charity donation on your phone or computer, and send it when you feel your fuzziest.
+>> 
+
+>>> **u/Nighzmarquls** [+2] *
+>>> 
+>>> That is the plan, At present I'm keeping all my fuzzy donations on computer at home so I can give my brain time to make decisions about things fairly rationally.
+>>> Also as with most of my more impulsive buys I more or less limit all one time transactions to about what I'd spend on lunch.
+>>> 
+
+> **u/xamueljones** [+3]  *My arch-enemy is entropy**
+> 
+> So the due date to file your taxes was today and it was the first time I had to do it without any assistance from my family.
+> Does anyone have any advice to make doing your taxes easier? The most obvious advice I can think of is the obvious one of having multiple back-up copies of relevant forms and to do it months in advance.
+> 
+
+>> **u/None** [+7] *
+>> 
+>> Honestly?  Suck it up like all us American suckers and pay the $60 or whatever for Turbotax.
+>> 
+
+>>> **u/Nighzmarquls** [+1] *
+>>> 
+>>> Or if your in the right economical bracket and doing stuff the 'hard way' (have more then two jobs, mix of income sources etc) go and hire a professional to go looking for tax credits for you.
+>>> 
+
+>>> **u/Charlie___** [+1] *
+>>> 
+>>> If it's his first time, he probably qualifies for IRS free-file.
+>>> 
+
+>>> **u/Dwood15** [+1] *
+>>> 
+>>> Basically that or taxact. It's what I used this year. Worked well enough, and it was only like 15 bucks.
+>>> 
+
+>> **u/Marthinwurer** [+3] *
+>> 
+>> From what I remember, last year when I did them myself they weren't too bad. Look numbers x, y and z up from your W2 and plug them in, read a little, and just follow the instructions.
+>> 
+
+>> **u/whywhisperwhy** [+1] *
+>> 
+>> Assuming you're income's not too high, Turbotax literally makes it a breeze in my opinion (uploading your W2 and 1095s, etc. that it tells you to, and answering it's question is just a few hours of mild effort).
+>> That having been said, I would recommend keeping track yourself through the year of deductibles like giving to charity, miles traveled or items purchased for work. And depending on your experience, may want to claim slightly fewer deductions to guarantee that you don't need to pay the gov't.
+>> 
+
+> **u/CouteauBleu** [+4]  *We are the Empire.**
+> 
+> Not sure where I should ask this, so this seems like a good place? Maybe? Anyway,
+> Do you know a good place to start for meditation? I'd feel dirty if I talked about "rational meditation", so I'll say I'm looking for methods to concentrate on myself for a given period of time that actually improves my thinking patterns in a quantifiable or verifiable way. Anyway, I'm looking for beginner techniques that can be understood without learning any jargon or fringe theories of the "your body is made of interconnected energies" type.
+> EDIT: Thanks for all the replies.
+> 
+
+>> **u/MrCogmor** [+3] *
+>> 
+>> Get into a comfortable position.
+>> Set a timer for 5 minutes.
+>> Close your eyes, sit still and focus on something specific
+>> e.g Your breath, counting, a particular idea or sensation.
+>> When you notice you have started focusing on something else redirect your attention back to whatever you were supposed to be focusing on without judging, shame or feeling frustration.
+>> Doing meditation consistently and regularly is more important then doing it perfectly. If you keep feeling frustrated then either lower the amount of time you do each day or have multiple shorter sessions. As you become better at mediation and more patient you can increase the length of your sessions.
+>> 
+
+>>> **u/CouteauBleu** [+3]  *We are the Empire.**
+>>> 
+>>> I think maybe I'm missing the point of the exercise, but is that all? I get the impression that there should be something else after that, like "learn to concentrate and stay away from distracting thoughts, *then* once you've become more patient, [...]".
+>>> 
+
+>>>> **u/MrCogmor** [+5] *
+>>>> 
+>>>> The point is for stress relief, improving your self-control and attention span. You become more patient as a consequence of improving your attention span.
+>>>> 
+
+>>>> **u/BoilingLeadBath** [+1] *
+>>>> 
+>>>> > I feel like there should be a skill progression, like any other art
+>>>> Well besides the obvious route, practicing meditation under states of duress, I've heard anecdotal evidence that that's a thing. For instance, building on the skill of "paying attention to something", I've heard:
+>>>> * Falling asleep in seconds by force of will, by focusing on hypnotic imagery.
+>>>> * Gaining control over various "autonomic" functions, like heart rate.
+>>>> Frankly, I'm not familiar with the meditation literature, so I don't know how well this stuff checks out, or what a recommended progression would be... but you can worry about that a thousand hours (or at least a hundred) from now. There's a LOT of progression to be had in the basics.
+>>>> 
+
+>>>>> **u/whywhisperwhy** [+1] *
+>>>>> 
+>>>>> > Gaining control over various "autonomic" functions, like heart rate.
+>>>>> I think this is more along the lines of [biofeedback](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2939454/). There have been studies that show meditation to help directly control heart rate, but honestly they don't sound like meditation to me [like in this one](https://www.theconnection.tv/use-mind-control-heart-rate/), where they ask participants specifically to pay high attention to their heart rate. I've gotten the impression they're related skills but if that's your goal, meditation probably isn't the most efficient route there.
+>>>>> 
+
+>> **u/ayrvin** [+2] *
+>> 
+>> I highly recommend the book 'the relaxation response'.  It's by a harvard professor that studies a few types of meditation, and tried to distill some of the central principles from it, and studied the physiological effects that could be measured from it.
+>> 
+
+>> **u/whywhisperwhy** [+1] *
+>> 
+>> I would suggest guided scripts initially; [Headspace](https://www.headspace.com/headspace-meditation-app) is a good place to start, the free trial is a good way to get started. There's also a similar progression of audio scripts that can be downloaded [here](http://franticworld.com/free-meditations-from-mindfulness/). Then move on to solo sessions.
+>> Personally, I find the "body scan" technique (both links will teach this) useful to get into the mindset and then continuing much like MrCogmor suggested. There's also square breathing (breathe in for 4 seconds, hold it in for 4 seconds, breathe out for 4 seconds, repeat).
+>> Last, some people suggest doing this before bed and if it works for you, great, but personally I found I started to associate it with sleep and would instead suggest trying it at junctures doing the day (just got home from work? 10 minutes).
+>> 
+
+> **u/Rhamni** [+4]  *Aspiring author**
+> 
+> I started at a new job yesterday. What the company does is they/we receive tens of thousands of documents every day and digitize them. My work is just making sure documents are appropriate, whole and in the correct order. It is exceptionally monotonous, and the pay is pretty good because people hate how boring it is. However. We get to listen to podcasts/youtube/whatever while we work, as long as we can keep a good pace. So. I think I can make this work. Anyone got any good recommendations for a guy who has eight hours/day to listen to stuff on the Internet?
+> 
+
+>> **u/TennisMaster2** [+2] *
+>> 
+>> Have a hobby or skill or domain expertise you truly wish to, not have, but develop and learn?
+>> 
+
+>>> **u/Rhamni** [+1]  *Aspiring author**
+>>> 
+>>> My interests are wide. Sciencey stuff, philosophy, game theory, history, politics, offensive jokes, Fantasy... As for domain expertise, while I can listen to stuff all day long, I occasionally have to just pull the plugs out for a few minutes without waiting to pause, and my eyes are busy scanning documents, so I can't pay attention to the screen most of the time. Would have loved to learn coding (I'm a beginner and have been learning a little html/js in the last month), but I don't think that's much of a learning by listening project. If there is any particular /r/rational approved skillset you can learn mainly by listening to stuff (I don't mind potentially relistening to the same thing a few times), I'd be interested in that. Learning a new language, maybe?
+>>> So far I've listened to youtube Let's Plays, creepypastas and started relistening to the hpmor podcast.
+>>> 
+
+>>>> **u/TennisMaster2** [+2] *
+>>>> 
+>>>> http://www.thegreatcourses.com/
+>>>> http://www.fluentu.com/blog/best-audio-language-learning/
+>>>> __________________________________________
+>>>> https://www.youtube.com/user/YaleCourses/videos
+>>>> Might have to go back three years for some straight lectures, but it's worth it.  Not sure how necessary the powerpoint slides are, for the professors that used them.
+>>>> https://www.youtube.com/user/StanfordUniversity/videos?sort=da&flow=grid&view=0
+>>>> Similar to the above, but more of a focus on guest lecturers than full lecture-based courses.
+>>>> https://www.youtube.com/user/oxford/videos?sort=da&flow=grid&view=0
+>>>> Similar to the above.  I'm just googling a university name + youtube.
+>>>> https://podcasts.ox.ac.uk/
+>>>> Might be the better option over the above link.
+>>>> __________________________________________
+>>>> http://www.audible.com/cat/Education-Audiobooks/2226650011
+>>>> Not sure how to navigate that site.  Might want to just search by topic, rather than browse large categories.
+>>>> __________________________________________
+>>>> https://archive.org/details/ucberkeleylectures
+>>>> http://www.openculture.com/2013/04/the_history_of_the_world_in_46_lectures.html
+>>>> http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-01-neuroscience-and-behavior-fall-2003/audio-lectures/
+>>>> Now I'm googing "audio + [discipline] + lectures".
+>>>> __________________________________________
+>>>> http://rationallyspeakingpodcast.org/
+>>>> https://itunes.apple.com/itunes-u/arming-the-donkeys/id420535283?mt=10
+>>>> __________________________________________
+>>>> http://www.learnoutloud.com/Free-Audio-Video/Philosophy
+>>>> http://www.loyalbooks.com/genre/Philosophy
+>>>> https://www.youtube.com/playlist?list=PLnkWWmhVvhc0B1jP0N9H9vc8-OVZPOGlp
+>>>> http://www.openculture.com/2013/05/download_90_free_philosophy_courses_and_start_living_the_examined_life.html
+>>>> This site is worth exploring further.  
+>>>> For example, http://www.openculture.com/2011/08/stars_of_philosophy_offer_free_courses_online.html
+>>>> __________________________________________
+>>>> For anything else you'll have to either be more specific, or try to query yourself.
+>>>> 
+
+>>>>> **u/Rhamni** [+1]  *Aspiring author**
+>>>>> 
+>>>>> That is rather a lot. Thank you! I'm a big fan of TTC/The Great Courses. I'll have to check out the others!
+>>>>> 
+
+>>>>>> **u/Teal_Thanatos** [+2] *
+>>>>>> 
+>>>>>> I'd suggest language courses the most. As you practice the enunciation with your mouth and you don't need hands to do anything with it.
+>>>>>> 
+
+> **u/None** [+5] *
+> 
+> Retrospective realization about HPMoR: the fact that the kid who teaches people to yell "Blood for the blood god!" is kinda the bad guy and very much not to be admired... really should have come as less of a surprise.  I mean, I didn't know shit about 40k then, so I took it as a fairly cheap joke, but no, Khornates and other worshipers of the Chaos Gods are *never, ever* the good guys.  They're the *Larger Context Villains*.
+> 
+
+>> **u/mouli4543** [+4] *
+>> 
+>> Can someone tell me about this 40k thing is. I dont know shit about it.
+>> 
+
+>>> **u/None** [+12] *
+>>> 
+>>> Uhhhhhh...  let's start out this way: IN THE GRIM DARKNESS OF THE FAR FUTURE, THERE IS ONLY WAR.
+>>> It's a tabletop game based on an over-the-top metalicious attitude, 80s humor, and pulp scifi tropes.  It's responsible for coining the term "grimdark", and its "Chaos" faction are basically an entire game faction of mindfuckingly evil Nyarlathotep and Cosmic Horror stuff.
+>>> 
+
+>>> **u/GaBeRockKing** [+11]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>> 
+>>> Put simply, the closest thing the setting has to "good" guys are theocratic communist aliens who like to brainwash entire planets.
+>>> They're "good" because the rest of the factions just skip straight to "cleanse the whole planet."
+>>> 
+
+>>>> **u/None** [+3] *
+>>>> 
+>>>> > Put simply, the closest thing the setting has to "good" guys are theocratic communist aliens who like to brainwash entire planets.
+>>>> Untrue!  They're not theocratic: they're the only faction who still actually believe in straight-up materialism (the metaphysical position).
+>>>> 
+
+>>>>> **u/GaBeRockKing** [+4]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>>>> 
+>>>>> Space pope. Your argument is invalid.
+>>>>> 
+
+>> **u/Sailor_Vulcan** [+2]  *Champion of Justice and Reason**
+>> 
+>> Hmm. Kinda the bad guy, I guess that's one way to put it. Throughout the entire story he tries to be a hero, fails miserably at it and it ends up being the psychopathic antagonist that saves the day from his stupidity. He did have heroic intentions though. I don't think the blood for the blood god quote contradicts that.
+>> 
+
+>>> **u/None** [+3] *
+>>> 
+>>> > Throughout the entire story he tries to be a hero, fails miserably at it and it ends up being the psychopathic antagonist that saves the day from his stupidity.
+>>> Partly from his own stupidity.  Partly.  But also, and I do think this is what the author was trying to convey, *he wasn't even looking at the right scale*.  The moral of the story was supposed to be that only Albus Dumbledore was actually playing the right game to begin with by considering the Larger Context Problems rather than the day-to-day political jockeying.
+>>> That, and ALICORN PRINCESS HERMIONE DID NOTHING WRONG, but that's just my personal and insistent interpretation.
+>>> >He did have heroic intentions though.
+>>> Heroic intentions, but started out as literally a copy of the villain's mind.
+>>> >I don't think the blood for the blood god quote contradicts that.
+>>> It shows that you're looking at someone predisposed to act in blatantly villainous ways.  Even among the Four Gods of Chaos, *Khorne is a nasty motherfucker*.  He doesn't particularly *favor* slaughtering the weak and defenseless, but hey, he'll take their skulls if no better skulls are available.
+>>> Actually, I take back the first remark.  [They're *all* nasty motherfuckers.](https://www.youtube.com/watch?v=SG7VvMGw6w0)  Death to Chaos and Heresy with it.
+>>> 
+
+>>>> **u/AugSphere** [+3]  *Dark Lord of Corruption**
+>>>> 
+>>>> Is this veering into "Hitler ate sugar" territory? I mean, sure the actors who use that battle cry in WH are nasty, but it's an admittedly badass one, even in the absence of any WH knowledge. If you're going to find fault with HJPEV using it, the fault is in him getting into situations where he needs a battle cry in the first place, not in choosing this particular one. If the only piece of information you had about a 11-year-old boy is that he used such a war cry while playing wargames with other children, you'd conclude that he's a fabulous chuuni nerd, not that he's a burgeoning Dark Lord.
+>>>> I think that going all conscientious objector on the 11-year-old Ender-esque wargames and dedicating himself to something that actually matters in the long run might have been a better strategy, but the whole point of his character arc is that he's still a child at the onset.
+>>>> 
+
+>>>>> **u/None** [+1] *
+>>>>> 
+>>>>> > chuuni
+>>>>> What does that mean?
+>>>>> 
+
+>>>>>> **u/AugSphere** [+3]  *Dark Lord of Corruption**
+>>>>>> 
+>>>>>> [urbandictionary has a somewhat adequate summary](
+>>>>>> https://www.urbandictionary.com/define.php?term=Chuunibyou), which is, incidentally, the first result google returns on "chuuni" search string.
+>>>>>> Essentially, I'm referring to the fact that Harry acts in over-dramatic fashion without much apparent self consciousness. He also sees himself as someone truly special and acts correspondingly (as is typical with chūnibyō), but that's not as relevant in this particular case. From the outside he looks like an archetypical chūnibyō (even though he arguably doesn't fit, once his thoughts are known).
+>>>>>> Jeez, /u/Velorien and I spent like ten minutes discussing whether HJPEV can be accurately described by the term or not. It's a bit tricky to precisely define.
+>>>>>> 
+
+>>>>>>> **u/None** [+2] *
+>>>>>>> 
+>>>>>>> Ok, that's just plain funny, especially to those of us who always knew we were special in the bad ways.
+>>>>>>> 
+
+>>>>>>> **u/autourbanbot** [+1] *
+>>>>>>> 
+>>>>>>> *Here's the Urban Dictionary definition of* [***Chuunibyou***](http://www.urbandictionary.com/define.php?term=chuunibyou) : 
+>>>>>>> ---
+>>>>>>> >A Japanese slang term which roughly translates to "Middle School 2nd Year Syndrome". People with chuunibyou either act like a know-it-all adult and look down on real ones, or believe they have special powers unlike others.
+
+>>>>>>> >This is a common stage in growth; for most people, it happens--you guessed it--around the 2nd year of middle school (Grade 8 in Japan). However, the problem is, there are some grown-ups who have this symptom.
+>>>>>>> >There are 3 main types of Chuunibyou. DQN-type pretends to be antisocial even though they aren't, or can't be and has made-up stories about antisocial behavior. Subculture-type prefers subculture or minor trends just to be different and have the "cool" factor. Evil Eye-Type admires mystical powers and pretends to have one of their own, to the extent of establishing an alias just for that.
+>>>>>>> >And if you think you have one of these or want more information in the subject, a good idea is to read the "Chuunibyou User Manual" (中二病取扱説明書, Chuunibyou Toriatsukai Setsumei Sho) by Saegami HYŌYA.
+
+>>>>>>> >If you [tl;dr](http://www.urbandictionary.com/define.php?term=tl%3Bdr) I'm going to clobber you.
+
+>>>>>>> ---
+>>>>>>> _An example of DQN Chuunibyou:_
+>>>>>>> _"Look at all those bandages wrapped around you! What happened?"_
+>>>>>>> _"I had a bunch of gang fights."_
+>>>>>>> _"Come on, I know you're too kind to be a gangster."_
+
+>>>>>>> _An example of Subculture Chuunibyou:_
+>>>>>>> _"When I collect Pokémon cards, I only collect ones that are imported from Japan."_
+>>>>>>> _"Can you read all those?"_
+>>>>>>> _"-_-; S-sure I can..."_
+
+>>>>>>> _An example of Evil Eye Chuunibyou:_
+>>>>>>> _"Don't take that bandana off my left wrist. It's sealing an evil spirit inside me and if you take it off I may go berserk."_
+>>>>>>> _"Dude, calm down. You just have chuunibyou."_
+
+>>>>>>> ---
+>>>>>>> [^(about)](http://www.reddit.com/r/autourbanbot/wiki/index) ^| [^(flag for glitch)](http://www.reddit.com/message/compose?to=/r/autourbanbot&subject=bot%20glitch&message=%0Acontext:https://www.reddit.com/r/rational/comments/4fc9en/d_monday_general_rationality_thread/d2a8ozz) ^| ^(**Summon**: urbanbot, what is something?)
+>>>>>>> 
+
+>> **u/FuguofAnotherWorld** [+1]  *Roll the Dice on Fate**
+>> 
+>> Could you expand on why you reckon Harry is kinda the bad guy?
+>> 
+
+> **u/None** [+2] *
+> 
+> The average total-correlation-explained gain from conditioning [the third model given here](https://probmods.org/hierarchical-models.html) on the sample data they specify is 2.6545447488 bits.
+> Now to try to re-code their fourth model, and do my own graph showing the TC of the conditioned-on data, the total-correlation-explained by the model, and the mean-squared-error and variance of the prototype from the ground truth.  That should expose something interesting about how TC helps abstract learning proceed.
+> Then other things.
+> 
+
+> **u/Dwood15** [+1] *
+> 
+> Another thing I wanted to discuss was my magic system. Please note that I'm trying **not** to compare this system to other people's- I've discussed this with friends and they're like "Brandon Sanderson this/that" yeah, that's cool, but I'd like my own.
+
+> What if mana was a resource like fuel, not inherent in any person, but rather around and in our environment, with certain areas where it would/could be gathered? 
+> Then I'd use runes to interact in various ways with the mana, and different runes stacking/providing various effects.
+> 
+
+>> **u/FluffyButterBiscuit** [+2] *
+>> 
+>> I'll bite. What do you have in mind and what is the reason that the people with access to it haven't broken the conversion laws?
+>> 
+
+>>> **u/Dwood15** [+1] *
+>>> 
+>>> That's part of what I'm trying to figure out, I want to figure out how I want mana to work in the series. And the conversion laws, being the laws of thermodynamics or newtons laws, etc? 
+>>> Basically, mana is this pseudo-physical element, which has some special properties. In gas form, it can be interacted with via runes or stored in containers like any other gas, however, without runes on the container, there are some strange effects (working on that part) 
+>>> Certain runes can initiate a 'burn' effect, where the mana is used up like gas and a bunsen or stove burner, and based on that rune, the "burn" can be controlled to cause different effects, such as a "cold" fire which actually reduces the surrounding heat in the area, or increase heat, one which generates electrical current or one which absorbs electricity, acting as a grounding line. 
+>>> These effects would only be active so long as there is mana there to fuel it.
+>>> The design of the runes which channels and powers the mana would be similar to the way language works. You have a bunch of lines which make individual characters, and the combination of these letters make phrases sentences, and so forth.
+>>> Runes may be anything from 3d shapes, to carvings, to drawings on a piece of paper. Each medium will be able to create different effects, but these shapes which mana react to are going to be a natural part of the world, and animals, land features, plants, etc, will all have different reactions to these systems based on this.
+>>> What do you think about these rules? It's basically all i've got after a few days of thought on the subject.
+>>> 
+
+>>>> **u/TennisMaster2** [+1] *
+>>>> 
+>>>> Why do runes have the ability to define how mana's power is manifested?
+>>>> 
+
+>>>>> **u/Dwood15** [+1] *
+>>>>> 
+>>>>> Good question and I don't know right now. I'll continue working on the system and get back to you.  Any thoughts on the subject, or other questions I should keep in mind?
+>>>>> 
+
+>>>>>> **u/MrCogmor** [+3] *
+>>>>>> 
+>>>>>> What are you designing the magic system for?
+>>>>>> What kind of setting do you want it to like? Generally the exact mechanics are unimportant, what is important is the applications and limitations. It doesn't really matter whether you enchant a magic object with runes, words, rituals or magic crystals compared to whether magic items are uber-rare luxury goods, common upper-class items or household equipment and how easily they can be used for automation.
+>>>>>> If you are trying to make a story then it is generally easier to alter a magic system to suit a plot then create plots suited to a particular magic system.
+>>>>>> The magic system as outlined is fairly generic in tvtropes terms is geometric magic + background magic field + functional magic.
+>>>>>> 
+
+>>>>>> **u/TennisMaster2** [+2] *
+>>>>>> 
+>>>>>> MrCogmor has some good points, but you also want to keep in mind the implications.  That runes - human-created geometric shapes - hold  the ability to define how a fundamental force is expressed implies something about the laws of reality.  
+>>>>>> For example, say if you were to uncover a cavern replete with mana, either the mana of the entire cavern or certain zones within it would group into the shape of what has become known and used as runes, each rune-formation affecting reality within a certain radius.  Why mana groups into runes may have an answer similar to why molecules form in specific patterns.  I find 'magical magnetism' an unconvincing reason, but it's convenient.  However, magnetism itself has far-ranging implications on how the universe works, and so will your meta-force that defines how mana groups into shapes.  Other suggestions might be emotions having a metaphysical and lasting impact on the earth and or mana, mana being an engineered force that is not naturally occurring, mana being an organism or domain of organisms rather than a force, etc.
+>>>>>> 
+
+>>>> **u/Adrastos42** [+1]  *I got a B in critical thinking!**
+>>>> 
+>>>> Is mana a renewable resource? If so, where does it come from or how is it made?
+>>>> 
+
+>>>>> **u/Dwood15** [+1] *
+>>>>> 
+>>>>> Mana is a renewable resource in that it reappears after 4 thousand years or so, from deep under the earth. It is not renewable in that after the majority is burnt off, the mana seeping out is quite small. That said, the amount in my story is roughly equivalent to fossil fuels today,  however finding wells of it is much more difficult than finding wells of oil/natural gas,  at least for the first ten years of my story until people figure out how to use it more effectively.
+>>>>> 
+
+>> **u/Killako1** [+1] *
+>> 
+>> Consider the way Magic: the Gathering goes about doing its "mana". It sounds very similar to what you wish to attempt.
+>> 
+
+> **u/royishere** [+1] *
+> 
+> Judging by the sidebar rules, it's unclear whether I can make a [BST] thread for a new series I'm considering. I have written books in the past but never plugged/shared them here, and the [BST] thread would be helping out with the rules of a new series. Can anyone with more experience with this subreddit's rules help me out?
+> 
+
+>> **u/TennisMaster2** [+1] *
+>> 
+>> If I recall correctly, you get one free pass to post a brainstorming thread for your potential works for every piece of work you post to the site, be it a chapter or the work in its entirety.
+>> That said, I'm unclear on what qualifies - is, "munchkin this system!" disallowed without a pass?  What about, "What might the world look like today if in 1973 someone won the Randi prize, then disappeared without any trace whatsoever, and no other has since won the successor prize offered to determine whether others like the first exist?"
+>> Paging /u/PeridexisErrant for answers.
+>> 
+
+>>> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life**
+>>> 
+>>> Mostly it comes down to moderator discretion, with the guiding principle that /r/rational is for rational fiction, not brainstorming about it.
+>>> /u/royishere - post something short, such as a contest entry (not necessarily the current contest), and then you're clear.  Feel free to ask in modmail if there's any other unclear rules.
+>>> The idea is that this allows some brainstorming, but also encourages the creation and posting of rational fiction :)
+>>> /u/TennisMaster2 - the first would probably be disallowed regardless, the second should be fine (if OP is eligible).  Our preference is for a snippet-plus-questions format, so it's already rational fiction in progress :)
+>>> 
+
+>>>> **u/royishere** [+1] *
+>>>> 
+>>>> Shoot, it was the magic system I was most having trouble with. I have participated in the contests before, though. Oh well.
+>>>> 
+
+>>>>> **u/PeridexisErrant** [+1]  *put aside fear for courage, and death for life**
+>>>>> 
+>>>>> Participated in contests? Post away then! 
+>>>>> (having written and posted rational fic, you've earned it!)
+>>>>> 
+
+---
+

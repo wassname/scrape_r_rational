@@ -1,0 +1,506 @@
+## [D][MK]Munchkin this nickel
+
+* Author: u/fljared  *United Federation of Planets**
+* URL: https://www.reddit.com/r/rational/comments/2ib7ua/dmkmunchkin_this_nickel/
+* Score: 27
+
+* Created: 2014-10-04T22:24:17
+
+### Post:
+
+Here's a nickel. You can, at any time,  telepathically command it to return. It ~~returns~~ disappears in one place and teleports to your right palm, tails down, at rest relative to your palm. The return is instantaneous, no matter where the nickel is. It therefore travels at infinite speed. 
+
+The nickel is not indestructible; it has physical properties similar to a regular nickel, and can be bent, cut, etc. However, whenever you call it, all of its atoms it will return in unharmed form, at 20 degrees celsius.
+
+You otherwise have only what regular physics and technology as we know it can do.
+
+How much power can you gain?
+
+### Comments:
+
+> **u/drageuth2** [+33] *
+> 
+> Everyone's already going for high-concept stuff.  Lemme try a few simple things.
+> * You can cheat vending machines and money-changer machines with it.  Can't do it too much or else you get caught, but I imagine you might be able to make/save a few extra hundred dollars a year.  Maybe more if you find a good place without surveillance.
+> * You can go to the James Randi foundation and use it to win the million dollar prize.
+> * If you press your palm flat against something, and then return the nickel to your palm, it should end up meshed in whatever you're touching.  You could then rapidly teleport it over and over again, disrupting the chemical structure of whatever you're touching as the coin repeatedly tries to undo the changes to its structure.  Probably a potent tool, that.  Could drill through just about anything, given enough time.    Not to mention the interesting potential for chemical reactions, depending on the structure it ends up forming.
+> 
+
+>> **u/Chronophilia** [+2]  *sci-fi ≠ futurology**
+>> 
+>> Ooh, I like the last one. Original!
+>> 
+
+>> **u/TheStevenZubinator** [+2]  *Chaos Legion**
+>> 
+>> I was gonna say win Randi's million dollars. I like your other ideas too.
+>> 
+
+>> **u/Bowbreaker** [+2]  *Solitary Locust**
+>> 
+>> The last one sounds risky regarding your hand.
+>> 
+
+>>> **u/drageuth2** [+3] *
+>>> 
+>>> Should only be dangerous if the telefragging nickel is expelled at high speed, or if it causes some sort of explosive reaction.  Otherwise it shouldn't be _too_ dangerous, presuming you're using it for woodworking or metalshaping rather than trying to use it in a fight.
+>>> 
+
+>>>> **u/Bowbreaker** [+2]  *Solitary Locust**
+>>>> 
+>>>> Well, whatever interesting chemical reactions you were talking about would happen in immediate vicinity to your hand.
+>>>> 
+
+>>>>> **u/drageuth2** [+1] *
+>>>>> 
+>>>>> yeah, but you might be able to wear a protective glove and still summon the nickel to the outside of it, depending on how 'palm of your hand' is defined.  And I was thinking more in terms of interesting metallurgy and possible applications in making novel nanoparticles; not exactly the _boom_ kind of chemistry.
+>>>>> 
+
+>>>>>> **u/Bowbreaker** [+1]  *Solitary Locust**
+>>>>>> 
+>>>>>> I'd expect the coin to appear within the glove in such a case. Or maybe even make a hole in the glove if it is very tight. If it were any different you could build whole devices that are technically a "glove" and teleport your coin there as long as your hand is in the provided opening. No reason to think that tele-coin physics would work like this.
+>>>>>> 
+
+>>>>>>> **u/drageuth2** [+2] *
+>>>>>>> 
+>>>>>>> -shrug-  Then you'll just have to be very careful, and only do it in emergencies or under observation from a materials scientist/metallurgist who knows what they're doing.
+>>>>>>> Honestly there aren't _too_ many cases where a rational person needs to telefrag something.  It's more a neat party trick than anything actually useful.  The Randi prize is probably the best tradeoff of useful and realistic (Even if you prove it without a doubt to be real, I doubt you'll convince any government to build and launch you a railgun ship so you could use the nickel as a reactionless drive)
+>>>>>>> 
+
+>> **u/ThinkBeforeYouDie** [+2] *
+>> 
+>> Playing off of point 1, go to Atlantic city or Vegas and play nickel slots. Every win would put you ahead. Play 2 machines for a greater rate of return. Oh and be sure to have a way to fake a diminishing bucket of coins.
+>> 
+
+>> **u/andor3333** [+1] *
+>> 
+>> Every time someone asks me to munchkin something like this, I am going to mention the million dollar challenge now. People tend to forget what overwhelming evidence that is against the supernatural and that is a fun way to drive it home.
+>> 
+
+> **u/Chronophilia** [+9]  *sci-fi ≠ futurology**
+> 
+> Dissolve it. Nickels are 75% copper and 25% nickel; they should dissolve in sulfuric acid, though I've never tried the experiment.
+> This will produce a solution of SO4^(2-) sulfate ions (how do you write that when Reddit doesn't do subscripts), and a mixture of Ni^(2+) and Cu^(2+) ions. The dissolution will also release a cloud of hydrogen gas.
+> I'm not really sure how the recall power will deal with the nickel being disassembled like that. I'm hoping for a lightning bolt, or maybe an explosion. Intuition says that I'd recall the exact particles that the nickel was originally made of, but electrons don't work like that. They're not tracked individually, two indistinguishable particles really are indistinguishable at the most fundamental level we know of. I could probably break quantum physics with this nickel, but I don't know enough to say how. (Also, experiment with FTL messaging, that's also potentially powerful.)
+> For an accidental version of the same phenomenon, allow the nickel to rust before recalling it.
+> 
+
+>> **u/fljared** [+2]  *United Federation of Planets**
+>> 
+>> Suppose, for practical purposes, that the nickel brings with it any electrons attached to the nuclei that make it up, plus or minus any extra electrons needed to bring it back to neutrality when it returns.
+>> 
+
+>>> **u/Chronophilia** [+6]  *sci-fi ≠ futurology**
+>>> 
+>>> Well... then I think I could use this to disassociate water into hydrogen and oxygen, providing free energy. A slightly more efficient way of energy generation than dropping the nickel down a hole and re-summoning it, but still not brilliant.
+>>> Still, that's the best I can think of at the moment. Stealing money 5c at a time isn't very profitable. The coin isn't very useful as a tool, even accounting for the fact that I can access it after being thoroughly strip-searched (there's no time in my life where that would have been remotely useful).
+>>> I assume it's cheating to show the coin to the James Randi foundation and the Nobel Committee, and just collect a huge amount of prize money. It's probably what I'd do for real though.
+>>> 
+
+>>>> **u/Chronophilia** [+2]  *sci-fi ≠ futurology**
+>>>> 
+>>>> Oh, and test for speed-of-light delay. Make a friend in New Zealand (roughly on the other side of the world from me). Synchronise our clocks and use high-speed cameras to monitor the coin. In theory, there should be a 0.04 second delay between the coin disappearing on his end and reappearing on my end. If the delay is less, I may have proven the existence of FTL communication, and further tests are warranted.
+>>>> 
+
+>>>>> **u/fljared** [+3]  *United Federation of Planets**
+>>>>> 
+>>>>> Oh, it's definitely superluminal. In fact, there's no delay at all- The coin immediately appears in your hand when it disappears from wherever it was.
+>>>>> 
+
+>>>>>> **u/duffmancd** [+9] *
+>>>>>> 
+>>>>>> So, I don't know whether this is deliberate, but there is literally no such thing as simultaneous events in relativity. What is simultaneous for you is not simultaneous for someone moving at high speed relative to you. So I'll assume that "the return is instantaneous" is from your POV. You could use this to make a time machine, but to send one bit to the past you'd need to do a relativistic flyby of the Earth so not very practical.
+>>>>>> Using the 20 degrees you could heat or cool something to 20 degrees. Or rather you now have a theoretically perfect heat bath. Stave off the heat death of the universe, destroy some entropy!
+>>>>>> You could create a reactionless drive by firing out the coin and resummoning it. This could help you with the time machine above. A rail gun could fire the coin quite fast at the cost of excess heat, but we do have an infinite heat reservoir.
+>>>>>> Also, what happens to things in the way when it returns? Do the just disappear? What happens when you melt a normal coin and your coin together and then summon your coin back? You'd be left with a piece of metal with 50% vacancy spread evenly, I suspect that this would be like nanoporous carbon except with metal and be quite good at storing gasses. Though it may be better to mix it with something already used like metal hydrides.
+>>>>>> 
+
+>>>>>>> **u/fljared** [+3]  *United Federation of Planets**
+>>>>>>> 
+>>>>>>> Entirely practical. What's the point of FTL magic coin if you can't violate causality?
+>>>>>>> What sort of heat bath would you make? You'd be losing useful energy whenever the coin was summoned back at a temperature > 20 degrees.
+>>>>>>> All atoms of the coin return when summoned; Anything the atoms were part of are filled with either air from where the coin now is, or vacuum if your hand was closed/in space.
+>>>>>>> 
+
+>>>>>>>> **u/DeliaEris** [+3]  *Fully General Idealist**
+>>>>>>>> 
+>>>>>>>> If your hand was underwater, would the old location fill with water?
+>>>>>>>> 
+
+>>>>>>>>> **u/fljared** [+3]  *United Federation of Planets**
+>>>>>>>>> 
+>>>>>>>>> Yes, though once the water was there, it would be absorbed or leak or whatever else a space filled with water would do.
+>>>>>>>>> 
+
+>>>>>>>>>> **u/DeliaEris** [+2]  *Fully General Idealist**
+>>>>>>>>>> 
+>>>>>>>>>> In that case, you can send significantly more than one bit of FTL per summon.
+>>>>>>>>>> 
+
+>>>>>>>>>>> **u/fljared** [+3]  *United Federation of Planets**
+>>>>>>>>>>> 
+>>>>>>>>>>> Yes. The best idea I've seen for this was another comment suggesting holding a 64 GB microSD card.
+>>>>>>>>>>> 
+
+>>>> **u/fljared** [+1]  *United Federation of Planets**
+>>>> 
+>>>> Money's money, mate. No cheating there.
+>>>> 
+
+>> **u/Ob101010** [+2] *
+>> 
+>> TIL 1.25 cents of a nickel is nickel.
+>> 
+
+> **u/None** [+8] *
+> 
+> I like this thread. We should have this kind of discussion more often.
+> 
+
+> **u/SirReality** [+8] *
+> 
+> A modern nickel is 75% copper, 25% actual nickel, weighs 5g, has a value of $0.05, is 1.95 mm thick and 21.21mm in diameter, per [wiki](http://en.wikipedia.org/wiki/Nickel_%28United_States_coin%29).  
+> Of these properties, the most straightforward to begin to abuse is its mass: drop it down a vacuum tube of arbitrary length, convert potential energy into kinetic and then into heat at the bottom, return to top where your palm is facing down for it to drop again.  Breaking conservation of energy in this way is convenient, but not exactly groundbreaking.
+> Perhaps more powerful is its property to be transmuted in form and then reassume its original shape at a new location.  You could, for example, melt it down, grind it up, distribute it in a food supply, then hold that population hostage to having the copper in their body forcibly ripped at high speed from their body.
+> Make a copper/nickel bullet that leaves no trace?
+> Abuse the ability to make it resume tails down to convince people you can control fate, start a cult following?
+> 
+
+>> **u/fljared** [+3]  *United Federation of Planets**
+>> 
+>> I wasn't quite clear in the initial post; The nickel teleports, not moves, to your hand. 
+>> That being said, if losing 4g of copper all at once kills someone, it would work as an untraceable poison.
+>> That cult thing would be fun, until someone wanted you to use a different coin, or a flip heads.
+>> 
+
+>>> **u/RMcD94** [+1] *
+>>> 
+>>> Having air bubbles in their system or vaccuum might work anyway
+>>> 
+
+>>>> **u/Adrastos42** [+3]  *I got a B in critical thinking!**
+>>>> 
+>>>> Well, now we know that if something's in the way when it teleports then that stuff is sent to where the coin was, you could just make sure you're holding some cyanide when you recall it.
+>>>> 
+
+> **u/ulyssessword** [+5] *
+> 
+> I think that the teleportation out of your palm is much more useful than bringing the nickel back to you.
+> A micro SD card is smaller than a nickel,  so I could use it as better communication than other people have proposed by replacing the nickel with 64GB of data at the far end.  This can be done with anything small or delicate as well.  You can mail the nickel to another lab (without any special precautions) and swap it out for some cryogenically preserved biological samples once they're ready.
+> With constant/rapid commands, you might be able to scrape away material from any surface.  Press you palm against a wall and summon the nickel.  There will then be a nickel shaped hole in the wall, filled with the nickel.  Next move your palm over a bit, and repeat.  The first hole will still exist, but it will be filled with a nickel-shaped plug of material which can be easily removed.  Repeat as often as you want for more holes.
+> IIRC, Gorilla glass works by swapping out sodium atoms for potassium in some complicated process, increasing strength.  Find a process that can use this technique with nickel and/or copper, melt the nickel down, refine it etc, put a bit of the other metal (gold? palladium?) in your palm, then recall the nickel to swap out the atoms.
+> 
+
+>> **u/Chosen_Pun** [+2]  *The Chosen Ones**
+>> 
+>> With the scraping method described, what happens if you move your hand less than a nickel's width? The material replaced by part of the nickel on the second cut would have to end up in the same location as the other side of the nickel, unless the magic was smart enough to turn the crescent around to fit in the hollow of the first cut. (If the magic's not smart enough, and if it prioritizes the 'unharmed form' of the nickel high enough, the ability to straight-up destroy matter sounds pretty exploitable)
+>> 
+
+>>> **u/fljared** [+1]  *United Federation of Planets**
+>>> 
+>>> The nickel always appears heads up, with the crest of the head aligned with towards your middle finger. That is prioritized by the magic. 
+>>> Therefore, the nickel will appear in the second cut, with the new wood filling in the space of the old and another part of the nickel filling in the overlap. Since the amount of nickel *not* in the overlap is exactly the amount needed to fill in where the nickel was, there's no wood lost.
+>>> 
+
+> **u/J4k0b42** [+3] *
+> 
+> You could use as reaction mass to drive a spacecraft, just need some sort of railgun to repeatedly shoot it out he back of your ship. It's not very good for FTL signaling since it only works once. You could attach it to a sensor and use it to telepathically trigger some machine, maybe as an emergency signal. Randi's prize is probably the best option.
+> 
+
+> **u/triangleman83** [+3] *
+> 
+> Ok so the nickel returns to just above your palm whereas anything that was above your palm is teleported to where the nickel was.  Essentially you can teleport anything you want into the space where the nickel was.  It sounds like any fluid my cupped hand was holding, whether it be air, mercury, sulfuric acid, or (not a fluid) vacuum, would be sent off to where the nickel was.  I'm not sure how I'd stick my hand in a vacuum yet but I'll revisit that later.
+> Now, the first thing I'd want to do is be able to put that nickel anywhere I wanted it quickly, so creating some kind of railgun type launcher that I could hold in my left hand would be needed.  Now we could go one of two ways, which I will need a question answered.  Either I replace the nickel mid-flight, or I replace the nickel after it has struck its target.
+> My first question would be: does all momentum on both nickel-sized collections of atoms cease upon the command?  If I commanded the nickel to return in mid-flight while holding my right hand in a bowl of water, would the water be moving with the same velocity?  Same momentum?  Or zero velocity relative to my palm?
+> 
+
+>> **u/fljared** [+3]  *United Federation of Planets**
+>> 
+>> The coin returns to rest relative to your palm- If the coin is sitting on the ground and you're on a plane, the coin appears moving a 500 mph (Relative to Earth) and at rest (To you) 
+>> If you're swinging your arm around, the coin appears on your palm at that same velocity as your palm is going- That is, it's at rest relative to your palm, but moving in relation to, say, your stomach.
+>> The atoms you exchanged for the nickel are given the coin's velocity (NOT its momentum) at the time it was exchanged. That means if the coin was on a rocket a .2 c (Bringing up its own problems, but look past them for a moment) and you summon it, the coin appears at rest in your palm, and the water appears in rocket, going at .2 c along with the rest of the ship.
+>> 
+
+>>> **u/Zephyr1011** [+3]  *Potentially Unfriendly Aspiring Divinity**
+>>> 
+>>> If someone cuts off my hand and then cuts it in half, what happens?
+>>> 
+
+>>>> **u/fljared** [+1]  *United Federation of Planets**
+>>>> 
+>>>> Look at the middle of your palm. That is where the coin appears. 
+>>>> Imagine a point about half a hand depth down from the middle of your hand; That is, its halfway between the front and back of your hands. That is the center of your hand. The coin always appears half a hand depth palm ways ("up") from the center of your palm, even if the center doesn't touch your actual hand.
+>>>> 
+
+>>>>> **u/Zephyr1011** [+1]  *Potentially Unfriendly Aspiring Divinity**
+>>>>> 
+>>>>> If someone cuts off my arm at the shoulder? The middle of my hand could be anywhere in the general vicinity of my shoulder, since my arm can move around
+>>>>> 
+
+>>>>>> **u/fljared** [+1]  *United Federation of Planets**
+>>>>>> 
+>>>>>> The coin still returns to your palm, where it is. If you cut off your arm and mail your palm to Jamaica, the coin appears there when you summon it.
+>>>>>> 
+
+>>>>>>> **u/Zephyr1011** [+1]  *Potentially Unfriendly Aspiring Divinity**
+>>>>>>> 
+>>>>>>> If someone cuts the palm in half, directly through the middle, where does it appear?
+>>>>>>> 
+
+>>>>>>>> **u/fljared** [+2]  *United Federation of Planets**
+>>>>>>>> 
+>>>>>>>> It still appears above the center of the palm- Even if there's no actual palm there. If you place two halves of your hand 2 meters apart, the coin would appear exactly in between each half.
+>>>>>>>> 
+
+>>>>>>>>> **u/Zephyr1011** [+1]  *Potentially Unfriendly Aspiring Divinity**
+>>>>>>>>> 
+>>>>>>>>> If you set the palm on fire? Dissolved it in acid? Blended it? Crushed it? Etc
+>>>>>>>>> 
+
+>>>>>>>>>> **u/fljared** [+1]  *United Federation of Planets**
+>>>>>>>>>> 
+>>>>>>>>>> The individual atoms still exist, even in chemically altered form. Therefore, you can still get a geometric center from them, which is used to get the position for the coin.
+>>>>>>>>>> 
+
+>>>>>>>>>>> **u/Zephyr1011** [+1]  *Potentially Unfriendly Aspiring Divinity**
+>>>>>>>>>>> 
+>>>>>>>>>>> What happens if there is already something in your palm? Also, wouldn't the orientation of the particles matter? Flipping over my palm would affect where it teleports too, even if the palm occupied the same place in space
+>>>>>>>>>>> 
+
+> **u/TimTravel** [+3] *
+> 
+> Depending on how it works I might be able to get mild time travel. It depends on what happens from the perspective of someone standing next to the coin.
+> For the sake of convenience in this example I'm the other guy and my friend has the coin. Bob summons coin if and only if the bad guys are attacking. Let's see if I understand lorentz transformations correctly. I'm moving rapidly away from Bob near the speed of light. Or maybe towards. I'm tired. I observe the coin disappear. If the coin disappears Bob-simultaneously with its reappearance then its reappearance should be in my future. I now know that the bad guys are attacking. Fiddle with the parameters enough and I can probably get a temporal paradox but it takes time to reload. Depending on the paradox resolution method that could be powerful. Best-case scenario, if I have a policy of causing a paradox unless x happens, x will always happen. [Massive monologue on time travel.](http://www.reddit.com/r/whowouldwin/comments/2h2b84/hermaues_mora_and_all_his_knowledge_have/ckpt61m)
+> One coin won't make a big difference, but put coin in cold environment, teleport coin to self raising its temperature: free energy. Stand in high place. Drop coin. Summon coin. Free kinetic energy. Allow coin to get hot. Summon coin lowering its temperature. Reduce entropy.
+> I could do a hell of a magician act. I could probably make real money that way.
+> Would work on vending machines.
+> It's too small to use as an effective throwing weapon.
+> I can technically never go broke ignoring debt.
+> 
+
+>> **u/cae_jones** [+2] *
+>> 
+>> >It's too small to use as an effective throwing weapon.
+>> For the most part, but the swap feature might help there? For example, a match or flashcotton in one hand, throw the nickle, light the flame, swap. Getting the same aerodynamics out of such a tool seems like it'd be harder, never mind the possibility of the flame dying before it reaches its target.
+>> 
+
+>> **u/nohat** [+1] *
+>> 
+>> Indeed. Taking advantage of the faster than light causality violation would be the most powerful usage of this nickel.
+>> 
+
+> **u/thecloud2** [+2] *
+> 
+> Does the coin teleport back to your hand, or move back in a continuous path?
+> 
+
+>> **u/fljared** [+2]  *United Federation of Planets**
+>> 
+>> Teleport. It disappears in one place and reappears in your hand.
+>> 
+
+>>> **u/thecloud2** [+7] *
+>>> 
+>>> Use it as a trigger for nearly any variety of device* that can be activated at any distance and time, either mechanical trigger or electronic sensor.
+>>> *Details are left up to the reader.
+>>> 
+
+>>>> **u/fljared** [+3]  *United Federation of Planets**
+>>>> 
+>>>> Probably the easiest would be something that triggers when a circuit is broken- Nickels conduct electricity, so you could put it in a simple circuit.
+>>>> Of course, you've just made it so you don't need a remote trigger for your device- Only useful if you need to make a fake remote to be taken before triggering the device with a nickel return.
+>>>> 
+
+>>>> **u/Chronophilia** [+2]  *sci-fi ≠ futurology**
+>>>> 
+>>>> Clever. It only works once, so it's inferior in many ways to a radio-controlled trigger. But nobody would ever expect it.
+>>>> 
+
+> **u/Integrated_Delusions** [+2]  *The Flying Kiwi**
+> 
+> If you melt down the nickel, use the result to create a hollow shell, then fill the shell with whatever substance you want, you can use it as an untraceable delivery for said substance. Probably nerve gas, if we're talking weapons. Or just use it as a stopper, for a larger quantity in a container. Or brown recluse spiders, if you want something exotic.  
+> Another idea is to give a solution of the nickel to somebody, then see how it affects the body when removed. Repeated enough times could give a map as to how the body absorbs certain substances (Possible medical uses? I'm not certain there would be any benefit to this. Besides torture, since I can't see this being easy on the body. Actually, by varying the times you issue the return call, you can probably chart out the optimal times to return to get certain responses)
+> I can see the FTL signalling having some use as a single-shot undetectable communication for coordinating two groups without any visible interaction. Nickel disappearing is the go signal, and nothing was sent, so nothing can be intercepted. This would gain more usefulness in higher surveillance areas. 
+> >The nickel appears a little over a half a hand-depth over the center of your palm is, or the center of the components of your palm, if your palm happens to be over a large or oddly shaped area. (quoted text from an earlier comment by OP)
+> Definitely abusable. If you split your hand in two, and pull the two halves apart, the way I read this is that it would return instantly to the point halfway between. So it can be teleported into walls, and by spamming the return command, you could keep replacing nickel sized holes in the wall, until your through. So a perfect wall breaker if you can manage to get to any two equidistant points from that wall.
+> 
+
+>> **u/fljared** [+3]  *United Federation of Planets**
+>> 
+>> I think they did some studies like idea number 2 with radioactive substances some time in the last century.
+>> Though now that I think about it, the discovery of those studies was that 95% of the atoms in your body change by the year...
+>> Which means that the atoms making up "Your Hand" ought to be spreading out so much that they ruin the ability...
+>> I'm gonna cheat here and say "Your Palm" becomes defined as the object which you define mentally as "Your Palm" to get around the Ship-Of-Theseus problem. And it's what you *actually believe* is your palm, not just you declaring that that piece of sheet metal is "your palm". 
+
+>> ...Annnnnnnnnnnd I've gone off track. Back to your third idea: The coin exchanges whatever was where it was at with itself at wherever it was, so the wall will still keep. Of course, you've now got a wall full of nickel-sized slices of material unconnected to the area around them, so a good hit should fully dislodge the wall. Or you could move the hands a bit off center between each jump so the coin reappears in the air and then exchanges itself for more wall material, which is deposited on the floor.
+>> 
+
+>>> **u/Integrated_Delusions** [+1]  *The Flying Kiwi**
+>>> 
+>>> I figured that a study like that would have been done. I'm not sure if there's enough of a difference between nickel and the elements they used to gain any new information from it.
+>>> >I'm gonna cheat here and say "Your Palm" becomes defined as the object which you define mentally as "Your Palm" to get around the Ship-Of-Theseus problem. And it's what you actually believe is your palm, not just you declaring that that piece of sheet metal is "your palm". 
+>>> So If I define my palm as "my palm," and then cut it in half, do I now choose which of the halves is now "my palm"? What about my belief that "my palm" is in two pieces? I ask because the implications are fun. If I can change "my palm" between parts of whats was actually at one point my palm (to help with the actual belief part), you've got a network there. If you have to pick one half of the palm to become "my palm," does that mean if you subdivide further, you have to reassign, and on and on? Because eventually, you will get to a point where you have designated a single atom as "my palm." (At the cost of destroying the rest of your hand, but this is all theorycraft anyhow) And then by issuing a return command, you would be able to fix its position by returning the nickel to the center of that atom *by definition.* I'm not sure what Heisenburg would do about that.
+>>> My third point was supposed to imply the center point was moving slightly between return commands to burrow through the wall. My fault for lack of clarity on that one.
+>>> 
+
+> **u/Newfur** [+2]  *Crazy like a fox. Literally.**
+> 
+> How far above your palm does it warp in? What happens if there's something above your palm, or touching it?
+> 
+
+>> **u/fljared** [+1]  *United Federation of Planets**
+>> 
+>> Directly on top of your palm, touching the skin. If there is something in the way of where the nickel would go, it is teleported to where the nickel was, unless the thing is your closed fist, in which case the coin appears in your fist, which squashes your fingers a bit, and vacuum appears where the coin was.
+>> 
+
+>>> **u/Newfur** [+2]  *Crazy like a fox. Literally.**
+>>> 
+>>> So... the most horrifyingly slow murder weapon? Throw coin, put hand to - let's say - victim's face/throat/skull, recall, repeat, rinse? Obviously could be a trivially stupid source of infinite kinetic energy/work/(entropy reversal), possibly something about clever use for electrolysis? That last usage could literally explode, unfortunately. It isn't clear what happens if the nickel is powdered/dissolved/annihilated, what with atoms not being labelled billiard balls and all.
+>>> 
+
+>>>> **u/fljared** [+1]  *United Federation of Planets**
+>>>> 
+>>>> Electrons are considered fungible; It's the nuclei we care about. The nuclei teleport back, with electrons being added or subtracted from those attached to the nuclei as needed. 
+>>>> I don't know enough about the creation/destruction of quarks to say what would happen if you accelerated a nickel-proton and smashed it at .7c until you got quarks.
+>>>> 
+
+>>>>> **u/Newfur** [+2]  *Crazy like a fox. Literally.**
+>>>>> 
+>>>>> And supposing we just wing the nickle at a (hypothetical) vat of antimatter? Or positively charged strange matter, which would change some of the quarks?
+>>>>> 
+
+>>>>>> **u/fljared** [+1]  *United Federation of Planets**
+>>>>>> 
+>>>>>> The nickel reappears, with whatever resultant matter left over from either reaction disappearing. Resultant energy stays, unless it was stored in the disappeared matter.
+>>>>>> 
+
+>>>>>>> **u/Newfur** [+1]  *Crazy like a fox. Literally.**
+>>>>>>> 
+>>>>>>> So it might be a decent way to clean up antimatter, too? Or serve as reaction mass? What happens if your hand degrades or is destroyed?
+>>>>>>> 
+
+>>>>>>>> **u/fljared** [+1]  *United Federation of Planets**
+>>>>>>>> 
+>>>>>>>> Then you no longer have anyway of making the coin return- However, if you seal your hand in some way that preserves its physical form (even if not its life functions) like embalming, then you can continue calling the coin to that.
+>>>>>>>> 
+
+> **u/comport** [+2] *
+> 
+> The return to 20c is abusable.
+> Have your hand surgically removed, place it with the coin in a specialised heat engine and spam the return command to generate electricity. Use this to generate actual power, or build a commercial empire around it to gain political power.
+> You could also abuse it to shed momentum for space travel, e.g. sever hand, attach to flywheel, get it moving arbitrarily fast with conventional power and them spam return for a zero-cost constant acceleration fuelless engine. Timing might be a problem, but you'd have to eperiment with that.
+> There are questions about what happens if the atoms of the coin no longer exist, eg if they're combined with antimatter. Also what happens if your palm is atomised over a wide area, does each surface atom of the palm get a corresponding coin atom, or is there a central atom? Also what happens to matter occupying the space when the coin teleports in? If its destroyed, then it could be used to cut hard materials.
+> 
+
+>> **u/alexanderwales** [+6]  *Time flies like an arrow**
+>> 
+>> The big problem is that the effect isn't really large enough. With a heat engine in your hand, you're generating power, but you're not generating *enough* of it to really make a difference. It's got to be something like making pennies per hour - probably even less. It's the same issue with using the nickel to generate power by dropping it over and over - while you're getting out more than you put in, you're not getting enough out of it to really make it worthwhile.
+>> 
+
+>> **u/fljared** [+1]  *United Federation of Planets**
+>> 
+>> > There are questions about what happens if the atoms of the coin no longer exist, eg if they're combined with antimatter.
+>> If an atom of the nickel is made permanently destroyed, such that the components of the nuclei are made unfindable or destroyed, then a new atom is created or teleported in, similarly to the electrons from above.
+>> > Also what happens if your palm is atomised over a wide area, does each surface atom of the palm get a corresponding coin atom, or is there a central atom?
+>> The nickel appears a little over a half a hand-depth over the center of your palm is, or the center of the components of your palm, if your palm happens to be over a large or oddly shaped area. 
+>> > Also what happens to matter occupying the space when the coin teleports in? If its destroyed, then it could be used to cut hard materials.
+>> The atoms of air where above your palm are exchanged for the atoms of the nickel, unless your hand is closed, or a vacuum, in which case very small pockets of vacuum are placed where the nickel atoms were.
+>> 
+
+> **u/None** [+1] *
+> 
+> You just provided me with effectively free money via draining the rest of the economy via its change machines.  Thanks.
+> 
+
+>> **u/ulyssessword** [+3] *
+>> 
+>> Let's say that it takes 2 seconds to insert a coin in one of those machines.  That's 30 coins per minute, or 1800 per hour.  $0.05 * 1800 = $90 per hour.  Not too bad.
+>> 
+
+> **u/MugaSofer** [+1] *
+> 
+> I kind of want to read this superhero comic now.
+> (Opinions: would this work better as a character concept with multiple nickels, or one Magic nickel?)
+> 
+
+>> **u/None** [+3] *
+>> 
+>> One magic nickel, definitely. Just to show how broken any sort of tiny magic can be.
+>> 
+
+>> **u/gordonisnext** [+1] *
+>> 
+>> You should check out Worm then, its a superhero fic. with most people having seemingly limited powers and they just abuse the fuck out of them.
+>> 
+
+> **u/E-o_o-3** [+1] *
+> 
+> What happens to any air and/or other matter which was previously in the palm of your hand?
+> And when the nickle disappears, does it leave a vacuum, or...?
+> 
+
+> **u/totes_meta_bot** [+1] *
+> 
+> This thread has been linked to from elsewhere on reddit.
+
+>  - [/r/bestof] [/r/rational discusses potential ways to exploit a teleporting nickel](http://np.reddit.com/r/bestof/comments/2irdol/rrational_discusses_potential_ways_to_exploit_a/)
+
+> *^If ^you ^follow ^any ^of ^the ^above ^links, ^respect ^the ^rules ^of ^reddit ^and ^don't ^vote ^or ^comment. ^Questions? ^Abuse? [^Message ^me ^here.](http://www.reddit.com/message/compose?to=%2Fr%2Fmeta_bot_mailbag)*
+> 
+
+> **u/Thraxzer** [+1] *
+> 
+> * You could use it to create some sort of perfect vacuum in the shape of a nickel.  Not sure what you could do with that...
+> * You could cool anything by repeatedly throwing the nickle into the hot substance and teleporting it out.
+> * If you had some sort of launching aparatus connected to your hand it could repeatedly throw the nickle down, up, or away exerting a force on you (might only be useful in zero g).
+> 
+
+> **u/Ob101010** [+1] *
+> 
+> Well...
+> **You could use it to stop a nuclear reactor in meltdown : **
+> Reactor enters meltdown mode where the rods are overheating. A device is present that will quickly inject the nickel into the cooling water, preferably somewhere very very hot. Once in there, nickel 'instantly' absorbs heat. You summon the nickel back, which makes it arrive in your hand, at 20 degrees celcius, tails down. Your hand is on top of the nickel-injector, and the process repeats (thousands of times if necessary) until the reactor temp is low again.
+> **You could use it to propel a spaceship :**
+> Youre on a small spaceship with a bottle of LOX pointed out the back. LOX expands rapidly when heated, and is kept at extremely low temps. You insert the nickel into a slot, and the nickel enters the LOX bottle. Since the temp diff between the nickel and LOX is so high, some of the LOX boils off, creating pressure, which causes some of it to be pushed out the nozzle, at which point you have Newtons Lawed your spaceship forward. You then return the nickel to your hand, at 20 degrees and tails down, and repeat the process.
+> **You could disprove every theoretical physicist :**
+> You let the guys at CERN turn some atoms from your nickel into a teeny, tiny black hole. You then get those atoms back out of the black hole.
+> **You could cause huge bubbles in the ocean :**
+> You go on a cruise, and drop the nickel into a deep spot of the ocean. You wait for it to sink to a good depth. You then call it back. You just created a pressure drop that, if its replaced with the air that was just above your palm a second ago, makes a nickel sized bubble at whatever depth it was at. Since bubbles rise, and rising bubbles get bigger, 30 minutes later your ship gets capsized by a ginormous bubble. (someone do the math and tell us how big a bubble would be if one were formed near the bottom of the ocean) (This is assuming the pressure dosent just dissolve your bubble, Im not up to speed on the physics of gasses under pressure) (unless its taco night)
+> **You could validate satellite / spacecraft clocks timing to a very high degree.**
+> **You could punch someone *slightly* harder than usual.**
+> **You could make a metal detector detect your 'empty' hand.**
+> **You could start a scam where you say 'you give 4 cents, and Ill give you a nickel' and make sweet, sweet pennies all day long on a street corner in NYC.**
+> Really theres not much you COULDNT do.....
+> 
+
+>> **u/aldonius** [+1] *
+>> 
+>> I think the bubble would collapse under the pressure.
+>> When a bubble is injected at the bottom of a tank, the air of the bubble is already at the pressure of the bottom of the tank, so as it rises, it's losing pressure but amount of gas molecules is the same, so it expands.
+>> When you teleport a nickel-volume of sea-level air down, you've increased the pressure but not the number of molecules, so it will collapse, possibly dissolving entirely.
+>> 
+
+> **u/JTsyo** [+1] *
+> 
+> I would make my money by having scientist pay to study the teleporting nickle at work.
+> 
+
+> **u/jakethesnakebakecake** [+1] *
+> 
+> I can gain mass as I slowly steal things from vending machines in my free time.
+> I can buy a ton of scratch off lotto tickets at the grocery vending machine- really slowly
+> I could win a lot of bets...
+> I would always have a viable guitar pick handy
+> I could destroy coin-star, 5 cents at a time.
+> I could set up some really nasty trigger mechanisms and snares. Really nasty- no true trigger required.
+> Playing catch would be easier, and probably rather entertaining for people to watch.
+> Save 5 cents on everything I buy for the rest of my life- it might add up over time
+> 
+
+> **u/RobotSandwiches** [+1] *
+> 
+> I'd become the best one trick magician in the world.
+> 
+
+---
+

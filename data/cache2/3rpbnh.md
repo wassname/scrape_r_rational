@@ -1,0 +1,97 @@
+## [MK] Munchkin this character: makes clones/mirror images, can move consciousness between them (/r/changestorms)
+
+* Author: u/eaglejarl *
+* URL: https://www.reddit.com/r/changestorms/comments/3rp6aw/mk_makes_clones_that_can_only_duplicate_his/
+* Score: 0
+
+* Created: 2015-11-06T00:55:49
+
+### Post:
+
+[Link to content](https://www.reddit.com/r/changestorms/comments/3rp6aw/mk_makes_clones_that_can_only_duplicate_his/)
+
+### Comments:
+
+> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+> 
+> This requires a reasonably high tech level, but:
+> Make a clone, cryogenically freeze them, then switch as necessary.
+> Or alternatively, clone himself the regular way, wait for the clone to grow, create a (power) clone, and then swap the heads between them.
+> Just some life extension stuff, basically. Not anything optimal, but it should help.
+> 
+
+>> **u/eaglejarl** [+1] *
+>> 
+>> ...both of those options are disturbing.  Cool, yet disturbing.
+>> 
+
+>>> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>> 
+>>> of course, there's obviously a bunch of ways to generate "free" energy with them, but I think that, compared to the energy output of any powerplant, it's not going to make much of a difference. And anyways, in a universe where that's possible, either entropy isn't a problem once we get technologically advanced, or it doesn't actually change the energy paradigm anyways.
+>>> Though, on second though, I think this can be turned into an ansible. Imagine cloning himself holding a radioactive isotope. From however many feet away, there's someone holding a geiger counter. He dispells the clone, and the geiger counter immediately stops recording radioactivity, because the cloned and now broken down alpha particles disappear. And I know that this specific case works, because the human body needs some radioactive isotopes to function (I know I've seen cesium mentioned somewhere), so if the power couldn't properly synthesize them and their properties, it wouldn't be useful. And because e=mc hammer, The idea could probably be applied to any power source, so then he can go to any of (6! - 1) different states to send messages with instantaneously, if each clone sends a different frequency of light. (the math is probably wrong here, but I be people can think of more elegant solutions anyways.)
+>>> 
+
+>>>> **u/eaglejarl** [+2] *
+>>>> 
+>>>> /u/xamueljones beat you to it on the ansible thing.  Arnoud can consciousness-hop between the bodies and just talk from whichever one he's in at the time.
+>>>> EDIT:  Typo'd name.
+>>>> 
+
+>>>>> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>>>> 
+>>>>> clones can't travel at lightspeed :P
+>>>>> 
+
+> **u/None** [+2] *
+> 
+> Okay first thought is to get unlimited energy generation. To that end:
+> - Get 7 large transparent coil tubes and place them in a line while vertical.
+> - Get 6kg worth of the strongest magnets I can find (or just 6kg of coil).
+> - Jump down one of the coil tubes and create 6 clones at the top of the other tubes.
+> - When at the bottom of the coil tube and while still in freefall create another clone at the top of my current tube.
+> - Transfer consciousness to the newly created clone and recreate other clones at the top of all the other coil tubes.
+> You will be constantly accelerating at ~9.8m/s until you hit terminal velocity (around 56m/s). I cannot remember enough electromagnetism to work out how many joules you will be generating. 
+> However this method has numerous mechanical problems in its implementation. Also, one wrong move and you're a red smudge on the ground.
+> Second thought:
+> - Get yourself a superconducting battery (https://en.wikipedia.org/wiki/Superconducting_magnetic_energy_storage) with as much charge as feasible for a weight limit of 6kg.
+> - Create clones and have them discharge their batteries into some system which feeds the power grid.
+> - Rinse and repeat. 
+> I believe this second idea is far more practical.
+> 
+
+>> **u/booljayj** [+1] *
+>> 
+>> OP didn't say anything about how the clones are generated, but this is a pretty typical response to anything that involves creating objects from nothing at arbitrary points in space.
+>> 
+
+>>> **u/None** [+1] *
+>>> 
+>>> From the post EagleJarl linked to:
+>>> > His power is that he can create up to six copies of his own body + up to 6kg of stuff that he's carrying/wearing. Each clone can be created anywhere within 20 meters (~60'), but he needs to be able to see at least part of the clone when it appears. (EDIT: And there needs to be enough space for the clone to appear.)
+>>> > The clones always appear facing in the same direction as Arnoud.
+>>> > The clones appear with the same momentum as Arnoud.
+>>> Even if it's a fairly typical response, it is still follows EagleJarl's specifications for the thread; additionally it's probably the most efficient use you can get out of the power. 
+>>> I mean most ideas come under two broad categories, either direct applications of force, or exploiting rarity. If you want a weapon just implement your own variant of the *"Rods from God"* idea. If you want an item for a limited use case then just clone it.
+>>> However you most likely want to solve multiple problems. So it's better to use the power to generate some kind of currency, which can then be used to solve as many problems as possible. Electricity fits the bill quite nicely. 
+>>> Really the only problems it doesn't solve are extremely esoteric ones (such as the life extension method detailed above). But I doubt the power is an optimal solution to those sorts of problems either.
+>>> 
+
+>>>> **u/booljayj** [+1] *
+>>>> 
+>>>> Ah, I didn't see the linked post, cool.
+>>>> 
+
+>> **u/eaglejarl** [+1] *
+>> 
+>> The first one would work, but is a bit tricky to implement.  The second...I'm not sure.  The atoms in the clones vanish, which I guess means that their electrons vanish as well, which means the battery they powered up should go instantly flat.  That makes a lot of things weird, though.
+>> 
+
+>>> **u/None** [+1] *
+>>> 
+>>> I think you're misunderstanding electrical current. The drift speed (https://en.wikipedia.org/wiki/Drift_velocity) of electrons is actually quite slow: 0.00028m/s in cooper at 3 amps. So the electrons wont have time to homogenise in the system, which you've discharged your battery (or HV-cappacitor) into. So the spontaneous disappearance of electrons wont discharge the system.
+>>> Actually since the electrons you've created are clustered, you get some cool results. The large potential difference created by this will generate a current, with roughly equal magnitude opposing the previous charging current. Which means you're generating AC, and getting double the energy out of the system (compared to coil and magnet methods).
+>>> Edit: I should mention that all of this assumes, some weird cut off in your power. Electrons have got to go but the charge generated by a magnet is fair game. Which is extremely odd, but it's what you've stated =p
+>>> 
+
+---
+

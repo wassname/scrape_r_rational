@@ -1,0 +1,370 @@
+## Intelligent characters and the "brains vs brawn" fallacy
+
+* Author: u/Kuiper *
+* URL: http://kineticliterature.com/intelligent-characters-and-the-brains-vs-brawn-fallacy/
+* Score: 44
+
+* Created: 2018-12-28T22:17:31
+
+### Post:
+
+[Link to content](http://kineticliterature.com/intelligent-characters-and-the-brains-vs-brawn-fallacy/)
+
+### Comments:
+
+> **u/SimoneNonvelodico** [+52]  *Dai-Gurren Brigade**
+> 
+> I think there's another key reason for why "brains" solutions are preferred over "brawns" in the written medium: they come off better. If you watch a superhero movie or an anime, physical combat can be made to be nothing short of spectacular. It's aesthetically pleasing and narratively dense, as many details of a well-choreographed quick exchange of blows can communicate a lot to us about what the combatants are like and what's going on in general. On the other hand, in written word, physical combat translates poorly. You got a lot of telling and little showing, long technical descriptions or vague hints at prodigious feats of strength. Puzzles and riddles on the other hand are very well-suited to the written word. Reading about the pieces laid down and then a clever solution feels much more like I've actually *seen* what is so great about the hero rather than just reading "and then he punched the enemy to death, the end".
+> 
+
+>> **u/lolbifrons** [+14]  *Fifteenth Legion of Terror**
+>> 
+>> [Descriptions of fights](https://youtu.be/BGCMfprPJoA?t=92) can be compelling if done right.
+>> Granted the visuals do help this scene, but still.
+>> 
+
+>>> **u/SimoneNonvelodico** [+7]  *Dai-Gurren Brigade**
+>>> 
+>>> Hah, funny you would link that, I literally saw that movie yesterday.
+>>> But yes, I write and post a Dragon Ball fanfiction on this very subreddit, so of course I have to deal with descriptions of fights, and try to make them compelling. But it's definitely harder, and as I said, it tends to not work as a proper 'show, don't tell' moment. It can be okay but you hardly will go ZOMG HOW STRONG IS THIS GUY?!? the way you could by *seeing* them in action.
+>>> 
+
+>>>> **u/lolbifrons** [+6]  *Fifteenth Legion of Terror**
+>>>> 
+>>>> I feel like there is a meaningful axis of show vs tell here though.
+>>>> Compare "His punch was strong af" with "I could feel my ribs crack as he punched through me, as if I wasn't even there to slow him down."
+>>>> 
+
+>>>>> **u/SimoneNonvelodico** [+11]  *Dai-Gurren Brigade**
+>>>>> 
+>>>>> Of course there is. I just feel like even the best description falls short of how awesome a fight can *look* if done properly.
+>>>>> [I mean, just look at this stuff.](https://www.youtube.com/watch?v=jakLeunGJGU)
+>>>>> 
+
+>> **u/LazarusRises** [+3] *
+>> 
+>> >physical combat translates poorly. 
+>> Someone hasn't read Sanderson.
+>> 
+
+>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>> 
+>>> Indeed, I haven't. Any specific recommendations?
+>>> 
+
+>>>> **u/LazarusRises** [+6] *
+>>>> 
+>>>> How much do you like epic high fantasy? If the answer is "fuck yeah gimme dat," pick up The Way of Kings. If it's more "ok sure," check out Mistborn.
+>>>> 
+
+>>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>>>>> 
+>>>>> It all depends on how well it's written. And I've kind of got a high bar there. Inject Lord of the Rings straight into my veins, but I dropped both Shannara and Wheel of Time out of sheer disgust. They both felt like very generic settings (of course it doesn't help that sort of high fantasy setting has been at this point codified and redone to death by every RPG I've ever played), and without a good prose to carry them, nothing really hooked me to them.
+>>>>> 
+
+>>>>>> **u/LazarusRises** [+8] *
+>>>>>> 
+>>>>>> I would put Sanderson on the same level as Wildbow there: incredible worldbuilding, magic systems and character development, with relatively standard, unflashy prose as a vessel. It's not bad writing by any means, but you for sure don't read Sanderson for the linguistic artistry.
+>>>>>> That said, his settings and magic are (I think) far better executed than Tolkien's. I respect granddaddy T, but I like Sanderson's stuff a hell of a lot more.
+>>>>>> 
+
+>>>>>>> **u/CoronaPollentia** [+6] *
+>>>>>>> 
+>>>>>>> That said, both Wildbow and Sanderson do drop some downright beautiful turns of phrase now and again. They just don't strive to make every line do that.
+>>>>>>> 
+
+>>>>>>>> **u/LazarusRises** [+1] *
+>>>>>>>> 
+>>>>>>>> Agreed!
+>>>>>>>> 
+
+>>>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>>>>> 
+>>>>>>> I get the impression a lot of people dislike Tolkien's worldbuilding because of how vague and undefined his magic system is, but I always thought that was *the point*. It's magic. If it's logical and follows rules, it's actually more like science, natural laws, just different ones from those we're familiar with. It's magic *to us*; to that world, it's normal. But with Tolkien magic doesn't work like that. Magic is just a sheer, abstract, transcendent notion of *power* in Tolkien. It's not the ability to shoot a finite number of fireballs, after which you're without mana and thus vulnerable. It's the ineffable notion that you're just someone who's not to be trifled with, a main character of the universe, if you want. Reality and fate themselves are your bitch (unless someone even more powerful comes along). And that lack of specific, consistent rules or logic is exactly what makes it magic in the purest sense of the word.
+>>>>>>> 
+
+>>>>>>>> **u/LazarusRises** [+3] *
+>>>>>>>> 
+>>>>>>>> Yep I get that, and I think it's a great notion of magic. Sanderson is very much the opposite--his magic systems have hard rules and principles, which means they can be investigated and experimented on. They're still absolutely magical, for reasons that are explored and that I won't spoil, but it's much "harder" magic than Tolkien or, say, Rowling.
+>>>>>>>> 
+
+>>>>>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>>>>>>> 
+>>>>>>>>> I like that a lot too, of course. I just feel like Tolkien ends up being misunderstood a bit in what his intentions were, and thus sometimes gets more flak than he deserves. Anyway thanks for the suggestions, I'll look them up!
+>>>>>>>>> 
+
+>>>>>>>>>> **u/Electric999999** [+1] *
+>>>>>>>>>> 
+>>>>>>>>>> It's mostly just that you can't really focus much on the magic with Tolkien's style, which he doesn't, it's there in the background and the setting but has little importance to the main plot.   
+>>>>>>>>>> I personally prefer a system where the magic is a tool to learn about and use (preferably in interesting ways).
+>>>>>>>>>> 
+
+>> **u/Familiar-Attempt2412** [+1] *
+>> 
+>> One perspective not really emphasised here, other than the Iron Man onliner mentioned in one of the replies, is that we should be talking about the fallacy of mutual exclusivity i.e. just because one has brawn, then brains are absent; when in fact there is a huge population of smart, strong people. In sports, you usually find them captain of the team.
+>> 
+
+>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>> 
+>>> Sure; it's a common trope in fiction anyway to have fighting characters who even if not really book smart are still very keen and perceptive when it comes to combat (pretty much every Shonen Jump battle manga protagonist fits this). But as the original post puts it, very often the problem is that "brains" are actually identified with a very specific kind of romantic ideal. The guy who's street smart and has a great fighting sense will be seen still as some subtype of a great brawler, but not a genius archetype. Heck, there are also plenty of canonically book smart characters who still get that aspect of them overshadowed by how good they are at punching people. Peter Parker, or for that matter, Superman, whose superlative intellectual abilities would actually be far, far more useful to humanity than any amount of punching Lex Luthor could (this is sometimes explored, e.g. in All-Star Superman).
+>>> 
+
+> **u/j9461701** [+23] *
+> 
+> I don't think brains vs. brawn is a fallacy, at least on larger scales. A mob has enforcers (brawn) and a boss (brain). The military has enlisted (brawn) and officers (brain). Medieval society had noble-warriors (brawn) and priestly-scholars (brain). Greek society had citizen-soldiers (brawn) and philosophers (brains). Dividing groups of humans up into "These guys do the thinking, these guys do the fighting" is a fairly time tested way to quickly sort things, and strikes me as a broadly useful heuristic. 
+> What I do think is a fallacy, and the author gets at, is the idea you can rely purely on brains in all situations. There is no realistic way to convert a profound knowledge of physics into avoiding getting your ass laid out in a street fight. Real life isn't like cartoons, there won't be a convenient rube goldberg esque sequence of events you can trigger that will predictably knock out your opponents for you. This doesn't mean the protagonist needs to be capable of filling the role of brawn in the story, though. Jack Ryan illustrates this in its early episodes, were analyst Jack hangs back and lets door kickers assault terrorist strong holds. Brains did its thing finding the stronghold, now brawn does its thing clearing it out. 
+> Overall I think the rationalist community under-appreciates the importance of a good goon. Quality goonry can turn a B-list brains villain into an A-lister in no time flat by coupling his mental power with physical power - just ask the Joker. You think that pencil-necked geek would be even a blip on Batman's radar if he didn't employ top shelf goons to keep Bats physically occupied?
+> >Kicking down the door may be intelligent, but it does not always live up to the romantic ideal of intelligence, which is less about actually making the best choice in any given situation, and more about believing “reading books is a better use of your time than sports, scientists are always better at solving problems and winning conflicts than linebackers.” This partly feels a bit like concession to the fact that the crowd of people who read for recreation tend to be the same kind of people who spent much of their youth indoors reading books rather than flipping tires on the football field, and people like reading stories that serve and flatter their own sensibilities.
+> Almost all mass media fiction is dedicated to the romantic ideal of brawn. Super heroes dominate our pop culture, and they do no thinking, no innovating, no problem solving, they just punch and fight and employ their muscles and yet somehow keep saving the world. The authors of these works need to keep inventing increasingly absurd problems that can only be solved by brawn, to justify these lunk-heads remaining employed. The real world is not lacking for tough guys who like to punch things, yet in super hero comics there is an utter drought of such individuals. The hard part of fighting crime is *solving* the crime and finding the bad guy, but that's too brainy for super heroes. So in superheroland the primary problem is in *physically apprehending* the bad guy because he's now 12 feet tall and shoots radiation out of his eyes, while the actual brain work of finding him is glossed over. 
+> Or going beyond super heroes, how many movies have ended with our hero saving the day by physically beating the bad guy down? How many space battles have ended in a man on man slugging contest? How often has the villain's carefully laid out and meticulous plan been foiled by the hero charging in guns blazing, shooting everyone, and then walking off into the sunset victorious?
+> By contrast the 'romantic ideal  of intelligence' is both much more rare, and yet ironically much more applicable to real life. There are some problems that can only be solved with brawn, but it's a small amount and gets smaller every day. Conversely, the amount of problems that can be solved only (or in a majority) by brains gets higher and higher every day. So seeing media that explores that side of things is refreshing and feels more plausible, even if taken to an absurd extreme of the entire world only consisting of intellectual puzzles it becomes rather silly.
+> 
+
+>> **u/SimoneNonvelodico** [+12]  *Dai-Gurren Brigade**
+>> 
+>> > Super heroes dominate our pop culture, and they do no thinking, no innovating, no problem solving, they just punch and fight and employ their muscles and yet somehow keep saving the world.
+>> I mean, not *entirely* fair. Iron Man is a superhero by virtue of having built his own armour. That's brains and innovating. He solves (and sometimes creates!) problems through innovation. Spider-Man too is pretty clever and it often shows, if only in a vague "Hollywood science" way (which is in itself a problem, but a different one). Batman is *supposedly* the world's best detective, and he does do some detective work... from time to time. But then yeah, we just get to the part where he goes ninja on crime's ass.
+>> 
+
+>>> **u/j9461701** [+21] *
+>>> 
+>>> > Iron Man is a superhero by virtue of having built his own armour. That's brains and innovating. He solves (and sometimes creates!) problems through innovation.
+>>> I think Iron Man illustrates my point. His suit contains multiple revolutionary technologies, that if he put his brains to it even slightly would radically improve the status quo of mankind. Does he do that? Nope. Instead, the sole purpose his technology serves is turning him into a better brawler, and any other application is a distant secondary use. Because this is a world were brawn is king, and brains are only useful insofar as they increase your punching power. See [Reed Richards is useless](https://tvtropes.org/pmwiki/pmwiki.php/Main/ReedRichardsIsUseless) for another example of a scientist who *should* utterly change the fabric of society, but who instead just uses his technology to be better at fist fighting.
+>>> 
+
+>>>> **u/SimoneNonvelodico** [+19]  *Dai-Gurren Brigade**
+>>>> 
+>>>> I think that's a slightly different issue though. "Reed Richards is useless" exists not to underplay the value of brains, but to keep the world in which the stories are set relatable to us. In other words, if left unchecked, the Reed Richards/Tony Starks of the various fictional worlds would quickly turn them unrecognizable, and then we would have space opera, not superhero stories. To conveniently nerf their impact on society is a way to avoid a genre drift.
+>>>> 
+
+>> **u/RMcD94** [+6] *
+>> 
+>> You're definitely on the mark about brawn solutions being the mainstream by orders of magnitude
+>> 
+
+>> **u/melmonella** [+4]  *Tremble, o ye mighty, for a new age is upon you**
+>> 
+>> >Real life isn't like cartoons, there won't be a convenient rube goldberg esque sequence of events you can trigger that will predictably knock out your opponents for you. 
+>> Unless you carry a gun. Your very own Rube Goldberg knockouter machine, right there in your pocket.
+>> 
+
+>>> **u/j9461701** [+13] *
+>>> 
+>>> [Relevant XKCD](https://xkcd.com/444/)
+>>> 
+
+>>> **u/SimoneNonvelodico** [+7]  *Dai-Gurren Brigade**
+>>> 
+>>> Still won't get you out of a situation where you're outnumbered, surrounded, *and* the opponents are armed too.
+>>> 
+
+>>>> **u/melmonella** [+7]  *Tremble, o ye mighty, for a new age is upon you**
+>>>> 
+>>>> I mean, I can keep bringing in more equalisers based on intelligence if you want, and you can keep making the opponents more and more ridiculously improbably strong to compensate (and more and more able to avoid various strategies you'd have used to not get surrounded in the first place, likely by postulating their own intelligent puppet master) until the only solution actually _is_ to be a hulk. Won't make it have any connection to reality, of course. 
+>>>> Intelligence is strongest when it has time and resources to counter problems in advance. You don't try to mcgyver a machine to disable your opponents on the spot, you anticipate needing to deal with physical enemies, buy/machine a gun 3 years in advance, put it in your pocket and it's there when you need it. This is entirely unlike anything that happens in comics or fiction in general, of course, as there it would be totally anticlimactic if villain couldn't put protagonist in danger because protagonist was hired by DARPA and was behind 7 proxies at all times.
+>>>> 
+
+>> **u/CoronaPollentia** [+1] *
+>> 
+>> One of my favourite examples of this is from the Masquerade series. The protagonist, a tall, strong woman with combat experience who practices a military martial arts system recreationally, says something to the effect of "the only thing that can stop a soldier is another soldier. If you're cornered by soldiers, you're already dead." She's capable in combat, sure, but she understands that her strengths lie in scheming.
+>> 
+
+>> **u/Ateddehber** [+1] *
+>> 
+>> You (and maybe this sub) should read some comic books by Warren Ellis, like Planetary, Transmetropolitan, and the Global Frequency. They're a lot better about these problems.
+>> 
+
+> **u/signspace13** [+7] *
+> 
+> I wonder if there is a similar write up of a similar concept, the skill vs. strength fallacy, would be a good name for it. It shows up in a lot of fiction that involves melee combat, in which a smaller or weaker protagonist defeats their much larger or stronger opponent through sheer skill of arms, this is however horrendously unlikely, in almost all cases of physical combat the stronger individual has an overwhelming advantage, it is *possible* to use technique to win against an opponent of superior strength, it is just incredibly unlikely, and would require near perfect execution or some rather good luck.
+> 
+
+>> **u/None** [+8] *
+>> 
+>> Yes, but I would argue that it's the unlikeliness of a physically weaker hero winning that makes it interesting and worth writing about. Taking the classical example of David v Goliath, it wouldn't be a tale worth telling if Goliath casually bitch slapped David into oblivion like he did to every other opponent. St George slaying the dragon is thrilling and exciting because the odds are against him, St George being the dragon's dinner is expected and unremarkable. Stories aren't written about unremarkable events. So thats why this trope comes up in fiction so often (though I agree that due to sheer volume, it has become a cliche now)
+>> 
+
+>>> **u/signspace13** [+2] *
+>>> 
+>>> Oh I absolutely agree, it is definitely a fun way to write a conflict, its the assumption that it's realistic that I was suggesting be criticized or analysed, your examples are interesting, considering David and Goliath is the prime example of Deus ex Machina.
+>>> 
+
+>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>> 
+>> >  near perfect execution or some rather good luck
+>> But as said below, those make for the most spectacular stories! 
+>> This whole discussion also reminds me to recommend to whoever's interested this Twitter account:
+>> https://twitter.com/robinblackmma
+>> This Robin Black guy is an MMA commenter, and often does some great videos breaking down spectacular KOs, in which he slows down the action and highlights the cues and strategies the fighters were using. Some of these are really spectacular, and highlight how much of both strength *and* skill (and thus, brains) go into winning a fight like this. There also was an example some time ago in which he commented humorously a video of a street brawl where some massive dude went up against a much smaller one - but the massive one was completely incompetent while the small one was able to fight and strategize. [The big dude did, indeed, end up on the floor](https://twitter.com/robinblackmma/status/1031912389665595392?lang=en).
+>> 
+
+>>> **u/signspace13** [+3] *
+>>> 
+>>> Again, I completely agree, and the caveat to the advantage of strength is an absolute lack of skill, being strong doesn't mean a thing if you are wasting your strength. MMA is a good example of what are usually rather fair fights between two oponents of similar weight class fighting in a contest of skill. Not that I have ever viewed any MMA fights in their entirety, it just seems like it would be a silly sport if either side had the overwhelming advantage I stated above over their opponent. 
+>>> All fighting requires skill and strength to some degree, and an absolute lack of either is going to give you a sever disadvantage likely outweigh the significant advantage of an abundance of one.
+>>> 
+
+>> **u/Electric999999** [+1] *
+>> 
+>> Really it depends exactly what sort of physical combat we're talking about:  
+>> If we're talking unarmed then brawn will win pretty much every time.   
+>> Introduce some weapons and it's more complicated, if it's an expert vs. someone with no training then for anything more complex than a bludgeon (mace, club etc. anything that just needs you to hit them hard) the trained guy will have the advantage. But if they're both competent, it's just that one has strength and the other even more skill, strength probably wins again.   
+>> Then we get to modern firearms where strength doesn't matter much, though assuming both are competent skill doesn't either, that's when you get into the fun world of both parties getting injured unless one jsut gets real lucky.
+>> 
+
+> **u/ajuc** [+6] *
+> 
+> In many settings the rational thing to do is to become very strong. I like characters who break the iq vs strangth tradeoff trope, especially when they are on the "evil" side.
+> Witcher universe has 2 of my favourite examples (Witcher 2 game and Baptism of Fire book spoilers ahead):
+> >!Letho who looks like Conan, and exploits this to outsmart powerful political factions, and Vilgefortz, who looks like nerdy wizard, but mops the floor with fucking Geralt of Rivia in a melee duel.!<
+> 
+
+> **u/None** [+3] *
+> 
+> Huh, I wonder if that's why Ward is less popular than its predecessor, Worm:
+> >!Taylor was a Master-type Parahuman, who needed to use complicated maneuvers and clever applications of her powers as well as finding and leveraging allies to beat opponents who were generally way stronger than her, physically.!<
+> >!Meanwhile, Victoria's power is very straight-forward, even if she uses it very intelligently and with a great deal of preparation by studying everything about Parahumans that she can get her hands on.!<
+> 
+
+>> **u/Bowbreaker** [+6]  *Solitary Locust**
+>> 
+>> I think it's less the power and more that Taylor's personality had an easier time drawing people in and seemed more sure of herself, even if, in retrospect, she wasn't necessarily healthier.
+>> Also, the world is less relatable, for obvious reasons.
+>> 
+
+> **u/RMcD94** [+3] *
+> 
+> >The issue is that there are a lot of situations where Hulk is better at solving problems than Bruce Banner
+> There are a lot only because situations are infinite.
+> Proportionally physical capability (especially since good use of physical capability requires intelligence) in a society has to come up way less. That's not the same as never of course. Battles that matter usually involve armies after all, so an individual difference in physical capability is not significant.
+> Really, I can think of very few scenarios Hulk can solve that you can't just hire five guys to solve instead. Except like infinite energy stuff.
+> Stuff like the door is hardly a place where the Hulk would shine, sneaking into somewhere. Bruce Banner would still be better suited. A bad followup example don't you think?
+> The rest of the article is pretty good.
+> 
+
+>> **u/SimoneNonvelodico** [+5]  *Dai-Gurren Brigade**
+>> 
+>> The Hulk however doesn't just have brawns, he has brawns on a scale beyond human comprehension. There are very few problems the Hulk couldn't solve because the Hulk simply can afford to *not give a fuck*. He doesn't need to sneak, if he's found out what are they going to do, shoot him? They can try taking hostages, I guess, but in general he's an absolutely unstoppable force of nature, a one-man army. It takes a more contrived setup to get an enemy that *can't* just have their head crushed by the Hulk and problem solved.
+>> 
+
+>>> **u/kaukamieli** [+5] *
+>>> 
+>>> > Real life isn't like cartoons, there won't be a convenient rube goldberg esque sequence of events you can trigger that will predictably knock out your opponents for you.
+>>> They can take hostages, but hulk might just be raging enough to not care.
+>>> 
+
+>>>> **u/SimoneNonvelodico** [+4]  *Dai-Gurren Brigade**
+>>>> 
+>>>> Also it's a bluff. Imagine there's someone that the Hulk really cares about.
+>>>> Now imagine *killing that person right in front of the Hulk*.
+>>>> Yeah.
+>>>> 
+
+>>> **u/melmonella** [+2]  *Tremble, o ye mighty, for a new age is upon you**
+>>> 
+>>> >takes a more contrived setup
+>>> Like what, literally any case where opponent isn't right in front of hulk or in a known location?
+>>> 
+
+>>>> **u/SimoneNonvelodico** [+2]  *Dai-Gurren Brigade**
+>>>> 
+>>>> The opponent still has to do something to, well, *oppose* the heroes. And as far as any kind of violence is involved, there's very little the Hulk can't face head-on. Unless you have someone like Thanos, most other MCU movies would have been solved by the Hulk in five minutes flat, *at least* once he was delivered to the scene of the final battle.
+>>>> 
+
+>>>>> **u/melmonella** [+6]  *Tremble, o ye mighty, for a new age is upon you**
+>>>>> 
+>>>>> You are assuming their goals have anything to do with the heroes *or* that there will *be* a final battle. That's story logic. Opponent is perfectly capable of achieving their goals without an army or a singular Doomsday device.
+>>>>> 
+
+>>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>>>> 
+>>>>>> Ah, well, depends on what kind of opponent it is I guess. But usually big scale threats do involve some serious amount of military might, or at least some big expenditure of energy. Though you could have some exceptions to this (for example a villain spreading a deadly virus).
+>>>>>> 
+
+>>>>>>> **u/melmonella** [+2]  *Tremble, o ye mighty, for a new age is upon you**
+>>>>>>> 
+>>>>>>> Military might is not the same thing as a bigass spacearmy coming through one portal during one battle with a single artifact being key to the whole thing. Just as some examples of military might you can't smash:
+>>>>>>> * Any random guerilla movement has military might, but no central command or a big army hulk could smash. He could smash *a* squad of fighters, if he could find it...while the rest achieve their objectives. Suppose heroes' objectives is something like war in Vietnam: need to pacify the population and estabilish a stable government while being opposed by resistance movements made up of farmers. Who is hulk going to smash? More farmers? That would just unite the rest in righteous hatred against him (and whatever force was stupid enough to use him), and they would keep killing whatever officials heroes would put in place. If he stays to protect the figurehead president, farmers kill the tax collectors, and hulk can't protect a thousand individual tax collectors. Bad guy 1, heroes 0
+>>>>>>> * Suppose villain wants to just kill every human on earth, Avengers 1 style. Big army of loyal aliens with guns that shoot people. But instead of opening a space portal above a city, he opens it in a random cave in the middle of Kenya, gets all the army summoned first, sends it all across the world in standard shipping containers, and only then triggers the attack. Suppose each alien (villain distributes them optimally and stuff) can kill 1 person per ten seconds and there is, like, a million of them. Suppose hulk's top speed is, like, 600 meters a second (twice the speed of sound, never shown in the latest Marvel movies). Then it'd take him 8.3 hours to get to the other end of the earth. In 8.3 hours, at 100 thousand people a second, that's 3 billion people killed, and that's just hulk running at top speed to the opposide end of the earth. Not, like, running to every city and killing all those aliens. Even with  conservative assumptions about how good aliens would be at killing, they'd easily murder 99% of human population before hulk stops them - there is no central command to smash(all aliens are given the same "kill everyone" order that won't change and doesn't require micromanagement), no portal to close(army is already here), no badguy to beat into rescinding the offer(he is, i dunno, on Mars and Hulk can't jump that far). Bad guy 2, heroes 0.
+>>>>>>> 
+
+>>>>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>>>>>> 
+>>>>>>>> Yes, that's true. I guess the key premise has to be the lack of a sense of self-preservation. If the enemy has any kind of centralised base or home country, it can be ravaged in retaliation. It's not much that the Hulk is intrinsically able to solve all situations, but at the very least he always is a deterrent. Unless the enemy really is from another dimension or such and can always protect his territory from any incursion.
+>>>>>>>> 
+
+>>>>>>>>> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you**
+>>>>>>>>> 
+>>>>>>>>> Yeah that's not a lot of problems. 95 times out of a 100, hulk will be useless, and another 4 times he'd be replaceable with a truck full of TNT.
+>>>>>>>>> 
+
+>>>>>>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>>>>>>>> 
+>>>>>>>>>> "A truck of TNT" severely undersells him and the amount of damage he can do. Try several ICBMs, armed with 50 Megaton fusion warheads, able to guide themselves intelligently, virtually unstoppable, and able to follow you even underground *if* they know where you are. The Hulk really pissed off and with no moral restraints is an extinction level event.
+>>>>>>>>>> 
+
+>>>>>>>>>>> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you**
+>>>>>>>>>>> 
+>>>>>>>>>>> >Try several ICBMs
+>>>>>>>>>>> Yeah exactly how often do you need that. Exactly how often is a truck of TNT not sufficient bang? Not very often is how. That can bring down a building, that's about as much as you'd need for practically every problem. In that one very specific very rare case hulk is useful.
+>>>>>>>>>>> 
+
+>>>>>>>>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>>>>>>>>>> 
+>>>>>>>>>>>> I was talking about retaliation and deterrence. What's scarier, a truck of TNT you have some hope of intercepting before it detonates or enough nuclear power to raze your whole country and kill millions that you can't do a damn thing against?
+>>>>>>>>>>>> 
+
+>>>>>>>>>>>>> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you**
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> Look, you said that "There are very few problems the Hulk couldn't solve because the Hulk simply can afford to not give a fuck". My point is that A, no there aren't, because most relevant problems would be straight up unsolvable with brute force, and B, for the most of the ones that *would* be solvable, Hulk's infinite brawl is not actually impressive because a much smaller (and much easier to accquire and produce en masse) bang would do the trick just as well, and you don't get extra points for overkill. 
+>>>>>>>>>>>>> For the 1 in a hundred problem where, like, an unkillable alien that can't or won't just [glass](http://halo.wikia.com/wiki/Glassing) Earth from space shows up, sure, Hulk is somewhat impressive. For every other case, pick Bruce Banner.
+>>>>>>>>>>>>> 
+
+>>> **u/RMcD94** [+1] *
+>>> 
+>>> There are other consequences to being caught than physical repercussions. If he's caught perhaps they destroy what he's seeking before he can get it.
+>>> You already pointed out that they can harm his interests like other people he cares about. Beyond hostages they could fire his family members or discriminate against them, cause his homeland to suffer economically, increase population levels and encourage climate destruction, etc.
+>>> Whatever his ideals are they can be targeted for noncompliance...
+>>> I don't know if I'd call that contrived.
+>>> 
+
+>>>> **u/SimoneNonvelodico** [+3]  *Dai-Gurren Brigade**
+>>>> 
+>>>> True, but ultimately, the Hulk could at the very least threaten a very believable retaliation in kind. There is no winning with him - at best, a draw. If he finds you, you're dead. If you made him mad enough, your whole family may be dead, or whoever is around you at that moment anyway. Whatever you do, you can't really kill him, only make him angrier, thus stronger. And the *Hulk* on his own (that is, detached from Banner - they're separate personalities anyway, effectively) has precious little things he cares about in the first place. He's mostly a lone wolf. A threat is only worth something if it's likely to be effective. The Hulk is basically on his own a nuclear deterrent.
+>>>> That said, obviously, this is because the Hulk is fundamentally broken as a character in the first place. The considerations about IRL brawns vs. brains make sense mostly because both those things have limits. In comics we have both nigh infinite brawns characters (the Hulk) and nigh infinite brains (Tony Stark, building an invincible exoskeleton from scratch IN A CAVE! WITH A BOX OF SCRAPS!). So we find ourselves with absurd situations where simply one of the two qualities can win everything.
+>>>> 
+
+>>>>> **u/melmonella** [+1]  *Tremble, o ye mighty, for a new age is upon you**
+>>>>> 
+>>>>> All you need to do is make Banner suicidal enough to be willing to take a rocket to solar orbit(by e.g. orchestrating events such that he is shunned by society everywhere - don't even have to do anything special, just let hulk rampage in a city and then release his private info through a proxy), walk out of the airlock with a space suit on, and then turn into Hulk. Extremely easy to deal with, really. Hulk can't fly so he is stuck in orbit, banner is as good as dead because Hulk won't untransform where Banner would suffocate.
+>>>>> 
+
+>>>>>> **u/SimoneNonvelodico** [+1]  *Dai-Gurren Brigade**
+>>>>>> 
+>>>>>> Works if the Hulk has no allies, or no one who has both the means to recover him and an interest in doing so. But fair enough.
+>>>>>> 
+
+> **u/Teulisch** [+2]  *Space Tech Support**
+> 
+> these days, there is a third side to this conflict- emotion. resolution that is more about the audiences emotional response, than thinking. or more about the social values of the writer than logic. media as a way to make people agree with your views.
+> 
+
+> **u/None** [-1] *
+> 
+> [deleted]
+> 
+
+>> **u/AforAnansi** [+19] *
+>> 
+>> I don't agree. I think it is unfair to call this article anti-intellectual, when the entire point of it is that intelligence does not have to be the opposite of physical skill/strength. 
+>> To me, on of the hallmarks of rational fiction, as opposed to fiction about classic 'Hollywood smart' characters, is their willingness to 'kick down the door'. To stop acting like what a story expects smart *characters* to act like, and instead act like normal, intelligent *people* instead.
+>> Yes, good stories always challenge the protagonists with things that both match their skill set, and things that contrast it, but that isn't what this article is about. This article isn't about specialists vs. generalists; as far as I understood it, its about complexity vs. simplicity, and how favoring complexity when simplicity is a perfectly viable solution is a fallacy, with 'brains' vs. 'brawn' just being stand-ins.
+>>  It's not about how stories that favor brains are bad and complex, and stories that favor brawn are good and realistic because they go for the simple approach. Its about how, if you are going to have the solution to a problem in your story be complex, you should first make certain that there isn't a much simpler solution you're ignoring, waiting to undercut your entire plot. If you are going to have your hero hack the keypad guarding an electronic door, you should first make certain that they can't just kick the door down.
+>> Stories that favor brawn sometimes avoid this fallacy, because in many cases the best solution available to the characters really is 'punch harder'. And when it isn't, people on the internet come together to create communities like r/rational, where they laugh at how foolish the characters are, with their fixation on 'brawn', and try to write alternate versions of the story where the protagonists realize they can use brains instead. If that is fair, then I think its perfectly fair to be annoyed by characters that fixate on brains, when brawn would have been a much easier, and much simpler solution to their problem.
+>> The author even addresses your point about real world problems, albeit in a roundabout manner, when they say that a very easy way to avoid this fallacy would be to create problems that actually can't be solved by brawn; for example, making doors that are impossible to kick down. Writing a story where the main conflict is about getting people to vote for a law, without starting a civil war, is exactly the kind of thing the author seems to be advocating for; using complex means (brains), to solve complex problems, instead of being so allergic to simple solutions (brawn) that you end up using needlessly complex means to solve simple problems. 
+>> And on the whole generalist vs specialist argument; yes, specialists tend to win out, especially in the modern world. But in this context its less 'being  a specialist is bad', and more 'being so specialized that you become incapable of doing simple, basic tasks is bad'; the difference between going to college to become a physicist, and only ever studying physics from the moment you are born until the moment you die, without bothering to ever learn language or social skills. Specializing in computer science and becoming a hacker is still great. But focusing so hard on that narrow area that you become incapable of thinking outside it and realizing that kicking down a door is lot easier than hacking the keypad that keeps it locked, is definitely bad.
+>> TLDR: I think calling an article anti-intellectual nonsense, when its all about the benefits of out-of-the-box thinking and how physical fitness does not have to be opposed to be intellectual ability, is very unfair.
+>> 
+
+---
+

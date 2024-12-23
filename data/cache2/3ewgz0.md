@@ -1,0 +1,24 @@
+## [RT][HF] Twig, Arc 5: Espirit de Corpse
+
+* Author: u/AmeteurOpinions  *Finally, everyone was working together.**
+* URL: https://twigserial.wordpress.com/2015/07/28/esprit-de-corpse-5-1/
+* Score: 8
+
+* Created: 2015-07-28T14:25:26
+
+### Post:
+
+[Link to content](https://twigserial.wordpress.com/2015/07/28/esprit-de-corpse-5-1/)
+
+### Comments:
+
+> **u/AmeteurOpinions** [+0]  *Finally, everyone was working together.**
+> 
+> Wildbow continues relentlessly tease his shippers. We've had Sy/Mary, Sy/Jamie, Helen/Cake, and now Sy/Lilian. And it works, because no one in this setting -- least of all Jamie -- deserves their fate. 
+> The Lamb's cohesion in the face of adversity and their own mortality will continue to be a major factor. It's unclear exactly how much time has passed since the last arc, but if it continues to pattern we will rapidly approach the Expiration Dates. 
+> Fray was interesting. Hurt the Academy by unwrapping the christmas presents early, before all the necessary planning could be put in place? Messy to be sure, but one of the more surefire options to instigate a real power shift. 
+> I'm interested to see what Haye's endgame will be. Each part of the team is carefully specialized, but biotech singularity hypothesis implies that the results of each project will be combined into an Ubermensch, and at what cost to our dear little Lambs? We'll have to read on and find out.
+> 
+
+---
+

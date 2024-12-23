@@ -1,0 +1,55 @@
+## Chiaroscuro - Chapter #73
+
+* Author: u/xamueljones  *My arch-enemy is entropy**
+* URL: https://www.fanfiction.net/s/11267384/73/Chiaroscuro
+* Score: 16
+
+* Created: 2020-03-15T02:42:23
+
+### Post:
+
+[Link to content](https://www.fanfiction.net/s/11267384/73/Chiaroscuro)
+
+### Comments:
+
+> **u/xamueljones** [+10]  *My arch-enemy is entropy**
+> 
+> While I'm assuming that most people here already know about this story, here's a quick summary for anyone ignorant.
+> It's Naruto fanfiction where Shikamaru has a drive like his mother and doesn't let laziness keep him from his goals. As a result he ends up as the Rookie of the year beating out Sasuke. 
+> It's pretty good with a well-built ninja world instead of retreading the stations of canon and things go off the rails pretty quickly after graduation. The characters are actually clever and everyone can be intelligent in different ways instead of Shikamaru being the only intelligent person in the story.
+> 
+
+> **u/ivory12** [+7] *
+> 
+> I have tried on two occasions to read through this, and twice I have started skimming at the exact same place and stopped entirely shortly after: Chapter 18. I don't even like Kabuto as a character, but his portrayal in *Chiaroscuro* leaves a sour taste in the mouth. It felt like watching a character get hooked off-stage with a cane in the most humiliating way possible. 
+> It's the equivalent of Harry Potter pulling out a glock and blowing away Lucius Malfoy at the end of *Chamber of Secrets*. No, worse, it's the equivalent of Malfoy pulling out a glock and handing it to Harry so he can be shot, and Harry telling Dobby as he does it how tragic it all is, winking at the fourth wall. 
+> >!At basically the same point in time that canon Kabuto kills a black-ops ANBU squad and escapes from Kakashi, he instead lets himself be captured. Then, roughly a thousand words are devoted to how he breaks down under torture and is summarily executed.!<
+> >!All the while Ibiki's thinking about how he's a sad, lost young kid, exactly what psychologically broke him, and how they dissolve his body in some kind of acid/base so he'll never be able to clone himself back to life.!<
+> The author can do whatever they like to move past a character they don't want to write about; after all, it's fanfic. But I found the whole fic up to that point had the taste of that almost-bashing of its canon material that littered HPMoR: why do something in the narrative when you can do it in the narrative and also take a little sideswipe at the source material?  
+> Oh, and Shikamaru is definitely among my least favourite Naruto characters, which might have a bit to do with the way the fic seems at times less hard-R rational and more 'every stat except INT is a dump stat' wank at times.
+> 
+
+>> **u/VorpalAuroch** [+1]  *Life before Death**
+>> 
+>> > 'every stat except INT is a dump stat' wank
+>> Really? I'd mostly agree with "physical stats are dump stats", but e.g. Ino is almost pure-CHA and she's consistently treated as very useful and competent. And Naruto is effective mainly on WIS.
+>> 
+
+>>> **u/ivory12** [+1] *
+>>> 
+>>> The particulars of how the story maps to D&D aren't really that important to the analogy; I think you get the gist of my point. Even then, I'd argue that Naruto is treated more like a cute puppy than 'effective' based on his empathy. Although, like I said, I have given up on the story twice at about the same spot, just ~20 chapters in. A story about ninja shouldn't be subtly throwing shade at one half of the muscle wizard equation the whole time. :S
+>>> 
+
+>>>> **u/VorpalAuroch** [+1]  *Life before Death**
+>>>> 
+>>>> I get the point you're trying to make, I think, but the difference between 'the mind is more important than the body' and 'one particular aspect of thinking is more important than the body or any of the other aspects of thinking' is pretty significant. The latter is an oversimplification, the former is to a first approximation *straightforwardly true*. And since ninja are all at a pretty high baseline level of fitness, for them it's true to a second, third, and probably several more-th approximation.
+>>>> There's the anonymous aphorism "Bad generals master tactics; good generals master strategy; great generals master logistics". Applied to ninja, it's essentially the same idea as this; bad ninja master physical talents, good ninjas master short-term planning, great ninja master long-term planning. Ninja are all way above the threshold where physical skills are valuable on the margin; even an unmotivated, untalented genin (e.g. Sakura) is not going to get much value out of training strength, speed, or endurance harder. (Rock Lee, who has no other choice, does an absurd amount of training and *more or less* keeps pace with people who do much less training directed in more effective directions.)
+>>>> 
+
+> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade**
+> 
+> Finally!
+> 
+
+---
+

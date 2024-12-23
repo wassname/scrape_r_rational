@@ -1,0 +1,371 @@
+## [D] Monday General Rationality Thread
+
+* Author: u/AutoModerator *
+* URL: https://www.reddit.com/r/rational/comments/4hhv6r/d_monday_general_rationality_thread/
+* Score: 15
+
+* Created: 2016-05-02T15:04:25
+
+### Post:
+
+Welcome to the Monday thread on general rationality topics!  Do you really want to talk about something non-fictional, related to the real world?  Have you:
+
+* Seen something interesting on /r/science?
+* Found a new way to get your shit even-more together?
+* Figured out how to become immortal?
+* Constructed artificial general intelligence?
+* Read a neat nonfiction book?
+* Munchkined your way into total control of your D&D campaign?
+
+
+### Comments:
+
+> **u/blazinghand** [+7]  *Chaos Undivided**
+> 
+> How much do you track your finances? I keep a spreadsheet that tracks my monthly outlays and expenditures and categorizes them by type. Every month, I examine my credit card and bank statements (and reference receipts if need be) and enter in all my outlays and income. 
+> Each page in my spreadsheet is a month, and at the front of the spreadsheet is a page with 
+> [graphs](http://i.imgur.com/X5ebWet.png) and a page with tables. This lets me identify trends in my spending and saving. Basically every dollar that I gain or lose is tracked in some way, though small cash transactions between friends are not.
+> Since I started doing this a couple years ago, I've become more careful and conscientious about my spending. If I spent too much one month, I am aware of it, and I also know how and where I spent too much money. It has helped me build savings.
+> Do you do something similar? If so, how?
+> 
+
+>> **u/captainNematode** [+5] *
+>> 
+>> > How much do you track your finances?
+>> Not very. Mostly out of laziness and lack of immediate need, I guess. I tried using [YNAB](https://www.youneedabudget.com/) for a little while but didn't get much from it. I don't make a lot right now, though, so the consequences of any inefficiency now are likely to be small (grad student stipend is $20k-40k per year, depending on what I do or what sort of funding I'm on, and my wife makes a similar amount). 
+>> Mostly money's deposited into my/our bank account(s) automatically and we use a variety of credit cards to buy groceries or toys, pay rent and utilities, travel, etc. (well, rent requires a check, but we use credit cards to make almost all other purchases). Card balances are then automatically paid in full every month. Every few months I'll check how much is in the bank and make sure there haven't been any weird purchases. Depending on the time of year, we'll give some to various charities (a few k, though I do it over fewer transactions to avoid having more fixed fees) and toss some $ in investments (e.g. max out Roth IRAs for the year and put whatever's left into a taxable account, leaving enough in the bank to serve as a ~3 month emergency fund).
+>> Every few weeks I'll check up on investments (a fairly aggressive lazy portfolio made up of index funds) and credit scores, since it's fun and a little addicting to see how the numbers change through time.
+>> I don't really give much thought to finances and tend to buy random stuff as desires strike. But I don't want for much, so it's worked out well so far.
+>> 
+
+>> **u/GaBeRockKing** [+2]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> 
+>> I have a pretty basic spreadsheet that I use to keep track of expenditures by month and by what I spent it on. It's not complex, but as a student who doesn't work except during the summer, I find it's a necessary budgeting tool.
+>> 
+
+>> **u/callmebrotherg** [+2]  *now posting as /u/callmesalticidae**
+>> 
+>> I do spreadsheets too. I really just need to better account for the occasional bout of bipolar-inspired "let's buy something i don't really need" and my actual expenses will finally look like my planned expenses ten months out of 12. As it is, I just make sure that things on the balance work out. 
+>> (It hasn't helped that I was robbed recently, which kind of threw things out of whack right after I came up with the New And Improved Financial System that I think will finally make Actual Expenses look like Planned Expenses ten months out of twelve)
+>> I really wish that Amazon had a function that prevented you from buying something instantly and made you wait. This is obviously not going to help *them*, though, so I won't hold my breath.
+>> 
+
+>>> **u/blazinghand** [+5]  *Chaos Undivided**
+>>> 
+>>> One strategy if you're having self-control problems with internet purchases is to create a ritual for yourself. For example, if you are sure you want to buy something on Amazon, you write down the item on a piece of paper you keep on your fridge. Also, write out the URL, by hand. Then, at the end of the week, you buy any items on that piece of paper that seem like a good idea still.
+>>> Adding a couple trivial barriers might be enough to help.
+>>> 
+
+>>>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>>>> 
+>>>> got nothing to lose by trying. >:]
+>>>> 
+
+>> **u/whywhisperwhy** [+2] *
+>> 
+>> I've been meaning to start doing this but really i want to figure out a way to import my monthly bank statement into Excel... I've seen programs like YNAB or Mint that are able to do this, and while I'm not comfortable using those (Mint has been hacked multiple times for example, and doesn't work well sometimes because banks loathe it's querying whereas YNAB is otherwise basic but is switching to a subscription-based model), I want to see if I can get that functionality.
+>> For now I've just been tracking savings, Roth IRA, etc., and have goals based on those.
+>> 
+
+>> **u/_stoodfarback** [+1] *
+>> 
+>> I found getting a firm handle on my finances to have been hugely beneficial. Less stress over money, always knowing my exact situation, long-term retrospectives and planning.
+>> Learning basic accounting (double-entry bookkeeping) was a bit of a hassle, but I can't imagine going back to the fuzzy, ad-hoc, reinventing-the-wheel-poorly "accounting" I was relying on before.
+>> If you are programming-inclined, I definitely recommend ledger-cli. There are plenty of alternatives if you aren't or just don't like it for whatever reason.
+>> A good place to start: http://plaintextaccounting.org/
+>> 
+
+>> **u/gtsteel** [+1] *
+>> 
+>> By using a electronic payment for fixed monthly expenses and cash for descressionary ones. Since cash takes up physical space, it is very easy to keep track of how much I have spent.
+>> 
+
+>> **u/Teal_Thanatos** [+1] *
+>> 
+>> I grabbed an app called Pocketbook (getpocketbook.com or something) and it ties into my bank accounts, gives me warning of bills, let's me set a safe warning limit and generally keeps track of the finances for me.
+>> I find it pretty damned useful for keeping in mind what I am spending my money on.
+>> 
+
+>> **u/medley_of_minds** [+1] *
+>> 
+>> Closely, but only occasionally.  I use mint to keep track of all expenditures, and a spreadsheet to keep track of my investments.  I only really go through it in detail once every couple of months though, with the exception of any 'high spending' alerts that mint might bring to my attention.  I find that this is more than frequently enough to keep a good understanding of my savings rate and projected finances, while also not requiring much of my time.  If I find that over the last few months I've spent more than I'd projected, I'll figure out how that happened and course correct.
+>> At this point, I'm more often surprised by the growth of my assets than by unexpected spending.
+>> 
+
+> **u/FuguofAnotherWorld** [+6]  *Roll the Dice on Fate**
+> 
+> In my continuing adventures in depression, today I have started on Sertraline which is an antidepressant. It's making me feel weird as shit, which so far is an interesting if frustrating experience. My ability to put my thoughts into words coherently on the first try is at 50-70% of normal. Apparently I'm in for 3-6 days of various types of crapulence before I can expect to see benefits, and should discontinue use if I develop toxic epidermal necrolysis (don't google image search that lightly). Huzzah!
+> 
+
+>> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+>> 
+>> Ah yes. Scott at some point wrote extensively about the necrolysis. 
+>> Wish you all the best and hope it helps you.
+>> 
+
+>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong**
+>> 
+>> Hopefully its effects on your cognition lessen over time; that's the one I tried first, too.
+>> 
+
+>> **u/None** [+1] *
+>> 
+>> SJS/TEN is super rare, you should be okay. The fact that they warned you about it is a good sign. Sertraline is one of the firstline meds and is effective for many people though I personally couldn't handle the side effects and switched to an SNRI. Your mileage may vary. Best of luck, this stuff is difficult and i hope it goes well for you.
+>> 
+
+>>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate**
+>>> 
+>>> Yeah I'm not actually worried about side effects like that, I'm basically the opposite of a hypochondriac. It just amused me to find that in the info leaflet.
+>>> 
+
+>>>> **u/None** [+1] *
+>>>> 
+>>>> Ah that's good :)
+>>>> 
+
+>> **u/None** [+0] *
+>> 
+>> [deleted]
+>> 
+
+>>> **u/None** [+6] *
+>>> 
+>>> [deleted]
+>>> 
+
+>>>> **u/None** [-2] *
+>>>> 
+>>>> [removed]
+>>>> 
+
+>>>>> **u/eaglejarl** [+7] *
+>>>>> 
+>>>>> /u/Jurily  That's really interesting, thank you for letting us know.  Out of curiosity, how long have you been practicing as a medical professional?  Have you published anything on these theories?  I'd be interested to read some of your work -- do I need to subscribe to whatever journal you published in, or is there a free version?
+>>>>> 
+
+> **u/ulyssessword** [+5] *
+> 
+> Do you carry cash?  I'm asking beacuse I was recently working on a Starbucks when their card reader went down, and I'd estimate that 2/3 of people *couldn't pay* after going through the drivethrough (the store gave them their drinks for free when that happened.)
+> I'm curious because I see peactically no downsides to carrying cash, and variable but at least significant upsides, but a lot of people don't carry cash anyways, and I don't know why.
+> 
+
+>> **u/blazinghand** [+11]  *Chaos Undivided**
+>> 
+>> The downside to having cash in your wallet isn't carrying it, but getting it. Basically, everywhere that I shop accepts credit cards. When I bank, I do so via the internet or mail-- set up my deposits, pay my bills, write checks for credit card bills, etc. I literally do not enter my bank or use an ATM on most months.
+>> Looking at my budgeting spreadsheet, an example of transactions I had in the last month included:
+>> * Groceries, paid with credit card
+>> * Gasoline, paid with credit card
+>> * Some dining-out expenses, paid with credit card
+>> * Some entertainment and subscription expenses, paid with credit card
+>> * Some checks deposited or written, for rent or transferring money with friends, all deposited using electronic internet deposit
+>> * Paycheck, deposited directly
+>> * Paying down credit card for the month
+>> * Some money transferred between friends using the Venmo banking service
+>> * A check written to my landlord for rent
+>> * Other expenses and purchases, such as some stuff at the drugstore, a new video game, all done with cards or checks
+>> Basically, unless I specifically seek it out, I don't actually end up using cash for anything. I haven't used an ATM in several months. I do carry about a hundred dollars on me, but if I instead only had twenty dollars on my person, or no dollars, it would have no impact on my life. Going out of my way to go to an ATM is the cost, rather than carrying the cash in my wallet.
+>> 
+
+>>> **u/None** [+2] *
+>>> 
+>>> I do most financial stuff online too, but I'll take out $20 a fortnight for "dicking around money" - small-change cash-economy stuff like if a neighbour is selling bags of horse manure as compost.
+>>> 
+
+>> **u/GaBeRockKing** [+6]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>> 
+>> If you lose your wallet (for whatever reason) and carry cash, you lose that cash. If you just carry plastic, you don't take any sort of financial loss (at least if you report to your bank/credit agencies quickly.)
+>> Personally speaking, I carry cash because it's actually more convenient than debit for the sorts of small purchases I make, but it's not like there isn't a comparative risk.
+>> 
+
+>>> **u/ulyssessword** [+2] *
+>>> 
+>>> Yeah, the two downsides I can see are:
+>>>  - whenever you lose your wallet, you lose the money in it, and
+>>>  - money that is sitting as cash in your wallet can't be used for anything else.
+>>> The first is a small downside because (frequency of losing wallet * amount of cash * how bad losing money is * risk aversion) is quite small in most cases.  The second is usually small because it's a small amount of money.
+>>> 
+
+>> **u/SpeakKindly** [+5] *
+>> 
+>> Well, one downside to carrying cash is that you don't get free drinks at Starbucks when their card reader goes down :)
+>> 
+
+>>> **u/vakusdrake** [+5] *
+>>> 
+>>> *Well you do if you lie...*
+>>> 
+
+>> **u/callmebrotherg** [+4]  *now posting as /u/callmesalticidae**
+>> 
+>> I have a weird aversion to having lots of things, especially non-bulky things. My system-2 knows that it's valuable money, but my system-1 sees no difference between a dollar bill and a scrap of paper.
+>> 
+
+>> **u/captainNematode** [+3] *
+>> 
+>> I tend to carry around $50 in my wallet at all times (which I don't think I've ever lost, at least not permanently -- it's occasionally been misplaced for a few days, but has always turned up soon enough). I go to plenty of places that don't accept cards and cash has been useful to have on those occasions (e.g. a lot of local parks have ~$5 entrance fees and don't have card readers, especially when you pay fees by putting money in an envelope, depositing it in a metal cylinder, and putting the corresponding ticket on your dashboard).  
+>> I also make use of the brilliant strategy of squirreling away $10-$20 in various bags, compartments in the car, electronics cases (e.g. in my cell phone), etc. in case I lack small amounts of money when it's needed, forgetting it's there, and rediscovering it years later.
+>> 
+
+>>> **u/callmebrotherg** [+1]  *now posting as /u/callmesalticidae**
+>>> 
+>>> That's great. I'm going to do that as soon as it looks like I'll be living in the same place for more than a year.
+>>> 
+
+>> **u/medley_of_minds** [+3] *
+>> 
+>> Always.  I also keep a small stash in my car and apartment in case my wallet runs out unexpectedly.
+>> There's just a part of me that cringes every time I think about the 3% I'm handing over to visa / mastercard, so I prefer to use cash whenever practical.
+>> 
+
+>> **u/hoja_nasredin** [+2]  *Dai-Gurren Brigade**
+>> 
+>> for the same reason it is advised to keep a stck of cash in your house in case of local apocalypse (New orleans hurricane, Crimea invasion etc.)
+>> 
+
+>> **u/None** [+2] *
+>> 
+>> I keep cash on hand for emergencies. Not a huge amount, about $20. Starbucks isn't an emergency, though. It's more for like, a taxi home from an unsafe situation that I didn't drive to, running out of medicine unexpectedly, card gets lost or broken and banks are closed, etc.
+>> 
+
+>> **u/mg115ca** [+2] *
+>> 
+>> My primary use for cash is when I am out with friends and we don't want to split the check somewhere (like a drivethrough), or tipping at a restaurant. I don't use it as my first choice of payment method because a lack of logging makes it harder for me to tell what I used it for when I review my finances.
+>> I don't usually go out of my way to acquire it though, it's usually just when I'm paying for groceries and the card machine asks if I want cashback, I'll check how much I have in my wallet and usually grab a 20.
+>> 
+
+> **u/None** [+8] *
+> 
+> [deleted]
+> 
+
+>> **u/blazinghand** [+5]  *Chaos Undivided**
+>> 
+>> I believe that people have experiences that they feel and describe in a way that comes out as Tulpas. I have friends and family who are highly religious, and they also describe rarely hearing a voice in their head that is not their own. They believe this is the voice of god. They pray in an imaginative way and imagine God speaking back to them. Sometimes, this comes true.
+>> I don't have, nor have I had, this kind of experience before. It seems like there is something that's possible in the human mind that's like this. If you are in the right frame if mind, you can believe you hear someone speaking back to you. It would not surprise me if what my religious acquaintances view as the voice of God is the same phenomenon that Tulpa users experience.
+>> 
+
+>> **u/alexanderwales** [+9]  *Time flies like an arrow**
+>> 
+>> The problem with tulpas is that if you strip away the woo and nonsense, you're just left with basic human empathy and storytelling, which isn't all that exciting or novel. I think the "surprising answers" thing is just an extension of empathy and a modeling of another entity's thoughts, but it *does not* require some kind of separate independent entity living inside your head. This is already a well-worn trope: "Think, think ... what would X do? *Gasp!*"
+>> That's not to say that I think it would be useless for therapy, since what you're doing is attempting to isolate and examine thought processes. But the tulpa thing, while interesting, seems to be almost entirely constructed of woo.
+>> I'd be happy to see someone attempt to steelman it though.
+>> 
+
+>>> **u/CreationBlues** [+2] *
+>>> 
+>>> I disagree. For one thing, it's a really easy and common thing to become someone who has only a very basic relationship with your normal mental state. From personal experience, when I've dreamed, I've noticed that as often as my dream self is basically my normal waking self, it's also normal for it to be some random character that fits in the dream. 
+>>> In what sense is something like that still me, that has completely different memories and goals from my waking self, and in what sense is it it's own being? I would argue that both interpretations are right, to a degree, since when you're inside the dream, you usually won't be able to bring you own thought processes into the equation, but you can still see how it's templated on you.
+>>> So while there may be a lot of woo and nonsense, there can be a mechanism for a truly novel personality to take root in your head. Sure, there's the woo and nonsense to object to, but you have to remember that inside the human mind is literally the one place in the universe that that kind of thing actually works.
+>>> 
+
+>> **u/vakusdrake** [+3] *
+>> 
+>> Something similar to this, is that I've found that your brain can simulate _at least two entities capable of passing the turing test_. The reason I know this is from lucid dreaming, while in most dreams I find the npc's are pretty low quality you just don't notice because you're not lucid. In lucid dreams however, npc's can actually be convincing enough that even with full lucidity they are seem convincingly like real people even when you  know they aren't. 
+>> Obviously the processing for the npc's is all subconscious, but as far as I'm aware for a sane person it's the closest thing you can have to having 2 entities in your head at once. 
+>> This scenario always struck me as odd, because there must be quite a lot of processing going on internally, to simulate both your mind, but also the output from the other entity, which appears indistinguishable from if it had come from a real person.
+>> 
+
+>>> **u/dragonballherpeZ** [+1] *
+>>> 
+>>> I think you just hit a major point. I have been interested in the overlap between "Magic" and cognitive therapies to reduce cognitive dissonance and cognitive therapies to reduce cognitive dis intense. One of the techniques they mention a lot in a term they call shadow work is visualizing the difference subsumed parts of your personality as their own separate agents and by giving them a name and a form they don't affect you on a sub conscience level anymore you would address them and become more capable of addressing them in the moment. I think that Tapas are another manifestation of this and as you pointed out the brain is capable of having multiple running operating systems of personality in its Hardware at the same time.
+>>> 
+
+>>> **u/Uncaffeinated** [+1] *
+>>> 
+>>> Alternatively, since the dream npcs are born of your own mind, they can fake pass the turing test since they already know exactly what you're going to ask ahead of time and what acceptable responses to you would be.
+>>> Anybody can fool themselves. The real test is fooling others.
+>>> 
+
+>>>> **u/vakusdrake** [+1] *
+>>>> 
+>>>> Yes, but they are still doing the processing to figure out what responses work separate from your conscious mind. 
+>>>> Since they can calculate what responses sound good to you it doesn't seem like they would be incapable of doing the same processing against someone else. The responses don't need to be perfect, just good enough to pass as human. So I'm not sure it would actually be that much harder to convince someone else of it's fidelity.
+>>>> 
+
+>>>>> **u/Uncaffeinated** [+1] *
+>>>>> 
+>>>>> Is there any way to get external input/output during a dream? That would be an interesting thing to test.
+>>>>> 
+
+>>>>>> **u/vakusdrake** [+1] *
+>>>>>> 
+>>>>>> Yeah it would, I've always hoped shared dreaming tech became a thing. Mainly because I would actually be way better than most people at controlling things. 
+>>>>>> As for input, well at the very least we know that stuff outside your dream can influence the content of your dreams and that in REM you can send information out by moving your eyes in code if you're totally lucid. The eye movement thing is actually one of the experiments they did to confirm lucid dreaming.
+>>>>>> 
+
+>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate**
+>> 
+>> To ignorant me it sounds like a great way to give oneself multiple personality disorder. Would anyone with actual knowledge mind telling me why I'm wrong?
+>> 
+
+>>> **u/Transfuturist** [+1]  *Carthago delenda est.**
+>>> 
+>>> I was part of that community a while back (tulpa.info and the chat). Woo and pseudoscience (especially bad psychology) abounded; there was a subsection of the forum that was pretty /x/-oriented who did magic with psiballs and telepathy.
+>>> It was mostly roleplaying from what I could tell, along with some very interesting meditation techniques. There was one guy who claimed to have the entire cast of K-On! in his head. Typical mind, though. It might be possible to do in some form given certain conditions, but everything in that community is pretty unfounded.
+>>> [It's very interesting reading regardless of veracity.](https://community.tulpa.info/forum-guides)
+>>> I think it could be quite similar to the Hollywood version of mind palaces. I'm sure it's possible that some people have conceived and memorized entire coherent visual spaces in their head and can recall it eidetically, but I am certainly not capable of it, despite my burning desire to have a mindscape.
+>>> 
+
+>> **u/Dwood15** [+1] *
+>> 
+>> If I understand what Tulpas is, there's a story on Sufficient Velocity where the main character does basically what you're talking about, and I'm pretty sure the author does it themselves.
+>> Basically the author does a self-insert fiction story where they die and are cryonicall frozen, and wake up in a post-singularity world, where they may be the only rational/sane people left any more.
+>> https://forums.sufficientvelocity.com/threads/s-i-original-si.4573/page-1
+>> 
+
+> **u/GaBeRockKing** [+3]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+> 
+> Is anyone who *hasn't* watched Log Horizon willing to read over the first two chapters of my LH fanfic to tell me how intelligible it is? I'd like to appeal to the general /r/rational audience alongside LH fans, but at the same time, I'm writing a continuation fic, and those tend to require more knowledge of the source material.
+> If all it requires are some extra descriptions (because I tend to be rather sparse on those anyways) I'll try to tailor it to the general audience, but I don't want to have to insert any more exposition than I'll already have to as [semi-spoilers for LH ](#s "The adventurers have to explain what happened to them to the real world.")
+> Reply to this post saying so or PM me for details.
+> (And to clarify, I'm doing my best to make it [RT], although not [RST].)
+> edit: and because people who haven't seen log horizon probably don't know what it is, it's one of those "gamers trapped in the game world" stories, but with a focus on worldbuilding (because it's an actual world now) instead of getting out. And it's not just a few players, it's literally tens of thousands spread out over the entire planet.
+> 
+
+>> **u/ulyssessword** [+5] *
+>> 
+>> Sure, I'll give it a shot.
+>> 
+
+>>> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>> 
+>>> just to make sure, did you get my PM?
+>>> 
+
+>>>> **u/ulyssessword** [+3] *
+>>>> 
+>>>> Yup.  I'm still at work for the next couple hours, then I'll read it after that.
+>>>> 
+
+>> **u/gommm** [+3] *
+>> 
+>> I haven't watched Log Horizon. I'd be willing
+>> 
+
+>> **u/technoninja1** [+2] *
+>> 
+>> I haven't seen LH and I'd like to read your story.
+>> 
+
+>>> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>> 
+>>> PM sent. For now it's just the first two chapters (doesn't include the mini-backlog I've accrued) but I'm just trying to get an idea of how much I'd need to change it.
+>>> 
+
+>> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life**
+>> 
+>> Happy to read, no knowledge of source at all.
+>> 
+
+>> **u/Uncaffeinated** [+1] *
+>> 
+>> I know nothing about Log Horizon beyond what you just said. Want me to give it a try?
+>> 
+
+>>> **u/GaBeRockKing** [+1]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>> 
+>>> Story's already posted, you'll find the thread on this sub. The general consensus is that it's fairly understandable without knowing LH.
+>>> 
+
+---
+

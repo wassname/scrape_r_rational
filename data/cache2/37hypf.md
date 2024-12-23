@@ -1,0 +1,85 @@
+## Fanfic Request: Rational iZombie
+
+* Author: u/Kinrany *
+* URL: https://www.reddit.com/r/rational/comments/37hypf/fanfic_request_rational_izombie/
+* Score: 7
+
+* Created: 2015-05-27T19:45:10
+
+### Post:
+
+The setting has a lot of potential, but the plot isn't good enough. I'd love to read a story set in the same universe, but with heroes being rational and keeping their priorities in check.
+
+### Comments:
+
+> **u/alexanderwales** [+7]  *Time flies like an arrow**
+> 
+> The primary plot of iZombie isn't too bad. What's bad is that it's following the monster-of-the-week thing that pretty much every show in its vein does to start out. If you strip the primary plot down to an antagonist trying to spread zombism to powerful people and maintain a monopoly on the supply of brains, with a protagonist trying to understand zombism and incidentally discovering his plans, then I think you'd have basically a recut version of the show. The problem with "freak of the week" is that it usually results in a very passive protagonist, which is the primary problem with Liv as a character and the plot in general. Major takes a whole lot of the available agency in the plot, since he's at least got a goal that he's working towards.
+> 
+
+> **u/MugaSofer** [+4] *
+> 
+> I'll say this: these guys are vampires. They're vampires who eat brains instead of blood, but they're vampires.
+
+> With that said ... obvious first place to look is the [original Virtigo comics](http://en.wikipedia.org/wiki/IZOMBIE).
+> EDIT: and, having looked, meh.
+> OK, I'd at least want a better handwave than "this drug just happens to make you into a stereotypical movie zombie, except you sorta absorb people's brains when you eat them." That's ... that just doesn't make much sense for a drug. A virus, *maybe*.
+> *Or* you could throw out the "mleftover memories" part and just say your brain is now deficient in some chemical that's present in other human brains. One of the two, but probably not both.
+> 
+
+>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>> 
+>> They're hybrid vampire/zombies. They don't have any of the traditional vampire weaknesses (like sunlight, stakes, silver, etc.) but they do lose the primary characteristic of zombies, which is the brainlessness.
+>> 
+
+>> **u/Kinrany** [+2] *
+>> 
+>> They are a complicated mix of zombies and vampires. They eat brains instead of drinking blood, which means their "brain donors" can't be alive. They are alive, but their bodies are modified: low blood pressure, muffled sensations, etc. They have to eat brains to control themselves, and if they don't, they permanently turn into stereotypical zombies.
+>> It was mentioned that the drug has been mixed with something. Medic dude speculates it was an engineered virus.
+>> I generally like the "zombies absorb brains" interpretation. It sorta explains memories, muffled sensations, low blood pressure and permanent stupid-zombie-transformation: brain is fucked up, consumes itself instead of oxygen and needs spare parts, and eats all the personality parts if not fed properly.
+>> 
+
+> **u/Dreamliss** [+2] *
+> 
+> My Life as a White Trash Zombie
+> 
+
+> **u/Izeinwinter** [+2] *
+> 
+> There are a few points where Liv could have been more rational - Call the CDC about 6 months before the show starts, which would be an entirely different show, dropping the secret the second she figured out it was shielding a murder inc operation...  or just going "One is fewer than many" at the appropriate time.. Hmm. Can't think of any fics with this sort of departure though.
+> 
+
+>> **u/Kinrany** [+1] *
+>> 
+>> I suspect there's some kind of masquerade going on. The government is likely responsible for the virus and doesn't want to be accused of bioweapon research. Otherwise surely everyone would know about zombies six months after the outbreak.
+>> 
+
+> **u/tomintheconer** [+1] *
+> 
+> i've never seen this before. i do love a good sexy zombie plot.
+> doesn't real cannibalism lead to some psychosis caused by having brain prions and neurons get into your own brain.
+> 
+
+>> **u/eaglejarl** [+2] *
+>> 
+>> Yes, [kuru](http://en.m.wikipedia.org/wiki/Kuru_%28disease%29).
+>> 
+
+>>> **u/autowikibot** [+1] *
+>>> 
+>>> #####&#009;
+>>> ######&#009;
+>>> ####&#009;
+>>>  [**Kuru (disease)**](https://en.wikipedia.org/wiki/Kuru%20%28disease%29): [](#sfw) 
+>>> ---
+>>> >
+>>> >__Kuru__ is an incurable degenerative [neurological disorder](https://en.wikipedia.org/wiki/Neurological_disorder) endemic to tribal regions of [Papua New Guinea](https://en.wikipedia.org/wiki/Papua_New_Guinea). It is a type of [transmissible spongiform encephalopathy](https://en.wikipedia.org/wiki/Transmissible_spongiform_encephalopathy), caused by a [prion](https://en.wikipedia.org/wiki/Prion) found in humans. 
+>>> >The term "kuru" derives from the [Fore](https://en.wikipedia.org/wiki/Fore_people) word "kuria/guria" ("to shake"),  a reference to the body tremors that are a classic symptom of the disease; it is also known among the Fore as the "laughing sickness" due to the [pathologic](https://en.wikipedia.org/wiki/Anatomical_pathology) bursts of laughter people would display when afflicted with the disease. It is now widely accepted that Kuru was transmitted among members of the Fore tribe of Papua New Guinea via [funerary cannibalism](https://en.wikipedia.org/wiki/Endocannibalism). 
+>>> >
+>>> ---
+>>> ^Interesting: [^Michael ^Alpers](https://en.wikipedia.org/wiki/Michael_Alpers) ^| [^Endocannibalism](https://en.wikipedia.org/wiki/Endocannibalism) ^| [^Koro ^\(medicine)](https://en.wikipedia.org/wiki/Koro_\(medicine\)) 
+>>> ^Parent ^commenter ^can [^toggle ^NSFW](/message/compose?to=autowikibot&subject=AutoWikibot NSFW toggle&message=%2Btoggle-nsfw+crn20xe) ^or[](#or) [^delete](/message/compose?to=autowikibot&subject=AutoWikibot Deletion&message=%2Bdelete+crn20xe)^. ^Will ^also ^delete ^on ^comment ^score ^of ^-1 ^or ^less. ^| [^(FAQs)](http://www.np.reddit.com/r/autowikibot/wiki/index) ^| [^Mods](http://www.np.reddit.com/r/autowikibot/comments/1x013o/for_moderators_switches_commands_and_css/) ^| [^Magic ^Words](http://www.np.reddit.com/r/autowikibot/comments/1ux484/ask_wikibot/)
+>>> 
+
+---
+

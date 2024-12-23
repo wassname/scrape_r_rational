@@ -1,0 +1,49 @@
+## [RT] [WIP] [HF] Conspirators – Spellcraft and Heavy Artillery Chapter 4
+
+* Author: u/logic11 *
+* URL: http://dreamtime.logic11.com/index.php/2016/05/27/conspirators/
+* Score: 8
+
+* Created: 2016-05-27T11:28:45
+
+### Post:
+
+[Link to content](http://dreamtime.logic11.com/index.php/2016/05/27/conspirators/)
+
+### Comments:
+
+> **u/logic11** [+1] *
+> 
+> A tiny bit more about how magic works, and a little bit about why the conspiracy exists. Also, plumbing features prominently.
+> 
+
+> **u/luminarium** [+1] *
+> 
+> hmm are you the writer of the story? If so:
+> > When Tom saw the newcomer at the bar he was angry.
+> Seems to be a dangling modifier right out the gate (first sentence of chpt 1), is it Tom that's angry?
+> > The man had a sad look on his face, and once Tom paused for a moment he could see the man had a look in his eyes, 
+> 'look' appears twice in this sentence and it's not very descriptive (esp. the second time). 
+> Overall, I feel like something's missing from chapter 1. Nothing much seems to happen, nothing was revealed, no conflict introduced, just your regular day where a few people get to know each other. Why is this scene in the story, what purpose does it serve that couldn't have been done in a later scene?
+> Ok, chapter 2. Major unbelievability plot point here is, why aren't any of the mages attacking the mages on the other side? Why are the mages grouped together? It sounds like Adrian is going to revolutionize warfare but that's just unbelievable given they've been at war for ages. 
+> > Did you know that almost all battle mages are only children?
+> That came across wrong, it was supposed to be 'only child' but came across as 'still children'.
+> > We have a couple hundred in this army, he’s just one.”
+> Chpt 4 implies there's at least a thousand mages in the empire (this army has hundreds), earlier chapter said only 100 total. 
+> > They walked into a beautiful room, dark wood shelves lined all the walls, filled with books. The furniture was overstuffed, dark wood covered in intricate carvings and rich fabrics.
+> What's wrong with this place? Are they or are they not in the middle of a war? And why are all the mages staying together where a single fireball could kill them all?
+> Finally, Adrian seems to be really careless when he talks treason to Tom, it doesn't seem like he's taken any precautions against eavesdropping. And why would he write his plans down when they could be discovered by somebody who'd then report him? It seems unbelievable that the govt hasn't discovered Adrian's treachery yet, when they're all people in the army which you'd expect to have a good grasp on security and espionage.
+> 
+
+>> **u/logic11** [+1] *
+>> 
+>> Some of these issues are resolved in later chapters, some are without question things that I haven't caught because I'm writing and releasing very quickly, with almost no revision. I will be going back and fixing those ones.
+>> 
+
+>>> **u/luminarium** [+1] *
+>>> 
+>>> Awesome! And I like the premise of your story, plan to keep reading :)
+>>> 
+
+---
+

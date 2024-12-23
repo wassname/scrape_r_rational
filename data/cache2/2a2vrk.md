@@ -1,0 +1,1897 @@
+## [Q] If you were Jake in The Two Year Emperor, what would you do?
+
+* Author: u/eaglejarl *
+* URL: https://www.reddit.com/r/rational/comments/2a2vrk/q_if_you_were_jake_in_the_two_year_emperor_what/
+* Score: 14
+
+* Created: 2014-07-07T20:26:24
+
+### Post:
+
+Disclaimer:  [The Two Year Emperor](https://www.fanfiction.net/s/9669819/1/The-Two-Year-Emperor) is mine.  If you haven't read it, pardon the waste of electrons.
+
+I have plenty of ideas for where the story is going, but reviewers have suggested some really interesting ideas that ended up making their way into the story, and I thought I would ask for more of that.  For example, in the other 2YE thread, drageuth2 suggested causing gold to change weight (from the usual 'massless coinage' houserule or, by RAW, '50gp = 1lb' to 'heavy gold nugget') by melting it from coins into raw gold, which I thought was really shiny.
+
+
+The rules of the world are in [Chapter 10](https://www.fanfiction.net/s/9669819/10/The-Two-Year-Emperor).
+
+### Comments:
+
+> **u/Escapement** [+10]  *Ankh-Morpork City Watch**
+> 
+> I read the first ~30 chapters some time back. I haven't looked at the entire thing recently, so apologies if this duplicates stuff that's already happened.
+> I would personally go for an Ice Assassin Army.
+> [Ice Assassin](https://www.wizards.com/default.asp?x=dnd/fw/20030124a) (also in Frostburn) or Simulacrum Clone Armies. Anyone who can cast Ice Assassin (Wiz 9 spell) can make an evil clone of a target *under their complete control*. If the evil clone happens to be a clone of themselves, the high level caster who just cast ice assassin, well, the clone can cast the spells you can... including, say, *Ice Assassin*. Your army of one can expand indefinitely more-or-less. Simulacrum is similar but requires a higher level target because of the percentage stuff. For fueling the caster cost requirements, consider planeshift or balor mining.
+> Combat tactics: use mooks/summons carrying Dust of Sneezing and Choking (stuns for 5d4 rounds in an area, *no save*) backed up by infinite wizard armies. Start your attack by having some fraction of your wizard armies on another plane cast the spell *gate* to summon in all of the leadership and high-level characters of the opposing army that you know of and force them to hand-roll tacquitos while you kill them, before your assault begins.
+> 
+
+>> **u/eaglejarl** [+3] *
+>> 
+>> ...ok, all of that is just *wrong*. Thank you. I will definitely think on how to use that. 
+>> And wow, DoSaC is totally broken.
+>> 
+
+>>> **u/aeschenkarnos** [+1] *
+>>> 
+>>> Does the dust work on undead or other non-air-breathers?
+>>> 
+
+>>>> **u/Escapement** [+1]  *Ankh-Morpork City Watch**
+>>>> 
+>>>> Undead: 
+>>>> >*An undead creature possesses the following traits (unless otherwise noted in a creature’s entry).* 
+>>>> > *...*
+>>>> > *Immunity to poison, sleep effects, paralysis, stunning, disease, and death effects.*
+>>>> > *...*
+>>>> Others similarly immune include constructs (e.g. golems), elementals, oozes, and plants.
+>>>> 
+
+>>>>> **u/aeschenkarnos** [+1] *
+>>>>> 
+>>>>> It doesn't explicitly [say](http://www.dandwiki.com/wiki/SRD:Dust_of_Sneezing_and_Choking) that it is poison, however the *poison* spell is a component of its construction so it's a very reasonable inference.
+>>>>> 
+
+>>>>>> **u/Escapement** [+3]  *Ankh-Morpork City Watch**
+>>>>>> 
+>>>>>> It says it is treated as stunning. Immunity to stunning is a listed immunity in all of the types I quoted.
+>>>>>> 
+
+>>>>>>> **u/aeschenkarnos** [+1] *
+>>>>>>> 
+>>>>>>> Good point. In any case for at least three reasons we can assume undead are immune to the dust.
+>>>>>>> 
+
+>> **u/fortycakes** [+1] *
+>> 
+>> The Ice Assassin-of-yourself has some serious drawbacks: 5000 xp cost, and whenever it's more than a mile from you it reverts to its default behaviour, which is... trying to kill the caster.
+>> 
+
+>>> **u/eaglejarl** [+2] *
+>>> 
+>>> Possibly the most broken magic item in the entire game is the Thought Bottle. The TB lets you pay 500 XP for save point on your XP; when you use the save point your current XP is set to N, where N is the number of XP you had after paying for the save point. (So, you're at 3000, you pay for a save point, you can now restore to 2500 whenever you like.) I believe a given save point only works once. 
+>>> So, let's say you are 7000 XP above your level requirement. Get yourself, say, 3 TBs (A, B, and C) and do the following:
+>>> A: save (can now restore to 6500 XP)
+>>> B: save (can now restore to 6000 XP)
+>>> C: save (can now restore to 5500 XP)
+>>> You now have 5500 XP to play with. Cast Ice Assassin (IA). Reset bottle C, take a new save point. Cast IA. Reset bottle B. Etc
+>>> You can end up casting a truly ridiculous number of these things for a grand total of 500 XP. And don't forget that each IA is a duplicate of you, including your experience total. Give them each some thought bottles and let them go crazy as well. 
+>>> For a fuller description of the trick, look here:
+>>> http://www.giantitp.com/forums/showthread.php?217819-Nesting-Thought-Bottles-millions-of-wishes
+>>> 
+
+>>>> **u/fortycakes** [+1] *
+>>>> 
+>>>> Unfortunately it still doesn't solve the fact that any Ice Assassin more than a mile from you starts bending all of its (equal to your own!) intelligence to ways to achieve its original (you)'s death.
+>>>> EDIT: On rereading the spell it's a bit ambiguous as to whether or not it continues following your orders once it's out of range.
+>>>> DOUBLE EDIT: Apparently Wizards have erratad the Thought Bottle too: http://www.wizards.com/default.asp?x=dnd/ask/20070308a
+>>>> 
+
+>>>>> **u/eaglejarl** [+1] *
+>>>>> 
+>>>>> It says that "you have no direct control over it."  That seems to imply that you do have INdirect control -- that it continues to follow orders.  If your first order to it is "always obey my commands, serve me loyally, and, if you're not clear on what my command means or what action to take, do whatever is in my best interest"...well, you're in pretty good shape.  (And yes, this is TOTALLY abusing the rules.)
+>>>>> [Wizards errata'd Thought Bottle]:  Lalalalalalala!!!! I can't hear you!!!!  :)  In my defense, I never said that Wizards errata was in my ruleset.  (He said, drawing a very tiny figleaf over his desire to use horrific exploits of dubious legality.)
+>>>>> 
+
+>> **u/Zephyr1011** [+1]  *Potentially Unfriendly Aspiring Divinity**
+>> 
+>> Ice Assassin appears to cost 5000 XP, and the assassin cannot increase in level. How would it cast Ice Assassin again with no XP?
+>> 
+
+> **u/TimeLoopedPowerGamer** [+9]  *Utopian Smut Peddler**
+> 
+> Leave.
+> I would leave.
+> Get everyone out and go somewhere else. This world is fucked and [bad things are happening.](#s " the gods are apparently resetting it. No proof people weren't allowed to run before, and basically gods would be the only ones able to stop that sort of flight.") Go to another place, another world. Another plane, if you have to.
+> Did I miss a reason this isn't possible?
+> Look, I know the Planar Handbook wasn't in the resources list, but other planes clearly exist. They're in the Prime Material now. And it is apparently ruled by idiot gods with some serious issues.
+> So, leave. Jake's kidnappers wouldn't be happy unless they took everyone from their kingdom, but we've seen that *logistically* it is possible to do. They could likely be talked into saving the people and not the literal land in this instance, especially after seeing the results of [other advanced people.](#s " a mindbogglingly more advanced, post-scarcity magical kingdom's feeble attempts to fight back.") Or figure out how to bottle entire cities, if that helps.
+> Point is, despite all their *wonderful* speed-chess plans to fight back, there is still no known way to defend any country anymore. Easy attacks abound, ones their foes are clearly able to enact right now. There is also proof many, many others have failed in the same situation before. [Even worse stuff.](#s " The gods themselves appear to be in favor of their country's destruction as part of an apocalypse that's going to be wrapping up soon.")
+> So leave, and find a better place to live, with [nicer stuff.](#s " hopefully better gods.") Even if there isn't time to make such travel work, someone had to have done some world or plane hopping before. Find their stuff, unearth it, and play Stargate SG:1 until you find a gate that goes somewhere nice. Or at least [redacted.](#s " somewhere where the god of death hasn't apparently already won an overwhelming victory. If you need to make sure you aren't followed, grab several ways to possible new worlds and take a side-trip through the positive energy plane first. That'll shake off any undead armies following you.") You don't even need your Omaga plan follow up. And we all knew what that was the moment he thought it up.
+> I would be in favor of this plan both as the person of Jake and as a member of a D&D adventuring party stuck in this situation.
+> **Woah!** Wait, stop the presses. I just read in another response that there are Planer Ring Gates. So...other methods have to exist. This is sounding better and better.
+> ---
+> Either that, or run a quick ascension gambit so you can actually stand a chance of fighting back.
+> No, not on yourself -- you likely don't have the soul that would become godly in the first place. No, bootstrap *your executive assistant*. You know, someone with a good mind who's humble, moral, and actually seems to like you and wants to help. Forget  [current plans.] (#s " reviving old gods.")
+> If reality hands you lemons, make a goddess of lemonade.
+> Just do it fast enough. We know [they] (#s " gods") can't react faster than Jake can do stupid things, and at least then you'll have a new goddess to support you.
+> ---
+> **tl;dr get the hell out of Dodge, or get into the god business as an early investor; or both.**
+> 
+
+>> **u/eaglejarl** [+4] *
+>> 
+>> "You don't even need your Omaga plan follow up. And we all knew what that was the moment he thought it up."
+>> You, sir, are smarter than the average bear. I've already had several people ask what that plan was. 
+>> I really like the idea of ascending Suze, I just don't know how you would do it. Pun-Pun takes too long -- the gods would see as soon as you started the loop and show up to smack you.  Conceivably the Omnifiscer, but I think that trick is bogus and I wouldn't allow it.  Any thoughts?
+>> 
+
+>>> **u/TimeLoopedPowerGamer** [+7]  *Utopian Smut Peddler**
+>>> 
+>>> Maybe I just read too much doomsday sci-fi. Didn't think Jake assumed planer travel was possible at the time, though. The idea I initially had was a suicide switch, some sort of “fuck the world” option. Means seemed obvious when I read that part, which to me is just good storytelling.
+>>> ---
+>>> *edit some numbers wrong, doesn't matter had dragon
+>>> As for becoming a god, how that happens always depends on the story. I'm just going to go ahead and post the ideas I've got so far, as this is taking forever to work out in detail. This is really long.
+>>> There are some basics. You've gotta become at least a quasi-god or hero deity -- Divine Rank: zero. This is what people like Hercules, Perseus, or Theseus have. They are just *better* than normal people and have some sort of divine nature, like a godly parent -- though that isn't listed as a requirement. The closest to a firm listed descriptor is that they *usually* have at least one higher than mortal stat. Someone acquiring this basic divine nature is the only rules path I know of that doesn't involve direct and high-level godly intervention. And that seems...unlikely at this point. Wishing someone into hero deity status should be a last option, as that seems equally unsafe.
+>>> From reading the “rules”, such as they are, being *like* a god in some way appears to be one firm part of being considered one. My take is, if you have stats that are literally godly, and you also do godly things, it should just slot into place if there is room “up above”, so to speak. That which is like a very minor goddess and does a very minor goddess' work, *is* a very minor goddess, in other words. Worst case, you end up with a hero or champion who has literally inhuman stats.
+>>> Well, worse-worst case is, existing gods erase you from existence. But that shouldn't stop you at this point. There are already hints that ascension is very possible and the gods watch out for common world-breaking exploits to it, but this path isn't exactly cheating. Wishes might still help, though I wouldn't go there unless you're very, *very* sure there are no better options.
+>>> ---
+>>> There are two ways to go that I see. Max her level and look for divine boosters, or think outside the box.
+>>> First option, get Suze a class level, then powerlevel her. She has high INT (perfect memory?), so a wizard --and we can powerlevel those easy now. Done.
+>>> Finding something to light that spark of the divine is hard, but seems possible. Depends on DM approval, though there are several spots where the plot might imply ways to do this. Might be one of Secret's terrible secrets, even.
+>>> ---
+>>> Or you decide to jump out of the box and start swinging around wildly. Then it is time to explore something that's been kind of thin on the ground: dragons. We've got a creepy mathful topographical dungeon now, but still no dragons. We need some, so might as well make our own.
+>>> Now, dragons have interesting stats. Physical are absurd, but this isn't a problem that can be solved by crushing with large size combat rules. No, I'm interested in their high mental stats, higher than any normal human. One might even say, on the way to godly.
+>>> Problem is, you don't get mental stats of something you ploy'd into. But if Suze can really become a dragon, even just a *little*, then she's got some chances to bootstrap into godhood. The best shot seems to be just to get her to be a *hatchling* dragon, somehow, then artificially age her a **lot**. Dragons gain stats with age, not with class levels, and that includes much, much better mental scores. I'm not sure a poly'd dragon would count, but maybe it would in a strict reading of the rules (or lack of them). Otherwise, you could do something like wish to take the form of a hatchling dragon with your original mind in it's body, running and expanding along with it's brain. Or find or make magic item to do one of those strategies. It shouldn't be impossible to do.
+>>> It is important to mention again that the point of the aging is to use the dragon's natural mental progression to improve your own stats. For that to happen, you need to be a dragon to the extent that you improve like they do. That also means you need a way to age a dragon that makes it actually mature. By strict rules, this isn't training or “growing up” somehow. You hit the age, the dragon gets the stats. We'll take advantage of that.
+>>> ---
+>>> I see two options for aging. If you can get a room with compressed time magic on it, maybe using some custom plane antics, and have dragon-Suze spend 1,200 years of relative time in it, great. Make sure she brings a book to read. If not, I think it is time to talk something like [Greater Curse](http://dndtools.eu/spells/complete-divine--56/bestow-curse-greater--729/).
+>>> This specific spell allows for custom curses that are no more powerful than those given as examples. Any sane DM wouldn't allow negative spells to have strictly positive effects. So clearly, it would be possible here, as we're only using the rules as written. Personally, I'd figure out a way to bake it into a magic item that ages people who activate it. Here's how I'd justify that working to my DM:
+>>> One of the set effects for Greater Curse is “one ability score is reduced to 1.” Permanently.
+>>> Now, “venerable” age gives a character ~~-3 (point reduction, not penalty) to the three physical stats and +1 to the three mental ones. That's a total of -6 points of stat changes. The curse effect is therefore twice as bad as the sum effect being applied to a single standard adventure's average stat (13).~~ *edit wrong in a couple of ways, whatever. It is actually even more years with this methodology and the right numbers. Adulthood to venerable is 55 human years, so I'd round conservatively, and thematically, and say an equal Greater Curse effect is making a total of 100 years of human aging happen per cast to the target of the spell.
+>>> To get Suze to 1,200 years old (greater wyrm) would require only 12 casts. Very doable for an item, still doable otherwise. Do note that it is touch only, and would still have to be available in someone's spell collection. Seems like something *someone* should know, even if your infodump didn't contain it.
+>>> But on the *other* hand, if you can get some kind of Chamber of Maximum Learning going, all the better. Age her to 1,200 or so as quickly as possible in a compressed time field while she studies. I do not have rules for this, but it should be possible. No rules in core D&D for going mad from lonesomeness or isolation, so that isn't a worry. But really, give the woman some books. Lots of books. 
+>>> Suze needs her own infodump, if at all possible. This would be a good time for that. Focus on stuffing that genius brain with secret knowledge from the looted temple, any spells and engineering secrets your new “friends” might have squirreled away, everything and anything. She'll have plenty of time to sort through it.
+>>> Then find even more magical ways to get more knowledge into her. Try jamming mass-scryed knowledge in there too; total information awareness seems godly. Get all possible divination and knowledge magic running full-time, pour it into her brain. Maybe instead of a revived goddess of Secrets, you can get a dragon goddess of Knowledge out of it. That hits the right checkboxes on the “rule of cool” list.
+>>> ---
+>>> Through whatever methods, assume by this time that you've got something like Suze the “all naturally grown” gold great wyrm, with at least 30s for mental stats (more, if you let her advance from her human stats).
+>>> Now kill her.
+>>> Okay, maybe that was a little overly dramatic. You'd need to bring her back, obviously. I haven't worked out the best way to do this, but you need to get dragon-brained Suze into a real human body again. And I think a trip through the afterlife with increased intelligence on death might help thematically firm that up, so loss of natural intelligence doesn't occur.
+>>> Remember, the point is that having a dragon with dragon stats isn't special. Having a human with the same mental age-growth curve of a max age dragon is very, very special. One might even say, quasi-godly. The end goal is a 30s mental stats Suze as a human again, all ready to do epic things in the world to to support their claim to divinity. Then you can start to power level her with class levels, if you haven't already.
+>>> Getting “natural,” permanent ability scores that should normally be impossible for a mortal human (int, wis, and cha, in this case) is a good start, but you should also do a crazy hard task: like learning all the spells from two civilizations, diving into the secrets of a dead god, experimenting with how to make the best coffee in the multiverse (*It is by the coffee of Suze that thoughts acquire speed, the lips acquire stains, stains become a warning. It is by will alone I set my mind in motion.*), something along those lines. If you set up a compressed time chamber, that'll push her in that direction already. If not, it might be time to get *really* creative.
+>>> I know this all looks unlikely, but it is also thematically appropriate and could be done without drawing divine attention with any one act. Like wishing to be a dragon god. Well, maybe the time stuff, hard to call. We haven't heard of any dragon gods yet I think, so the position might be open, easing the way a bit.
+>>> Hell, I'm half convinced just from writing this that she's a moderately old gold dragon in disguise *right now*. Wouldn't *that* be convenient for this plan.
+>>> ---
+>>> Even if my ideas have huge, commonly dismissed holes in them, hopefully it'll help get the juices flowing. Looking forward to more chapters. Keep up the good writing.
+>>> **tl;dr dress for the god you want to be -- so become an ancient dragon, then turn back into a human and complete some heroic actions; time chambers to train under 10000x Earth's time are a good idea; Suze is totally a dragon already, isn't she?**
+>>> 
+
+>>>> **u/eaglejarl** [+3] *
+>>>> 
+>>>> Book of Vile Darkness has some additional options for Greater Bestow Curse, one of which is "advance the victim to the next age category", so it doesn't even have to be homebrewed.
+>>>> Thanks for the ideas; I'm glad I started this thread.
+>>>> 
+
+>>> **u/iamzeph** [+1] *
+>>> 
+>>> Ahem: http://rpg.stackexchange.com/questions/18610/how-does-one-become-a-god
+>>> specifically points 2 and 3 in the top answer, seem to be within reach. I think this is quite literally a deus ex machina though :)
+>>> 
+
+> **u/drageuth2** [+3] *
+> 
+> hooray, I thought of something shiny <3  Thank you for that compliment.
+> Here's something else I thought of:
+> What are the conditions for de-sanctifying holy water?  Obviously if you drink holy water, you don't have holy pee.  But it can sit on the shelf indefinitely without losing its beatitude, right?  And presumably putting things like flavorings in it wouldn't have any effect (so long as the flavorings weren't cursed or antithetic to the deity blessing the water, I guess.)
+> If you evaporate holy water, does it lose its beatitude?  Steam is still the _exact same water,_ just moved around.  It's not turned into something else like when you drink the water.  Hell, if the water is blessed by a deity with a fire/heat affinity, it should probably rightly make the water _stronger._
+> Boiling holy water sounds like a helluva anti-undead weapon to me; it'd fill the air with holy steam and take out any of the fliers.  Or you could pressurize holy steam and fill up a portable hole with it; slap it onto a board or something and you have a 1-shot steam cannon that should blast away most undead.
+> But that's all tactical thinking.  Thinking more strategically...  How does that holy water maker that the Deorsi have work?  Does it bless whatever water it touches, or does it have some sort of HW/volume limit?
+> If you dropped it in the ocean, could you theoretically bless the whole damn thing, if you left it in long enough?  If you lowered it on an anchor into a major tidal cycle, you could probably bless most of the water in the ocean.  Not only would it kill any undead walking along the ocean floor, but it'd also mean that all the rain in the world is now _holy rain._  Which would probably put a damper (heh) on the undead nations.
+> ---
+> Edit:  I~DE~AAA!
+> The Deorsi portal things that link two places together can be turned on and off with a command word or something, right?
+> Make yourself a classical infinite-fall tunnel with two of them, with a third (deactivated) portal-half between them.  You can then drop things into the tunnel (via brief activation of the Input/Output portal) and then just let the object fall forever, picking up velocity and damage.  You can then have an instant surprise orbital strike wherever you can get the I/O portal half.  Turn it on, thing goes flying straight to the ground, boom.  If you found a way to suck the air out of the falling tunnel, there'd be no terminal velocity and you could even accelerate things to _trans-relativistic_ speeds!  Relativistic Kill Vehicle Portal Strike.  
+> Or you could sink one portal half to the bottom of the ocean.  Then whenever you activate the other half, you'd have a million-PSI water cannon that could pulverize steel.
+> OOO!  Does the holy water chalice have to _touch_ water to bless it, or does it just have to be 'within the cup'?   Depending on how it works, you could make it a part of a portal chain to the ocean (very carefully sized and positioned portals to prevent damage to the artifact, of course.)  Then you'd have a _Holy Firehose of Utmost Annihilation._
+> Further idea:  Can Deorsi spell engines be keyed to a summoning spell?  If you had a magic tunnel that spat out a monster on demand, you'd be able to make much more scalable training arenas than Jake's current design.
+> 
+
+>> **u/eaglejarl** [+4] *
+>> 
+>> Hm.  AFAIK, Rules As Written (RAW) are silent on how you de-sanctify holy water, so it's up to DM (or, in this case, me) decision.  I have a question in over at the GitP forums to see if anyone knows of a RAW answer.
+>> I like the steam cannon idea.  I was trying to do something similar a while ago:  put so much water in a Portable Hole that it would fuse and turn into a 1-shot plasma cannon.  Sadly, you can't get it dense enough in a useful period of time without using demiplane tricks that I've already outlawed.
+>> The Deorsi chalice is a 'Sacred Vessel', from page 37 of the Book of Exalted Deeds.  The exact wording is: "Water placed within it becomes holy water" so, no, it doesn't have to touch the chalice.  Interesting point, and one that I will definitely try to (ab)use if I can think of a way.
+>> The water has to be *in* the chalice, not just touching water that is in the chalice, so blessing the whole ocean would require pushing every drop of water through something the size of a punch bowl.  Theoretically possible but not practical.  (Although I *really* like the idea of holy rain, and have actually been working on an idea that is somewhat similar.)
+>> The Deorsi portals are Ring Gates.  Sadly, they only have a 100 mile range, they don't have an offswitch, and they DO have a mass limit:  they can only pass 100 pounds of stuff per day.  This removes most of the abuses that you can do with them.  But!  There's a loophole:  if something doesn't go all the way through, it doesn't count towards the mass limit.  e.g., if you reach your arm through and then pull your arm back, it doesn't count against the mass limit.  So, here's what you do:  take an iron bar, put it partway through.  Move the rings until the ends of the bar touch.  Weld the ends together.  You now have a no-ended iron bar.  Drop it, and it will fall forever, generating effectively infinite kinetic energy (it's possible, although difficult, to remove  the air from around it).  The problem is that you can't move the darn thing once you start it (because if the bar touches the edges of the rings it will break them), and you can't get it out of the rings.  
+>> The interesting thing about that is that (per my ruling), the two rings are *mathematically the same point*.  So, if ring A is parallel to the ground and ring B is perpendicular to the ground...what happens to the bar?
+>> As an aside, there are 'Planar Ring Gates' too.  Same thing, except they are 10' wide, have a mass limit of 10,000 pounds / day, and only function when the two rings are on different planes.
+
+>> As regards damaging the Sacred Vessel, there is a 6th level arcane spell called Hardening.  It permanently increases the hardness of an object, and the effects stack.  You can make the Vessel as touch as you like.  (Which they've done; that's why it can manage having 10 Decanters of Endless Water pointed at it without breaking.)
+>> Spell engines with summoning:  yes, you can.  Interestingly, however, you get no experience for summoned creatures, because the ability to summon them is factored into the summoner's XP value.  (The way it's normally expressed is 'you don't get extra XP if the caster throws a Fireball at you, so why would you get extra XP if he throws a Summon Monster at you'.)  Personally, I think this rules is a complete crock, but it is the rules.
+>> There's an out though:  a monster created by Polymorph is *not* summoned.  So, set up a spell engine that polymorphs houseflies into, say, a wolf.  The trainees beat the crap out of the wolf and gain XP.
+>> 
+
+>>> **u/alexanderwales** [+6]  *Time flies like an arrow**
+>>> 
+>>> > The exact wording is: "Water placed within it becomes holy water" so, no, it doesn't have to touch the chalice. Interesting point, and one that I will definitely try to (ab)use if I can think of a way.
+>>> The solution is to turn the chalice into a [Klein bottle](http://en.wikipedia.org/wiki/Klein_bottle). You can move from the "inside" to the "outside" without crossing an edge, so it's inside *is* its outside. All you really need is a way to alter the chalice and that fiddly bit where you technically cross into the fourth dimension, but after that you're good to go! (I suppose technically it could be argued that a Klein bottle has no inside or outside at all, in which case the artifact would be kaput, but it really depends on how those words are interpreted.)
+>>> 
+
+>>>> **u/Kodix** [+3] *
+>>>> 
+>>>> If it worked, wouldn't that alter all the water in the world into holy water? 
+>>>> Including perhaps the water vapor in the air, that also happens to be inside undead?
+>>>> I guess that's one way for getting rid of a billion of them.
+>>>> 
+
+>>> **u/drageuth2** [+5] *
+>>> 
+>>> You might still be able to use the ring gates for an oceanic water cannon.  You can chain together gate pairs to get around range restrictions.  With careful enough positioning of tiny buried gates, I'm sure you could make a surprising amount of the entire world be within '100 miles' of everything else :P.  After that, you just need a Hardened gate cover with a quick-release valve or something.  Then you could instantly summon 100 pounds of (potentally holy, if the Sacred Vessel is involved) water through a tiny corridor once per day.  Not _as_ effective, but still pretty damn powerful, and you could equip squads with them over time.
+>>> If you have an infinitely falling no-ended bar, could you teleport it out with [teleport object](http://www.dandwiki.com/wiki/SRD:Teleport_Object) or something?  That might be a way of getting it out of the rings without touching them, for use in orbital/relativistic strikes.
+>>> That polymorph thing sounds brilliant.  That also makes me wonder something, though.  Divination rules are that you can only track people, not places or things, right?  
+>>> What qualifies as 'people'?
+>>> Like, if you used inteligence-damping equipment and spells on a person enough to drive them to 0 intelligence or below, would they start counting as an animal instead?  Would that make them invisible to scrying, and controllable by druids?  You could potentially put some sort of druidic post-hypnotic command or geas or something on them, for them to do a bunch of stuff and then shuck the anti-brain gear.  That way, you could move people about on the surface without risk of being spotted.
+>>> Attacking the problem from the other direction, what if you make a sentient artifact?  Does _that_ count as a person?  Can you use it as a scry-spy?  You could make a grid of buried gold sentient rings over the area you want to watch.
+>>> Also, I had a thought about the current brute-force anti-teleport locating weakness thing:  What if you move the town _deep enough underground_ that it doesn't effect the surface?
+>>> 
+
+>>>> **u/eaglejarl** [+3] *
+>>>> 
+>>>> Let's see...
+>>>> Water cannon: could work, but would a lot of fiddling. Probably not the most efficient tactic, although it makes a nice surprise. 
+>>>> Scrying: there is a Scry Location spell that will locate places instead of people. Unlike other Scrying, it will even reach other planes!
+>>>> Int 0 as animal: I would have to check, but I believe if any of your abilities to to 0 you are either incapacitated or dead. Regardless, I would still treat them as people, not animals. 
+>>>> Sentient artifacts:  that's...an interesting idea. I think I would rule that they are things, not people, but I would need to think on it. 
+>>>> The underground trick is brilliant.
+>>>> 
+
+>>>>> **u/aeschenkarnos** [+2] *
+>>>>> 
+>>>>> An animal typically has an Int of 1 or 2, and I concur that "animal" is a creature type constant not a function of its Int.
+>>>>> 
+
+>>>>> **u/drageuth2** [+2] *
+>>>>> 
+>>>>> Hrm, if it effects your decision, then according to [the wiki](http://www.dandwiki.com/wiki/SRD:Intelligent_Items#Intelligent_Items), intelligent items should be treated as the sentient construct race.  So if constructs are vulnerable to scrying, one could argue that intelligent items are as well.  But ultimately yeah, that'd probably be DM's call.  And it's less useful of a tactic if you have Scry Location anyway.  Could be useful as a means of tracking a mind-blanked mark you tricked into picking up the ring, maybe?  Mind-blank says that scrying targeted at the blanked person fails, but says nothing about the sentient ring in their backpack (Air Bud rules lawyering FTW :P)
+>>>>> I honestly thought that moving the town underground was what you were going for, what with showing us just how far _one_ mage could dig into a mountain, and then showing us you have tens of thousands of them.
+>>>>> 
+
+>>>>> **u/Gurkenglas** [+1] *
+>>>>> 
+>>>>> Does air weigh something? You could open a gate into outer space for mighty sucking.
+>>>>> >[An animal has an Intelligence score of 1 or 2. A creature of humanlike intelligence has a score of at least 3.](http://www.dandwiki.com/wiki/SRD:Intelligence)
+>>>>> >[Any creature that can think, learn, or remember has at least 1 point of Intelligence. A creature with no Intelligence score is mindless, an automaton operating on simple instincts or programmed instructions.](http://www.dandwiki.com/wiki/SRD:Intelligence)
+>>>>> 
+
+>>>>>> **u/eaglejarl** [+1] *
+>>>>>> 
+>>>>>> Air does weigh something, but I'm inclined to treat it as massless for purposes of the ring gates.  For one thing, it's a pain to calculate how much air is moving through them under current conditions.  For another, it makes them substantially less useful and requires a lot of annoying bookkeeping or, as I like to call it, 'anti-fun'.
+>>>>>> Of course, it does open them up to yet more abuses, as you point out.  But personally, I find abuses == fun -- that's why I'm writing 2YE in the first place.
+>>>>>> 
+
+>>>>>>> **u/Gurkenglas** [+1] *
+>>>>>>> 
+>>>>>>> I do too, that's why I'm looking for them ;)
+>>>>>>> 
+
+>>>>> **u/drageuth2** [+1] *
+>>>>> 
+>>>>> Idea!
+>>>>> Okay so, those wall-of-force armatures Jake used to mass-manufacture cannons from iron blocks...
+>>>>> Let's say you had one of those that was set up to kill a monster coming out of a polymorph engine. Like, if the exit of the engine was laced with wall of force razor wire, and there was a springboard trap on the floor of the engine set to a trigger held by the trainee, which splatted the polymorphed monster into it.
+>>>>> People get XP by indirectly killing things all the time in TYE.  The landguards just got a ton of levels via cannon bombardment.  So I think there's a strong case for the WoF armatures being a valid way to factory-farm XP.
+>>>>> You might be able to have some lucky trainee killing one monster per _round_ for however long it takes to no longer get EXP from it.  And they'd be able to kill stuff _way_ above their pay grade, since the only consideration is that you don't want to polymorph up something that can survive the death trap.
+>>>>> ---
+>>>>> Second idea:
+>>>>> Freeze holy water (presuming freezing it doesn't desanctify it.)  Since it's now a sold object, you can cast Polymorph Any Object on it.  (PAO doesn't specifically _say_ the object has to be solid, but best be safe.  Besides, it'll give you a duration bonus.)
+>>>>> Polymorph it into dry ice, or nitrogen ice, or some other solid that sublimates into a gas fairly quickly.  Then you can fire the ice blocks out of a cannon, and let them dot the field.  Or pump an undead stronghold full of the mist from the evaporating ice, or fill portable holes up with the ice to make mobile smoke emitters, or something. 
+>>>>> The field will quickly be full of (seemingly inoccuous, to the undead) mist.  But as soon as the polymorph wears off, they'll be _covered_ in holy water.  The ones with open wounds will have the stuff _inside_ of them.  Since you're converting a cold solid to a cold solid, you'd have a duration factor of +5, so you'd have 12 hours to bomb as many undead clusters as possible before the polymorph wears off and they (painfully) realize what you're doing.
+>>>>> Oo, or even better!  Even if the thing being polymorphed has to be a solid single object, does the polymorph _result_ have to be solid?  If not, you could polymorph holy ice into carbon monoxide, or some other colorless odorless gas.  Have a stealth team sneak ring gates or portable holes or something full of the stuff in, and you can secretly 'poison' high-value targets.
+>>>>> Alternately: polymorphing holy water into blood and transfusing it into the feeding stock of babies may be a valid vampire assassination technique.  That one has some potential stealth re-applications, too.  The vampires have to eat, and so long as you have alignment-switched vampires as sleeper agents, they'll have a hard time predicting who is poisoning their supplies.  Very good demoralizer, classic guerilla tactic without the usual fallout of poisoning a well.
+>>>>> 
+
+>>>>>> **u/eaglejarl** [+2] *
+>>>>>> 
+>>>>>> Hm.
+>>>>>> I'd be inclined to say that when you PAO something, you have changed its fundamental nature, and thus it is no longer holy water anymore.  This "change of fundamental nature" is why, when you PAO into a dragon, you get all of the dragon's special abilities.
+>>>>>> Also, note that if you polymorph water ice into dry ice, you actually have permanent duration -- every single one of the modifiers applies, giving you a duration factor of +13.
+>>>>>> You couldn't PAO it into blood, but you could definitely have the infants drink it, or inject it into them.  That would work.
+
+>>>>>> The WoF armatures...that's just sick and wrong.  I love it.  Thanks.
+>>>>>> 
+
+>>>>>>> **u/drageuth2** [+1] *
+>>>>>>> 
+>>>>>>> Fundamental change of nature, ehhh?
+>>>>>>> *eeevil grin*
+>>>>>>> Can something that's been PAO'd be PAO'd again?
+>>>>>>> 'Cause then you could PAO a drop of pond scum into an ape (lasts only a few minutes since very dissimilar)  And then PAO the _ape_ into a human being (Very similar, should be permanent.)
+>>>>>>> The PAO scum->ape wears off, but you don't _have_ an ape for it to wear off on.  So... Which spell takes precedence?
+>>>>>>> Or y'know, some other chain of polymorph to get whatever thing you want an infinite supply of that you can't get at the marketplace.
+>>>>>>> And yeah, that (usually temporary) fundamental change of nature is kinda why I thought you could use it for holy water surprise attacks.  The trick would be seeing if the water regains its beatitude when it unmorphs.  So you'd have to avoid dry ice, obviously, but maybe nitrogen ice or some other volatile would work.
+>>>>>>> Morph it into smoke bombs, maybe?
+>>>>>>> 
+
+>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>> 
+>>>>>>>> Yep, you can totally double-PAO something to make the change permanent.  Shoot, you can even PAO a diamond into Barack Obama (duration: 20 minutes), then PAO Barack Obama into Barack Obama (duration: permanent).
+>>>>>>>> The question is open whether this constitutes a Ship-of-Theseus True Resurrection spell.
+>>>>>>>> 
+
+>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>> 
+>>>>>>>>> Or a cloning spell.  Make an army of Sgt Duncans to yell the undead to re-death.
+>>>>>>>>> Less theoretically, you could simple mass-PAO something with valuable components, like dragons or something.  Make it part of your WoF training program.  Then do Jake's Tower of Extreme Bardic Blacksmithing (or some Deorsi space-bending equivalent.)  You've now got an army of extremely well-trained soldiers decked out in dragonscale armor.
+>>>>>>>>> 
+
+>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>> 
+>>>>>>>>>> I was tremendously proud of the Tower of Extreme Bardic Blacksmithing, until someone pointed out to me that bardsong is an enhancement bonus, so it doesn't stack.  And bards can sing for, like, seconds every bazillion years. (Exaggerating.)  And that, in general, the idea was a complete fail.
+>>>>>>>>>> I've been thinking about the WoF training program.  The part I'm currently stuck on is how to get the body out of the way before the next monster...er, "XP dumpling" comes up.
+>>>>>>>>>> 
+
+>>>>>>>>>>> **u/Gurkenglas** [+2] *
+>>>>>>>>>>> 
+>>>>>>>>>>> When a polymorphed creature is killed, it reverts to its natural form, so you can use fine insects as polymorph targets and sweep the floor every few weeks.
+>>>>>>>>>>> 
+
+>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>> 
+>>>>>>>>>>>> I love you.
+>>>>>>>>>>>> (In a purely metaphorical "thank you for solving my plot problem" way, of course.)
+>>>>>>>>>>>> 
+
+>>>>>>>>>>> **u/drageuth2** [+2] *
+>>>>>>>>>>> 
+>>>>>>>>>>> I know it's kinda a silly and basic thing to ask, but the Deorsi make regular use of [Hide from Undead](http://www.dandwiki.com/wiki/Hide_from_undead), I take it?  Might be a good flobovian gift if they don't have that spell.
+>>>>>>>>>>> Hell, in general, get a Deorsi spell list and compare/contrast the Flobovian one.  Might be some low-hanging fruit when it comes to new defenses.
+>>>>>>>>>>> 
+
+>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>> 
+>>>>>>>>>>> Killing chamber is a second spell engine of prestidigitation (cleaning)?
+>>>>>>>>>>> Or if you're using the monster body for something, have the spell engine set to only polymorph every few rounds instead of every round, and have a commoner team cart the corpse out.  Very carefully mark out where the WoF wire is.
+>>>>>>>>>>> Of course, if the trap is energetic enough, then chunks of the monster should be launched well clear of the spell engine anyway.  It's not like you need to carefully preserve every last scrap of the infinite series of monsters.
+>>>>>>>>>>> 
+
+>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>> 
+>>>>>>>>>>> Y'know, Jake could have someone PAO _him_ into, say, Jake With a Tarrasque's Regenerative Capabilities.  Or go with smarter again.
+>>>>>>>>>>> That'd probably be a fast track into getting yelled at by another deity though, wouldn't it.
+>>>>>>>>>>> Still, there must be _some_ non-forbidden PAO self-improvements....
+>>>>>>>>>>> Non-magical improvement things, maybe?  PAO up some extremely powerful Nootropics, or a nanomedicine suite that gives you technology-based regenerative powers, or something?
+>>>>>>>>>>> 
+
+>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Someone actually PM'd me on FF.net at one point, suggesting creating nanotech.  I'm reluctant because (a) it solves every problem and makes things boring and (b) it doesn't fit the feel of the story very well.
+>>>>>>>>>>>> But yeah.  There might well be some self-improvement opportunities.
+>>>>>>>>>>>> 
+
+>>>>>>>>>>>>> **u/drageuth2** [+2] *
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> I had a thought:  Why does the XP all have to go to _people_?
+>>>>>>>>>>>>> We've got an infinite pool of xp now, and it looks like magic items aren't something you can just buy on the marketplace in TYE (is there a name for this world?), even with infinite gold.  Why not use some of it to farm out magic items en mass?
+>>>>>>>>>>>>> It's quite possible for a person other than the item crafter to [transfer XP to a magic item.](https://www.wizards.com/default.asp?x=dnd/we/20060526a)   The only solid restrictions I can see are that it has to be a willing transfer, and it has to be to an item that the transfer-er is proficient in.  And you need a cheapo magic item that just about any caster can make in a day.
+>>>>>>>>>>>>> So while you can't use a commoner for this, you could just use a trainee fighter for weapons/armor, a trainee wizard for scrolls and wands, a trainee bard for Vuvuzelas of Supreme Annoyance +20, etc.
+>>>>>>>>>>>>> And I do mean trainee.  The lower the level, the more bonus exp they get for killing stuff above their challenge-rating with the WoF armature.  If you have a level 1 peon slaying a dragon per round and putting all of it into items (keeping them at level 1) then you should be able to build up _absurd_ amounts of exp right quickly.  Make some truly expensive stuff, outfit everyone in your army with +5 swords, whatever.
+>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>> **u/eaglejarl** [+3] *
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> That's just ridiculously awesome.  Thanks for the idea.
+>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>> Well, at this point Jake's probably gonna have to sneak back to flobovia and get some of this done, so he can craft a Sniper Rifle of Extreme Accuracy And Power Such that it Kills A Lich's Phylactery Through The Link To Its Body + 6.  Can't believe you gave _Afi_ the diplomancer, this is gonna be _awesomely_ daunting.
+>>>>>>>>>>>>>>> On that note, I actually had an even _more_ munchkinly variation pop into my head.  I don't think it has a _high_ probability of working, but it's such a wonderfully evil thought that I just had to share it.
+>>>>>>>>>>>>>>> The main limitation of the WoF armature training is that eventually the monsters get just too darn strong, and they can _survive_ complete dismemberment.  I imagine there are some pretty dern high challenge ratings to be found there, but it's still a hard limit to how high a level you can reach.  Not exactly getting-yelled-at-by-gods territory.
+>>>>>>>>>>>>>>> But consider this:
+>>>>>>>>>>>>>>> Exp you get while polymorphed into another form, even via PAO, is still experience you keep when you morph back, right?  You might earn more or less exp for a kill than your baseline form, depending on how the transformation effects your ECL, but still.
+>>>>>>>>>>>>>>> And that includes non-sentient forms.  If you PAO yourself into a zombie and the zombie kills a bunch of stuff, you keep that xp.  Or if you PAO into a boulder that rolls down a hill and kills a bunch of monsters.
+>>>>>>>>>>>>>>> So what if... You PAO yourself into an iron ring, and you have your mage friend try and craft you into a magic item?
+>>>>>>>>>>>>>>> They don't _complete_ the crafting, that'd just make you revert the changes as if you were damaged or something.  Instead, they hook you up to the WoF xp machine, and they let it pump you full of tens of thousands of xp.
+>>>>>>>>>>>>>>> They're just... putting it all into an item.  An item that happens to be you.
+>>>>>>>>>>>>>>> And I don't see any rules forbidding _multiple people_ feeding xp to the same magic item.  Hell, the rulebook even explicitely mentions an idea of an evil sorcerer chaining multiple people to his armor of evil evilness.  So you could have banks of _hundreds_ of level 1 peons feeding you.
+>>>>>>>>>>>>>>> Jake can't use that on any of his troops, of course.  Even if it worked, it'd _immediately_ make the gods break out the wide-angle destruction beam.  But mein gott, can you _imagine_ a level 100+ Duncan?
+>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>> **u/eaglejarl** [+3] *
+>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>> That would be a great Sniper Rifle to have.  :)  I think they're going to need something like it. 
+
+>>>>>>>>>>>>>>>> As to the XP exploit...Hm.
+>>>>>>>>>>>>>>>> You can definitely keep XP that you gain while in another form, even a PAO'd form.  I don't think you get XP in a non-sentient, non-animate form such as a boulder but, yes, you would get XP as a zombie.
+>>>>>>>>>>>>>>>> I don't think I buy the part about being turned into a proto-magic item, fed XP, and then turned back.  XP for crafting isn't the same as XP earned for level advancement.
+>>>>>>>>>>>>>>>> That said, the idea of a super-high level Duncan is kinda amusing. :)
+>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> Yeah, it's kinda a dodgy thing that would probably depend on the DM's interpretation.  And any decent DM would shoot it down as obvious munchkinry.  Which it is :P
+>>>>>>>>>>>>>>>>> I think you can -kinda- exploit PAO for more exp a little even without it; if you use it to artificially lower your ECL, you  can get a higher exp bonus.  But that's kinda just chicken scratch.  I think I'm finally getting low on ideas for exploiting the WoF armatures.
+>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>> In case you aren't already using it, I found an online listing of [Wondrous Items](http://www.d20srd.org/srd/magicItems/wondrousItems.htm)
+>>>>>>>>>>>>>>>>> Of particular interest seems to be the [Manual](http://www.d20srd.org/srd/magicItems/wondrousItems.htm#manualofBodilyHealth) and [Tome](http://www.d20srd.org/srd/magicItems/wondrousItems.htm#tomeofClearThought) series of items.  They're a set of 6 magical items, 1 for each of the base stats, which permanently endow an "Intrinsic Bonus" of up to +5 for that stat.
+>>>>>>>>>>>>>>>>> Permanent.  And intrinsic.  Meaning it's pretty much just added to your ability score.  Fundamental change of nature, like PAO.  You can get more skill points from int and everything.
+>>>>>>>>>>>>>>>>> ~~That makes me think that unlike other bonuses, it can be stacked.~~
+>>>>>>>>>>>>>>>>> ~~That seems like prime getting-yelled-at-by-gods territory to me, but _oh_ Jake will be able to make himself so much better before he gets there. And he could probably use some Wis to round out his Int, anyway.~~
+>>>>>>>>>>>>>>>>> Disregard that, intrinsic bonuses can only go up to [+5 for each stat.](http://dnd.steinhour.net/General_DnD/3E_Charts_and_Tables/3E_Magic_Item_Notes.html)  But still, even if it isn't uberstackable, that's +5 to each stat that Jake can give to an entire _army._  Plus another substantial boost he can give to himself, since he _could_ probably do with some Wisdom (he probably has the max +5 int from wishes)
+>>>>>>>>>>>>>>>>> It's a slower stat-gain regimen than wishes, since each tome takes 48 hours over at least 6 days to read, and probably something like a month to make.  But if ever Jake gets some breathing room, he can just set tens of thousands of mages working in parallel on a massive set....  (I'd say go to the astral plane to farm them out, but didn't you say something about not wanting time dilation effects for planar travel, since that's too easily breakable?) 
+>>>>>>>>>>>>>>>>> Also potentially good:
+>>>>>>>>>>>>>>>>> [Helm of Brilliance](http://www.d20srd.org/srd/magicItems/wondrousItems.htm#helmofBrilliance) : Lets you cast a number of useful undead-killing spells, and until you use all of them, emits undead-harmful blue light dealing 1d6 for 30 feet in all directions.  If the damage-per-round stacks, would be wonderful to equip entire squads with it and let them destroy undead just by _standing close together._
+>>>>>>>>>>>>>>>>> [Dust of Dryness](http://www.d20srd.org/srd/magicItems/wondrousItems.htm#dustofDryness): Stores up to 100 gallons of water in a marble-sized pellet, all of which can be released at once when thrown.  Holy water bombs?  Holy water bombs.
+>>>>>>>>>>>>>>>>> [Instant Fortress](http://www.d20srd.org/srd/magicItems/wondrousItems.htm#instantFortress):  Instantly creates a massive adamantine tower.  Deals 10d10 damage to things caught up in its growth.  So many applications, from custom-shaping the battlefield, to simply using them as a farmable source of adamantine for other projects.  Presuming you can't just buy adamantine golem parts on the market, anyway.
+>>>>>>>>>>>>>>>>> [Lyre of Building](http://www.d20srd.org/srd/magicItems/wondrousItems.htm#lyreofBuilding):  Magically reinforces buildings once per day for 30 minutes, potential for hiding the town in an indestructible box if you build 48 of them, maybe.  But more interestingly lets a skilled player effectively become a superpowerful earth mover.  If they can ace performance DC18, then there's no reason they ever have to stop playing the damn thing.  Depending on how multiple lyres' powers overlap, may allow a bardic symphony to play an entire battlefield into one massive constantly-firing trap.  Or to make _giant music-powered stone golems the size of a mountain._  Even if that wouldn't work, has tons of potential for moving the town.
+>>>>>>>>>>>>>>>>> I'll start trying to think of anti-lich tactics that one can enact without finding the phylactery.
+>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>> Unfortunately, Wishes are also inherent bonuses, so Jake is maxed out and can't get any benefit to his Int from a Tome.
+>>>>>>>>>>>>>>>>>> As to WIS and CHA bonuses -- yep, it would be helpful to him to have them.  Nope, he's not going to get them.  Jake's two big problems are (1) social challenges and (2) making mistakes.  Boosts to CHA and WIS (respectively) would solve these issues mechanically, making the story boring.  They would also represent a major change in the character; I'm not sure I even *could* write that character without it seeming like a Mary Sue.  Boosts to INT are nice because they make things more INTeresting (ha) but they don't raise the power level; they just let you make bigger mistakes faster.
+>>>>>>>>>>>>>>>>>> Jake could give these boosts to an army, but each Manual / Tome only works once, so you'd need to make one per person.  You can't use spell engines to create magic items, so you'd need to dedicate a 17th level wizard (need Wish memorized) or cleric (for Miracle) to take 25 days to make each one.  The Deorsi only have about 5000 people of that level left so they can't go completely nuts.
+>>>>>>>>>>>>>>>>>> Daern's Instant Fortress (to give it its proper name from before all copyright-restricted material was purged from the SRD):  great item.  Brings back memories. :)  Expensive item so can't really be mass produced but yes, it would definitely be interesting to see.  
+>>>>>>>>>>>>>>>>>> Dust of Dryness -- when I read this carefully, I don't think it's the same water that comes back.  It says that "a volume of as much as 100 gallons is instantly transformed to nothingness[....] If this pellet is hurled down, it breaks and releases the same volume of water."  I think it's not the same water, which means the positive energy in the holy water is lost.
+>>>>>>>>>>>>>>>>>> Lyre of Building -- it's not exactly clear to me what that 'reinforce buildings' ability does.  It might mean "you play this thing and the affected building is completely un-harmable for the next 30 minutes", or it might mean "the building heals every round for 30 minutes".  In any case, the building ability is shiny and I can totally think of uses for it.  Thanks for the suggestion.
+>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+2] *
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> Idea: If you had a sacred vessel on the field, you could load it up with dust of dryness pellets and have some sort of mechanism to burst them. At the moment of being burst, all the water from the pellets will be 'inside' the vessel, and so will be blessed. Instant holy lake!
+>>>>>>>>>>>>>>>>>>> ...  Though it might be supercompressed into holy plasma.
+>>>>>>>>>>>>>>>>>>> Let's math!
+>>>>>>>>>>>>>>>>>>> You said the sacred vessel was 'the size of a punchbowl' right?  I'd guess that at around 3 gallons' volume, fair?
+>>>>>>>>>>>>>>>>>>> According to woflram alpha, [you can fit about 6400 marbles into 3 gallons](http://www.wolframalpha.com/input/?i=number+of+marbles+fit+in+3+gallons).  Might vary a bit depending on the shape of the chalice, size of the pellets, etc.
+>>>>>>>>>>>>>>>>>>> Let's first imagine that the water escapes somehow without being significantly heated/compressed.  So it all stays water.  We'll even assume that it just floods out instead of being largely aerosolized.
+>>>>>>>>>>>>>>>>>>> if the water has to be 1 foot deep to be dangerous to undead, then it'd be dangerous until it spread out into boxes of 5\*5\*1, which each take up about [187 gallons](http://www.wolframalpha.com/input/?i=5*5*1+foot+box+volume+in+gallons).  640000/187 is about 3422 squares.  [Giving us a radius of about 33 squares](http://www.wolframalpha.com/input/?i=radius+of+circle+with+area+3422) .
+>>>>>>>>>>>>>>>>>>> Okay, so not so much instant holy lake.  Instant holy decorative pond?
+>>>>>>>>>>>>>>>>>>> Good thing that's probably not what would happen.
+>>>>>>>>>>>>>>>>>>> 640,000 gallons of water.  In a 3 gallon container, however briefly.
+>>>>>>>>>>>>>>>>>>> _yikes_
+>>>>>>>>>>>>>>>>>>> I have _no idea_ how to do the math for trying to compress that much water into that little amount of space.  I do know that it takes an _obscene_ amount of pressure to force water into any greater density.  Like, the entire weight of the ocean is enough to _barely_ make the water at the bottom _slightly_ denser than the water at the top from pressure alone.
+>>>>>>>>>>>>>>>>>>> My gut tells me that the pressure wave of all that water expanding at once is probably gonna be much more dangerous than the fine misting of holy water.  Probably more economical to use a non-sacred (and bigger!  Muahaha!)  vessel, save the risk of destroying your Sacred one.
+>>>>>>>>>>>>>>>>>>> I think I like this idea _much_ more than the old '100 gallon holy water bomb' idea!
+>>>>>>>>>>>>>>>>>>> Of course, 6400 dusts of dryness would cost 5,440,000 gold.  So even if Jake could buy it on the market, he'd probably have to get the commoners mass-exploiting the ladder trick to make that much in a reasonable time period.
+>>>>>>>>>>>>>>>>>>> But it's still fun to imagine making a nuke out of _water_.
+>>>>>>>>>>>>>>>>>>> **More realistically usable:** It wouldn't be a nuke, but you might be able to make decent _grenades_ out of a single pellet.  Wrap it in a thick steel/iron/whatever casing.  100 gallons of water in a 1/10'th-inch sphere should be pretty catastrophic levels of pressure, all released at once when thrown.
+>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+2] *
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> Okay, I've tried to get myself off the PAO-er-pack of ideas, and get to non-phylactery anti-lich strategies.  Preferably ones that could be done from a distance, since Afi could probably ask reality itself to turn against someone and _succeed_, with his diplomancy.
+>>>>>>>>>>>>>>>>>>> The only idea I've had so far is this:
+>>>>>>>>>>>>>>>>>>> A lich cannot (as far as I know from RAW) choose to abandon a body and return to the phylactery by any means except suicide.  If you can trap their body in a strong anti-magic trap, and keep them suitably restrained, you can keep them as sealed evil in a can.
+>>>>>>>>>>>>>>>>>>> Extension of that idea: If you somehow get a lich's body to near the event horizon of a black hole, or somehow find a way to launch them to trans-relativistic velocities, then it may be tens of thousands to millions of years before they return, even though for them it's only a couple of seconds to cast greater teleport.
+>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+3] *
+>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>> Interesting ideas.  The anti-magic trap seems at least somewhat practical.  The black hole / relativistic speed one would work, but I don't know how you could actually implement it.
+>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+2] *
+>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>> Do the art/scry trick you described to get the location of a black hole, and make some sort of teleport trap to it?
+>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+3] *
+>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>> Huh, this could actually have worked if Jake hadn't sacrificed the "find imagined things using art + Scry Location trick. Wish I'd thought of it. 
+>>>>>>>>>>>>>>>>>>>>>> As to the fussy details: the Teleport Trap spell doesn't have the range, unfortunately. (And, due to range and planar rules, you can't use the (Planar) Ring Gates to extend it.). Still, you could use the Baleful Teleport spell to make it work. You'd need to use a lot of them simultaneously; the spell has a Will save, so Afi would probably need to roll a 1.
+>>>>>>>>>>>>>>>>>>>>>> Nice thinking. Please keep trying -- I'm actually fuzzy on how they can kill Afi at the moment.
+>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>> **u/Nepene** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> He could scry location on the black hole at the center of the milky way.
+>>>>>>>>>>>>>>>>>>>>>>> http://www.d20srd.org/srd/spells/binding.htm
+>>>>>>>>>>>>>>>>>>>>>>> Not that it's really necessary, there's a spell that could lock him up pretty easily. Polymorph other him twice into a living creature. Have wizards with absurdly high casting levels (ion stones, strand of beads (karma) consumptive field, adept spirit). Then just portable hole/ bag of holding him and he can't cast any spells ever and is lost forever. Or at least, for around sixty years or so.
+>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>> That's...wow.
+>>>>>>>>>>>>>>>>>>>>>>>> Yeah, I hadn't looked into the caster-level-boosting game breaks.  That's really, disgustingly wrong.  Thanks for pointing it out.
+>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>> **u/Nepene** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>> http://community.wizards.com/forum/previous-editions-character-optimization/threads/1054346
+>>>>>>>>>>>>>>>>>>>>>>>>> There are a lot.
+>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> Aww, he lost the scry trick as part of the package?  I was hoping that he'd just never think of blowing up the planet as a valid strategy, but could keep all the pieces short of that.  Darn sacrificial goddess-resurrection rituals and their high demands...
+>>>>>>>>>>>>>>>>>>>>>>> I guess if he had breathing room, he could try and figure out where the center of the galaxy is through good old astronomy, since there's pretty much guaranteed to be a supermassive black hole there?  But that'd take at least til the end of his two-year tenure, to set up magitec telescopes and wait for parallax alignments and stuff.  Any sort of scrying tricks to try and figure it out quicker?
+>>>>>>>>>>>>>>>>>>>>>>> You could always find some safely-distant part of space and _make_ a black hole.  PAO up sufficient qualities of neutronium or something, so it collapses into a hole that will be stable for a few millenia?  
+>>>>>>>>>>>>>>>>>>>>>>> I also take it that [Imprisonment](http://www.d20srd.org/srd/spells/imprisonment.htm) wouldn't work since it's also a will save, _and_ a touch attack, _and_ undead are probably immune to it for some reason or another.
+>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>> Scry trick:  yep, all gone.  The cost of trying to resurrect a divine being killed aeons ago.  :)
+>>>>>>>>>>>>>>>>>>>>>>>> Make a black hole:  Heh, that would actually work.  As I remarked in story, there's a limit on the size of the source object but not on the size of the output object.  There's no reason you couldn't say "PAO: grain of sand to enough neutronium to form a singularity".
+>>>>>>>>>>>>>>>>>>>>>>>> As far as I know, undead are not immune to Imprisonment, although the touch attack and Will save part are troubling.  (Although, if you know the target's name and facts about its life then it gets a -4 on the save.)
+>>>>>>>>>>>>>>>>>>>>>>>> A while ago I started a thread over on the Giant In The Playground forums asking ["How do you kill someone permanently in 3.5?"](http://www.giantitp.com/forums/showthread.php?306515-How-to-kill-someone-permanently)  There were a lot of suggestions...really a lot.  Most of them were outside the ruleset that I'm using and some I just didn't agree would work, but there were several that would.  One that I found especially interesting was:  Take your victim into a Portable Hole.  Cast Imprisonment on him.  Get out of the Portable Hole and throw a Bag of Holding into it in order to destroy the Hole.  You can only be released from Imprisonment if "a freedom spell is cast at the locale where the imprisonment took place" -- and that location no longer exists.
+>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>> There is one potential problem with PAO'ing your black hole though: you're obviously not gonna get a permanent duration first cast.  Probably only gonna get a 20 minute duration.  And _whose 20 minutes do you get?_
+>>>>>>>>>>>>>>>>>>>>>>>>> If it's 20 minutes by the reference frame of the caster, then there's no problem, just cast PAO neutronium->neutronium.  Or maybe PAO singularity->singularity (technically the source object would be infinitely small now :P)
+>>>>>>>>>>>>>>>>>>>>>>>>> But if it's 20 minutes in the reference frame of the object, then you're gonna have it instantly disappear.  Only potential way to make it work is to do tricks with initiative, double-PAO'ing the neutronium before it collapses.
+>>>>>>>>>>>>>>>>>>>>>>>>> And that imprisonment trick is _eeevilll._  Major props to the person who came up with that.  
+>>>>>>>>>>>>>>>>>>>>>>>>> Re: Initiative-slipping an antimatter blast:
+>>>>>>>>>>>>>>>>>>>>>>>>> I thought of readied actions too, but I think the exact wording in RAW is that a readied action happens just _before_ the trigger, interrupting it.  So even with a condition 'when Al finishes the spell,' the actual occurrence would happen just before he finishes.  Which could be problematic if Al passes the check to finish casting anyway.
+>>>>>>>>>>>>>>>>>>>>>>>>> You _might_ be able to do readied actions with the condition 'antimatter detonation' though.  That might get you to interrupt the antimatter while it exists, but before it kills you.
+>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>> Black hole:  hm, good point.  And you couldn't double-PAO the object, because there would be too much neutronium -- a 20th level mage can only affect ~56 cubic meters of mass, which is on the order of 10^19 kg, which is nowhere near enough for a stable black hole.
+>>>>>>>>>>>>>>>>>>>>>>>>>> Although...hm.  With enough caster-level boosts -- and I mean REALLY enough -- it might be practical.
+>>>>>>>>>>>>>>>>>>>>>>>>>> You're right about readied actions and yes, 'I teleport when the antimatter explodes' would work in my interpretation.
+>>>>>>>>>>>>>>>>>>>>>>>>>> In point of fact, destroying someone permanently is a really hard thing to do -- even if you wipe out their soul, a god or enough Wishes could Ship of Theseus the person back into existence -- create an exact copy of their body and a mind with all the same memories and skills.
+>>>>>>>>>>>>>>>>>>>>>>>>>> The only way that anyone came up with to wipe someone out permanently is the Ritual of Crucimigration.  It's a ritual that you use to become an undead; it's quite unpleasant.  You have to petition for it, then lose a level, then pay 1000 XP.  "if the level loss and the 1,000 XP cost drains a creature to 0 XP or less, it is destroyed, turned to dust, and can never he raised or revived again using any means."  **any** means -- that includes divine intervention.  So:  
+>>>>>>>>>>>>>>>>>>>>>>>>>> * Dominate Person to make them petition
+>>>>>>>>>>>>>>>>>>>>>>>>>> * Make them play patty cake with a vampire and then fail all their saving throws so the level loss becomes permanent and they are level 2.
+>>>>>>>>>>>>>>>>>>>>>>>>>> * They lose a level (putting them at level 1) and can't pay the 1000 XP.
+>>>>>>>>>>>>>>>>>>>>>>>>>> * Boom!  They are permadead.
+>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>> I don't suppose that jibe about the effected object being infinitely small held any water?
+>>>>>>>>>>>>>>>>>>>>>>>>>>> Technically speaking, 10^19 is more than enough for a black hole.  In fact, two protons are enough, if you smash them together energetically enough.  Gravitational singularities are a function of _density,_ not just sheer mass.  Mass just makes it easier, since you have gravity working with you to squeeze it all down, and the Schwarzschild radius becomes bigger.  Maybe if you had the neutronium sphere surrounded by antimatter explosives (my, isn't that a fun sentence <3), it'd be enough to squeeze it down? 
+>>>>>>>>>>>>>>>>>>>>>>>>>>> The only problem with low-mass black holes is that they're short lived.  The lower a black hole's mass, the more hawking radiation it gives off, and so the faster it will dissolve.  A 2-proton black hole would exist for such a short amount of time that it barely counted as existing at all.  That's the real reason the large hadron collider was never a danger; if it _did_ somehow make a tiny black hole, the hole would just instantly dissolve.
+>>>>>>>>>>>>>>>>>>>>>>>>>>> The Chandrasekhar Limit is a limit on how massive a non-rotating white dwarf star can be before there's no stable possible configuration and it _always_ collapses into either a black hole, or a neutron star, depending on conditions.  You could consider it a minimum mass for natural black holes (though I imagine the pressure of stars going supernova means there's a few natural ones out there under the limit).  It clocks in at 1.4 stellar masses:  2.765*10^30 kg
+>>>>>>>>>>>>>>>>>>>>>>>>>>> Thankfully, wolfram alpha [has a function for this](http://www.wolframalpha.com/input/?i=hawking+radiation&a=*FS-_**BlackHoleTemperatureFormula.T-.*BlackHoleTemperatureFormula.M--&f2=2.765*10%5E30&f=BlackHoleTemperatureFormula.M_2.765*10%5E30&a=*FVarOpt.1-_**-.***BlackHoleTemperatureFormula.Q--.**BlackHoleTemperatureFormula.J---.*--).  It says that a black hole with a mass of the chandrasekhar limit would have a temperature of 4.4*10^-5 millikelvin.  Pretty dern close to absolute zero.  So the hole would only lose mass very slowly, and would last for billions of years.
+>>>>>>>>>>>>>>>>>>>>>>>>>>> A black hole with mass 10^19 [has a temperature of 12270 kelvin](http://www.wolframalpha.com/input/?i=hawking+radiation&a=*FS-_**BlackHoleTemperatureFormula.T-.*BlackHoleTemperatureFormula.M--&f2=10%5E19+kg&f=BlackHoleTemperatureFormula.M_10%5E19+kg&a=*FVarOpt.1-_**-.***BlackHoleTemperatureFormula.Q--.**BlackHoleTemperatureFormula.J---.*--).  That's a high temperature, and it would only get hotter as it loses mass.  But it's releasing that mass as pure energy here, and since E=mc^2, we can reach pretty good temperatures before we lose significant amounts of mass per second.  Thing would probably be stable for at least a few thousand years.
+>>>>>>>>>>>>>>>>>>>>>>>>>>> Set it up, and throw in a few dozen more neutronium spheres, and you got yourself ~~a stew~~ a black hole that should last a good couple hundred million years at least.
+>>>>>>>>>>>>>>>>>>>>>>>>>>> Of course, if you could phrase the request like "Sphere of neutronium with volume 56 cubic meters of suchandsuch density" then you could make arbitrary amounts of mass and still be able to double-pao it before it collapses.  That'd get around the problem neatly enough.
+>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> Yep, I know about the density issue. I was thinking about the evaporation problem when I said that 10^19 wouldn't be enough. 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> Apparently I'm wrong, though! If it's only 12270K then yes, it WOULD last long enough. And I like your trick with the "specified density" sphere. Not sure it's physically practical, since neutronium is as dense as it gets and you're asking for something way way denser. Then again, screw physics! This is magic!
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> I like the way you think.  :)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> It's a good thing I came up with that PAO-with-specified-density thing.  I just checked, and the schwartzchild radius of 10^19 kg is [absolutely tiny](http://www.wolframalpha.com/input/?i=schwartzchild+radius+of+10%5E19+kg&lk=4&num=1).  I don't think you'd compress the neutronium sphere sufficiently even with shaped antimatter charges.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>> Can undead be petrified?
+>>>>>>>>>>>>>>>>>>>>>>>>>>> ~~It's a fortitude save to resist all the petrifying attacks I can find, and undead seem to be immune to most things that require fort saves.  But petrifying seems to be more magical and esoteric, rather than the usual poisonous or painful things that the undead seem to be _meant_ to have immunity for.~~
+>>>>>>>>>>>>>>>>>>>>>>>>>>> nevermind, undead are [explicitely](http://www.d20srd.org/srd/typesSubtypes.htm#undeadType) immune to _anything_ that requires a fort save, propriety be damned.  Unless the effect also works on objects.... Which I don't think any of the petrification effects do.
+>>>>>>>>>>>>>>>>>>>>>>>>>>> Actually, the wording on [the Gorgon's breath attack](http://www.d20srd.org/srd/monsters/gorgon.htm) is kinda vague enough.  Maybe it turns everything caught in the cone into stone, and so would count?
+>>>>>>>>>>>>>>>>>>>>>>>>>>> Regardless, if you can catch Afi PAO'd in a non-undead form, or if you can find a petrfication technique that's a will or reflex save...
+>>>>>>>>>>>>>>>>>>>>>>>>>>> You aren't _dead_ if you're petrified, just unconscious.  So a lich's soul wouldn't retreat back to the phylactery.  Could be a way to trap a lich?
+>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> Yep, that would work. You wouldn't need PAO either -- wait until you catch them using Shapechange, for example. 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> Also, when you have them petrified, you can do better than just keeping them sitting around as a statute:
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> * PAO (get them to non-undead form)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> * Flesh to Stone 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> * Soften Earth and Stone (turn them into clay)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> * Add a lot of water so they become mud
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> * Purify Water so they become just pure water
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> * Pour the water into a river
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> Petrified is not dead, so they don't respawn from their phylactery. But they no longer have a defined location from which they can be turned back. Wish does not contain a clause that would fix this situation, although the catchall "you can try for stronger effects but it might be dangerous" would let you do it at GM's discretion. Miracle (aka "the strictly better version of Wish") probably could recover them, especially if you paid the 5000 XP for a major request. 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> Other than those two options, I don't think mortal magic can bring them back.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> That's more or less my line of thinking too, I just wanted to make sure it was possible in principle before I started going off on ideas of how to exploit it.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ...
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Also, here's a scary thought:  If a lich's body is double-PAO'd into a non-undead form, what happens if they undergo the lichmaking ceremony again?  Do they end up with two phylacteries?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Huh. I think you would, actually. At least, by a VERY technical reading of RAW. PAO changes the true nature of something, so this thing is no longer a lich, so it can do the lich ceremony. But it still has a phylactery, and when it's killed it reverts to being a lich, which means its phylactery still applies. Wow. That's throughly evil, in all senses. 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Crap. Afi was tough enough before, now I have to figure out how to handle him when he has multiple phylacteries too?! Damnit!
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> It could be a fun part of Afi's backstory.  Maybe that's how he became head lich, figuring out that trick and making his enemies waste their resources pursuing _backup_ phylacteries.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I think we're making progress on anti-lich strategies that don't depend on phylacteries though, so all hope isn't quite lost yet!
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Unfortunately, Diplomancy and backup phylacteries aren't the only trick in Afi's book. I has horrified when I realized that there was one thing that he would absolutely have done that would make him nearly unkillable. At this point I honestly have no idea how the heroes can realistically win. 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Well, I have two ideas, but one of them would be almost literally unbelievable -- the sort of thing that would make readers say "wow, THAT was convenient!"  The other is something of a narrative cheat. 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> So, please -- more anti-lich ideas!
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I don't suppose the heroes can just petition the gods to stop being genocidal assholes somehow?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Heh. No.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Would hiding the town on the dark side of the moon through a combination of scrying and greater teleport count as part of Jake's Leave and Blow The Joint plan?  
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> It'd not be a permanent solution, but it -would- get them some breathing room.  And if he can hold out for two years, it's officially No Longer Jake's Problem :P
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Yep, unfortunately. He's forgotten that he can relocate the city off-planet, and that he can Scry for nonstandard locations (basically, anywhere that isn't on the planet).
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Then I guess the best time-buying move he has left is to go underground, since Afi's gonna be looking in the skies now.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Unless moving into an orbital habitat is close enough to being on the same planet to count?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Yknow, it occurs to me that the black hole isn't fully effective.  Even though _Afi_ would be time-slowed relative to everyone else, the rest of his armies wouldn't be.  It'd probably take a wish or divine intervention to get him out, but the undead can probably pull that off.  Damn.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> If Jake ever gets his grubby mitts on another wish or miracle, would any of these work?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> * Wish to have all the liches' phylacteries.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> *  Wish for an even mix of 1 gram of matter and 1 gram of antimatter to appear on top of all the liches' phylacteries.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> * Wish for Afi to become lawful good.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> * Wish for Afi to become friendly.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> * Wish for the other liches to turn on Afi.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> * Design a magical item that teleports the person who posesses it into a random part of space and then casts imprisonment as a (ridiculously high number) level spell on them.  Every round, so the imprisonments stack up.  Wish for Afi to own this item.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> * Design a helm of opposite alignment with a much, much, _much_ higher save.  Wish for Afi to be wearing it.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> * Design a Weirdstone that, rather than blocking teleportation, invisibly redirects it into a custom demiplane that looks exactly like the area it protects, surrounded on all sides by portals back to the appropriate parts of the material plane.  Hunker down and hide for two years.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> * Design an invisible (even to true-sight) portable hole, as a further addition to the super-weirdstone.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Let's see...respectively:
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> * No; Wish can send you and people/stuff somewhere, but not bring things to you
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> * No; Wish can ship you and people/stuff somewhere, but only to one destination
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> * No; not in the powerset of Wish
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> * No; not in the powerset of Wish
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> * No; not in the powerset of Wish
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> * Yes
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> * Yes
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> * Probably, depending on your DM, but I'm outlawing custom demiplanes so no
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> * Yes
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> The Helm is a good idea
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/None** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> [deleted]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Make the magic item a sentient artifact?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Also, props for continuing to read this big dawdling line of speculation :)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+3] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Huh. That would totally work, as far as I can tell. Wish for "an intelligent, lawful good Helm of Opposite Alignment named Bob with a save DC of 10,000."  Then Wish "for Bob to be transported onto Afi's head."  Intelligent items are explicitly stated to be creatures, constructs, and NPCs, so Wish can definitely transport them. 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Bleh. That would work, but it would also suck as a narrative device. Now I have to figure out why neither side can actually do it.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Well, it -would- take two wishes, which would probably be a little hard for Jake to come by right now.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> [deleted]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> We've already discussed at least one strategy for quickly farming ridiculous levels of Xp, including xp for item creation.  Maybe you could channel the xp into a scroll of wish or ring of 3 wishes...
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Of course, the method we discussed would take at least a day or two to set up, and probably 2 weeks to a month to complete properly and get scaled up to the kinda production levels needed.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/None** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> [deleted]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Potentially workable, but making a sentient item still prolly costs a good deal of xp.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> [deleted]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> restoration trick?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> \*looks it up*
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Innnntesting.  And hell, even if that _doesn't_ work in this universe for whatever reason, all we gotta do is wait til Jake can set up _one_ WoF armature.  A wizard should be able to make that amount of xp back over a lazy afternoon...
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Maybe Afi _truly and honestly believes_ that Undeath is a better state of existence for all sentient beings.  Good!Afi would still want to bring that state to all the world.  He'd just be.... _nicer_ about it.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Y'know, less mind control, let people keep the alignment they had in life, make sure the vampires' polymorph babies are free range and organic, that sort of thing.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> [deleted]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> True that. There are some spells that might work, like Teleport Trap. Wish says "transport" not "teleport" though, so I think that doesn't apply.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Okay so, let's see if we can design a less _offensively anticlimactic_ version of this.  (For my money, anticlimax is _proper_ munchkinry against overpowered foes; you save the flash and boom for when you're having fun with threats you could hypothetically handle by standard means.)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> When a lich's body is destroyed, its soul returns to the phylactery, right?  And by that I mean, the soul is physically inhabiting the phylactery, it's actually _there_.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Well... Doesn't that technically mean that _Afi_ is right there on his phylactery?  We can't target the Phylactery with wishes, but we _can_ target Afi.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> So let's try this:
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> First, design a sentient magical item.  It's lawful neutral and named Boomer.  It takes the form of a hard-leather steel-toed boot.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Boomer's one and only ability is that, on command, it will cast PAO on its steel toe, turning it into a couple grams of antimatter.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> You have a caster ready an action: Upon (and therefore _exactly_ before) Boomer completing its PAO, they will Wish/Miracle Boomer onto Afi's head.  Since Boomer will complete its action _on the same round,_ Afi has absolutely no chance of teleporting it away.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> You have now killed Afi via [Boot-To-The-Head.](https://www.youtube.com/watch?v=vFldBVWFgWo)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Then you just wish up _another_ Boomer, and _do the same thing._  Goes straight to Afi again... and since Afi's in his phylactery....
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> (or if you only want to use two wishes; find a way to kill Afi's body by more standard means, then use Boomer.  But phylacteries don't really have a Head to Boot.)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> And maybe the gods could step in right after and put a ban on making sentient artifacts that only exist as curse bombers or... something.  They're gods, there's gotta be _something_ about this that offends them arbitrarily.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> That is hilarious. And kinda epic. I'm a bit tempted, but one issue: phylacteries are going to be protected with Mind Blank(*), which even Wish can't get through. 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Although...Discern Location can see through Mind Blank.  Hmm. I'll think on it. 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> (*) Actually, the cat that the phylactery is tied to will be protected by Mind Blank, but same thing. MB only protects critters, not things.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> If that is so, then it's only valid for the first Boot To The Head, since Afi would prolly have mindblank on his body.  You can still get around it if you find a way to assassinate Afi's body through other means, or if you can find someone standing _near_ Afi to Boot.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> The double tap, though... you're not targeting the phylactery.  You're targeting Afi's very-much-unprotected soul, which is just _residing_ in/on/around the phylactery.  Unless mindblank survives the process of his soul violently leaving his body.  That may or may not interact with the mindblank in a way that nulls it out.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Well, there's three entities in the system: the cat, the phylactery (not sentient) and Afi's soul (not clear if it's aware while in the phylactery, but I would say yes).  The cat has the phylactery tied to it, Afi's soul is in the phylactery. The cat has been Mind Blanked, so it and all of its stuff are protected -- that includes the phylactery and, by extension, Afi's soul. The cat has also been Temporal Stasis'd, so nothing can hurt it or its stuff, including an antimatter blast. (At least, this is what *I* would do, if I were a hyperintelligent awesomely powerful undead wizard.)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> It's debatable whether Wish can teleport you to a MB'd critter; the spell needs to find its target, which is information gathering, but YOU aren't gaining information. 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> So...maybe it would work. Unclear. 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> If
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Hrrrrrmmmmmmm.... Temporal Stasis...... Tricckkkyyyyyy...
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Well, if you can get an antimatter bomb _to_ it, then the blast will pretty well reveal its location, and completely disable all its defenses.  All you need is to look for the cat in the center of the crater.  You have 1d4 days to get through the army of undead and cast Freedom on it.  Tricky but not impossible, potentially worth a go even if we can't find a way around it.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> But let's try and find a way around it anyway :)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Okay so.... What if we studded Boomer with outwardly facing Beholder eyes? (The sending mage casts Wish from beyond 150 feet.  So long as they have gear to enhance their eyesight like you used to detonate those explosive runes on the super-bouncy-balls-of-righteous-undead-slaying, should work fine.)  Or we give Boomer the ability to emit antimagic that doesn't effect itself, same difference really.  Would their antimagic emissions disable the stasis while it's within the field?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Back to getting around the Mind Blank...
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Wishaport doesn't seem to work like any other sort of teleportation.  It has _no_ chance of failing,  It does _not_ rely on 'familiarity' in any way, and it has no sort of range or plane restrictions.  I'd say that there's a good chance Wishaport is a special ability of Wish itself, rather than wish mimicking/combining spells.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> You're reshaping reality itself so that someone is 'there, and not here.'  You might not need to be able to find your target to do that.  Wish just puts it there _anyway._  
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> After all, Wish can't _tell_ you where Afi is, but that doesn't mean that Wish doesn't _know_ where he is.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Finally, the text of Wish says that it can put things down in an area 'regardless of local conditions.'  So maybe one of the 'conditions' it can get around is lack of information about the target.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Idea: 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> If Wishaporting an item to someone works through mind blank by -any- of the means I've tried to justify (or if you can just locate Afi through a Loki question sufficiently enough to target him, or something....)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> What if you Wishaport a [Trap The Soul](http://www.d20srd.org/srd/spells/trapTheSoul.htm) spelltrigger token into Afi's hand.  Does that count as tricking him into picking it up?  'Cause that shit don't have a save, and it _sucks the soul right out._
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ---
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Secondary idea:  
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Wish can be used to mimic just about any spell.  But does it stick to the range restrictions of those spells?  Like say if my friend Bob on the other continent casts Sending to me saying "Omg soooo many dire wereleprechauns, buffz plz,"  can I Wish to cast Grease on Bob's clothing so he can get to properly wrestling them?
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> If Wish can cast spells at great range, then do all the _other_ usual range-y things of Wish apply?  For example, can Wish cast across planes, or to targets that are usually impossible?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> If so, it may be possible to directly target Afi's soul _while it's still schlepping around in his body._   Potential there, if you can find a way to _destroy his soul directly_ through some spell or another.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ---
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Tertiary idea:
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Get Afi into a portable hole by some means or another.  Dimension Lock the portable hole once he's in (or before if you aren't using some manner of teleport trap.)  Double-PAO into the hole, turning a mote of dust or oxygen atom or something into a hyperdense neutronium sphere that will collapse into a black hole, and close the portable hole as a readied action against the sphere collapsing into a singularity.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Afi's now trapped in a dimension-locked demiplane with an extreme gravity well making time there run superslow thanks to relativistic effects.  If mind blank _does_ beat all manner of wishaport, then he's gonna be trapped there until he realizes that and takes his own mind blank off.  Even if that just takes one round (his time) he's gonna be in there for tens of thousands of years (our time), at _least._
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I _think_ that should make Afi unreachable to anything but a really determined god.  So long as you can keep tabs on that closed hole, or find a way to dissolve it without destroying the demiplane.  (Put it in a box tied to a mind-blanked temporal stasis'd cat, and thow the cat into _another_ DimLocked black hole, but just in space instead of in a portable hole this time?)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Any ideas on adding godproofing?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Hm.  The RAW on TtS is "picks up or accepts the object".  'Accepts' implies a conscious choice, so wishaporting it into his hand doesn't count.  'Picks up' does not require the same degree of conscious choice, but it does require that he take a move action to put his hand on it and lift it.  Again, no go for teleporting it into his hand.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Maybe you could trick one of his minions into giving it to him...or make a piece of paper be the trigger object, wishaport it near him, with a Magic Mouth to say "We surrender!  Here's the terms!"  Maybe.  You would think a lich who's lived for thousands of years would be a little more paranoid than to pick up random objects that just came out of nowhere.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Maybe you could wishaport into his lab, and enchant one of his pens as the trigger object?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ----
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Wish 'mimics' a spell, meaning that it's exactly the same.  Same range.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ----
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> The PH / singularity could work.  I think that it would tear his body apart instantly though, and then his soul would go back to the phylactery.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > I think that it would tear his body apart instantly though, and then his soul would go back to the phylactery.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> You said that a soul being resurrected was kinda like a Gate spell, right?  Presumably a soul ascending to the afterlife is the same thing.  So a lich returning to the phylactery would prolly just use the same mechanism...
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> _Can_ a soul escape a demiplane entirely sealed by dimension lock?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Correction:  I said that the dark gods use a resurrection to reverse-gate *something else* along with the resurrectee.  The soul itself isn't Gating anywhere.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> [Dimensional Lock](http://www.d20srd.org/srd/spells/dimensionalLock.htm) blocking transmigration of souls:  hm.  That's tricky.  I think the answer is yes, souls can escape a DL.  I'm basing that on this line:  "Also, the spell does not prevent summoned creatures from disappearing at the end of a summoning spell."  That implies that things CAN get out of a DL; souls are about the slipperiest things around, so I would say they can escape.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Souls would be [Incorporeal](http://www.d20srd.org/srd/typesSubtypes.htm#incorporealSubtype) right?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> RaW says that they're immune to nonmagical attacks.  _Not_ that they can't be _hit_ by them.  You can 'hit' them, you just pass through unless you're wielding a magic weapon or have ghost touch.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> So you may be able to _make_ a melee touch attack.  You pass through, but you still 'touch' them, and the spell hits (if it passes the 50% chance rate, for damaging spells.  But we aren't trying to damage, are we?)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> .... I wonder if that would qualify as _punching something in the soul_
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I thought on it a little more:
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Damage from gravity is probably a type of [environmental hazard](http://www.d20srd.org/srd/environment.htm).  Damage from those is determined by the round.  I'm not sure if that means each character rolls for damage on their round, or if the environment itself has a 0 initiative roll for everybody at the start of each round.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Either way, _Afi will survive at least until his round comes._  Unless he has the exact same initiative as the people who cast the PAOs and closed the hole, then he will survive for at least a fraction of a second, and possibly as long as 4.999(repeating) seconds, before he even has a chance of taking damage.  If he's beyond the event horizon, where time dilation approaches infinity relative to outside the horizon, then a fraction of a second is _well_ over enough :)
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> For avoiding this process destroying the world:
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Once the portable hole is closed, it's sealed off.  You don't have to worry about the singularity devouring the world unless someone opens the portable hole again.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> So long as you close the portable hole _before the effects of the collapsing neutronium reach the entrance of the portable hole,_ you're fine.  You can do that easily via a readied action.  Like I said, gravity propagates _merely_ at the speed of light.  It's got nothing on readied actions, which _always_ pre-empt the event, _no matter what._
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Yeah, I think you're right that it's an environmental hazard. The way I would play those is that they hit you when you first encounter them, and again on each of your initiatives, before you can act. (Even with a readied action.)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> True, closing the gate would solve the problem, and a readied action would happen before gravity reached you. You can't teleport across planar boundaries so you couldn't teleport out. You could Plane Shift. I guess you could even just have the Big Strong Fighter pull you out. 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> That is HIGHLY Munchkiny. So much that even I look askance at it. It's also utterly epic. 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Of course, now if I use it I have to admit that I didn't come up with the ending to my own story. Damnit. :/
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Still, it's seriously epic. Talk about a Crowning Moment of Awesome.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Aww, thanks!  I guess against a foe like Afi, you -need- munchkinry like this.  Awesome foes get awesome solutions, and all that.  
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I think I'm just about fresh out of ideas.  I hope I've been able to seed some ideas in your head that can give you your own awesome ending :)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Also, you can't plane shift, because _the portable hole is dimension locked._  Like I said, I think this is proof against anything but a god.  No idea how to do godproofing.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Dimension Locked: right, of course. Forgot. 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> God proofing: get another god to keep everyone else away. That's about it.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Well, pity the goddess of secrets is probably compromised then, she'd probably be the best choice.  Undead gods can't get Afi out of the hole if they don't know where it is/don't know what it is/don't even know that Afi ever existed.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Still, that one god that gave Jake the Decanter of Infinite Fancybooze seemed on the up and up, he might take them up on it.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> >Undead gods can't get Afi out of the hole if they don't know where it is/don't know what it is/don't even know that Afi ever existed.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> MWAHAHAHAHAHAHAHAAAA!
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Ahem. That wasn't actually connected to anything you wrote, I just felt like laughing maniacally -- for mine is an evil laugh. 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Ahem. The above sentence may not be true. Also, this one might not be either.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> \* huge grin *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I look forward to either the awesome heroism, or awesome calamity that would result from the hypothetical maybe-connection you just formed.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> How specific can PAO be about putting knowledge into peoples' heads?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Like, if you PAO'd a dust mote into a human, could you make them Lawful/chaotic/good/evil?  Could you dictate that they're a worshipper of any one god?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> What about allegiances?  Could you say "Polymorph Any Object: Dust mote to Lawful Neutral Human who zealously worships Herun and is loyal to Grofhamr" ?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> What about languages?  Could you tack on a list of languages that the polymorphed human speaks?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> What if you polymorph up a person who knows a bunch of languages, and who is loyal to the town and to the goddess of secrets, and then you _ask them to sacrifice the knowledge of all the languages they speak to the goddess_?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> That'd make the goddess of secrets stronger, _and_ get her a whole horde of worshippers who can _only talk to/through her_.  Automatic vow of silence, should be pretty good worshippers.  And I imagine that sacrificing something as big as _all the words you know_ would be a pretty good sized secret to feed her.  Could be that you don't even need to polymorph that many of them to tip the scales back to your side.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Hell what if you PAO up a person with all of wikipedia in their head, and they sacrifice _that_?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> You realize you are making Baby Jesus cry, right?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Offhand, I don't know about the dust mote people.  I'd have to think that one through.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> The Wikipedia thing is definitely out, though.  Jake doesn't know everything that's on Wikipedia so he can't tell it to the mage that would be casting the PAO.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I'm sure Jake doesn't know the exact workings and biology of a dragon either, nor does the mage.  And yet PAO can make them.  Transformation spells seem to have some sort of in-built divination or 'knowledge base' that they pull from. The only question is whether they can pull stuff from another universe.  All Jake'd have to do is say "The contents of something from my home universe called a webpage, known as Wikipedia"
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ... I wonder if Jesus-tears are an upgraded holy water.  We should try throwing them at Afi to see what happens.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> My contention would be that the spell can't pull information purely out of nowhere.  The antimatter PAO works because Jake knew a lot about it and told Isaac to create it which implicitly generated enough information to "reify the mystic construct" </Isaac>  Asking for something that no one in universe knows at all is beyond the spells abilities.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I imagine that there's an _astounding_ amount of stuff that Jake has around him with enough seed-information to reify poly-knowledge.  
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Like what if you say "Polymorph Any Object: Dust mote to Lawful-neutral human who zealously worships Herun, is loyal to Grofhamr, and has all the memories of everyone _within_ Grofhamr."
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Then they just sacrifice all those memories.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> STOP COMING UP WITH RIDICULOUSLY EASY WAYS TO MAKE THE STORY BORING!!!!!!!1!!!!!11!11!!!!!!!!
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> :P
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> What can I say, after trying to figure out how to 'kill' a probably-nigh-omnipotent diplomancer lich with multiple phylacteries, without having access to any _of_ those phylacteries, everything else just kinda breaks so easily :P
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I just had a completely silly thought.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> We already know that readied actions activate faster than light (they ALWAYS fire before the trigger, even if you're waiting for a laser dot to appear on a piece of paper) and therefore you don't need to _see_ the trigger to activate the readied action, right?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Well, if you don't need to _see_ the trigger, then you shouldn't have to rely on any sort of range.  After all, you could ready a counterspell against a mage 100 feet away, no?  What's to say you couldn't ready one against a mage 100 kilometers away?  You aren't seeing them complete their action either way, and yet the readied action still fires.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Therefore, say you introduce two commoners to each other.  You then hire them both on, so that they spend all day readying an action every turn: They will repeat anything the other commoner is about to say.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> You've now got yourself an infinite range, faster-than-light radio with infinite uses per day, and no silly word limits like Sending.  Just tell one commoner to repeat what you say to them, and have someone listening on the other end!
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Or you could cart around a commoner and use them as an omni-radar!  Have them ready an action every turn that they'll point in the direction of Afi's base if they get within 10 quadrillion feet of it, or something.  They'll be like a compass directly pointing you to Afi's base, so long as it's on the same plane/planet.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Or an early warning system!  Have them ready an action to raise the alarm whenever a group of enemies starts to head for grofhamr with intent to harm!
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ...that *has* to be forbidden by some chunk of RAW, somewhere.  If not, I am totally using it.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Ten golden snitches and a mention in the Author's Notes to anyone who can cite rules and page number for why the above does not work.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I think we're buried a bit deep in an ancient thread for anyone to notice.  That's kinda why I chose this thread, so there'd be no spoilers to anyone but the truly devoted if you choose to use it :P
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> well, that and it's the thread where you were actually _askng_ for strategies
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> *grumble*
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thinking about it, I probably shouldn't use that.  It's waaaay too OP.  Which doesn't mean I won't.  :)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thanks for suggesting it.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> no problem, I _also_ got sucked into derivative clicker, so I've had plenty of time to mull ideas over while mindlessly watching numbers go up
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> [deleted]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Idunno, knowledge is just chemical connections and stuff in the brain, isn't it?  Messing around with chemistry and making new neural connections seems _exactly_ the sorta thing that PAO can do easy.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> You're a _long_ way into an old, old thread.  Nice on ya!
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> [deleted]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> The thing is that PAO _already_ does a lot of messing with your head.  If you use it to turn into a troll, it has to rewire your entire brain to fit the new body.  It has to give you the troll's automated systems that keep its heart beating, it has to modify you to fit how the troll's senses work.  
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> And more than that, if you turn into a quadruped, you can probably bet that you'll know how to walk in your new body, despite being bipedal all your life.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> So I don't see why you can't just ask it _directly_ to put knowledge in a head, by specifying knowledge as part of the conditions.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> It's just like you could ask to PAO a one-legged troll, or a purple-haired woman.  You're telling the spell specifics, and it fills in all the _unspecified_ stuff with that 'average member of the species' stuff.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> [deleted]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Actually, speaking of alter self... [PAO](http://www.d20srd.org/srd/spells/polymorphAnyObject.htm) says it more or less mimics Polymorph, and [Polymorph](http://www.d20srd.org/srd/spells/polymorph.htm) says it imitates Alter Self....
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> And [*Alter Self*](http://www.d20srd.org/srd/spells/alterSelf.htm) says this:
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > You can freely designate the new form’s minor physical qualities (such as hair color, hair texture, and skin color) within the normal ranges for a creature of that kind. The new form’s significant physical qualities (such as height, weight, and gender) are also under your control, but they must fall within the norms for the new form’s kind. You are effectively disguised as an average member of the new form’s race. If you use this spell to create a disguise, you get a +10 bonus on your Disguise check.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> So.... All you have to do is realize that a few extra folds and connections in the brain is a relatively _minor_ physical quality, no?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Also, PAO says:
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> >Unlike polymorph, polymorph any object does grant the creature the Intelligence score of its new form. If the original form didn’t have a Wisdom or Charisma score, it gains those scores as appropriate for the new form.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Which implies it really _does_ mess with your head on more than just a 'command' level.  It grants you the intelligence and other properties of the form you take.  So maybe you can specify just _what_ that intelligence implies.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/None** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> [deleted]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Indeed, but part of the fun of Two Year Emperor is that it really _does_ run on Rules As Written, _not_ Rules As Intended.  So if the rules even allow you a tiny chance, you can go _right on ahead_ and snap the whole system over your knee.  Until the gods intervene, anyway (or unless it would break the story.  Which Eaglejarl decided this would.  But I'm bored as all hell, can't start on the next episode of Let's Read Boatmurdered yet, and this argument is fun.)
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> And sure those folds and connections are within normal ranges!  Someone of your species can and probably does _hold_ that knowledge, after all.  So it's within parameters.  Now, if you wanted to impart something like a total knowledge of universal whatnot that only a god could comprehend, _then_ you'd have a problem.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Levels and skills though.... I'm not sure those _do_ count.  They don't seem to act like standard garden-variety knowledge.  You can be as brilliant as any archmage in terms of raw intelligence, but you won't be able to comprehend a ninth-level spell until you actually have the raw XP for it.  Likewise, no matter how much you may _know_ about blacksmithing, you can't make a sword unless you have points in crafting for it.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I'd say that levels and skills are more like 'blocks' in your head.  You might know all that stuff already, but you can't _use_ it until you appease The Dark Gods of Level Grinding.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> [deleted]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Eh, you're right.  It's not necessary to polymorph knowledge since we have mindscrape, anyway.  Pity the gods turned that one down.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Although I _do_ wonder if you could theoretically import knowledge so common that more than 50% of the species knows it.  That'd be the literal definition of 'average member of the species' after all :P.  Like, could you polymorph into a dragon to learn draconic?  Food for thought, that.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> It's a pity that Jake can't just say "Polymorph Any Object: Sheet of paper to Sheet of paper with the perfect plan to defeat Afi written on it."
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> That'd be a hilariously anticlimactic way to end things.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Well okay, you'd have to word it differently, else it'd pull the trick of having "The Perfect Plan To Defeat Afi" written on it.  You might even just have to PAO up a person with knowledge of how to defeat Afi, to get around that kinda literalism.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> _ooooooo!_
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> What if Jake starts poly-learning things into himself!  "Polymorph any object: Jake to Jake with Albrecht's skill for strategy"  "Jake to Jake with Thomas' willpower and bravery"  "Jake to Jake with intensive training in the art of kung-fu"
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> _That_ would probably get the gods to yell at him.  Not to mention bring on personality shifts and stuff.  But could be worth it.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> *sigh*
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Damnit, this game is just too broken.  I keep trying to patch around the it-would-make-the-story-boring exploits, but there are just too many of them.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Yet despite how badly you can break it, you still created a villain who broke it worse, eh?  :P
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Well, yes.  If Jake had a walk-over the story would be boring.  The villain always needs to be stronger than the hero so that the hero can demonstrate pluck and intelligence and courage and the [Power of Heart](http://tvtropes.org/pmwiki/pmwiki.php/Main/HeartIsAnAwesomePower) and all that other touchy-feely stuff. ;)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Also, at these ranges, he'll be inside the event horizon.  So 'instantly' would still take millions of years :P
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> For the secondary idea:  Even if you're still limited to the same range, can you still Wish to attack unusual targets?  What would _happen_ if you wished to cast temporal stasis on Afi's soul?  (Well, other than him probably saving against it :P)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> >Also, at these ranges, he'll be inside the event horizon. So 'instantly' would still take millions of years :P
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Only if your portable hole is massive enough to have a several-foot Schwartzchild radius.  Unfortunately, that produces enough gravity that it would pull a lot of (most of?) the planet into the Portable Hole.  After you originally suggested this I spent a lot of time doing math and couldn't figure a way to do it without causing an extinction event.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ----
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> [Temporal Stasis](http://www.d20srd.org/srd/spells/temporalStasis.htm) says:  "Target: Creature touched" and explicitly states that "[y]ou must succeed on a melee touch attack."  So, no wishing to TS a soul.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> You, sir, are really creative. :)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Ready an action to close the hole upon gravitational forces of the collapsing neutronium applying to the space beyond its entrance?  You're dealing with weird initiative-time here, beating gravity (which moves merely at the speed of light) to the punch is pretty easy :P
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> What about casting [Dimensional Anchor](http://www.d20srd.org/srd/spells/dimensionalAnchor.htm) on his soul?  That's a ray attack, so it has range.  Well, it's a ranged touch attack, but I _think_ those work on ghosts, so should work on souls?  And you might trap his soul in a demiplane like that even _if_ it can escape the other DimLock _and_ the body is destroyed truly instantly.  Since then you'd be specifically preventing his soul itself from changing planes.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> WAIDAMINUTE!
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I just [looked it up](http://www.d20srd.org/srd/spells/mindBlank.htm)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Mind Blank only prevents wishes that gather information/scry, or effect the mind _via the wish_.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Teleporting a person/sentient object might not count as that!  Even if you teleported a person with a readied Sending there, you'd not be getting information _through the wish._  You'd be getting it through the person's eyes and ears, relayed through another means.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Likewise, the only way they're gonna find out where Afi is through this spell, is if they can see the boom.  Which they probably will, this being antimatter :P
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Oh!  And mind blank's prolly your reason for why the Helm of Making You The Goddam Opposite Alignment, And You'll Like It Mister, Or I'll Call Your Mom +5000, wouldn't work.  Forced alignment shifts probably get filed under the domain of mind-effecting magics.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Good thing we have good ol' Boom for the Boom God to substitute :)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Hm. I kinda like the idea of them doing this and it doesn't work (see reasoning below). I might just try that. 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> And yep, Mind Blank stops the HOMYTGOAAYLIMOICYM+5000. :)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Also, from mindblank's text:
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> >In the case of scrying that scans an area the creature is in, such as arcane eye, the spell works but the creature simply isn’t detected.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> So if you wished for say, Boomer to be transported to within 50 feet of Afi, that'd probably work even _if_ you can't wishaport on his exact location.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> After all, we don't exactly need pinpoint accuracy for anything but the joke.  Loki might not appreciate the missed opportunity, but oh well.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I would say that "50' from Afi" requires knowing where Afi is, though. :)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Of course, if they can find him through mundane means, they're good to go.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Ah, you are correct. That'll teach me to speak from memory instead of reviewing the spell!  Thanks for the correction.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> > The Helm is a good idea
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I think I'm running out of those :P
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Still, the thing I take away from that is that designing 'magic item traps' and then shipping them straight to Afi is a good potential well of traps.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> I'm fond of that imprisonment one, personally :P
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Okay, I'm not sure if this is from a nonstandard source book or homebrew or what, but I can only find this spell description on one wiki:
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> [Glass strike](http://therafimrpg.wikidot.com/glass-strike) is like flesh-to-stone, but glass.  Except it can be cast to _explicitly_ target objects.  Undead are subject to fortitude saves that effect objects.    And since that's a really rare occurrence, I imagine Afi's neglected his fortitude compared to his other saves.  A glass statue of Afi can be PAO'd as easily as a stone statue, no?
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Also, from the Book of Exalted Deeds, [Sanctify the Wicked](http://dndtools.eu/spells/book-of-exalted-deeds--52/sanctify-the-wicked--93/) is a spell that _directly targets the soul._  It tears the target's soul out and imprisons it in a gem, where it's turned good over the course of a year.  Tearing a lich's soul from its body and imprisoning it sounds like the sort of thing that'd keep it from returning to the phylactery.  But the spell requires a rare class, and it's 9'th level, _and_ it requires expensive spell components, _and_ it's a will save.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Also from the BoED, [Last Judgement](http://dndtools.eu/spells/book-of-exalted-deeds--52/last-judgment--90/) kills the target, but immediately sends it to the lower plane to be punished for all eternity.  Might also prevent phylactery resurrection.  Would only be a delaying action, since he can be resurrected, but still.  Sadly it's also a will save, but at least it can be cast by classes I know you have on hand.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>> Do two people with the same initiative act in the same 'slice' of time?  
+>>>>>>>>>>>>>>>>>>>>>>> The big problem with PAO'ing antimatter right now is that it necessitates sacrificing a high level mage.  But what if you sent in _two_ magi with the same initiative?  The one who goes first PAOs the antimatter, and the second casts word of recall, to get them both the hell out of dodge before it explodes, presumably one initiative tick later.
+>>>>>>>>>>>>>>>>>>>>>>> Or can you cast spells through a ring gate without sticking your head through?  You'd probably have to stick your arms through, but arms can be regenerated.  And since the gates only transmit one way, you'd be safe.
+>>>>>>>>>>>>>>>>>>>>>>> Not exactly permanently helpful against liches, but antimatter bombing would probably be useful nonetheless.
+>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>> The ring gates would work and, as I understand the RAW, you don't have to stick your hands through.  The actual text says "you can cast a spell through it" [quoted from memory]; it doesn't say that you have to reach through to do it.
+>>>>>>>>>>>>>>>>>>>>>>>> The initiative trick was the first way that I thought of to make AM work safely; Al has a readied action with the condition "when Bob finishes casting his spell, I will teleport us away".  Bob casts the PAO:antimatter.  Al's action triggers and basically preempts everything else in the universe so that his action can happen. You would need to use a ring of teleport or something like that, since casting a spell would still take 6 seconds.  
+>>>>>>>>>>>>>>>>>>>>>>>> Alternatively, Bob could just have a Contingency spell on himself that says "when I finish casting PAO:antimatter, this Teleport spell will get me out of there."
+>>>>>>>>>>>>>>>>>>>>>>>> Alternatively, Bob could PAO or Shapechange himself into a ghost or other incorporeal form before casting the PAO:antimatter.  Incorporeals are immune to all non-magical damage, including AM blasts.
+>>>>>>>>>>>>>>>>>>>>>>>> I can think of other methods too, but these seem like the most reliable.
+>>>>>>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>> Heh yeah, I guess I was just looking for low-hanging fruit, since XP is essentially free and with enough time Jake could train up tens of thousands of high level mages.  But he doesn't really have time at this point.  He probably barely has time to set up one or two armatures and maybe start getting a trickle of apprentices to archmagi, or get the XP costs down to start constructing some artifacts that might be finished a long time from now.  Real pity about the astral plane not being workable, that'd be my go-to as a munchkin otherwise.
+>>>>>>>>>>>>>>>>>>> Too much strategic and not enough tactical thinking, I guess :P
+>>>>>>>>>>>>>>>>>>> For dust of dryness, I guess it would depend on whether the water it releases is the same type of water as it absorbed;  It can absorb salt or alkaline water.  If that caused it to release salt or alkaline water when thrown, then I could argue that soaking up holy water should cause it to release holy water, even if it's not the 'same' holy water per se.
+>>>>>>>>>>>>>>>>>>> The Lyre... Yeah, I have no idea.  It's been forever since I DM'd and I've never run artifact-heavy campaigns that would have something like that anyway.  But it seems exploitable as all hell.  The reinforcement even resists Knock, and that building capability is just tasty, especially if it stacks.
+>>>>>>>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>> **u/drageuth2** [+1] *
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> Well, it's easy enough to make it impossible to make via PAO.  You just need to have the spell fizzle out.  Maybe imply that it only makes things available on the current plane, and that the world Jake's on is the only one with intelligent life in this plane, or something.
+>>>>>>>>>>>>> 
+
+>>> **u/ignirtoq** [+3] *
+>>> 
+>>> So I happen to be a mathematical physicist semi-specializing in GR.  I've never rigorously looked at a space with portals like this in it before (but after this discussion I probably will try), but my intuition suggests you're going to run into more problems than you realize.
+>>> As far as you've described, the portal openings consist of a pair of (probably) ellipses with conjugate points on the part of the planes defined by the ellipses interior to the ellipses mathematically identified.  The problem with doing things that way is twofold.  First, these portals have no "backs," meaning if something going in the "front" of portal A comes out the "front" of portal B, then anything going in the "back" of portal A comes out the "back" of portal B.  Requiring portals be "anchored" on flat surfaces doesn't fully solve that problem due to the next problem.
+>>> Since these are *mathematically* identified points, then anything physical can travel through the portals.  Including forces.  Including gravity.  As a toy example, consider two point masses with appreciable mass, each very near the portal surface compared to the size of the portal.  At that distance, the relative locations of the portals don't matter; they can be lightyears apart and the masses exert a pull on each other like they are right next to each other.
+>>> Now rotate one of the portals around one of the point masses.  Wherever the portal opening faces, that is where the force of attraction is.
+>>> What does this mean in the context of people using portals?  Say you have a portal in front of you (normal vector perpendicular to the ground's normal vector) with output above you facing down toward you (normal vector anti-parallel to ground's normal vector).  Looking through the portal you see the Earth "in front" of you, which means you feel its gravity in front of you, too, *in addition to the normal gravity below you*.  So the mere presence of portals near massive bodies changes the force of gravity **appreciable distances away from either of the portals**.  In theory, with the proper locations and orientations, you can severely screw with gravity across the entire planet with two portals on the same continent.
+>>> To go with the RAW while keeping physics as realistic as possible, you either have to drop mathematical identification or GR.
+>>> 
+
+>>>> **u/Gurkenglas** [+2] *
+>>>> 
+>>>> Consider us being in the elemental plane of air, nothing but air around anywhere. Insert an infinite wall of soundproof material, dividing space into two. Punch a portal-sized hole in the wall. Place a strong loudspeaker a few kilometers from the portal, and yourself a kilometer from the portal on the other side. The sound that reaches you will be much weaker than if you were two kilometers away from the loudspeaker on its other side, and for the same reason gravitational pull towards a portal to a large mass will be as strong as usual from directly in front of the portal, and about quadratically with distance diminish as you back away from it.
+>>>> It would work much like a spaceship with air inside a space without having a hole punched into its wall.
+>>>> 
+
+>>>> **u/aeschenkarnos** [+2] *
+>>>> 
+>>>> RAW seems to imply Aristotlean physics, not Newtonian, let alone Einsteinian. Gravity is locally generated and doesn't necessarily propagate.
+>>>> That said, there is considerable value in Doing Physics Experiments, in order to *work out* what actually happens in a RAW world. A lot of it will be DM's call, and the DM is *not necessarily* required to be consistent; it's already been established in-story that the DM's tolerance only goes so far, and the same may apply to physics.
+>>>> Remember that this is a creationist world with a fairly capricious Physics God.
+>>>> 
+
+>>>>> **u/eaglejarl** [+2] *
+>>>>> 
+>>>>> I have no explicit response to this, except that it made me smile. Thank you.
+>>>>> 
+
+>>>> **u/eaglejarl** [+1] *
+>>>> 
+>>>> I'm going to need to read this a few more times to make sure I understand it, and I'd like to do that in the morning when I'm fully awake, so I'll leave the bulk of this for later. 
+>>>> One point: the Ring Gates actually do have an "input" and an "output". Nothing goes in the output side or out the input side. I'm not sure if / how this interacts with your post. To be clear: if something goes in the "input" side of ring A, it comes out the "output" side of ring B and vice versa.  Through suitable use of Sovereign Glue (a magically cannot-be-broken bonding agent) it is possible to make a one way valve like this -- just glue the input side of B to a magically unbreakable wall.
+>>>> ----
+>>>> EDIT:  Ok, I finaly had the chance to sit down and read this.  I think what you're saying is that, in the situation you describe, the planet's gravity is simultaneously pulling in two separate directions.  There's only one "point mass" (the planet) in this example, which is why I was confused -- you mentioned two in your original statement.
+>>>> You are (of course) right, that's how it would work under physics.  I think, however, that this is a case where RAW trumps physics -- the item description makes no mention of effects on gravity, therefore there aren't any.  Of course, the flip side of this is that it wouldn't transmit *light* either -- the descriptions says that you can "stick your head through" to look around, it doesn't say that you can just look through the portal.  That's a pity, since I was planning to turn (a pair of ring gates) + (a bunch of Celestial Brilliance stones back home) into a giant anti-undead laser cannon, and now it looks like I can't.  Feh.
+>>>> 
+
+>>>>> **u/Gurkenglas** [+1] *
+>>>>> 
+>>>>> Does light pass back through out the input?
+>>>>> 
+
+>>>>>> **u/aeschenkarnos** [+1] *
+>>>>>> 
+>>>>>> IIRC light *suffuses* under Aristotlean models, it does not *travel*.
+>>>>>> 
+
+>>>>>>> **u/eaglejarl** [+3] *
+>>>>>>> 
+>>>>>>> In D&D, light is even weirder. A region has an illumination level, and the delineation is knife-sharp. A Celestial Brilliance, for example, illuminates an area 240' across (120' radius). If you bring a CB underground and go 121' away from it, it's pitch black.
+>>>>>>> 
+
+>>>>>>>> **u/Gurkenglas** [+1] *
+>>>>>>>> 
+>>>>>>>> So that's how lightsabers work!
+>>>>>>>> 
+
+>>>>>> **u/eaglejarl** [+1] *
+>>>>>> 
+>>>>>> Nope. The input is pure -- absolutely nothing comes out of it.
+>>>>>> 
+
+>>>>>>> **u/Gurkenglas** [+1] *
+>>>>>>> 
+>>>>>>> Can someone on the input side stick a hand through and take something back with it?
+>>>>>>> 
+
+>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>> 
+>>>>>>>> Hm.  Good point.  Yes, you can.  The canonical examples from the item description are:
+>>>>>>>> "A character can reach through to grab things near the other ring, or even stab a weapon through if so desired. Alternatively, a character could stick his head through to look around. A spellcaster could even cast a spell through a ring gate."
+>>>>>>>> Ok, so the input / output thing is not absolutely pure -- the input side can emit things that started on the output side, so long as they are boostrapped in by something that went only partially through the ring.  Still, the general point stands -- air, light, gravity, nothing comes through in the "wrong" direction except through this one loophole.
+>>>>>>>> 
+
+>>>>>>>>> **u/Gurkenglas** [+1] *
+>>>>>>>>> 
+>>>>>>>>> Stick a head in. Can I breathe? Stick a straw in. Can I pull air through the straw? Open a ring to the bottom of the ocean, stick a straw in. Does water gush out? Does water run along the side of the straw? Does it suffice to poke the water "bubble" with a finger to unleash all hell?
+>>>>>>>>> 
+
+>>>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>>>> 
+>>>>>>>>>> Partially based on the RAW and partially based on my understanding / interpretation, I think the answers are:
+>>>>>>>>>> Yes, yes, no,no, no.
+>>>>>>>>>> Stuff comes back through the ring in the "wrong direction" only if you directly cause it to by exerting a force -- pulling it through with your arm, casting a Mage Hand to pull something through, etc.
+>>>>>>>>>> 
+
+>>>> **u/Abpraestigio** [+1] *
+>>>> 
+>>>> So, not sure I understand what you're saying, but what little I get reminds me of something that puzzled me about Stargate as well: If your portal lets through gravity, shouldn't Earth (or whatever planet you're on) be thrown out of its orbit the moment you turn the device on? In the case of the Ring Gates the planet's own gravity should do the same.
+>>>> Speaking of Ring Gates: If you make the iron bar a permanent magnet instead, would you get an infinitely powerful generator? Though, to be honest, I seem to be incapable of imagining what the field lines of a straight but somehow no-ended magnet would look like...
+>>>> edit: spelling
+>>>> 
+
+>>>>> **u/DeliaEris** [+1]  *Fully General Idealist**
+>>>>> 
+>>>>> I imagine it would look similar to the middle of a very long magnet.
+>>>>> 
+
+>>>>>> **u/Abpraestigio** [+1] *
+>>>>>> 
+>>>>>> Hm. I feel retarded now. Especially since what I described is basically just a cable.
+>>>>>> 
+
+>>>> **u/eaglejarl** [+1] *
+>>>> 
+>>>> >  I've never rigorously looked at a space with portals like this in it before (but after this discussion I probably will try),
+>>>> Did you ever end up looking at this?  If so, I'd be fascinated to see a precis of your results.
+>>>> 
+
+>>>>> **u/ignirtoq** [+1] *
+>>>>> 
+>>>>> I haven't yet; thanks for reminding me!  I finish teaching this week, though, so I'll have a chance this weekend to sit down with the space.
+>>>>> One note, I've never worked with GR in spaces with identified subregions (from the physics side they're not physically meaningful, and from the math side the special case of GR is so complicated no one in the math community does anything with it unless they absolutely have to), so I may not get actual results for some time.  Keep poking me and I'll keep you updated.
+>>>>> 
+
+>>>>>> **u/eaglejarl** [+1] *
+>>>>>> 
+>>>>>> Will do!
+>>>>>> 
+
+>>>>>> **u/eaglejarl** [+1] *
+>>>>>> 
+>>>>>> >>>I've never rigorously looked at a space with portals like this in it before (but after this discussion I probably will try),
+>>>>>> >>Did you ever end up looking at this? If so, I'd be fascinated to see a precis of your results.
+>>>>>> >I haven't yet; thanks for reminding me! Keep poking me and I'll keep you updated.
+>>>>>> *poke, poke*
+>>>>>> 
+
+>>>>>>> **u/ignirtoq** [+1] *
+>>>>>>> 
+>>>>>>> Thanks for the reminder.  Unfortunately I'm battling a mental illness, so it will take longer than I anticipated.
+>>>>>>> 
+
+>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>> 
+>>>>>>>> Ah.  Sorry to hear it; I hope you win your battle.  Or, at least, get to a manageable state.
+>>>>>>>> 
+
+>>> **u/JackStargazer** [+1]  *Primordial Apologist**
+>>> 
+>>> Eventually the speed of the object falling an an air filled space will set the air on fire, then turn it to plasma, then begin to FUSE the plasma. You really need that vaccuum.
+>>> And there is no real method to extract energy from it once it gets that fast without splosions. 
+>>> Also, as an object approaches relativistic speeds, its mass increases to infinity. Not sure how that would jive with a weight limit, but it could have a serious gravatic effect on the surrounding everything.
+>>> I'm assuming Jake's current idea involves a little teleport circle-star lifting or equivalent. That or black hole connections. Either is about as dangerous as it can get there, but if the liches are anything smart, the phylacteries are not anywhere near where they are. Likely not even on the same plane. They basically need Herrun to find them with any degree of success.
+>>> Hmm. There might be a way to abuse instananeous (FTL) teleporting to get information from the future...
+>>> I'll have to think on that.
+>>> 
+
+>> **u/clawclawbite** [+2] *
+>> 
+>> I'm not familiar with weather control magic, but mixing in holy water to weather effects could do all kinds of things. At worst, wind blasting it, or feed it into a tornado, and use it as a delivery system.
+>> 
+
+> **u/fortycakes** [+5] *
+> 
+> * You can use the Hourglass to make permanent *Symbol of Death* set to affect only undead creatures. (Attune them to Colborn so he doesn't get splatted.) Put the symbols on shields and have them activate on sight. If you have, say, 100 shields lining the entrance hall to Grofhamr, then even an undead that passes their save on everything except a natural 1 will be destroyed 95% of the time.
+> * They have access via merchants to infinite amounts of adamantine armour. Using *Animate Object* and the Hourglass, then stacking *Hardening* on the armour, create practically-indestructible shock troops. For bonus points, fill the armour with Celestial Brilliance Bouncy Balls of Doom. Or fill the armour with papers of *Explosive Runes*, and order it to get close to high-value targets and then break a necklace of fireballs/other item that will set off the *Explosive Runes*.
+> * Also cast Hardening and Animate Object on the Landguard's armour, with orders to get them out of combat once they're unconscious. This should hopefully preserve enough of their body that only a Raise Dead is needed rather than a full True Resurrection.
+> * Again with abusing the Hourglass ( :D ) you could give everyone in Grofhamr both *Invisibility* and *See Invisible* permanently, which seems like an advantage.
+> * Dust of Dryness as a bomb containing 100 gallons of holy water.
+> * An Ioun Stone of +Int seems useful. Maybe some +Wis items would also be good so that he has the insight to spot flaws in plans. A pale green Ioun Stone grants +1 on all ability checks, which includes Knowledge (Tactics).
+> * 48 *lyres of building* make any fortification impenetrable.
+> * Combine *Discern Location* and *Find the Path* to get a route to Afi's phylactery that bypasses all of his traps.
+> 
+
+>> **u/Gurkenglas** [+1] *
+>> 
+>> >Symbol of Death
+>> It's a level 8 spell, it's improbable that this is the best allocation of Grofhamr's available lvl8-slots per day, especially considering that the symbol only slays creatures of up to 150 current HP.
+>> >Ioun Stone of +Int
+>> That gives an enhancement bonus of +2, which doesn't stack with the +4 he already gets from his headband.
+>> >Find the Path
+>> http://www.d20srd.org/srd/spells/findThePath.htm : "Find the path works with respect to locations, not objects or creatures at a locale."
+>> 
+
+>>> **u/fortycakes** [+1] *
+>>> 
+>>> The *Symbol of Death* slays unlimited amounts when subjected to a Permanency spell. A day's castings of level 8 spells is a small investment for making your base immune to creatures with less than 150 HP.
+>>> The note on Find the Path is true; that's why I paired it with Discern Location. However, on reading that spell's description I realised that you have to have touched the object so that's probably a no-go. You can, however, still choose targets like "the room where Afi keeps his phylactery" as valid choices for Find the Path, and then just throw out a Mage's Disjunction.
+>>> RE: Ioun Stones: I thought they were an item bonus. Never mind.
+>>> 
+
+>>>> **u/eaglejarl** [+2] *
+>>>> 
+>>>> You're right that a permanent SoD will kill unlimited enemies, but it turns off for 10 mins between each blast, so it will be of limited use in a combat situation. Still, a wall of them would do a great job of wiping out the first few ranks. 
+>>>> As to Find the Path... I've pretty much been pretending it doesn't exist. It destroys too much tension; anything you need, you can use this to get it. Although...hm. That actually gives me some interesting ideas. Thank you! This is going to solve a major plot issue that I had looming on the horizon.
+>>>> 
+
+>>>>> **u/fortycakes** [+2] *
+>>>>> 
+>>>>> For a more not HP-limited version, you could surprise a high-value target with a large amount of *Symbol of Persuasion* and then ask them nicely to put on a *helm of opposite alignment*.
+>>>>> 
+
+>>>>>> **u/eaglejarl** [+3] *
+>>>>>> 
+>>>>>> Wow. I did not know that Symbol of Persuasion existed. I really need to set aside some time to just troll the spell lists at some point. 
+>>>>>> It does have a Will save, though, which a much or high level vampire would probably make.
+>>>>>> 
+
+>>>>>>> **u/fortycakes** [+4] *
+>>>>>>> 
+>>>>>>> That's what multiplying up by 100 Symbols is for. The spell doesn't prescribe, so far as I can tell, a minimum surface area for the *Symbol*, merely that they are legible at 60ft, so you should be able to inscribe enough onto the surface of a single shield, which you then reveal at an appropriate time.
+>>>>>>> The idea behind using multiple of them, of course, is that natural 1s happen to everyone, if you give them enough chances.
+>>>>>>> 
+
+>>>> **u/Gurkenglas** [+1] *
+>>>> 
+>>>> >Find the Path
+>>>> "The location must be on the same plane as you are at the time of casting."
+>>>> 
+
+>> **u/Kodix** [+1] *
+>> 
+>> >An Ioun Stone of +Int seems useful. Maybe some +Wis items would also be good so that he has the insight to spot flaws in plans. 
+>> I'd like to second this, the Wis part. The first priority should be to maximize his mental capabilities, and he really should get a +wis item as soon as he heard about the +int one.
+>> 
+
+>>> **u/eaglejarl** [+1] *
+>>> 
+>>> It would make a lot of sense to trick Jake out with some WIS and CHA boosts.  I've deliberately not been doing it because it would make the story boring.  Jake has two powers: "outside view of the RAW allows exploits" and "everyone must obey me because I'm the ruler and I'll have the Landguard kick your ass if you don't."  His problems are: social and making mistakes (or succeeding but causing issues in the process).  
+>>> INT boosts allow you to make bigger mistakes faster, and insult people more easily.  WIS boosts make you make fewer mistakes, and CHA boosts let you manage social situations more smoothly.  Boosting either WIS or CHA would (a) substantially change his character and (b) eliminate most of the problems he's facing.
+>>> As to why he's not doing it and no one is suggesting it...um...look!  Shiny object!
+>>> 
+
+>>>> **u/MadScientist14159** [+3]  *WIP: Sodium Hypochlorite (Rational Bleach) Eventually. Maybe.**
+>>>> 
+>>>> If you can't think of a good reason for Jake not to think of it then have him think of it, but also add more problems.
+>>>> 
+
+>>>> **u/Zephyr1011** [+1]  *Potentially Unfriendly Aspiring Divinity**
+>>>> 
+>>>> I think that it would be better to have some kind of bullshit explanation like only intelligence being enhancable due to his alien biology than no one thinking of it because the plot demands it.
+>>>> 
+
+>>>>> **u/eaglejarl** [+2] *
+>>>>> 
+>>>>> First off, you're right and I'm going to address it in the next chapter. 
+>>>>> Second, I finally figured out what the in-universe reason was that Jake wasn't getting WIS/CHA enhancements; it was very much a forehead-slapping moment, since it's so bloody obvious once I look at it in the right way. 
+>>>>> Thanks to everyone who has poked me about it.
+>>>>> 
+
+>> **u/OffColorCommentary** [+1] *
+>> 
+>> > Using Animate Object ... on the armour
+>> This creates a medium-sized Animated Object, which has just 31 HP. Making it out of adamantine gives it a hardness of 20, which acts as an impressive amount of damage reduction, but that's all it really has going for it.  It can probably kill wights indefinitely though.
+>> There's actually a much more powerful use of animated objects, which is seriously broken within actual game terms, but not within Two Year Emperor terms - the druid spell Awaken (only 5th level, to Animate Object's 6th) can turn trees into permanent Animated Objects with no size restriction.  Any particularly large full-grown tree is colossal (the trees that come out of a feather token are just barely too small, and still gargantuan), which yields 256 HP and hardness 5 permanently for less investment.
+>> 
+
+>>> **u/fortycakes** [+3] *
+>>> 
+>>> The animated object's Hardness can then be increased arbitrarily by stacking the Hardening spell on it, giving it whatever DR you want.
+>>> (And an infinite supply of soldiers that can defeat wights easily isn't to be sneezed at)
+>>> 
+
+> **u/Prezombie** [+3] *
+> 
+> One thing no-one in this thread has suggested yet: Templates, the use and abuse of.
+> We've already covered a lot of the polymorph abuse, but I think that this is a big enough thing to bring up again. 
+> There's no RAW restriction against polymorphing into a (deep breath) Half Celestial, Half Gold Dragon, Half Silver Dragon, Half Copper Dragon, Half Bronze Dragon, Half Amethyst Dragon, Half White Dragon, Half Black Dragon, Half Red Dragon, Half Blue Dragon, Half Black Dragon, Half Green Dragon, Half-Giant, Half-Troll, Half-Illithid, Ti-Khana, Chimeric, Tauric, Voidmind, Titanic, House Cat.
+> Sure, it doesn't have to be that absurd, but I think the idea of stacking all the half-dragon templates would be a great way to invite Tiamat and Bahamut to the party for a bit part. I have a hilarious mental image of Tiamat trying to facepalm but not having enough hands.
+> 
+
+>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>> 
+>> This was always my favorite form of cheese in 3.5E. Templates are straight up broken, especially if you can stack them.
+>> 
+
+>>> **u/eaglejarl** [+2] *
+>>> 
+>>> That guy is 12/2 dragon and 15/2 overall.  *boggle*
+>>> 
+
+>>>> **u/Prezombie** [+2] *
+>>>> 
+>>>> 20/2 actually.
+>>>> besides the half-*, Ti-khanas are half Yuan-ti, Chimerics have a monster goat head and a random Chromatic Dragon head, Taurics have a humanoid torso on top of the base creature torso, and the base creature itself.
+>>>> [Slightly inspired by Ellen "A fraction killed my family" Boorsen](http://leftoversoup.com/archive.php?num=8)
+>>>> 
+
+>>>>> **u/eaglejarl** [+1] *
+>>>>> 
+>>>>> Damnit, I had work to do today!  Stop posting links to absorbing comics!
+>>>>> 
+
+>>> **u/Iconochasm** [+1] *
+>>> 
+>>> A newbie DM once made the mistake of letting out group start play at level 16.  One of our players had 1 hit die (of monk), and single-handedly humiliated up a balor in the first session.  Templates can be nuts.
+>>> 
+
+>> **u/Empiricist_or_not** [+1]  *Aspiring polite Hegemonizing swarm**
+>> 
+>> Wouldn't the Gods just step in again, either to adopt the cat or more likely put it in a pit fight with Cerberus.
+>> ------
+>> Edit: My money's on the cat of many Templates
+>> 
+
+>>> **u/Prezombie** [+2] *
+>>> 
+>>> Yes, they likely would, but it's a great move in a xanatos plot which requires getting a deity's personal attention.
+>>> And hey, doing something so over the top that both Bahamut and Tiamat go "Dude, not cool" is bound to be a funny read.
+>>> 
+
+> **u/Traiden04** [+2] *
+> 
+> Permanency Tongues on everyone to allow all to understand everyone. Do magic items only have to be made, or can they be bought for I know of two ways to reduce the need for food water and sleep. Ion Stones, which can also stop the need for breathing too, and Rings of Sustenance. Also Feather Token, Trees would be great ways to have self defence options as well as offence for physical persons. With the permanency hourglass things like the huts and rope tricks can be made into lasting areas. Permanently cooling the water as well or keeping areas clean forever with prestidigitation and the Hourglass too. Can you make someone else draw from a Deck of Many things willed with only the The Card "Balance," to instantly turn without save the alignment of the Vampires and if you can manage it any of the Lich(Liches?)
+> Philosopher's Stone mixed with cure potions to easily cast true resurrection if you can make them/buy them.
+> Immovable Rods would be very helpful, as would Lordly Might would help for when you enter a Maze when tracking down the phylacteries. If you can create a powered up Rod of negation like you did for the Hourglass and Rule(Caster level 100, heh) it would also be a boon to use against the phylacteries.
+> That is all I can think up off the top of my head and by no means ideas that would be allowed by any way other than RAW, which is the whole reason for the story in the first place.
+> 
+
+>> **u/eaglejarl** [+2] *
+>> 
+>> The Eternal Hourglass seems like it should be utterly broken, but sadly it's not.  It doesn't 'make a spell permanent', it casts Permanency.  Permanency has a specific set of spells that it can effect, and most of the really interesting ones aren't on it.  If I had written it the other way it would be *so* abusable.  I kinda regret that I didn't, but I think it might be a complete story-breaker.
+>> There's no way to modify the set of cards in a DoMT, so you can't fill it with Balance (which would be cool).  You can, however, just repeatedly shove a Helm of Opposite Alignment on the person until it works.  HoOA is a one shot, though -- after it affects someone, it becomes non-magical.
+>> 
+
+>>> **u/khafra** [+2] *
+>>> 
+>>> > HoOA is a one shot, though -- after it affects someone, it becomes non-magical.
+>>> Which is nice, because otherwise shoving the helmet on someone until it works would be as frustrating as trying to double-click an icon on a laggy system with a partially-broken mouse.
+>>> 
+
+>>> **u/Gurkenglas** [+1] *
+>>> 
+>>> You could still make permanent reduce person on everyone to reduce the crowding.
+>>> 
+
+>>>> **u/eaglejarl** [+1] *
+>>>> 
+>>>> True. Although the Rule of Size can't do Reduce Person, but you could set up a spell engine of it. 
+>>>> The problem is time. At most a single source (caster, spell engine, or magic item) can produce one spell effect per round, meaning 14,400 per day. (You then have to Permanency all of those spells, which requires one round per, but can be done in parallel.) Grofhamr has 3 million people in it; it would take about 8 months.
+>>>> 
+
+>>>>> **u/Gurkenglas** [+1] *
+>>>>> 
+>>>>> Rope Trick is a lvl 2 spell and holds an hour per level; Reduce Person is a lvl 1 spell. (How can you permanency in parallel?)
+>>>>> 
+
+>>>>>> **u/eaglejarl** [+1] *
+>>>>>> 
+>>>>>> By "in parallel" I meant "you can permanency in the same round that you Reduce, you don't have to do the permanency on a different round."
+>>>>>> 
+
+>>>>>>> **u/Gurkenglas** [+2] *
+>>>>>>> 
+>>>>>>> Could a commoner use the hourglass on his own reduced person as a standard action, then pass the hourglass along as a free action so a railgun can apply it to arbitrary amounts of commoner in one round?
+>>>>>>> >"To activate the Hourglass the holder must touch it to an object or a creature, speak the word 'Permanencio', and name one spell or magic effect that is currently affecting that object or creature."
+>>>>>>> 
+
+>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>> 
+>>>>>>>> Eeenteresting.  Yes, that would work.
+>>>>>>>> 
+
+>>>>>>>>> **u/Gurkenglas** [+1] *
+>>>>>>>>> 
+>>>>>>>>> In fact, make a use-activated magic item of each available spell for more railgunning fun. (This one goes far enough that he might get another divine knockonthehead)
+>>>>>>>>> 
+
+> **u/legendofdrag** [+2] *
+> 
+> Step 1) Move everyone inside of a demiplane (This is mostly already done)
+
+> Step 2) Get a critical amount of casters who can cast Locate City
+
+> Step 3) Cast Locate City with explosive spell tacked on
+
+> Step 4) Everything not in the demiplane takes 1000000d6 damage
+
+> Step 5) ???
+
+> Step 6) Profit!
+
+> EDIT: Or failing that, since I just remembered explosive spell is metamagic, Dust of choking/sneezing has no save. It doesn't matter how high of a caster level you are, if it hits you, you're as good as dead. Wishing for an easily abusable magic item would do it too. Hell, it might be best just to detonate the planet with antimatter and move everybody to somewhere else.
+> 
+
+>> **u/eaglejarl** [+3] *
+>> 
+>> "Hell, it might be best just to detonate the planet with antimatter and move everybody to somewhere else."
+>> [I would like to say:](#s "oy! Stop reading my story notes, bucko!  This is the plan that Jake came up with and them suppressed due to the collateral damage involved. He figures to relocate everyone to another planet and then blow this world by magicking up a couple thousand tons of antimatter")
+>> 
+
+>>> **u/fortycakes** [+1] *
+>>> 
+>>> [spoiler hidden](#s "If he can relocate people to another planet, why does he need to blow up the current one?")
+>>> 
+
+>>>> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life**
+>>>> 
+>>>> Because the undead could follow you, presumably.
+>>>> 
+
+>>> **u/fortycakes** [+1] *
+>>> 
+>>> [reply](#s "Why bother blowing up the planet when you leave if you can evacuate everyone like that?")
+>>> 
+
+>>>> **u/aeschenkarnos** [+1] *
+>>>> 
+>>>> Tidiness? Desire for XP? Desire for sudden fall of the entire Landguard to blackguards due to massive overwhelming evil act?
+>>>> 
+
+>>>>> **u/eaglejarl** [+1] *
+>>>>> 
+>>>>> To ensure that the undead are destroyed and can't come after you.
+>>>>> 
+
+>>>>>> **u/aeschenkarnos** [+1] *
+>>>>>> 
+>>>>>> Is this *entire world* nothing but a hellscape, exclusively controlled by the undead? All the natural beauty gone, all the plants and animals corrupted or dead, no other civilizations hanging on, deep in jungles or under the ground or under the sea? No innocent life *anywhere*?
+>>>>>> Destroying an entire world, the cradle of life, the beautiful creation of the gods - this seems to me to be an evil act on a cosmic scale.
+>>>>>> 
+
+>>>>>>> **u/eaglejarl** [+2] *
+>>>>>>> 
+>>>>>>> Nope, there absolutely still is innocent life and beautiful things.  That's what Jake was talking about in today's chapter.  Looked at from a utilitarian viewpoint, the question is murky:  
+>>>>>>> - The undead will almost certainly kill and/or convert all life on the planet; does this mean that the lives that exist now can be looked at as unsavable and therefore not a factor in decision making?
+>>>>>>> - Exactly how many lives would be taken by blowing up the planet?  How do you tell?
+>>>>>>> - If doing this is the only way to be sure that the undead don't follow and kill off the millions of people that you are transporting, how does that affect the calculation?
+>>>>>>> - Will the undead stay confined to this world, or will they spread to others before the gods finally decide to cut them back?  If they do spread, how many billions of lives will they end?
+>>>>>>> 
+
+>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>> 
+>>>>>>> Hence why Jake was horrified at himself for thinking of it, and for actually working out the practical details.
+>>>>>>> 
+
+>>>>>>>> **u/aeschenkarnos** [+3] *
+>>>>>>>> 
+>>>>>>>> Not thinking evil thoughts is not goodness, it is naivete. The truly good anticipate the thoughts and plans of the evil, and counteract them.
+>>>>>>>> 
+
+> **u/Empiricist_or_not** [+2]  *Aspiring polite Hegemonizing swarm**
+> 
+> Big Booms:
+> 1. Rods from God via linked linked gates in space. Lots and lots of of Rods from God. 
+> I'd hold this back as part of a coordinated decapitation strike on all know liches after scrying out the demilich or god they probably work for.
+>     I'm pretty sure kiloton to megaton level explosives will overcome the DR for any phylactery that is on the prime material plane.
+> 2.  Look at the *Teleport* and *Gate* spells for ways to relocate significant pieces of the sun  into hostile territory (but do the math first) you want toasted hostile countries, not the earth analog turning into mercury or slipping into the elemental plane of fire.
+> 3.  Polymorph any object created antimatter.  Can it create quark degenerative matter?  How much can you safely use on a target continent?
+> 
+
+>> **u/PeridexisErrant** [+2]  *put aside fear for courage, and death for life**
+>> 
+>> > Can it create quark degenerative matter? How much can you safely use on a target continent?
+>> If you can get antimatter, presumably the answer is yes.  I imagine that there is no such thing as a safe dose.
+>> 
+
+> **u/None** [+2] *
+> 
+> >4.d) Spells with obvious opposites have them. E.g, since Shrink Item is canon, Enlarge Item exists. Opposites have the same level and stat block as their canonical counterpart. A similar effect applies to the various Wall of X spells and other things similar to them; Rules As Written say "you can double the wall's area by halving its thickness." I will also allow halving the area in order to double its thickness, and I'll allow you to double / halve more than once. And, since the sizings on those walls say "up to x square feet", you can cast them as small as you want, or change the height and width however you like as long as you stay within the specified square footage—instead of a 10'x10' square you can have it be 5'x20', etc.
+> Space elevator? Eternal night? Ridiculously long range lance?
+> 
+
+>> **u/mycroftxxx42** [+6] *
+>> 
+>> Giant *polished* (via prestidigitation) ultrathin walls of iron set at various geostationary points with slow rotations.  Everywhere the undead want to be now has 20 hours of daylight.
+>> 
+
+>>> **u/clawclawbite** [+2] *
+>>> 
+>>> Why would you need to polish them, as long as you created them in space, they would not rust, and as they are created with a fixed thickness, they are perfectly flat already, and don't need polishing.
+>>> 
+
+>>> **u/Gurkenglas** [+1] *
+>>> 
+>>> The walls would have to be created in their shape, which means that the prestidigitation would have to be applied across their surface, but Prestidigitation has a pitiful range, so that could take a while.
+>>> 
+
+>>> **u/clawclawbite** [+1] *
+>>> 
+>>> Todo: Research Wall of Iron with LOS range.
+>>> 
+
+> **u/Prezombie** [+2] *
+> 
+> How about finding a way to experimentally determine if someone is a PC or an NPC? I know that Diplomacy doesn't work on PCs in RAW, but I'm not well versed enough in the RAW to find a more reliable way to find them from an in-universe perspective.
+> Once you have a confirmed PC, you've got another counter to Diplomancy cheese, and the chance of actually having a communication line to the outside.
+> I've got this wierd vision of some bard being a PC, and using Pinkie Pie-esque references to give coded messages which slip past the OOC filter.
+> 
+
+> **u/Vebeltast** [+2]  *You should have expected the bayesian inquisition!**
+> 
+> *Blasphemy*/*Holy Word*/*Word of Chaos*/*Dictum* instagib everything around you that's 10 or more hit dice behind your caster level. No save. Caster levels are hilariously easy to increase: Orange Ioun Stones give an untyped bonus to caster level. Stack up Orange Ioun Stones until your caster level is in the low hundreds, then walk up to $target and cast an appropriate *Word*. Boom. Even works on Undead!
+> ---
+> Craft Contingent Spell lets you set any spell you know to be cast on a near-arbitrary trigger. For example, you can trigger a *Celerity* for whenever combat starts, ensuring you never lose initiative ever again. Or you can trigger an *Atonement* whenever you have to use *Blasphemy* while you're Good, so that you can use your *Word*s without having to worry about your alignment. Or, for that matter, you could just set a *Word* to go off whenever a high-level undead is within the AoE. Cast *Heal*s whenever you're at low health. Cast *Delay Death* whenever you're about to die.
+> ---
+> *Magic Mouth* can trigger off arbitrarily complex audible signals. It can produce audible signals. *Magic Mouths* can trigger each other. Build a computer.
+> ---
+> Things which have had *Temporal Stasis* cast on them are completely invulnerable modulo *Dispel Magic*. Use *Animate Object* to animate a giant folded-up tarp, have the animated tarp origami itself into a castle, *Temporal Stasis* your new castle. Or door. Or helmet. Whatever.
+> Quintessence is similarly fun.
+> ---
+> If you want mechanical energy, *Heat Metal* when cast underwater instantly boils all of the water nearby. An acre or two of chicken wire could easily power a gigawatt-range reactor. If you don't want to go through the trouble of electrical generation, just use a ring gate to connect your fuck-off-huge steam turbine to your load through a *Temporal Stasis*'d shaft. Side note: when you're doing stuff like this, it's much easier to build open-cycle systems using Decanters on the input side and *Dispel Water* or Spheres of Annihilation on the output side.
+> ---
+> ...*Goodberry*. How the hell did everybody forget *Goodberry*. A single command-word item of it, at maximum throughput, can permanently feed 10k people. And berries are way more tasty and logistically convenient than protein sludge.
+> ---
+> *Major Creation* can make just about anything you want. Including "rare metals" and other odd stuff. It's temporary - one round per level - but it significantly lowers the level requirement for antimatter bombing runs. Other fun things to create: Hydrazine (fuck you, Tsiolkovsky), enriched uranium (what happens to fission and activation products when the original uranium goes away?), 10 cubic feet of photons (IMMA CHARGIN MAH LAZOR).
+> ---
+> You can make any spell into a trap. Traps can be reusable, auto-resetting, and - most importantly - auto-*casting*. Give them super-low search, avoid, disarm DCs and so on, and your magic items now cost a thousandth as much XP. And take a thousandth the time to craft. And don't require people to stand there and set them off. Even better, if you've built yourself a *Magic Mouth* computer, you can use traps for physical I/O.
+> ---
+> If there are *any* infinite planes *anywhere* in the multiverse, you can use *Planar Binding* to summon *whatever you want*. Because no matter how small the measure of your target being is, if it's nonzero (and, in DND terms, "nonzero measure" means "you can build it as a character, the build is the story") there's a concrete instance out there somewhere for you to summon. Have fun!
+> 
+
+>> **u/eaglejarl** [+1] *
+>> 
+>> Goodberry requires that the berries be freshly picked; not something that scales well with a spell engine.
+>> I love the Major Creation options.  You'd want to MC the photons already collimated, in phase, and moving in the same direction, though.
+>> Magic traps are one version of what I've been calling 'spell engines'.  There's also spell turrets spell clocks.  I just use 'engines' to lump them all together.
+>> [Magic Mouth](http://www.d20srd.org/srd/spells/magicMouth.htm) says "The mouth cannot utter verbal components, use command words, or activate magical effects," so it actually can't activate another Mouth.  Also, it's a one-shot; once it's discharged, it's gone.  Other spells CAN (e.g. Programmed Image) say command words, though.
+>> Infinite planes:  true.  Unfortunately, Jake sacrificed the knowledge of the "infinite planes == whatever you want."
+>> The Heat Metal thing works, although [Wall of Fire has higher energy output](http://www.giantitp.com/forums/showsinglepost.php?p=7499319&postcount=29) (at the cost of a higher level spell).
+>> 
+
+> **u/mhd-hbd** [+2]  *Writes 'The World is Your Oyster, The Universe is Your Namesake'**
+> 
+> I would pull out all the stops. First I would use one wish to grant myself an irremovable ring of at-will free-action extraordinary ability wishing (*not* an infinite loop, just at-will spellcasting and item creation)
+> With that I would either set out to turn my level 0 commoner executive assistant into The Word (specialized caster who can cast divine spells at caster level 122) and then just straight up kill the offending gods of death.
+> And we would be [The Wish and The Word](http://www.dandwiki.com/wiki/The_Wish_and_the_Word_%283.5e_Optimized_Character_Build%29), god-killers extraordinaire.
+> 
+
+> **u/None** [+1] *
+> 
+> ...Find a way to strip the memory of the infinite wishes proscription, then try infinite wishes again.
+> What's the worst that could happen?
+> 
+
+>> **u/eaglejarl** [+3] *
+>> 
+>> "What's the worst that could happen?"
+>> "Hey y'all, watch this!"
+>> "What does this button do?"
+>> "All gods are bastards!"
+>> "Man, this game sucks, and the DM is an idiot."
+>> "Hey Orcus!  Your father was a hamster and your mother smelt of elderberries!"
+>> ;)
+>> 
+
+>>> **u/None** [+6] *
+>>> 
+>>> >"Hey Orcus! Your father was a hamster and your mother smelt of elderberries!"
+>>> Orcus stands, and grasps his great claymore from the weapon stand beside his throne. He descends slowly from the raised dais his throne rests upon, taking each step slowly and carefully, exuding malice.
+>>> On the third step down his ankle catches on a length of adamantine razor wire, neatly severing one of his feet. He falls over forward, hitting yet more razor wire. He arrives at the base of the dais in imperfectly quartered chunks.
+>>> The thief and wizard share a massive XP dump. (Thief runs regular razor wire, wizard casts Transmute Object: Adamantine on the wire)
+>>> ...
+>>> Well, not really, but it'd be funny to behold.
+>>> 
+
+>>>> **u/eaglejarl** [+1] *
+>>>> 
+>>>> Heh. Yes, that would be hilarious. Not terribly believable, but hilarious. :)
+>>>> 
+
+> **u/aeschenkarnos** [+1] *
+> 
+> Can Jake acquire a character class?
+> 
+
+>> **u/eaglejarl** [+1] *
+>> 
+>> Nope. He stands outside the alignment and experience system.
+>> 
+
+>>> **u/aeschenkarnos** [+3] *
+>>> 
+>>> Then that's my Jake's first line of enquiry. *What am I?* He can be hit, therefore has an AC. He can hit things, therefore has a BAB. He can be affected by magic therefore has saves. He can benefit from stat-boosting items therefore has stats. He can operate magic items, although he apparently has no UMD skill; he can *know things*, although he apparently has no Knowledge skill. Does he have an alignment, ie do items that interact with Good or Evil interact with him?
+>>> I'd work on my own character sheet, in the course of magically improving and equipping myself to raise whatever can be raised as high as it will go. I want AC and saves in the +30s. I want stats in the 30s.
+>>> I want to figure out *why* I cannot accumulate XP - am I missing a necessary organ? Can I *wish* that into place, without limiting myself? Can I then abuse the system to acquire character classes? It seems the world doesn't operate with the Epic Handbook (unless I'm misremembering), so I will multi-class to 20 in every base class and 10 in every prestige class that I can qualify for.
+>>> Then as Supreme Being of this damnfool world, with my three-digit bonuses and hit points in the tens of thousands, I will unmake all the bits of it that annoy me, which is highly likely to include the undead horde.
+>>> (Oh crap. I think I've figured out a plausible origin for Stupid-world; perhaps some previous planar intruder did exactly that?)
+>>> 
+
+>>>> **u/eaglejarl** [+3] *
+>>>> 
+>>>> Good thought. In fact, I really need to have Jake sit down and do some introspection now that he's got a few days where he's not rushing from one crisis to another. And yes, this should be near the top of his list. Thank you; you're definitely getting a cameo.
+>>>> 
+
+>>>>> **u/aeschenkarnos** [+2] *
+>>>>> 
+>>>>> Hmm. Thank you. Nothing too embarrassing, I hope. :)
+>>>>> Another question occurs to me: *players*. Jake's assumptions for this world are based on it being a RAW D&D 3.5 game world. Where do *players* fit into this? Is he being played, by which I mean, his decisions made by an entity at a higher existential/dimensional level? Is anyone else? (Bonus points for addressing the mind-as-signal/brain-as-receiver model.)
+>>>>> This question may require high-strength psychedelics to explore, in character or out of character. ;)
+>>>>> 
+
+>>>>>> **u/eaglejarl** [+1] *
+>>>>>> 
+>>>>>> My brain hurts.  Away with you, and take your brain-hurting ideas with you.
+>>>>>> 
+
+>>>>> **u/clawclawbite** [+1] *
+>>>>> 
+>>>>> And if he does have a class that is outside the system, consider the powers of a level 20 Systems Programmer.
+>>>>> 
+
+>>>>>> **u/eaglejarl** [+2] *
+>>>>>> 
+>>>>>> And there's an object lesson in things that are not functional.
+>>>>>> (bum dum tish!)
+>>>>>> 
+
+>>>>>>> **u/clawclawbite** [+1] *
+>>>>>>> 
+>>>>>>> I think Jake is more procedural, though he has returned surprising value.
+>>>>>>> 
+
+>>>>>>>> **u/eaglejarl** [+3] *
+>>>>>>>> 
+>>>>>>>> He tends to violate procedure at every turn, though -- look how he handles the Archpriest during the original parley. He is trying very hard to be logical. 
+>>>>>>>> Interesting fact: I had originally intended to give Jake a speech impediment as character flavor. Then I decided it was a bad Scheme to make him speak with a LISP.
+>>>>>>>> 
+
+> **u/Nepene** [+1] *
+> 
+> http://www.dandwiki.com/wiki/Diplomat_(3.5e_Optimized_Character_Build)
+> I'd use diplomacy bombs. If you get the skill up reasonably high (which shouldn't be too hard with monster training arenas) you can relatively quickly do mass conversions of the liches. To convert an enemy who is hostile to you and trying to kill you to a friendly person who will fight on your behalf requires a roll of 60. To convert them to fanatical requires a roll of 160.
+> http://community.wizards.com/forum/previous-editions-character-optimization/threads/1141886
+> In the long run I'd be trying to make some sort of build like this, where when the person jumps anyone who observes them instantly becomes a fanatical follower. This works just as well on gods, incidentally. If they observe me they are then fanatical followers because my unit's jump was so awesome.
+> Still, even without that extreme measure, diplomacy wins the game. Mass mind control of any sentient being. You could take measures to limit it's effectiveness, like blocking your hearing, but generally diplomacy is very effective.
+> http://www.giantitp.com/comics/oots0767.html
+> A potion of glibness is pretty good too, since it lets a character with good bluff rewrite reality.
+> 
+
+>> **u/eaglejarl** [+1] *
+>> 
+>> The Diplomancer build relies on feats, which I'm mostly not using.  I realize this is a pretty major section of the rules to leave out, but it prevents a lot of abuses and/or gamebreakers like this one.  Also, feats upset my 2nd-edition-trained brain.
+>> More generally, though:  the Diplomancer, Pun-Pun, and the Omnificer all share the same problem -- they are relatively easy to pull off, and then the story is over.  The Omnificer I handle by saying "I don't agree that it works" (which is true).  Pun-Pun I handle by saying "running the loops takes quite a few rounds; the gods would show up and smack you before you got too far out of control."
+>> The Diplomancer definitely works, and it can be built up to slowly enough that the gods probably wouldn't notice until you were already doing it.  Arguably, if they used their divine power to observe you doing your jump, they would be affected even if they weren't there.   So, yes, it's an entirely doable worldbreaker.  And that's part of why I don't use feats.
+>> 
+
+>>> **u/Nepene** [+4] *
+>>> 
+>>> The heavier abuse ones rely on feats, but you can get reasonably powerful effects even without them.
+>>> For example, you can create a magical item with a 30+ skill bonus for just around 90k gold. Takes 90 days. 100*skillbonus^2 A 5+ bonus takes 2.5 days. I'd probably get a number of magical craftspeople to make a variety of those for the near future, with different bonuses. You may well be able to acquire a cloak of diplomacy or such of 5+.
+>>> So, level 10 half elf cleric. No feats. 16 charisma, 5+ from wishes, 2 from level ups, 5+ from a magical item of charisma, total 28 bonus 14+. 13 skill points spent on diplomacy, 4+ from synergies, one 5+ item. 22 skills, total bonus 36. They cast visage of the deity, giving themselves a 4+ bonus to charisma. Cast divine insight on self, 15+ bonus to one skill check. Have some cast greater heroism on you, giving you a 4+ skill bonus. You now have a skill of 42, or 57 in a pinch. On a 3 you can convert any group in one full round action to be friendly to you, with visage of the deity you can with a 3 convert any enemy to be helpful to you in a standard edit full action. This power would get far worse as you got stronger diplomacy items. If our emperor had a 30+ item and a 5+ charisma bonus then he could convert any hostile enemy, including a god, to be friendly to him with no roll needed.
+>>> Is it abusive? Not much more than antimatter, I'd argue. It's a way of instant killing a group of people with less range and lower requirements. It could help a lot in mass conversions. And it's really not that hard, even without feats, to get a decent bonus.
+>>> 
+
+>>>> **u/eaglejarl** [+3] *
+>>>> 
+>>>> ...
+>>>> ...but...
+>>>> Ok, fine!  You asked for it!
+>>>>  /me makes a note in his plots file:  "Nepene provided exact build for diplomancer within 2YE ruleset.  Take vengeance.  Inform readers that it was all Nepene's idea."
+>>>> 
+
+>>>>> **u/Nepene** [+2] *
+>>>>> 
+>>>>> I reread the diplomacy skill description.
+>>>>> "Bluff, Knowledge (nobility and royalty), or Sense Motive"
+>>>>> There's actually three skills that you can put points in to get a cross skill bonus, so you can get 2 extra points. That means that with this no feat build you can upon rolling a natural 1 convert any group in one full round action to be friendly (chatting and offering advice) to you, and on a 1, burning your special power, convert them to be helpful (fighting by your side).
+>>>>> You can also drop one level because of that if you want, making the super diplomacer a bit faster to build.
+>>>>> 
+
+>>>>>> **u/eaglejarl** [+2] *
+>>>>>> 
+>>>>>> So, there you go. Diplomacy bomb deployed. I hope you're proud of yourself! 
+>>>>>> ;)
+>>>>>> 
+
+>>>>>>> **u/Nepene** [+1] *
+>>>>>>> 
+>>>>>>> I am. It was an awesome chapter, likely one of the most awesome chapters, and a prelude to more awesomeness as they just met the big bad and he has an absolutely terrifying power.
+>>>>>>> 
+
+>>>>>>>> **u/eaglejarl** [+1] *
+>>>>>>>> 
+>>>>>>>> Also, I just fixed the attribution.  Sorry about that -- I not only misspelled your name, I attributed it to the GitP forums.  Complete brain cramp.  It's fixed now.
+>>>>>>>> 
+
+>>>>>>>>> **u/Nepene** [+1] *
+>>>>>>>>> 
+>>>>>>>>> Thank you, it was a bit disconcerting when I saw it.
+>>>>>>>>> 
+
+>>>>> **u/Nepene** [+1] *
+>>>>> 
+>>>>> Should be awesome.
+>>>>> I remember reading about some historical thing. Some army had an excellent ways of beating their enemies. They'd invite all their enemy leaders to a peace conference, capture them or slaughter them, ransom them for wealth, buy a larger army. Rinse, repeat. 
+>>>>> People with a silver tongue have done crazy things in our history. With dnd magic on your side? Well, your enemy is going to have to very quickly learn how to fail their listen checks.
+>>>>> 
+
+> **u/Gurkenglas** [+1] *
+> 
+> Plane shift Grofhamr to a plane of warped time, so as to maximize the time its residents have left to live (and, more importantly, to get Jake more time to come up with ideas.) (I vaguely remember something somewhere in the fic outlawing time-warping planes, but I can't find it so I'm gonna suggest this.)
+> 
+
+>> **u/eaglejarl** [+1] *
+>> 
+>> Yep, I banned Genesis and all other sources of time-altered planes.  Once you allow such things, the game is over.  It just becomes "you got the plane?  Oh.  Ok, you win."
+>> 
+
+> **u/clawclawbite** [+1] *
+> 
+> Test out polymorph with the end racial type: Kryptonion.
+> See if I could drop a ring portal into the sun, or into near orbit.
+> 
+
+>> **u/eaglejarl** [+2] *
+>> 
+>> *laugh*
+>> So, basically you're saying I should turn 2YE into "The Metropolitan Man"?
+>> 
+
+>>> **u/clawclawbite** [+1] *
+>>> 
+>>> And they turn back to human when they die.
+>>> Also, suddenly the secret "there exists kryptonite" is of great value.
+>>> So yes, I am.
+>>> 
+
+---
+

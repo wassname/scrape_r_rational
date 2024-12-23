@@ -1,0 +1,41 @@
+## [RT] Defending Elysium
+
+* Author: u/ulyssessword *
+* URL: http://brandonsanderson.com/defending-elysium/
+* Score: 18
+
+* Created: 2015-09-05T06:33:14
+
+### Post:
+
+[Link to content](http://brandonsanderson.com/defending-elysium/)
+
+### Comments:
+
+> **u/tobyyas** [+1] *
+> 
+> Wrong picture? Perfect state is a nice story though. (Everything from Brandon Sanderson is...)
+> 
+
+>> **u/alexanderwales** [+3]  *Time flies like an arrow**
+>> 
+>> Reddit's thumbnail chooser is pretty stupid.
+>> 
+
+>> **u/ulyssessword** [+1] *
+>> 
+>> Huh, I didn't even notice that.  It's just what was automatically recommended.
+>> 
+
+> **u/fljared** [+1]  *United Federation of Planets**
+> 
+> I'm rather skeptical that in two centuries the Earth government couldn't reverse engineer something like that. It's the equivalent of modern day scientists not being able to make a gun used in the war of 1812.
+> In a similar fashion, the fact that none of the other cultures was able to up their weapons game in 200 years doesn't really make sense.
+> How has the phone company kept its secrets for that long? Two hundred years, and no-one was able to get past the background checks to get in and do corporate espionage past "one blurry photo"?
+> Who runs the Phone Company? Why can one agent decide that FTL technology is released to the world? How can that same agent keep his marriage a secret when the background checks for that sort of organization would make the FBI look like a McDonald's?
+> Since the final step in intelligent evolution is so easy to summarize, and the aliens don't consider it to be orthogonal to our values, why did they keep it a secret? Why not just say "This is what you should do, and here are the moral reasons why it's right, which we have because it's the sort of moral argument that probably came up a lot back when we started to do this, and we've managed to convince ourselves of it"?
+> Good story, but the above is a bit too much of a plot hole for me to call it Rational.
+> 
+
+---
+

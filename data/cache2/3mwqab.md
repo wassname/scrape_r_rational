@@ -1,0 +1,75 @@
+## [RST] Induction - Chapter 6 (/r/changestorms)
+
+* Author: u/eaglejarl *
+* URL: https://www.reddit.com/r/changestorms/comments/3mwq6p/chpr_induction_chapter_6/
+* Score: 5
+
+* Created: 2015-09-30T01:17:13
+
+### Post:
+
+[Link to content](https://www.reddit.com/r/changestorms/comments/3mwq6p/chpr_induction_chapter_6/)
+
+### Comments:
+
+> **u/eaglejarl** [+1] *
+> 
+> So what do you think?  Would that interrogation tactic have worked on you?
+> 
+
+>> **u/nicholaslaux** [+3] *
+>> 
+>> Hasn't research been done that shows that intelligence gathered from torture is generally not useful? This effectively reads like a form of torture (highly descriptive and not exactly "veiled" threats that are highly believable) which, to my best understanding, generally isn't as effective in reality as it is in TV shows and movies.
+>> I'm not sure if that's the case only for long-term threats rather than short-term threats, and I'd imagine it might be more effective on mercenaries than true believers, but I'm not overly familiar with the techniques to know all of the details of their efficacies. 
+>> I'm not certain, but I do imagine that a trained psychologist would be aware of that, especially given that she utilized rapport-building strategies when initially dealing with the kidnappers.
+>> 
+
+>>> **u/eaglejarl** [+3] *
+>>> 
+>>> My understanding is that that refers to physical torture.  What Monique and Elly did wasn't far different from Bad Cop saying "You're going down for this!  For a million years, unless you rat out your partner!"
+>>> 
+
+>>>> **u/alexanderwales** [+5]  *Time flies like an arrow**
+>>>> 
+>>>> It's the same logic though. You're going to get desperate fabrications. (Studies on this are so fraught with politics that they're virtually worthless.) And just for the record, there are a large number of jurisdictions where Bad Cop would be violating the law by coercing a confession like that; they're not allowed to use explicit threats or promises because that's an infringement on the human rights of the subject *and* because it's not likely to get good information.
+>>>> You tell me to rat on my partner and I'll go free? Well, it doesn't matter that I'm innocent, I'm going to find *someone* to rat out. Same problem as pulling someone's nails, just less extreme.
+>>>> 
+
+>>>>> **u/eaglejarl** [+2] *
+>>>>> 
+>>>>> I think the usual presentation is "give us information that will help us get a more important criminal and we'll get you a reduced sentence."  Which isn't that unreasonable. 
+>>>>> As to fabrications -- they don't hold up. The deal is "give us (the police) something useful and you get a benefit."  If the information turns out to be false then there's no deal. 
+>>>>> As to making threats...it's really not a threat to say something like "we have you on armed robbery, and you're looking at fifteen years in jail."  That's just a simple fact, not a threat.
+>>>>> 
+
+>>>>>> **u/alexanderwales** [+4]  *Time flies like an arrow**
+>>>>>> 
+>>>>>> > As to making threats...it's really not a threat to say something like "we have you on armed robbery, and you're looking at fifteen years in jail." That's just a simple fact, not a threat.
+>>>>>> It's both. That's the problem. If I say "I have charges stacked up so high that you're never going to see the light of day again ... or you can just plead guilty on this smaller stack of charges and maybe you get to see your family in a year" then *you have incentive to plead guilty even if you are innocent*. This is the problem with plea bargaining; the threat of punishment gives incentives which undermine proper legal proceeding. (With regards to confession, this is a problem because it gives people incentive to provide false information.)
+>>>>>> > As to fabrications -- they don't hold up. The deal is "give us (the police) something useful and you get a benefit." If the information turns out to be false then there's no deal.
+>>>>>> Even if I bought that, this is *not* what's going on in this chapter. They're giving an immediate threat which they have no way of fulfilling after checking that information; by the time they find out, he'll be out of their custody and no longer subject to the threat.
+>>>>>> But I don't buy it, because in many cases the very fact that the coerced person testified is used as proof against the accused. This was how the witch trials ended up in chains of accusal with every individual person in the chain only considered guilty because of testimony and only forgiven because they gave testimony.
+>>>>>> And even if you say "well, then we'll not use testimony as part of our evidence and only offer deals on concrete things" then you're *still* going to run into problems because every person you coerce is going to have incentive to lie. If they don't know anything, they're going to lie anyway, on the off chance that it pans out (unless you're going to provide a penalty to them for that, in which case someone who legitimately knows nothing will suffer for both talking or not talking, which is pretty obviously unjust).
+>>>>>> ***All that said***, we probably just have different views on how the justice system should operate. I think a lot of how it's done in the United States is the result of perverse incentives which result in poor outcomes.
+>>>>>> 
+
+>>>>>>> **u/eaglejarl** [+3] *
+>>>>>>> 
+>>>>>>> > I think a lot of how it's done in the United States is the result of perverse incentives which result in poor outcomes.
+>>>>>>> Oh, trust me, I'm not happy with the American system. Two friends of mine just got convicted of embezzlement, which is hilarious when you hear the backstory: they created a charity to help wounded veterans, sold their house to fund it, and didn't draw salary for years in order to stretch the money. Worst. Embezzlers. Ever. Unfortunately, the VA didn't like having their turf encroached on and did everything they could to spike the organization, up to and including criminal charges. It was nuts.
+>>>>>>> 
+
+>>>> **u/nicholaslaux** [+1] *
+>>>> 
+>>>> My reading was that it was a lot further than "going down for this for a million years" and more similar to Bad Cop holding a loaded gun to his head and saying "You sure you want to risk not telling me? I've gotten away with it before."
+>>>> As for physical vs psychological torture, like I said, I'm not familiar enough with the literature to know if only one, rather than both, are equally bad at getting to the truth. I suspect Elly would, but only because her background includes training that mine doesn't.
+>>>> And as /u/alexanderwales points out, regardless of how you categorize it, it's still coercive and thus seems like it would be less effective at getting accurate information, since in a panic, they're going to spout off whatever they think you want to hear, regardless of the veracity of that information.
+>>>> 
+
+>>> **u/Jiro_T** [+1] *
+>>> 
+>>> There are more effective ways of using torture.  For instance, you can ask some questions, half of which you know the answers to (and which you know he knows the answers to) and half of which you don't.  Torture the person when he lies on the half you know the answers to.
+>>> 
+
+---
+

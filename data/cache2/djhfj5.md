@@ -1,0 +1,21 @@
+## [RST][FF] Nothing can I hold of you but thought - a Valdemar fanfic - ASFTV vol 8, ch1-3
+
+* Author: u/Swimmer963 *
+* URL: https://archiveofourown.org/works/21076025/chapters/50140571
+* Score: 9
+
+* Created: 2019-10-18T03:11:42
+
+### Post:
+
+[Link to content](https://archiveofourown.org/works/21076025/chapters/50140571)
+
+### Comments:
+
+> **u/Swimmer963** [+2] *
+> 
+> Note that this is part 8 of a really, really long series, which is best read in order.
+> 
+
+---
+

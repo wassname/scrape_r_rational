@@ -1,0 +1,2168 @@
+## [RT] [HF] Mother of Learning Chapter 96: Contract
+
+* Author: u/Xtraordinaire  *Team Glimglam**
+* URL: https://www.fictionpress.com/s/2961893/96/Mother-of-Learning
+* Score: 293
+
+* Created: 2019-02-18T02:16:24
+
+### Post:
+
+[Link to content](https://www.fictionpress.com/s/2961893/96/Mother-of-Learning)
+
+### Comments:
+
+> **u/Mountebank** [+93] *
+> 
+> Anyone else surprised by how straightforward the angel was? You'd usually expect some mystical mumbo jumbo and talking in circles, but nope, this one actually answered in full sentences and was coherent.
+> 
+
+>> **u/NZPIEFACE** [+66] *
+>> 
+>> Yeah well, they already had a massive legal document to fuck em over.
+>> 
+
+>> **u/None** [+50] *
+>> 
+>> Yeah, if I had any criticism of this amazing ~~fanfic~~ rationalist fiction it would be that the tone and speaking style (even down to the slang used) of most characters when they speak is fairly similar. It helps deliver rational dialogue however when people speak plainly, so I appreciate it for that, and maybe it's something unavoidable with rational fictions in general, but it's more noticeable here, at least for me. I still very much enjoy it though!
+>> 
+
+>>> **u/-Fender-** [+58] *
+>>> 
+>>> What struck me was how Quatach Ich used the same types of sentences and expressions as Raynie.
+>>> Also, I laughed when the angel said "Heavens no!" That's basically the equivalent of citizens of the United States using "America no!" as a common expression.
+>>> 
+
+>>>> **u/None** [+29] *
+>>>> 
+>>>> [deleted]
+>>>> 
+
+>>>>> **u/Tommy2255** [+14] *
+>>>>> 
+>>>>> Heaven, fuck yeah!
+>>>>> Heaven, world police!
+>>>>> Works pretty well really.
+>>>>> 
+
+>>>> **u/tjhance** [+16] *
+>>>> 
+>>>> To be fair, the angel probably has some divine ability to just know the language and dialect of whoever they're talking to. When I hear "heavens, no" I just hear a generic curse and don't actually think about heaven. It's just part of the language.
+>>>> QI is a different story.
+>>>> 
+
+>>> **u/PhilosopherGanon** [+14] *
+>>> 
+>>> This isn't a fanfiction but otherwise I agree
+>>> 
+
+>>>> **u/None** [+5] *
+>>>> 
+>>>> You’re right I meant to say rationalist fiction, been reading a bit too much of both recently
+>>>> 
+
+> **u/AstraFlame** [+59] *
+> 
+> > Zach sent Zorian an almost imperceptible frown. He clearly didn’t understand why Zorian was so certain, but didn’t want to call him on it.
+> >Zorian didn’t blame him. He had long had his suspicions, but it was only when he saw the true form of Zach’s angelic contract that he became completely certain…
+
+> I wonder what Zorian saw in the contract that made him so certain RR wasn't Veyers. Is it because Jornak is a lawyer and it's a contract? I just don't see a connection other than that...
+> 
+
+>> **u/therealflinchy** [+44] *
+>> 
+>> That was my guess, jornak could actually understand the contract
+>> 
+
+>>> **u/Fearless_Chair** [+18] *
+>>> 
+>>> As I understood it Zach never even saw the contract, nor did he have any access to it. So if they never had the contract to begin with, what would there be for Jornak to understand? Nor did I get impression that the contract was somehow imprinted into the marker, and it's not like they could summon an angel to show it to them while inside the loop. So all Zach really had to go on would be the summarised version given to him in the dream, which didn't seem like something that would require a lawyer.
+>>> 
+
+>> **u/TristanTheViking** [+45] *
+>> 
+>> "Subsection 43, clause 11B: Also don't interact too much with any lawyers, because they invariably turn evil once discovering the time loop."
+>> 
+
+>>> **u/Tommy2255** [+25] *
+>>> 
+>>> That's how he escaped the time loop! Soul magic can't detect someone who doesn't have a soul. As far as the gate guard was concerned, he didn't even count.
+>>> 
+
+>>> **u/archpawn** [+4] *
+>>> 
+>>> "Source: Am evil."
+>>> 
+
+>> **u/None** [+14] *
+>> 
+>> When the Angels have set up a Contract, their opponents must logically be demon lawyers. 
+>> Man, I'm getting some heavy Pact vibes here.
+>> 
+
+>> **u/I-want-pulao** [+15] *
+>> 
+>> Well, we need some cliffhangers! Can't have everything solved just now. We'll get the contract next chapter.
+>> 
+
+>>> **u/exceptioncause** [+9] *
+>>> 
+>>> Next chapters! The contract is long, it can't fit single chapter.
+>>> 
+
+>> **u/hallo_friendos** [+3] *
+>> 
+>> I'm guessing there was a clause saying Zach wasn't allowed to soulkill anyone while in the time loop. This would make it much more difficult, if not impossible, for Veyers to end up soulkilled if he was Red Robe.
+>> 
+
+> **u/I-want-pulao** [+56] *
+> 
+> Well. Angels aren't as big of dicks as we expected. Still dicks though. If they say there's a way out, then there's gotta be a way out somehow. 
+> RR revelation - well. Made the most sense, we knew this was the most likely outcome since Zach exited the loop.
+> One final battle eh.... The stakes just keep getting higher and higher. I'm loving it.
+> 
+
+>> **u/Chrono_Nexus** [+24] *
+>> 
+>> I'm fairly certain that the way out is to be "dead" at the deadline. It might seem too simple, but if Zach is inside a black room when the contract checks for death, he might be able to avoid it.
+>> 
+
+>>> **u/turtleswamp** [+21] *
+>>> 
+>>> Seems reasonable.
+>>> The angel did imply it could be done, and did let slip both that the angels lack information on what happened inside the time loop, and that the time loop is similar to a black room in that both isolate the contents from the universe (something Z&Z already knew but the angel provided conformation, and if they hadn't known they would now). The missing piece is whether the mechnism that would kill Zack is built into the blessing/contract itself or is something that uses the blessing/contract as a marker and has to search creation for the marker to act on it. 
+>>> &#x200B;
+>>> That's enough missing information the angel didn't tell them how to evade the auto-kill, but also provided the black room trick would work, not necessarily a piece of information they need to be sure of in order to try.
+>>> 
+
+>>>> **u/Fearless_Chair** [+11] *
+>>>> 
+>>>> I'd assume the kill mechanism is built-in. It might even make him attempt to commit suicide if he isn't dead after the mechanism activates, just as an extra fail-safe in case he survives it somehow. I can't imagine a black room to be the solution.
+>>>> &#x200B;
+>>>> I think they have to either find a loophole so that the contract is technically fulfilled or make the contract/marker be inactive at the time of the deadline. I'm not sure how they would accomplish either, but just spitballing here: They could just kill Zach near the end and let him be absorbed into the giant soulbattery, then extract his soul and put it into one of Zorian's golem bodies after the deadline. This way he would be "dead" at the deadline anyway, probably voiding the contract. This is probably not an easy thing to do, but it might be possible.
+>>>> &#x200B;
+>>>> But tbh I think the real solution (if there is one) might be simpler than that.
+>>>> 
+
+>>>>> **u/CreationBlues** [+2] *
+>>>>> 
+>>>>> If the black room counts as the "universe," then is zach is the only one in it then the contract is technically fulfilled. Either the outside world can't activate it or the marker looks and can't find anyone that would violite the contract.
+>>>>> 
+
+>>>>>> **u/kaukamieli** [+1] *
+>>>>>> 
+>>>>>> Yea a black room would be simple way to do it.
+>>>>>> 
+
+>>>>>> **u/Fearless_Chair** [+1] *
+>>>>>> 
+>>>>>> It's an interesting interpretation. It still seems like such an easy exploit and it's not like the gods didn't know about those kind of chambers when they made it. And that's assuming the contract was even made way back then, which I don't think is the case. I think the contract was made recently by the angels and only made divine by some divine artifact (as some other poster theorised) and I just can't imagine them overlooking something that simple, especially considering how the timeloop works.
+>>>>>> 
+
+>>> **u/archpawn** [+1] *
+>>> 
+>>> I wonder how thoroughly they can "kill" him while still leaving it reversible. Temporarily extract his soul, then put it back after the deadline ends.
+>>> Or maybe he could abuse time zones to never be in the day where he's supposed to die.
+>>> 
+
+>> **u/p3t3r133** [+21] *
+>> 
+>> The only other person we know of with an angelic contract is IQ. Hes not exactly alive. I wonder if he became a lich to get out of his contract and keep his mana reserve. Not saying Zach is going to become a lich, but maybe temporarily dead. 
+>> Or he just dies in the final battle, but they are able to resuscitate him.
+>> 
+
+>> **u/None** [+22] *
+>> 
+>> Tbf, they didn't make the contract it seems. Only the gods can make those, and the angels just picked one to give to Zach.
+>> 
+
+>>> **u/I-want-pulao** [+74] *
+>>> 
+>>> Still can't believe dream agreement is a valid method of consent in this universe......
+>>> &#x200B;
+>>> &#x200B;
+>>> 
+
+>>>> **u/braiam** [+86] *
+>>>> 
+>>>> Well, the ethics committee agreed to it, so what is the issue?
+>>>> 
+
+>>>>> **u/VivaLaPandaReddit** [+5] *
+>>>>> 
+>>>>> If it passes ARB review it's all good. Just make sure you take the official training classes.
+>>>>> 
+
+>>>>> **u/TrebarTilonai** [+2] *
+>>>>> 
+>>>>> I'm... not sure they did, actually. The angel implied they were running some sketchy behavior. "Our current interference is already overstepping certain boundaries that we would rather not cross. It would have been best for everybody if nobody had realized our involvement." There's a lot of that in the conversation.  The whole thing seemed to boil down to "If you successfully complete the quest, we will look the other way but if anyone finds out we screwed up, we're going to wipe everybody out to cover our tracks"
+>>>>> 
+
+>>> **u/Ardvarkeating101** [+49]  *Father of Learning**
+>>> 
+>>> No, they said they had to run it by the ethics committee, so it's likely they have a divine contract printer artifact that they insert the contract into and that makes it with divine magic.
+>>> 
+
+>>>> **u/abnotwhmoanny** [+27] *
+>>>> 
+>>>> Yeah, they said they couldn't change it or destroy it, not that they didn't make the terms in the first place. For that matter an old contract laying around that was that specifically tailored to that situation would be pretty crazy, even for the gods.
+>>>> 
+
+>>>>> **u/Tommy2255** [+3] *
+>>>>> 
+>>>>> Well, we don't really know how "gone" the gods are exactly, we just know that they haven't been talking to mortals for a while. They could still be around writing contracts.
+>>>>> Although my personal theory is that the "real world" is also a simulation just like the loop was, just slightly larger to contain the angels as well. We don't hear from the gods because the universe is in safe mode. I don't really have enough evidence to back this up, but there have been few if any other theories about where the gods are. If that's the case, there could be interference from whichever god is hosting the simulation, just as we saw in the time loop.
+>>>>> 
+
+>>>>>> **u/abnotwhmoanny** [+2] *
+>>>>>> 
+>>>>>> Well, what do you mean by "simulation" exactly? The loop was certainly a reproduction, but it wasn't fake in any way. Every atom in it was real and every creature in it was a full fleshy living thinking creature. Technically every loop ending was a catastrophe of incomparable proportions.  
+
+>>>>>> Are you saying the gods still exist in a "real world" and that the world the main characters live in is a reproduction. Or are you saying that the world of the characters is not physically real?
+>>>>>> 
+
+>>>>>>> **u/Tommy2255** [+1] *
+>>>>>>> 
+>>>>>>> The difference is probably irrelevant physically and definitely irrelevant ethically. Sapience is a pattern, not a material, and that pattern imprinted on "virtual" atoms is still a "real" person. Whether or not they are real atoms (in which case, where did they come from and where did they go? That seems like it would take far more magic than just a simulation, but the fact that Zorian's soul escaped, and considering that a soul is made of magic, means that the whole process was somehow exothaumic and produced real magical energy from somewhere, even if it didn't directly produce matter), either way it all behaved realistically from the perspective of the people inside it.
+>>>>>>> But I don't see a utility from the gods' perspective in looping across that much time, so I doubt it's a simulation in the sense that they intend to revert it. More like they just shoved the whole universe in a pocket as long-term storage that they can bring it back out of if they want to, to observe whatever progress it's made in the mean time. Still I would expect that they're at least considering the possibility of reverting it if something particularly shitty happens (as the angel described it "scorched Earth" tactics, such as restoring a backup state).
+>>>>>>> 
+
+>>>>>>>> **u/abnotwhmoanny** [+2] *
+>>>>>>>> 
+>>>>>>>> From a perspective of whether or not the creatures are sapient, it certainly doesn't matter, but that's hardly the only criteria to judge a world by. A replication is much harder to manipulate than a simulation for instance.  
+
+>>>>>>>> It sounds to me like what your actually claiming is that "The gods didn't leave, they just moved the world", which is kind of identical. From a physics stand point at least, the two are just different perspectives of the same relative movement.
+>>>>>>>> 
+
+>>>>>>>>> **u/Tommy2255** [+1] *
+>>>>>>>>> 
+>>>>>>>>> In the sense that a plane is a device which propels the entire world away from itself in order to bring its destination to it, yes, the gods leaving and moving the world is the same. But obviously there is a very meaningful difference. Before, the universe didn't have an external layer over itself separating it from more esoteric parts of the multiverse, and now it does.
+>>>>>>>>> 
+
+>>>>>>>>>> **u/abnotwhmoanny** [+2] *
+>>>>>>>>>> 
+>>>>>>>>>> Are you suggesting that before, during the age of the gods, there wasn't just the gods but access to other parts of the universe where the gods lived that now is impossible? Because I don't know of any mention of such a thing existing. And only if access to such a realm beyond for mortals existed is there any differentiation between the two scenarios you mentioned.
+>>>>>>>>>> 
+
+>>> **u/Nic_Cage_DM** [+19] *
+>>> 
+>>> The angels could have written the terms of the contract and then used something left by the gods to create it.
+>>> 
+
+>> **u/Sonderjye** [+10] *
+>> 
+>> I actually think they were fairly reasonable. Zach screwed up his agreement and enabled a copy (it was established that the time loop people weren't considered independent people until after more than 1 month) to murder it's original. They are willing to hunt him down if he finds a way to cheat on the deal and are willing to give him some leniency if he does what they want.
+>> 
+
+>> **u/kaukamieli** [+8] *
+>> 
+>> They never said there is a way out. They even agreed when Zach said he has to do an impossible task.
+>> They just said Zach is clear _if_ he manages to dodge the judgement.
+>> 
+
+>>> **u/I-want-pulao** [+7] *
+>>> 
+>>> They said next to impossible, so not impossible exactly. And their hands are tied and they work in mysterious ways, so I'm a glass half full kinda guy here.
+>>> 
+
+>>>> **u/kaukamieli** [+3] *
+>>>> 
+>>>> I mean, sure, they'll get it done. This story doesn't feel like a lot of good guys would be dying.
+>>>> I'm just saying they never said there is a way out.
+>>>> 
+
+>>>>> **u/I-want-pulao** [+2] *
+>>>>> 
+>>>>> Personally I think one of Alanic or Xvim is gonna die. My money's on Alanic.
+>>>>> 
+
+>>>>> **u/abnotwhmoanny** [+2] *
+>>>>> 
+>>>>> I mean, less than ten chapters ago a whole boat load of good guys died. Like, they were real and now they're dead. From a storytelling perspective the characters are still around, so it amounts to the same thing as them not being dead, but they definitely were good guys and they definitely were dying.
+>>>>> 
+
+>>> **u/Ozryela** [+2] *
+>>> 
+>>> The angel said: "The only thing I can promise you is that if you find the way to remove or evade the contract in some fashion, we will not seek to punish you for it."
+>>> Note the phrasing. 'find the way' not 'find a way'. So yes, the angel said there is a way out.
+>>> 
+
+>>>> **u/kaukamieli** [+1] *
+>>>> 
+>>>> They are most probably not infallible and their every word is probably not a letter of the law. People say things wrong all the time, and a wrong article is definitely not something one should put that much weight on. It could also be a writer mistake, which should probably be tipped.
+>>>> They said they can't renegotiate the contract, or absolve Zach of fulfilling it. If they knew a way, they could. It would be possible that the higher-ups have denied that, so it technically could be that they know a way. But deliberately hinting that there is a way would probably not be allowed either. They probably wouldn't say they can't absolve him of the thing and that it's not in their power if they are actively trying to do just that.
+>>>> 
+
+> **u/Yes_This_Is_God** [+89] *
+> 
+> Angelic Pencil Pusher 369: "Hey we need an empowerment contract written up, thanks!"
+> Angelic Lawyer 777: ["say no more fam"](https://media1.tenor.com/images/5781053f05a498a9d65ac8d70f00f99e/tenor.gif?itemid=4899021) 
+> Angelic Ethics Committee, eating a donut: “Looks good, send it along.”
+> ---------------------------------------------------------------------
+> The worldbuilding implications are great in this chapter. The Gods were just bored programmers. The angels are the eldritch monstrosities that the abrahamic religions depicted them as. 
+> Good to see the reveal of Jornak. Everyone's theories can be laid to rest now (or can they?) 
+> I like how they were given an S-TIER SUMMON for the final battle—really hits that final fantasy sweet spot for me.
+> Does anyone remember who Oganj is?
+> 
+
+>> **u/I-want-pulao** [+70] *
+>> 
+>> The dragon Zach tried to kill on his lonesome all those restarts. Also, that was the news that finally made Zorian tell Kael and Taiven and Kirielle about it, and that allowed Spear of Resolve to find everything out... Honestly, nobody103 does a great job with conservation of characters :D
+>> Yeah, it was pretty obvious it was Jornak once Zach exited the loop and everyone else (Silverlake and Zorian) came out as their pre-loop selves.
+>> 
+
+>>> **u/Ardvarkeating101** [+20]  *Father of Learning**
+>>> 
+>>> But Fortov!
+>>> 
+
+>>>> **u/I-want-pulao** [+26] *
+>>>> 
+>>>> Hahah maybe Fortov is just a dick? OR Zorian, as much growing up he did, could never really  forgive and forget Fortov.
+>>>> 
+
+>>>>> **u/Ardvarkeating101** [+17]  *Father of Learning**
+>>>>> 
+>>>>> Or maybe it’s a double deception!!!
+>>>>> 
+
+>>>>>> **u/I-want-pulao** [+14] *
+>>>>>> 
+>>>>>> My favourite! I mean it can still happen.... But RR certainly spoke from the heart and Fortov has no bone to pick with the academy or anyone really (apart from Daimen and Ibery I guess), he's just too lazy.
+>>>>>> I hope the way Daimen!RR stopped after we met Daimen, we can stop the Fortov!RR after we've met RR.
+>>>>>> 
+
+>>>>>>> **u/Ardvarkeating101** [+14]  *Father of Learning**
+>>>>>>> 
+>>>>>>> It’ll stop when we meet Fortov!
+>>>>>>> 
+
+>>>>>>>> **u/I-want-pulao** [+3] *
+>>>>>>>> 
+>>>>>>>> Well, what with the truce, we got time for that :D
+>>>>>>>> 
+
+>> **u/archaeonaga** [+34] *
+>> 
+>> >(or can they?)
+>> Heh. Worth pointing out that RR doesn’t reveal his identity until after Zorian says the name, and if he wore one fake face, what would stop him from wearing a second? 
+>> And unless RR reveals that Zach had already solved the invasion and knew the way out of the loop when they first interacted in the loop, how did RR get into the loop if Zach literally never knew how the loop worked? How does Zach give him a temporary marker? How does Jornak even have time to learn enough to get to the gate and meet Panaxeth? These things are a problem no matter who RR is, of course. 
+>> All that said, Zorian openly doubts it’s anyone other than Jornak, and it’s not really clear why RR would pretend to be someone else at this point. Maybe Zorian!RR would want to as part of some bizarre contract-avoidance scheme (he plans on occupying the body of whichever Zorian wins), but that’s more a little nutty. 
+>> I suppose we’ll find out when we see how this conversation ends. It would be pretty funny if this was Yet Another Fake Reveal though!
+>> 
+
+>>> **u/therealflinchy** [+7] *
+>>> 
+>>> Probably because who it is, is fairly irrelevant, more what they're going to do.
+>>> 
+
+>>>> **u/archaeonaga** [+14] *
+>>>> 
+>>>> When you spend over half of a novel treating the villain’s real identity as a central mystery to the plot, with thousands of words spent on the investigation, who it is ought to feel relevant. 
+>>>> The fact that things are playing out just as Zorian expected is typical of rationalist fiction, a genre that more or less has its roots in “all according to keikaku.” And, admittedly, what nobody103 does particularly well is setting up difficult problems for Zorian to solve, which is definitely the case here. As I’ve said elsewhere, the worst you can say about the underwhelming RR identity is that it’s inelegant from a mystery standpoint, and even that’s a matter of taste.
+>>>> 
+
+>>>>> **u/therealflinchy** [+3] *
+>>>>> 
+>>>>> Yeah, I'm not upset, it was a reveal that was gonna go either way, horribly cliche and campy (royalty), or very rationally and logically like this lol
+>>>>> 
+
+>>>>>> **u/archaeonaga** [+1] *
+>>>>>> 
+>>>>>> I literally don’t understand how this reveal is either “rational” or “logical.” I don’t even really know what that means in this context, and I understand it even less as a concept that’s somehow diametrically opposed to “cliche and campy (royalty)”? 
+>>>>>> It’s not rational, it’s characteristic of “rationalist fiction,” a silly genre created in part by a guy who wanted to let everyone know how smart he was by writing himself as Harry-Potter-But-Really-Smart. Ideally, it involves works where you treat genre fiction or fanfiction as a serious literary exercise, especially w/r/t _telling a coherent story that is grounded in the plot’s earliest chapters._ 
+>>>>>> And sorry, but introducing a masked villain and unmasking the villain 80 chapters later, only to show that it was a guy we didn’t even know existed until the story’s third act? The only thing “rationalist” about it is how Zorian acts like he already figured it out, and personally, I’m still very much hoping he’s proven wrong.
+>>>>>> 
+
+>>>>>>> **u/kurtofconspiracy** [+4] *
+>>>>>>> 
+>>>>>>> It is rational in the sense that there is no reason why dramatically satisfying answers are more likely to be correct.
+>>>>>>> You having unresolved issues with a sibling does not logically make them more likely to be the mysterious person scheming to topple societies. This is the sense in which it being Jornak as opposed to Fortov (for example) is "rational". It makes perfect sense given information we have had for a long time.
+>>>>>>> I'm still hoping he's wrong too, though. It's the best when the dramatic and the logical align. But such solutions are challenging to make surprising.
+>>>>>>> 
+
+>>>>>>>> **u/archaeonaga** [+1] *
+>>>>>>>> 
+>>>>>>>> Do you see how it’s incredibly silly to write a story where you purposefully deny dramatic satisfaction? Especially when you write the whole thing holding out the promise that you will?
+>>>>>>>> 
+
+>>>>>>> **u/therealflinchy** [+1] *
+>>>>>>> 
+>>>>>>> I can't follow your comment at all, it's very rational that it was veyers friend
+>>>>>>> Perhaps you need to read the story from scratch again.
+>>>>>>> Also MOR is garbage.
+>>>>>>> 
+
+>>>>>>>> **u/archaeonaga** [+1] *
+>>>>>>>> 
+>>>>>>>> It’s not complicated. “Rational” is not a word you use to describe a writing choice; when you are the one constructing the entire fictional edifice on which your work is created, you get to set up whatever you want. It’s not good writing to make it so that the most logical outcome is for the most boring person to be the culprit behind one of the story’s central mysteries, no matter what the genre is. 
+>>>>>>>> E: also, I’ve read the story through probably three times. My problem with it isn’t that I don’t get it.
+>>>>>>>> 
+
+>>>>>>>>> **u/therealflinchy** [+1] *
+>>>>>>>>> 
+>>>>>>>>> You find it boring, most of us don't 
+>>>>>>>>> Besides, "most" boring would have been veyers or some random royalty etc
+>>>>>>>>> Anyone else would have been completely nonsensical and illogical. Basically you'd have preferred for the bad guy to be someone who doesn't make sense and for the story to be worse. Why.
+>>>>>>>>> 
+
+>>>>>>>>>> **u/archaeonaga** [+1] *
+>>>>>>>>>> 
+>>>>>>>>>> Setting aside what “most of us” think, sure, yes, I too can imagine worse reveals. Someone completely random would be terrible writing. 
+>>>>>>>>>> The idea that someone else would’ve been nonsensical and illogical is bizarre, though. For one thing, prior to this chapter, there were lots of perfectly reasonable candidates; the fact that Zach knew nothing about the loop until Zorian helped him figure it out throws a big wrench in that, but it also _makes it way more confusing to figure out how Jornak got into the loop,_ so it’s not like this was the more logical result.
+>>>>>>>>>> I actually still don’t know how I was supposed to figure out it was Jornak prior to this chapter, honestly, especially given that everything we thought we knew about how things worked turned out to be wrong. And that’s kind of the thing: a result where you can’t figure out a mystery ahead of time, based on the same information the characters have, is bad writing even according to the inane rules of “rationalist” fiction! 
+>>>>>>>>>> And changing it wouldn’t require making the story worse, what is so hard to understand about this? nobody103 has controlled the _entire story._ He has had the opportunity to foreshadow Jornak since chapter 1, and the right to change the story however he likes to make it work. For example, he easily could’ve had Zorian discover Veyers’ body and Jornak prior to Chapter 26, gone back to talk to Jornak after realizing what had happened with Zach, and then incorporated him into their plans, so that Jornak appeared alongside other characters late in the story. 
+>>>>>>>>>> But he didn’t. We met Jornak a single time, discovered that he dislikes Cyoria just about as much as most of the other characters, and was otherwise wholly unremarkable. My problem isn’t with the guy himself, my problem is that he wasn’t actually set up in a way that makes him a satisfying culprit, and nobody103 had _literal years_ to set it up. Frankly, it’s so distasteful, I _still_ hope that it’s a fake out.
+>>>>>>>>>> 
+
+>>>>>>>>>>> **u/therealflinchy** [+1] *
+>>>>>>>>>>> 
+>>>>>>>>>>> >
+>>>>>>>>>>> >I actually still don’t know how I was supposed to figure out it was Jornak prior to this chapter, honestly, especially given that everything we thought we knew about how things worked turned out to be wrong. And that’s kind of the thing: 
+>>>>>>>>>>> I assumed it was Jornak, via the same way zorian reasoned it. It made sense to me a long time ago.
+>>>>>>>>>>> >a result where you can’t figure out a mystery ahead of time, based on the same information the characters have, is bad writing even according to the inane rules of “rationalist” fiction! 
+>>>>>>>>>>> *You* can't figure it out. I and lots of others could. It was a pretty popular theory in a lot of past threads.
+>>>>>>>>>>> >
+>>>>>>>>>>> >And changing it wouldn’t require making the story worse, what is so hard to understand about this? nobody103 has controlled the _entire story._ He has had the opportunity to foreshadow Jornak since chapter 1, and the right to change the story however he likes to make it work. For example, he easily could’ve had Zorian discover Veyers’ body and Jornak prior to Chapter 26, gone back to talk to Jornak after realizing what had happened with Zach, and then incorporated him into their plans, so that Jornak appeared alongside other characters late in the story. 
+>>>>>>>>>>> But that wouldn't have made sense and would have been Terrible writing, so he didn't do it :)
+
+>>>>>>>>>>> >But he didn’t. We met Jornak a single time, discovered that he dislikes Cyoria just about as much as most of the other characters, and was otherwise wholly unremarkable. My problem isn’t with the guy himself, my problem is that he wasn’t actually set up in a way that makes him a satisfying culprit, and nobody103 had _literal years_ to set it up. Frankly, it’s so distasteful, I _still_ hope that it’s a fake out. 
+>>>>>>>>>>> In your opinion 🤷‍♂️. Fair enough, you don't like it, but it certainly makes sense imo. Definitely satisfying. He's just as unremarkable as Pre-loop Zach+zorian so not sure what you expected. The whole story is relatively normal people becoming not normal through the time loop. It's not a fake out because *that* doesn't make any sense.
+>>>>>>>>>>> 
+
+>>>>>>>>>>>> **u/archaeonaga** [+1] *
+>>>>>>>>>>>> 
+>>>>>>>>>>>> Welp, we come full circle, because now I have no idea what it even means to “make sense” to you. 
+>>>>>>>>>>>> Like, when I explain how nobody103 could’ve easily brought Jornak into the story earlier and made him a more prominent character—why does that not make sense, exactly? It’s literally just adding foreshadowing and development to a character we now know to be important to the plot. And that doesn’t make sense? 
+>>>>>>>>>>>> Seems way more likely you’re just being insulting for no reason. For example, I obviously understood Jornak as a distant possibility—I even mention him by name in my own big post on the topic as an anticlimactic choice nobody103 could go with. It’s just that given what we knew prior to this chapter, he was _very unlikely_ since the novel had more than implied a) someone had done very sophisticated mind magic on a relatively well-equipped Zach and b) Panaxeth can only talk to people inside the unbarred gate. The idea that the lawyer friend of a classmate he _actively dislikes_ would get an invite to check out the gate with Zach, and would be so well-trusted that he could do difficult mind magic on an archmage? It’s silly. 
+>>>>>>>>>>>> Of course, we now just have more questions than answers. If Zach didn’t know about the loop, how did Jornak get brought into it? If Zach didn’t know about the loop, how did anyone get down to the gate to talk to Panaxeth? These are pretty serious roadblocks to _any_ possible culprit, and we didn’t know about any of it until literally a few pages before RR’s reveal. So how, exactly, was anyone supposed to figure out what had happened before this chapter? The _only clue_ the book provides is that Jornak doesn’t like Cyoria for similar reasons to Zach. We never see Zach mention him again, or act friendly toward him, or give any indication of a friendship that was once great enough that he let Jornak get close enough to erase his memory and become his greatest foe? 
+>>>>>>>>>>>> That’s what doesn’t make sense to me. But like I said, it’s p. clear that we have very different understandings of “sense.”
+>>>>>>>>>>>> 
+
+>>>>>>>>>>>>> **u/therealflinchy** [+1] *
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> >Welp, we come full circle, because now I have no idea what it even means to “make sense” to you. 
+>>>>>>>>>>>>> Read the last chapter, re-read the story. Maybe 3* isn't enough for you?
+>>>>>>>>>>>>> >
+>>>>>>>>>>>>> >Like, when I explain how nobody103 could’ve easily brought Jornak into the story earlier and made him a more prominent character—why does that not make sense, exactly? It’s literally just adding foreshadowing and development to a character we now know to be important to the plot. And that doesn’t make sense? 
+>>>>>>>>>>>>> He was mentioned a long time ago, the link was made.
+>>>>>>>>>>>>> >Seems way more likely you’re just being insulting for no reason. For example, I obviously understood Jornak as a distant possibility—I even mention him by name in my own big post on the topic as an anticlimactic choice nobody103 could go with. It’s just that given what we knew prior to this chapter, he was _very unlikely_ since the novel had more than implied a) someone had done very sophisticated mind magic on a relatively well-equipped Zach and b) Panaxeth can only talk to people inside the unbarred gate. 
+>>>>>>>>>>>>> Not being insulting, but you do seem to be struggling with it a lot when it really does make sense.
+>>>>>>>>>>>>> Idk why you're fixated on "difficult mind magic" - zorian (and Zach) we're both scrubs Pre-loop too. Jornak was an already reasonably experienced adult mage, plus a few months of risky loop growth + Zach helping him out = rapid growth. Him being a lawyer implies he's not an idiot, too.
+>>>>>>>>>>>>> Plus, what you mean by relatively sophisticated mind magic? Taking a mental sledgehammer to a portion of his memories isn't that sophisticated, it was obvious something was done to him, it wasn't subtle.
+>>>>>>>>>>>>> >The idea that the lawyer friend of a classmate he _actively dislikes_ would get an invite to check out the gate with Zach, and would be so well-trusted that he could do difficult mind magic on an archmage? It’s silly. 
+>>>>>>>>>>>>> Zach doesn't actively dislike Veyers tho? It was quite explicit that Zach befriended him and took him on adventures, you say you've read it 3* but you seem to be missing things like that? How else do you think he also befriended Jornak lol.
+>>>>>>>>>>>>> >Of course, we now just have more questions than answers. If Zach didn’t know about the loop, how did Jornak get brought into it? If Zach didn’t know about the loop, how did anyone get down to the gate to talk to Panaxeth? These are pretty serious roadblocks to _any_ possible culprit, and we didn’t know about any of it until literally a few pages before RR’s reveal. So how, exactly, was anyone supposed to figure out what had happened before this chapter? The _only clue_ the book provides is that Jornak doesn’t like Cyoria for similar reasons to Zach. 
+>>>>>>>>>>>>> No, there are no more questions. It's all explained in what we've been given.
+>>>>>>>>>>>>> Which ass are you pulling Zach not knowing about the loop? It clearly happened after his first loop. Zach isn't mentally handicapped you know? He knew he was looping, hence he, out of boredom, became buds with veyers. He would have worked a lot of stuff out especially with Jornak (being obviously not a dumb guy) helping out too, Jornak seemingly being just as, or more, capable than zorian who even entirely without Zach's help started getting places. So Jornak with Zach acting as a kick starter... Surely that makes sense to you?
+>>>>>>>>>>>>> Plus given Zach could bring Jornak into the loop, it's clear that pre-zorian and pre-mind sledgehammer, Zach worked out the 5 treasures and either had all or some of them, since he could get Jornak to loop.
+>>>>>>>>>>>>> He had the crown at least which isn't exactly easy to get since he could place temp markers. So it's not hard to assume he probably had other items too. And significantly more knowledge about the loop than when we first meet him in the story.
+>>>>>>>>>>>>> Plus it sounds like Zach REALLY liked Jornak, he likely brought things to the looping like some of the other characters where before the crown, they were given a loop primer/their research notes
+>>>>>>>>>>>>> >We never see Zach mention him again, or act friendly toward him, or give any indication of a friendship that was once great enough that he let Jornak get close enough to erase his memory and become his greatest foe? 
+>>>>>>>>>>>>> Because his memory was sledgehammered?? You seem to be forgetting some fairly major plot points. And there was no further friendship with Jornak because while RR was in the loop Jornak dealt with veyers (and well, was also off doing his own shit being an antagonist), then post-exit, veyers was ejected from the loop so there was no link to become friends with Jornak once veyers was dead.
+
+>>>>>>>>>>>>> >That’s what doesn’t make sense to me. But like I said, it’s p. clear that we have very different understandings of “sense.” 
+>>>>>>>>>>>>> Yeah idk, like I keep saying maybe you need to read it all a 4th time?
+>>>>>>>>>>>>> 
+
+>> **u/therealflinchy** [+25] *
+>> 
+>> "ethical committee would not approve the project otherwise. "
+>> The angels have committees FFS haha
+>> 
+
+>> **u/CaptainMcSmash** [+18] *
+>> 
+>> I have absolutely no clue how I remember since it was more than a year since I read the chapter, but it was the dragon Zach spent like 30 restarts trying to kill for fun.
+>> 
+
+> **u/dbenc** [+42] *
+> 
+> Sad that Zorian didn’t get a mana boost.
+> 
+
+>> **u/Sir_Paul_Harvey** [+11] *
+>> 
+>> Right? I thought he was going ask for it with the last question.
+>> 
+
+>>> **u/ranstalli0n** [+2] *
+>>> 
+>>> Ffs, Zach!
+>>> 
+
+>> **u/Nightseyes** [+1] *
+>> 
+>> Mana boost comes with a contract though...
+>> 
+
+> **u/Mingablo** [+29] *
+> 
+> If the angel said that they would kill anyone who knew about the time loop or made it out during the scorched earth response, assuming that Panaxeth was released, does that mean that they'll kill silverlake, QI, and Jornak as well. The angels sound like they know what they're doing so even if the primordial offers them its protection, which it probably wouldn't want to do anyway, wouldn't they die. This whole situation looks like a loose-loose for those 3. If ZZ stop Panaxeth then they have lost. If Panaxeth gets out then the angels kill them. RR might get a very large portion of the world destroyed but I doubt even he would count that as a win. There's no reason for them to believe ZZ if they tell them what the angel said but that sort of thing sounds to me like a narrative patch job.
+> 
+
+>> **u/Caliburn0** [+11] *
+>> 
+>> I mean, the antagonist don't know that the angels are after them, and they wouldn't have been either, if Zach and Zorian didn't give the Angels a detailed report of what happened in the time-loop. And since RR, Silverlake, and QI has no way of knowing Z&Z contacted the angels...
+>> 
+
+>>> **u/Watchful1** [+5] *
+>>> 
+>>> And it's not like RR and Silverlake have a choice. They made the contract with Panaxeth to release him so they die anyway if they don't.
+>>> 
+
+> **u/sambelulek** [+30]  *Ulquaan Ibasa Liquor Smuggler**
+> 
+> "Keh-khe-khe, you thought that threat would stifle us?" 
+> Zorian let out a pained laugh hearing what's Jornak had been said. If only he knew how irrelevant that plan was. He then turned his sight toward Quatach Ichl who hasn't let out a sound so far. 
+> "Props to you, Sir Lich, your decision to raze the church turn out to be correct. Not only the angels will involve themselves, they also already had plan to descend. As for your expectation that they just leave after disposing the primordial? That, I found, to be woefully misguided."
+> If Quatach Ichl was surprised to be suddenly addressed, he did not show it. The fact that he did not readily respond actually helped Zorian prepare a wedge he's about to drive in.
+> "Tell me, Mr Merenptah, did I need to tell the angels anything about my scheme, your scheme, and these two clowns' schemes to know what they're going to do? Nay! The angle saw through me, Mr Merenptah, right at the moment our eyes met. Not a single word I need to utter before they reached their decision. It would be wise for you to retreat right now rather than later. The moment the Primordial get released, there'll be no war breaking out for you to take advantage of."
+> Zorian was never a man with flair for acting, but knowing what will happen helped him let lies went through his teeth. True that Zorian had told celestial tree trunks what and what will happen from his perspective, but it didn't help him to his cause. The angels cannot bend their contract after all. However, since he knew what about to go down, that inflexibility should not help their enemies either.
+> 
+
+> **u/I-want-pulao** [+31] *
+> 
+> If there's a way out for Zach, that means there might be a way out for Silverlake (RR is just a dick, he wants what he wants, Silverlake's an opportunist). I wonder if they can get her trust that way - however, I'm sure the loophole would involve some sort of soul magic and I highly doubt SL would allow ZnZ easy access to her soul.
+> 
+
+>> **u/XellosPY** [+17] *
+>> 
+>> I'm kinda surprised Zorian didn't think about asking the Angels about that. If they can get the bad guys out of their deal with the Primordial, there's a chance they can turn them or at least make them neutral. RR probably would most likely still be an enemy, but Silverlake will probably just fuck off and do her own thing if she got that deal
+>> 
+
+>> **u/None** [+15] *
+>> 
+>> Maybe they could just pull the same thing as in the timeloop. Break open the cage and have that fulfill Silverlake's contract, but then immediately put it back to fulfill Zach's contract. And then finally just wipe out everyone's memories of the timeloop, but package in a way that they still keep all of the knowledge of everything else.
+>> 
+
+>>> **u/None** [+32] *
+>>> 
+>>> [deleted]
+>>> 
+
+>>>> **u/Green0Photon** [+5]  *Student in Cyoria, Minmay, and Ranvar**
+>>>> 
+>>>> Maybe they could make it so only a piece of him escapes? You could rightly claim that he's freed (in Silverlake's mind), but also rightly claim that he didn't escape (in Zach's and the God's minds).
+>>>> 
+
+>>>> **u/None** [+2] *
+>>>> 
+>>>> Considering that the way they opened the cage in the time loop didn't set something off, it should still work.
+>>>> 
+
+>>>>> **u/None** [+25] *
+>>>>> 
+>>>>> [deleted]
+>>>>> 
+
+>>>>>> **u/None** [+5] *
+>>>>>> 
+>>>>>> The angels aren't the ones who sense the cage breaking and respond to it. It's the cage itself. Considering they've been broken at least a few hundred times, it'll be ok to break it again as long as the primordial isn't technically in the world.
+>>>>>> 
+
+>>>>>>> **u/None** [+12] *
+>>>>>>> 
+>>>>>>> [deleted]
+>>>>>>> 
+
+>>>>>>>> **u/None** [+3] *
+>>>>>>>> 
+>>>>>>>> Sorry, I meant it was the core of the world. Either way, the triggers are in this world, since if they were in another dimension, the real world would already be in flames since the cage in the time loop and the real world are the same thing and the primordal has nearly broken out hundreds of times.
+>>>>>>>> 
+
+>>>>>>>>> **u/None** [+3] *
+>>>>>>>>> 
+>>>>>>>>> [deleted]
+>>>>>>>>> 
+
+>>>>>>>>>> **u/None** [+3] *
+>>>>>>>>>> 
+>>>>>>>>>> Yes, but it seems like the time loop is extremely dedicated to getting things functionally accurate. The primordal cage is still connected to the time loop despite there being no reason for it to be there and the angels didn't specifically put it there since they have no idea how to use the SG.
+>>>>>>>>>> 
+
+>>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>> 
+>>>>>>>>>>> [deleted]
+>>>>>>>>>>> 
+
+>>>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>>>> 
+>>>>>>>>>>>> The time loop would probably have the contingencies as whoever made the time loop spent too much time to getting things accurate. But since the time loop resets instead of setting off the contingencies,  the reset is the time loop version of the contingency as it would waste less power and would have the same functional result in that the Controller would die either way. Assuming that the same triggers for the reset are the same as the contingencies, any way to prevent them from triggering in the time loop would work in the real world.
+>>>>>>>>>>>> 
+
+>>>>> **u/CaptainMcSmash** [+2] *
+>>>>> 
+>>>>> Key phrase being in the time loop. It wasn't a true escape.
+>>>>> 
+
+>>>>>> **u/None** [+6] *
+>>>>>> 
+>>>>>> The time loop was a perfect recreation. It would have the same contingencies as the real world. The only reason the time loop ends when the primordal is out is because it'd be a waste of resources. Functionally the scorched earth policy has the same trigger as the reset.
+>>>>>> 
+
+>>>>>>> **u/Ardvarkeating101** [+15]  *Father of Learning**
+>>>>>>> 
+>>>>>>> Are you guessing that or do you have evidence?  Because everyone on the continent dies if you're wrong
+>>>>>>> 
+
+>>>>>>>> **u/None** [+3] *
+>>>>>>>> 
+>>>>>>>> One of the things about the loop is that it restarted if the primordal ever got. There's no reason for this to be a condition unless activating the contingencies was too expensive in divine power to recreate constantly. As a result, the restart is like a simulation to functionally recreate the results of the contingencies without wasting divine energy. When Z&Z broke open the cage, they placed it in layers of pocket dimensions in order not to trigger the reset. Functionally, those layers could be used to prevent the contingencies from tripping.
+>>>>>>>> 
+
+>>>>>>> **u/braiam** [+2] *
+>>>>>>> 
+>>>>>>> If what you say is true, it is desirable to release Px into the time loop and just allow it to collapse onto itself. I suggested something like that could happen on https://www.reddit.com/r/rational/comments/ars1s1/rt_hf_mother_of_learning_chapter_96_contract/egphu98/
+>>>>>>> 
+
+>>>>>>>> **u/None** [+2] *
+>>>>>>>> 
+>>>>>>>> It's too late to use the time loop. It ends on the first day, almost minutes after Zorian wakes up.
+>>>>>>>> 
+
+>>>>>>>>> **u/braiam** [+2] *
+>>>>>>>>> 
+>>>>>>>>> Yeah, but the angels wouldn't have to go out of its way to prevent it from happening at all, unless they don't know a iota of how the SG works.
+>>>>>>>>> 
+
+>>>>>>>>>> **u/None** [+1] *
+>>>>>>>>>> 
+>>>>>>>>>> They already said they have no idea how the SG works.
+>>>>>>>>>> 
+
+>>>>>>>> **u/hallo_friendos** [+1] *
+>>>>>>>> 
+>>>>>>>> I imagine if it were that easy to destroy a primordial, the gods would have done it.
+>>>>>>>> 
+
+>>>> **u/VivaLaPandaReddit** [+1] *
+>>>> 
+>>>> The angels stated that what happens in Black Rooms etc is invisible to them, which indicates it's likely invisible to the policies as well. If they could place the cage opening inside some sealed space they might be able to open it without breaking the contract. One problem is opening the cage requires the blood sacrifices, which I don't think ZnZ would be cool with facilitating.
+>>>> 
+
+>> **u/shinghand** [+7] *
+>> 
+>> I just thought of a loophole that involves mindwiping.
+>> Zorian asked the angel about what constitutes "knowing about the time loop". He also confirmed that Zach won't kill him if Zach doesn't know that Zorian is a master mind mage.
+>> Maybe Zorian will make Zach forget that Zorian is a mind mage, and Zach will erase Zorian's knowledge of the time loop (according to the contract). Once it's safe, Zorian can remove any memory wipes.
+>> 
+
+>>> **u/noahpocalypse** [+1] *
+>>> 
+>>> This. Clearly foreshadowed as a possible solution. Zorian would have to remind himself somehow- maybe a memory packet of his own?
+>>> 
+
+>> **u/-Fender-** [+1] *
+>> 
+>> What I wonder about is what would happen if they turned the orb into a time dilation chamber again, and they had Zach spend the passing of the month while stuck inside of it, completely isolated from the rest of the world? An entire day would pass on the outside, and he'd be well past the end of the month by then.
+>> 
+
+> **u/TheBobulus** [+28] *
+> 
+> Facts we know:
+> * Some parts of the contract are enforced by Zach's perceptions. If he doesn't know who is fucking with his memories, he won't go after them.
+> * Black rooms / time loops prevent the divine from peeking in.
+> * The contract, whether Zach dies or not, ends at the end of the month.
+> &#x200B;
+> So here's my guess how Zorian is going to 'cheat' the contract: After they prevent the summoning (fulfilling the bits of the contract the Angels seem to 'care' about), they go down into the Black Room underneath town.  Inside, they have a month of free time while a small amount of time (I think it was a day?) passes outside. Crucially, have this day span the end of the contract. Inside, Zorian erases Zach's knowledge of who knows about the time loop, his knowledge of Zorian knowing mind magic, and his memory of being tampered with.
+> Basically, my thinking is the trigger for the 'kill Zach' clause can only come from two sources: the Angels or Zach himself. If you block both at the same time, then the contract is done with, and once you emerge from the Black Room, Zach is fine. For extra insurance, Zorian lies to Zach and tells him that it was going into the Black Room that solved the problem, so that he doesn't even suspect that any memory altering took place.
+> Of course, all this depends on them actually preventing the summoning, but they were already planning for that, so the stakes are still the same.
+> Incidentally, the fact that the contract that Silverlake is under works even if the summoning fails (and thus she's in a different dimension that the contract holder) suggests she's also self-triggering. Maybe you could convince her to switch sides with that knowledge?
+> 
+
+>> **u/Crotchfirefly** [+8] *
+>> 
+>> Yes, if Silverlake can be persuaded that the only way for her to survive is to circumvent her deal with Panaxeth in the same way they wish to circumvent the angelic contract, then she'll defect without a second thought.
+>> 
+
+>>> **u/cezyou** [+2] *
+>>> 
+>>> is this a roundabout way to get a Silverlake X Zorian ship afloat
+>>> 
+
+>> **u/onlynega** [+2] *
+>> 
+>> I think you're right. That black room setup in this chapter seems very purposeful.
+>> 
+
+>> **u/VivaLaPandaReddit** [+2] *
+>> 
+>> I can imagine a scenario where Zorian is forced to wipe all/most memories of himself from Zach. Would be suitable drama for the ending, because it's the main thing I can see being lost without losing the generally positive tone of the story.
+>> 
+
+> **u/Ardvarkeating101** [+60]  *Father of Learning**
+> 
+> Yes!  This means we get a whole month of classroom antics straight out of an anime!  Can't wait for Zorian to start screaming internally while helping Naim with his homework.
+> 
+
+>> **u/I-want-pulao** [+19] *
+>> 
+>> This time, hanging out with Kiana! We never got to see her up close.
+>> 
+
+>> **u/Riyonak** [+25] *
+>> 
+>> Not sure what nobody's take on romance in this story is but I saw Raynie as the likely candidate once outside of the time loop. Just the personal connection that both Zorian and her had in regards to their family dynamics. Plus, when Zorian saw that he was becoming close to Raynie he decided he was going to stop doing so with her while he could abuse the time loop and I believe he ended the relationship while thinking that he wished he could help her situation. So I'm half-expecting some developments in regards to that though it would be kind of silly considering the impending doom hanging over their heads.
+>> 
+
+>>> **u/None** [+25] *
+>>> 
+>>> [deleted]
+>>> 
+
+>>>> **u/Caliburn0** [+19] *
+>>>> 
+>>>> How did you get on my ship without me noticing? How many more are there?
+>>>> 
+
+>>>>> **u/Allian42** [+7] *
+>>>>> 
+>>>>> Are we there yet? This barrel is awfully cramped.
+>>>>> 
+
+>>>>>> **u/Caliburn0** [+3] *
+>>>>>> 
+>>>>>> GAH! Another one!?
+>>>>>> 
+
+>>>> **u/Riyonak** [+23] *
+>>>> 
+>>>> I'd be fine with either or even no romantic developments. I was just wondering what the author intended. I do see why Taiven is a strong candidate but all their interactions always seemed to be about resolving past feelings and becoming better friends.
+>>>> 
+
+>>>> **u/archpawn** [+1] *
+>>>> 
+>>>> I see no reason to only ship Zorian with one person.
+>>>> 
+
+>>> **u/hallo_friendos** [+20] *
+>>> 
+>>> I doubt Zorian is going to purposely seek out romance, even if he does have time for it, just because he knows how badly it could complicate matters. And Raynie's trying her hardest to remain unentangled too. Zach, on the other hand... well, who knows.
+>>> 
+
+>>>> **u/domoincarn8** [+28] *
+>>>> 
+>>>> Zorian may not purposely seek out romance, but his simulacrum's may.
+>>>> 
+
+>>>> **u/Riyonak** [+22] *
+>>>> 
+>>>> If some romance plot line is included, which I think probably won't be, it wouldn't really be Zorian purposely looking for it. Whether it is Raynie, Taiven, or anyone else, if he runs into them he has to treat them in regards to the relationship he wants to have with them. 
+
+>>>> This is now real life with no loops so if he is interested in someone, he can't just completely spurn any interaction with them or be a dick to them for practicality's sake since he is now playing for keeps. Not to say he will be going up to them carrying flowers but if someone approaches him and asks to meet or anything else, he will have to consider whether he wants to ruin the relationship by rejecting.
+>>>> 
+
+>>> **u/reje_ksp** [+9] *
+>>> 
+>>> I really can't see Zorian getting romantically involved with any of his classmates when he's effectively many years older than them at this point. Seems pretty messed up to me.
+>>> 
+
+> **u/burnerpower** [+51] *
+> 
+> Thank God Red Robe is finally revealed as Jornak. I was getting tired of all the literally impossible speculation about it being Zorian or Zach or some other such nonsense. Pretty cool chapter though, the angels were surprisingly understanding and understandable. The angel's burn on Zorian was hilarious.
+> 
+
+>> **u/random071970** [+42] *
+>> 
+>> No, it's a double fake out. RR had a Jornak illusion UNDER the Veyers one!  Let the speculation continue!  /s
+>> 
+
+>>> **u/HeroOfOldIron** [+50] *
+>>> 
+>>> Red Robe is actually Kirielle!
+>>> 
+
+>>>> **u/abcd_z** [+25] *
+>>>> 
+>>>> Zorian: "I've deduced your real identity, Red Robe!"  
+>>>> Red Robe: throws pebble at Zorian
+>>>> 
+
+>>>> **u/I-want-pulao** [+18] *
+>>>> 
+>>>> No, Kirielle and Nochka together!
+>>>> 
+
+>>>>> **u/HeroOfOldIron** [+45] *
+>>>>> 
+>>>>> In a trench coat!
+>>>>> 
+
+>>>>>> **u/None** [+20] *
+>>>>>> 
+>>>>>> [deleted]
+>>>>>> 
+
+>>>>>>> **u/Frommerman** [+15] *
+>>>>>>> 
+>>>>>>> We've all been played for fools! Jornak is clearly dozens of time-turned, transfigured Cedrics Diggory!
+>>>>>>> 
+
+>>>>>>> **u/Xtraordinaire** [+8]  *Team Glimglam**
+>>>>>>> 
+>>>>>>> No, just the buttons.
+>>>>>>> 
+
+>>>>>> **u/LLJKCicero** [+2] *
+>>>>>> 
+>>>>>> What'd you say your name was?
+>>>>>> Noch--Nochielle. Nochielle Mageperson.
+>>>>>> 
+
+>>> **u/jaghataikhan** [+6]  *Primarch of the White Scars**
+>>> 
+>>> Lololol I'm envisioning a scooby doo villain with multiple masks to pull off
+>>> 
+
+>> **u/NZPIEFACE** [+41] *
+>> 
+>> I found it hilarious how an *Angel* used "Heavens no" when talking about Zorian.
+>> Zorian would've made a great antagonist.
+>> 
+
+>>> **u/burnerpower** [+14] *
+>>> 
+>>> I agree. I think if Zorian hadn't been forced to see people he knew die repeatedly in an invasion and have Zach point out his bad attitude early on he could have turned out like Jornak. I wouldn't say preloop Zorian was a bad person but he could have easily become one with different circumstances.
+>>> 
+
+>>> **u/None** [+14] *
+>>> 
+>>> [removed]
+>>> 
+
+>>>> **u/burnerpower** [+44] *
+>>>> 
+>>>> I think it's unfair to Zorian to say he only became a good person because of the soul blending. He risked his life to save Zach's in the very first loop. He was surly sure, and he definitely had the potential to go down a bad path, but he wasn't a bad person. I think the soul bond had very little influence on his personality and it was more Zach's commentary on him that forced himself to reevaluate after he realized how others saw him.
+>>>> 
+
+>>>> **u/D0nkeyHS** [+6] *
+>>>> 
+>>>> How is Qi a psychopath, let alone an even worse psychopath?
+>>>> 
+
+>>>>> **u/None** [+5] *
+>>>>> 
+>>>>> [removed]
+>>>>> 
+
+>>>>>> **u/D0nkeyHS** [+11] *
+>>>>>> 
+>>>>>> > He's calculative and manipulative person
+>>>>>> Not necessarily psychopath
+>>>>>> > can kill other people with ease if really want to
+>>>>>> Not necessarily psychopath
+>>>>>> > QI come from an age where it was quite normal to round up all the mages and combat-capable men in a conquered town and mount their severed heads on pikes just outside the city walls as a warning to all who would dare defy you. 
+>>>>>> That's about the age he comes from not about him.
+>>>>>> > and he find modern sentimentality in regards to war casualties insincere, hypocritical and faintly disgusting.
+>>>>>> I don't remember this exactly, can you tell me what you are talking about?
+>>>>>> > He still use that same barbaric thing in Necromantic War & Splinter War, I don't know what it's if not psychopathic tendencies.
+>>>>>> I'm not sure what exactly you're referring to about what he did? Barbaric != psychopathic. 
+>>>>>> > Most of modern people didn't have that kind of mindset.
+>>>>>> Yes, and?
+>>>>>> > I just said Zorian can be potentially to be bad person if he doesn't have compassion and morality.
+>>>>>> A -> B, and C -> B does not mean B -> C. If you find Qi to be bad, and psychopath to be bad then that does not mean Qi is a psychopath. Evidence of Qi being bad is not evidence of him being a psychopath.  
+
+>>>>>> Qi may be harsh, may be vicious, may have outdated sentimentalities, but he has shown traits like caring about his people that make psychopath not quite what he is.
+>>>>>> 
+
+>>>>>>> **u/None** [+5] *
+>>>>>>> 
+>>>>>>> [removed]
+>>>>>>> 
+
+>>>>>>>> **u/D0nkeyHS** [+4] *
+>>>>>>>> 
+>>>>>>>> Ah, right. Still, IMO, it doesn't really make him a psychopath.
+>>>>>>>> 
+
+>>>>>>>> **u/Ardvarkeating101** [+6]  *Father of Learning**
+>>>>>>>> 
+>>>>>>>> > I do what my culture expected me to do at the time I grew up in it
+>>>>>>>> Yes, clearly incapable of empathy despite caring about his soldiers.
+>>>>>>>> 
+
+>>> **u/hallo_friendos** [+1] *
+>>> 
+>>> At least it wasn't "Hell no".
+>>> 
+
+> **u/HINDBRAIN** [+23] *
+> 
+> >Contract dissolved at the end of the month
+> Can they force a legal calendar change?
+> 
+
+>> **u/None** [+11] *
+>> 
+>> Ha, I love it. Just have the month never end.
+>> 
+
+>>> **u/PM_ME_OS_DESIGN** [+2] *
+>>> 
+>>> No, just have the calendar month end before the time loop started (and thus before anyone knew about the contract).
+>>> 
+
+> **u/archaeonaga** [+21] *
+> 
+> Welp! 
+> I did a lot of RR theory reading when I was developing my own wrong idea; I can say pretty confidently that few people had Jornak as their first guess. I’m at least joined by many other people in being super duper wrong.
+> For good reason, imo. Van Dine and Knox alike would be aghast at this as the solution to a mystery—the culprit wasn’t introduced until well into the second act, breaking what’s probably the cardinal rule of mystery writing. MoL isn’t a mystery, but those rules exist for a good reason: a story that hides the identity of a character should make that feel consequential. 
+> Jornak just doesn’t feel like a big deal. The fact that he’s RR doesn’t meaningfully change the stakes of the story or have an impact on the protagonists. In fact, if we had known all along that Jornak was RR (say, he didn’t bother putting up his hood in Chapter 26, and Zorian recognized him when they investigated Veyers later), it wouldn’t have made much of a difference to the plot. 
+> None of which is meant as a damning critique of MoL, I should add. It’s just a bit underwhelming after all the debate and consideration, it’s the second person Z&Z would’ve investigated if Silverlake hadn’t warned Jornak that they had discovered Veyers in the loop.
+> But now there are no mysteries, and I’m pretty sure all the outstanding issues have been addressed. All that remains to be seen is how our heroes will be victorious, and on that score, I remain very much invested and excited, especially because all the other twists this chapter (the angel! the dragon!) are so juicy. It’s shaping up to be an exciting ending.
+> 
+
+>> **u/tjhance** [+12] *
+>> 
+>> I think it's interesting to think about the challenges of writing a solid mystery setup-reveal in a rational story of this nature.
+>> Zorian is very intelligent. He always makes the obvious logical leaps. Furthermore, the story is entirely from Zorian's POV. If we (the readers) have the information to deduce who RR is, then Zorian does too, and he'll probably figure it out. In this case, there were several plausible candidates (Veyers, Jornak, Sudomir) but without the full picture it was impossible to guess who, especially without knowing what sort of person Jornak would become when exposed to the time loop.*
+>> What's the solution to this? How does one make a mystery in a rational story than the protagonist doesn't crack open as soon as the readers have everything they need? (As I'm trying to write my own story with smart protagonists and mystery elements, this something I have to think about.)
+>> One solution is to make the solution solvable using Doylist reasoning and Themes. If you think about it, all the plausible solutions fell into two camps. Watsonian-reasonable answers (Veyers, Jornak, Sudomir) and Doylist-reasonable thematic answers (Zach simulacrum, Fortov, Daimen (he was a popular guess before he showed up in-story, I think?)). Zorian had basically no way of guessing any of those latter possibilities, especially since most of them required some apparent rule of the story to be broken (which was definitely possible, since Zorian was learning new things about the nature of the time-loop and recontextualizing things all the time) but they were still possible for the audience to guess.
+>> (I'm sure reasonable people will disagree on the extent to which the latter type of mystery has a place in rational fic.)
+>> Anyway, I think since it went the less-thematic route, it feels less narratively satisfying. To be fair, it *does* work very well on the logical level.
+>> "RR has some relation to Veyers but is not Veyers, and also Veyers interacts with Zach near the beginning and would notice Jornak acting oddly" seems so obvious in retrospect that you almost feel dumb. This is a key ingredient of a great mystery reveal, yet somehow it still lacks a punch. (Although, again, some people might argue that it's rational to feel obvious and anti-climactic.)
+>> So it's not obvious what the author should have differently to give it more punch. Presumably, he was planning RR=Jornak from the beginning and he misfired in the setup, either by not anticipating the degree of importance that the fandom would place on the RR mystery, or by not making Jornak stand out enough.
+>> (\*) TBH, "The Jornak that Zorian had known was a nervous, risk-averse man [...] This was just one more proof that the time loop was capable of radically changing a person. For better or for worse." is a bit of a cop-out. A *little* bit of foreshadowing of what sort of man Jornak could have become would be nice.
+>> 
+
+>> **u/I-want-pulao** [+5] *
+>> 
+>> [2 months ago](https://www.reddit.com/r/rational/comments/a7vk5w/mother_of_learning_who_is_red_robe/ec63iru) I felt it was more and more popular that Jornak was RR. So it's been coming for a while.. You're right that it breaks the classic rules, but plays on that trope that someone we know IS the villain. And as time went on, we learnt about Zach's inheritance, and as we learnt more about the society of Altazia... Jornak's inclusion starts making more sense. Plus, Veyers was set up from the very beginning so it was I think that counts a little!
+>> Well, it first shows the good nature of Zach. Zach's inheritance was stolen too, but he didn't use this opportunity to destroy the city and the government. Jornak just shows you what is possible.
+>> I dunno, I still want to know what Ibery's deal is, lol. And also the headmaster. Plus, Alanic's background. But yeah, the main issue was RR. And as ZnZ became so strong, RR was just not strong enough to matter. He needed Silverlake's information to understand how exactly he's fucked, and QI to back him up. So Jornak hasn't been the issue for a while now. It's the combination of what SL, QI, and RR will do that's the key.
+>> 
+
+>>> **u/mishanek** [+2] *
+>>> 
+>>> Why is QI backing him up? Why would QI want a primordial released?
+>>> 
+
+>> **u/killardawg** [+0] *
+>> 
+>> Idk, the emotional stakes of the story is gone now though. Every new reveal will just be an asspull. So they'll have to build  on what's there and I never cared for Zach to care if he lived or died as he was, at least if there was tension if due to evil zorian/zach then it'd make it interesting. I think the ending will go down with a whimper.
+>> 
+
+>>> **u/archaeonaga** [+4] *
+>>> 
+>>> I don’t really see how this is an asspull, or anything else like that. At the very worst, it’s inelegant; the story made RR’s identity a fairly central unanswered question, but the answer is that he’s a tertiary character that only survived the first few days outside the loop because Silverlake warned him. And rather than having a more interesting motive, it’s literally what Zorian figures out the first time he researched the whole “hates Cyoria” angle. 
+>>> But nobody103 has always focused his work on creating an interesting fantasy world with a very complicated set of problems and following a protagonist who doggedly solves said problems. It’s what makes it a hit with the “rationalist” crowd and litrpg types. Given how every step of the climax has included major setbacks and big stake-raising surprises, I’m still looking forward to the solution to all this.
+>>> 
+
+>>>> **u/killardawg** [-1] *
+>>>> 
+>>>> I meant that any twist pulled out now will likely be an asspull. There's not much original suspense left, anything additional is just bullshit.
+>>>> 
+
+> **u/megami-hime** [+58] *
+> 
+> >"....because the ethical committee would not approve otherwise."
+> Oh my god, the angels are the SCP Foundation!
+> 
+
+>> **u/Caliburn0** [+5] *
+>> 
+>> O_O
+>> I can see that...
+>> I can definitely see that...
+>> 
+
+>> **u/VivaLaPandaReddit** [+1] *
+>> 
+>> It passed ARB review
+>> 
+
+> **u/morgf** [+35] *
+> 
+> I was disappointed that the chapter ended so abruptly. It does not seem like that conversation was over, and yet I suspect the next chapter will not begin with the conversation continuing.
+> Zach and Zorian still need to bring up a couple points. One is to determine just how insane and/or bloodthirsty Jornak really is. Is he bluffing about triggering the wraith bombs and assassinating people around the world if Zach and Zorian continue fighting before the end of the month? If Jornak really wants to improve the world (rather than just lying to advance his selfish desires), then that much destruction does not seem reasonable. Which would prove Jornak either insane or lying about his goals. Or bluffing if he would not really do it.
+> Which leads to the additional point that they needed to bring up. QI and Silverlake seem to think that releasing Pan will not be such a terrible thing for the world, and they likely have influenced Jornak's views on that subject. But Zach and Zorian know that releasing Pan would result in some "scorched Earth" countermeasures which are likely to be unacceptable even by QI's standards.
+> Even if Zach and Zorian cannot convince them of how bad it would be, they could at least persuade them that *they* believe it would be that bad, in fact worse than what Jornak is threatening. In which case there is little reason for them to accept Jornak's deal (unless they are very confident they can win the final battle, which I do not think they are as things currently stand). Which could at least allow them to negotiate something more in favor of Zach and Zorian.
+> 
+
+>> **u/hallo_friendos** [+20] *
+>> 
+>> That's a good point. None of the villains actually want the world destroyed, they just think they can release the primordial without that happening.
+>> 
+
+>>> **u/Watchful1** [+1] *
+>>> 
+>>> I don't think Jornak or Silverlake want to release the primordial. They just have to because of the contract with it.
+>>> 
+
+>> **u/-Fender-** [+16] *
+>> 
+>> Zorian just needs to mention that an angel promised to kill him in passing if the primordial is released. Once SL and RR learn that they'll both die anyways if angels become involved simply as a method for them to limit the effects of the time loop on the real world, they might not be so eager to go on with the plan. But somehow I doubt that this is where u/nobody103 planned to lead the conversation.
+>> 
+
+>>> **u/None** [+7] *
+>>> 
+>>> [deleted]
+>>> 
+
+>>>> **u/-Fender-** [+10] *
+>>>> 
+>>>> Depends on the author, and depends on his mood at the time. Up to him to consider it however he wishes, really. In the past, a "ping" like this made him realize a plothole, which he then tried to correct in a later chapter. (Specifically, it was in the first restart that Z&Z interacted with Daimen, before they found the Bakora Gate. Z&Z went in a time dilation chamber, which meant that their simulacrums disappeared, and they theoretically had lost their method of travel to Koth. In a later chapter, after it was brought to his attention, the author decided to include a paragraph about how Zorian had taught Daimen the Gate spell beforehand.)
+>>>> If Zorian *doesn't* bring up that tidbit of his conversation with an angel (and I'd be surprised if RR and Quatach's agents didn't already know that they went to a temple to communicate with an angel), then I'd be curious to know why. Whatever the author does with this comment of mine is entirely up to him.
+>>>> 
+
+>>>> **u/Ardvarkeating101** [+1]  *Father of Learning**
+>>>> 
+>>>> I don't know, let's ask /u/ErraticErrata and /u/jseah!
+>>>> 
+
+>>>>> **u/ErraticErrata** [+6] *
+>>>>> 
+>>>>> It is. At least in my opinion, I can't speak for other authors.
+>>>>> 
+
+>>> **u/morgf** [+5] *
+>>> 
+>>> Good point. Zach and Zorian can argue for not one but two drawbacks to Jornak and Silverlake if Pan is released.
+>>> One is the altruistic point that the world will be basically destroyed by the countermeasures if Pan is released. This may work better on QI, maybe on Jornak (depends on whether he is lying about wanting to make the world better), probably not much for Silverlake if she thinks she can hide in a bunker and survive by herself.
+>>> Second is that the angels will be free to act if Pan is released and will almost certainly kill Jornak, Silverlake, and QI for releasing Pan or for knowing about the time loop. That, of course, puts Jornak and Silverlake in a tough spot, since they have a soul contract to die if Pan is *not* released. But maybe they can be persuaded that their chances of survival are better if they work with Zach and Zorian to try to find a loophole in their contract.
+>>> Either way, I think QI should be the easiest to convince. Maybe the thing to do is for Zach and Zorian to approach QI alone and turn him, and then get QI to try to persuade Jornak and Silverlake.
+>>> 
+
+> **u/AKAAkira** [+15] *
+> 
+> It seems worth pointing out that Oganj, that dragon mage Zach wasted dozens of restarts to kill way back, was said to have a group. MoL's worldbuilding material noted that dragons are highly solitary creatures, which contributes to the reasons why dragon magic is difficult to pass from dragon to dragon.
+> If Oganj has a group, that seems to mean one of two things: one, he's an exception who has other dragons at his beck and call, or two, he has some assortment of underlings whether animal, monster or human that serve him. None of the previous chapters alluded to either being the case, I think, but maybe Zach would know more and will explain next chapter.
+> 
+
+> **u/Xtraordinaire** [+15]  *Team Glimglam**
+> 
+> So the chapter casually answered my biggest question, that was, **if Red Robe had been looping for years, why was he such a shitty mage?** In other words, why was Zorian able to make it alive past book one? 
+> The likely answer was that RR prioritized something, elsewhere. (We could say he was lazy, but, really, not really) 
+> But what? Well, we know now. While Z&Z honed their personal skills, ignoring politics, albeit, for different reasons, RR did the opposite of that. He somewhat neglected personal growth as a mage to devote more time figuring out continental politics and what strings must be cut to start a new great war.
+> 
+
+>> **u/nytelios** [+6] *
+>> 
+>> I have a new question from this chapter. If he is Jornak and is such a shitty mage (not that he really is, but he comes across as weaker than Z&Z), how did he get the imperial dagger to soulkill all those people? I can see him collaborating with QI, but even QI+Z&Z had a hard time.
+>> 
+
+>>> **u/Xtraordinaire** [+10]  *Team Glimglam**
+>>> 
+>>> My answer is bribery, extortion, corruption. The government is corrupt as fuck (see: Tesen), and subverted (see: damned cultists in the government, Sudomir the fucking mayor).
+>>> 
+
+>>>> **u/nytelios** [+7] *
+>>>> 
+>>>> I think that's a weaker explanation because no matter how corrupt it is, the royal family is demonstrably Smaug-like in hoarding their treasury. They hounded Z&Z just for trying, and I think QI+Z&Z would've been capable of that route themselves if it was an option.
+>>>> 
+
+>> **u/ShiranaiWakaranai** [+6] *
+>> 
+>> Of course Red Robe is a shitty mage. Zorian and Zach loop for years on their own, having to fight against all kinds of necromancers and monsters singlehandedly. Meanwhile Red Robe can just drag QI around with him to do the fighting and sit back until the enemy is defeated, just like how he beat up Zach during one of the early time loop parties. 
+>> But yeah, not having to train his combat skills would give him plenty of time to research ways to exploit the time loop. Still though, that's a somewhat empty threat. Red Robe only knows how to trigger a war under the controlled conditions of the time loop, and most likely without significant interference from other time loopers. Outside of the time loop with Zach and Zorian causing chaos it's entirely possible to make things go differently.
+>> 
+
+> **u/sicutumbo** [+13] *
+> 
+> So... QI knows about the time loop. And is aware that he will have to fight against probable-archmages, and won't allow the ground to be prepared ahead of time. Z&Z vs. RR and Silverlake in a more or less straight fight is such a sure thing that I'm not even going to bother placing odds on Z&Z losing, but QI changes things substantially. That angel will probably be necessary against whatever things QI will prepare, especially since Silverlake has up to date information on Z&Z's abilities and normal countermeasures against QI.
+> 
+
+>> **u/burnerpower** [+11] *
+>> 
+>> Yeah they have literally never fought a QI that knows their abilities and is specifically preparing for them. They are in for a rough experience if that angel isn't strong enough to swing things.
+>> 
+
+> **u/heckek** [+25] *
+> 
+> Jornak's goals and blackmail are contradictory. On one hand, he says that he wants to prevent another Splinter War. On the other hand, his blackmail is to start a continental war. What's really his motive?
+> Also, would Jornak know or suspect the scorched earth policy of the "Highest Ones"? If so, I think he should have placated and helped Zach stop the invasion in the time loop, otherwise there wouldn't be much of a world left after the primordial leaves and the scorched earth policies are activated.
+> 
+
+>> **u/Ardvarkeating101** [+47]  *Father of Learning**
+>> 
+>> > On one hand, he says that he wants to prevent another Splinter War.  On the other hand, his blackmail is to start a continental war. What's really his motive?
+>> He doesn't want to prevent another splinter war.  After all, the countries are all horrible and corrupt and it's inevitable anyway.  If anything driving the countries to war would make it easier for him to start reforms.
+>> 
+
+>>> **u/DTravers** [+55] *
+>>> 
+>>> The other countries are run by Wicked Foreign Oligarchs, and Jornak needs to Establish the Will of the People in Cyoria. Glory to New Cystozka.
+>>> 
+
+>>>> **u/tantalum73** [+32] *
+>>>> 
+>>>> The Wicked Foreign Tyrants (including The Gods) must Stand Trial Before A Jury Of The People.
+>>>> 
+
+>>>> **u/cyberdsaiyan** [+9] *
+>>>> 
+>>>> Glory to *Bellerophon and the people.
+>>>> 
+
+>>>>> **u/DTravers** [+19] *
+>>>>> 
+>>>>> Hey, I had to make my reference easily understood. Niche References Are The Tool of Subversive Terrorists.
+>>>>> 
+
+>>>>>> **u/cyberdsaiyan** [+5] *
+>>>>>> 
+>>>>>> The people find this explanation satisfactory. Always beware of false words from foreign oligarchs!
+>>>>>> 
+
+>>> **u/heckek** [+11] *
+>>> 
+>>> After I reread the section again, your interpretation makes more sense. 
+>>> I'm not sure if contributions towards starting a war would make it easier for him to start reforms, though, seeing how doing necromancy-related things tends to make everyone hostile to you (assuming that the wraith bombs can be pinned onto Jornak).
+>>> 
+
+>>>> **u/Ardvarkeating101** [+21]  *Father of Learning**
+>>>> 
+>>>> He doesn’t need the wraith bombs for the war, he said he knows exactly who he has to assassinate and in what order to start the war
+>>>> 
+
+>>>>> **u/heckek** [+3] *
+>>>>> 
+>>>>> Gotcha. I didn't read over that section carefully enough and misunderstood it.
+>>>>> 
+
+>>> **u/VivaLaPandaReddit** [+1] *
+>>> 
+>>> Good ole accelerationism
+>>> 
+
+>> **u/Nic_Cage_DM** [+23] *
+>> 
+>> > he says that he wants to prevent another Splinter War
+>> nah hes saying that everything is systematically corrupt and that another war is coming, but hes perfectly willing to use/wage war as a means to his ends.
+>> 
+
+>>> **u/heckek** [+5] *
+>>> 
+>>> Gotcha. I assumed that Jornak meant that he wanted to stop the next Splinter War, but your interpretation makes more sense.
+>>> 
+
+>> **u/signspace13** [+25] *
+>> 
+>> He is lying through his l teeth, either to our protagonists or to himself, he just wants power, he was wronged and robbed. He thinks the world owes him a favor and if it isn't willing to give it to him, he is willing to take it kicking and screaming. 
+>> That is the impression I'm getting at least, and honestly, Zorian isn't at as much a disadvantage as he may think at the moment, he just needs to do the one thing that his time in the loop has perfect prepared him for, *organise the Aranea*, if Zorian can pull this off, he basically just wins, it doesn't matter how many heavy hitters and powerhouses the other guys have, an army computerised of an entire race of mind reading and controlling psychics with skill at predicting the future? It doesn't get much more unbeatable than that.
+>> 
+
+>>> **u/heckek** [+17] *
+>>> 
+>>> I can definitely see that. One thing I do want to find out is why Jornak wants power. I suspect that it is related to the time loop warping his perspective of what he deserves, and is probably why the angels have a "good ethical guidelines" criteria when they selected their candidate.
+>>> I don't know if the Aranea will be that effective. They were wiped out by Jornak while the time loop was still in effect. Granted, they were caught by surprise, so they may be effective this time around.
+>>> I'm sure Jornak has anti-divination wards as well as a mind blank spell that makes him impervious to the Aranea, as well as anybody else he casts it on. I wouldn't be surprised if he enforces a "everybody has to cast Mind Blank on himself" policy. Who knows, maybe he even has a wraith bomb planted near their nest. Wraiths don't have minds, do they?
+>>> However, I doubt that the vast majority of the invading army will have great mind protection due to Mind Blank's tendency to cause mental issues. So as long as the Aranea stay alive until the invasion, they will contribute greatly.
+>>> 
+
+>>>> **u/I-want-pulao** [+13] *
+>>>> 
+>>>> Yeah, and average mages can't cast mindblank either - back when QI was first introduced in person (ch 80) his having a mind blank on told Zorian immediately:
+>>>> >Mind blank was not an easy spell to cast, and being under its effects immediately placed the man in the upper tier selection of mages.
+>>>> 
+
+>>>>> **u/domoincarn8** [+4] *
+>>>>> 
+>>>>> To kill your entire army of Aranea, I don't even need mages. I just need trolls with their minds shielded (no blanked, just shielded).
+>>>>> My Trolls club your Aranea to death as they fail to counter act mind shield.
+>>>>> The Aranea are a one trick pony, right now.
+>>>>> 
+
+>>>> **u/signspace13** [+12] *
+>>>> 
+>>>> Also remember I'm not just talking Cyoria's Aranea, I'm talking all of them, or at least all of them in Eldemar, and it was heavily foreshadowed that Zorian, Daimen and the Aranea worked out a way through mind blank, so it isn't a perfect defense, and there are consequences to using Mind blank for an extended period, a month likely exceeds that safe period, so at least some of the higher ups will be vulnerable some of the time, not to mention how vulnerable QI is to a surprise attack, from a lot of mind mages, if just one of them gets a hold on him in he hopes out automatically, which would give them the crown, a significant advantage for the final battle.
+>>>> 
+
+>>>> **u/kaukamieli** [+1] *
+>>>> 
+>>>> He wiped them out with a ban~~hammer~~dagger, though.
+>>>> 
+
+>>>>> **u/pleasedothenerdful** [+1] *
+>>>>> 
+>>>>> Where did Jornak even get access to the Dagger, though?
+>>>>> 
+
+>>>>>> **u/kaukamieli** [+1] *
+>>>>>> 
+>>>>>> He got access to all of the things. No idea. Maybe he got lucky and asked the correct people like Zach was supposed to?
+>>>>>> 
+
+>>> **u/Tommy2255** [+3] *
+>>> 
+>>> It's a mistake I've caught myself making at times, to base an argument on the things that would convince me rather than things that would convince my debate partner. Note that Jornak doesn't open with the corruption of the world's governments, he opens with "the last guy who used the gate shaped the world to his will however he pleased, why can't we do that?".
+>>> Jornak wants power. Anything else he says is just an excuse.
+>>> 
+
+>>>> **u/PM_ME_OS_DESIGN** [+2] *
+>>>> 
+>>>> Everyone sane wants power, if it's easy to acquire - power let's you get what you care about, and if you trust yourself, is a sustainable source of morality (I.e. let's you continuously improve the world).
+>>>> 
+
+>> **u/ansible** [+4]  *The Culture**
+>> 
+>> > Also, would Jornak know or suspect the scorched earth policy of the "Highest Ones"?
+>> I was expecting that to be brought up in the conversation.  The impertinent "mortals" (Jornak specifically, but also includes Silverlake) might not be so worried about the long-term effects of unleashing the primordial, but I've have thought the QI would have some second thoughts about it if he knew about the angelic angle on all this.
+>> 
+
+>> **u/Morghus** [+3] *
+>> 
+>> He could be thinking that he would be able to fix everything afterwards, or use the confusion and havoc for his own purposes. He comes across as a spoiled and sulky child given a nuclear bomb, with a sprinkle of insanity on top.
+>> 
+
+>> **u/random071970** [+1] *
+>> 
+>> I think it's a bluff.  If we get Splinter Wars 2: Electric Boogaloo, QI has no reason to attack Cyoria.  He gets the instability he wants, and Ulquaan Ibasa doesn't have to send it's troops to die.  
+>> He can support Falkinrea and help them win the next round of wars.  Mission accomplished!
+>> 
+
+>>> **u/hallo_friendos** [+2] *
+>>> 
+>>> That's what I thought at first, but Jornac / Red Robe probably won't cooperate with any plan where the primordial doesn't get released, and QI also wants to deal with the faction of his own people that want peace with Eldemar by making peace impossible.
+>>> 
+
+> **u/DerSaidin** [+13] *
+> 
+> Does r/rational think Z&Z used their time with the Angel well?
+> They had time to consider questions and prepare.
+> What would you have asked differently?
+> 
+
+>> **u/Xtraordinaire** [+18]  *Team Glimglam**
+>> 
+>> They got the actual contract, learned of the 'scorched earth' danger, learned that angels were willing to show some leniency, and even got a powerup for the final battle.
+>> Maybe not ideal, but a very good result overall. The contract in writing is a **huge** win, now they can munchkin the shit out of it.
+>> 
+
+>> **u/morgf** [+3] *
+>> 
+>> I think they missed a big chance to ask for help with getting around the primordial's contract with Silverlake and RR. If they could offer Silverlake survival without releasing the primordial then she would almost certainly join them. RR would be a question mark (at the time they contacted the angel) but still worth a shot.
+>> Maybe the primordial contract is similar enough to the angel contract that no real help could be given, but maybe not. It was certainly worth asking.
+>> 
+
+>> **u/Vlad1en** [+1] *
+>> 
+>> What the Silence is all about? why gods just stopped talking?
+>> 
+
+>>> **u/PM_ME_CUTE_FOXES** [+3] *
+>>> 
+>>> That's something the Church could ask themselves, no?
+>>> They don't call up angels every day, but they must've done it before.
+>>> 
+
+>> **u/serge_cell** [+1] *
+>> 
+>> About life, universe and everything obviously.
+>> 
+
+> **u/hwc** [+13] *
+> 
+> Given the scorched-earth response, is it still in Quatach-Ichl's best interest to help free the primordial?  Would Ulquaan Ibasa be destroyed?
+> 
+
+>> **u/Xtraordinaire** [+1]  *Team Glimglam**
+>> 
+>> Interesting question, but maybe he hopes to come out on top. It really depends on what concrete measures will be enacted and so far we know nothing.
+>> 
+
+> **u/braiam** [+13] *
+> 
+> So, new questions about this:
+> - In what way would the 'scorched earth' method affect the angels that they would intervene without the highest ones permissions?
+> - It seems that the time loop is kinda an event horizon, no information can ever escape, not even to the spiritual world. Given that, and that the cage was connected to the time loop and the real world, how would the triggers react if Px was released in the time loop? I mean, we could release it there and then destroy it/let it expire and it wouldn't affect the real world.
+> - If the above is possible without triggering, would other conditions analogous to Px being out of the cage (ie. mana levels dropping drastically, the Cyoria dungeon/hole disappearing) but not on the real world activate?
+> - "Oganj and his group" does he means other dragons?
+> - How the heck did Jornak figure out that Zack was under a contract if a) he didn't even know, b) it seems to require a adept divine mage to even try to pry into the contract/blessing thing, much less reading it? (btw, the angel saying the "figured it out" should ring several alarms about the abilities of Jornak)
+> 
+
+>> **u/sambelulek** [+7]  *Ulquaan Ibasa Liquor Smuggler**
+>> 
+>> Angels could be duty-bound to preserve the world. You suspect people provide something to the angels, forbidding them to kill people willy nilly. But perhaps, it's just two duties of equal priority. Most Highest must decide which to accomplish, preserve the world or keep out the Prim.
+>> 
+
+>> **u/Ardvarkeating101** [+2]  *Father of Learning**
+>> 
+>> > In what way would the 'scorched earth' method affect the angels that they would intervene without the highest ones permissions?
+>> Maybe the primordial is partially spiritual as well, so they just "destroy" any part of the spiritual realms it occupies once it gets out, including parts that have angels or other spirits in it.
+>> 
+
+> **u/ththth12** [+11] *
+> 
+> That angel gave them clear hints how to save Zack. 
+> -The contract will dissolve at the end of the month. 
+> -They will not attack them even if Zack evades the contract. 
+> -Zorian confirmed that it all depends Zack' perception, and not how things really are. 
+> So, all the need is that Zorian wipes or changes Zack's memories, or everyone in known will fake their deaths. As long as Zack honestly believes that they are dead/mindwiped, then everything will be solved.
+> 
+
+>> **u/burnerpower** [+5] *
+>> 
+>> Yeah the contract dissolving is a big win, that means they can just temporarily mess with Zach's memories until the contract dissolves. Doing it without post mind wipe Zach realizing it has happened will be the tricky part.
+>> 
+
+> **u/XellosPY** [+22] *
+> 
+> Is the RedRobe team screwed no matter what now? If they don't liberate the Primordial they fail their contract, If they set it free but the angels beat it they are just going to kill them all because they know about the time loop, and if the angels can't seal it back then the Primordial is going to wreck the world anyways.
+> 
+
+>> **u/Ardvarkeating101** [+8]  *Father of Learning**
+>> 
+>> >  then the Primordial is going to wreck the world anyways.
+>> We don't know how much it's going to destroy, possibly just Cyoria and whatever is in it's way to wherever it wants to go.
+>> 
+
+>>> **u/blast_ended_sqrt** [+15] *
+>>> 
+>>> The angels said that the Primordial being released isn't a world-ending event, but that the gods' failsafes would be _much worse_. RR presumably doesn't know that part. The whole plot at this point is coming to a mutually-assured-destruction pileup on all sides.
+>>> 
+
+> **u/Laser68** [+12] *
+> 
+> Loving how consistently well the characters are written. We finally meet angels and they have an agenda, which they are using reasonable means to try and achieve. No character is evil for no reason, no character has purely altruistic motives. Gotta admit though, that initial method of initiating the contract is sketchy as hell. 
+> Bit of a curiosity, angels are surprisingly bad judges of character. Zorian in a lot of ways is a perfect fit. It is interesting that they seem to only accept an underdog hero as an acceptable archetype.
+> 
+
+>> **u/zolnir** [+24] *
+>> 
+>> No, the angels are perfectly good judges of characters. It's the same logic as why you don't hire someone completely unqualified to do a certain job, even if everyone technically has the potential to get good into their job eventually.
+>> 
+
+>>> **u/Laser68** [+1] *
+>>> 
+>>> And Zach was qualified at the start? I do not see how he is actually any better than Zorian. None of them are qualified at the start if that is the case.
+>>> 
+
+>>>> **u/LLJKCicero** [+23] *
+>>>> 
+>>>> Zach is a classic goody two shoes shonen protagonist. He's Goku but less stupid and  short-sighted.
+>>>> Zorian, on the other hand, is much more mercenary and self-interested. He's *devious*, which is something the angels didn't want.
+>>>> 
+
+>>>> **u/ShiranaiWakaranai** [+6] *
+>>>> 
+>>>> Note that the angel said "best", which is very different from "good". It's a clever trick to make Z&Z think that Zach is a good candidate, when in reality he was probably the least bad of a terrible lot.
+>>>> 
+
+>>>> **u/zolnir** [+3] *
+>>>> 
+>>>> ... Someone didn't read the story. Or has a short memory.
+>>>> 
+
+>>>>> **u/Laser68** [+2] *
+>>>>> 
+>>>>> Start meaning pre-loops, not our first time seeing Zach
+>>>>> 
+
+>> **u/burnerpower** [+20] *
+>> 
+>> The angel's foresight seems limited. It's not really possible to predict that Zorian would go through such a drastic change in personality in the time loop especially considering his strange entry method. Besides from a potential perspective he kind of sucks. Even with a divine blessing he'd have merely above average Mana reserves and still be lower than Zach. On top of that Zach was restricted on the type of mind magic he could learn, if it was Zorian who was the main looper it would be absolutely crippling. Zorian is also extremely paranoid, he would have never agreed to any shadey dream deal. I think the angel's assessment of preloop Zorian is pretty accurate.
+>> 
+
+>>> **u/jaghataikhan** [+6]  *Primarch of the White Scars**
+>>> 
+>>> This completely shoots down my former theory of Zorian s freakishly unlikely inclusion into the time loop (akin to a botched copy paste operation jail breaking the encryption on a file by chance) being an angelic intervention to.offset zachs being derailed :/
+>>> 
+
+>>> **u/Laser68** [+2] *
+>>> 
+>>> Except the deal was given in a semi-lucid scenario, which could get almost anyone to agree. The mind magic being restricted part though is entirely valid, but its also not the reasons the Angel used as a counter argument. In terms of mana reserves, zorian with above average reserves would be scary. Remember the main barrier to him learning new things as he can only try things so many times due to his low reserves. Zach was good, but Zorians rate of learning was nothing if not fantastic give his base reserves.
+>>> 
+
+>>>> **u/burnerpower** [+6] *
+>>>> 
+>>>> I don't think he would have accepted the deal in a dream because of the way he reacted to the idea in this chapter. He thought it was ludicrous and even his pre loop self would never consider it. It is true that we don't know for sure what pre loop Zorian would do but even the angel agreed it was foolish to accept. You are right that Zorian learns fast but that's not terribly important with effectively infinite time. While Zorian is better at the subtle stuff the angels weren't looking for subtle, they were looking for power and Zach fits the bill.
+>>>> 
+
+> **u/playercharlie** [+10] *
+> 
+> From a purely "I want to survive the month" point of view, why would ZZ accept the terms of Jornak, and leave Team RR alone?? Someone else starting a Splinter War does not trigger any of the conditons in the contract with the angels. Also, if Team RR starts a Splinter war, the various countries would start amassing their resources towards the war, and which would make it more difficult for Team RR to work towards releasing Panaxeth, as ZZ can just go to the authorities at that point to reveal the invasion plot. 
+> Also, if RR can start the Splinter Wars without releasing Panaxeth, and in a much easier fashion as it has been implied, QI could just use that path to satisfy his goals. QI wouldn't need to then release Panaxeth - only RR and Silverlake would need to. Starting a Splinter war would fragment Team RR.
+> Thus, any moves by RR to start a Splinter War will only make his position weaker (as he is less likely to be able to release Panaxeth). The only thing RR is counting on is the reluctance of ZZ to let so many people die. I love how this conversation is even more Do or Die for RR than it is for ZZ - probably why RR requested for it in the first place. 
+> Apologies if I have forgotten any basic facts - it is early morning here :)
+> 
+
+>> **u/sicutumbo** [+10] *
+>> 
+>> > From a purely "I want to survive the month" point of view, why would ZZ accept the terms of Jornak, and leave Team RR alone??
+>> Zach would die if team RR survives:
+>> > "Isn't that just a little unfair? It's obvious the situation has changed from the time I agreed to the contract… and even you admitted the way you got me to agree to it was kind of dodgy and inappropriate."
+>> > "We cannot absolve you of fulfilling your part of the bargain,"the angel stubbornly said. "It simply is not within our power to do so. The only thing I can promise you is that if you find the way to remove or evade the contract in some fashion, we will not seek to punish you for it."
+>> They can probably avoid the terms of the contract in regards to Zorian in a few ways, but if team RR survives to the end of the month, Zach will die even if the primordial isn't released, because he has no good way of erasing their memories of the time loop like he might have with Zorian.
+>> Actually, they just plain can't kill team RR right now. QI is a Lich, and killing his physical body merely returns his soul to his phylactery. So Zach would all but certainly die even if they managed to completely annihilate team RR before they could trigger their contingencies. Zorian would come out ahead, but it wouldn't be in character. Zach has little reason to not accept since a straight fight is his specialty, and it's the only realistic path he survives through.
+>> RR also has the pseudo nuclear option of placing a description of the time loop in a newspaper if Zach doesn't agree.
+>> 
+
+>>> **u/Ardvarkeating101** [+9]  *Father of Learning**
+>>> 
+>>> > RR also has the pseudo nuclear option of placing a description of the time loop in a newspaper if Zach doesn't agree.
+>>> And the actual nuclear option of both killing off most of the continent, *then* sending everyone into a bloody war!
+>>> 
+
+>>> **u/playercharlie** [+6] *
+>>> 
+>>> >Zach would die if Team RR survives
+>>> Exactly, which is why they shouldn't accept the terms of Team RR to leave them alone. It is asking for a lot from a final fight, to kill all of Team RR.
+>>> I see what you are saying as well. That accepting Jornak's terms is the only way of ensuring there is a final fight. My thought process was that the final fight will happen one way or the other, regardless of whether they hound Team RR through the month or not.
+>>> >RR also has the pseudo nuclear option of placing a description of the time loop in a newspaper if Zach doesn't agree. 
+>>> Wow. That is crazy. What an option! :D
+>>> 
+
+>>>> **u/kaukamieli** [+5] *
+>>>> 
+>>>> Someone writing about it doesn't make anyone just believing it, though. People do discuss time magics all the time. I have hard time believing it's that simple.
+>>>> 
+
+> **u/Seyt77** [+32] *
+> 
+> Thank god we can put the zach being rr theory a rest. Almost as stupid as the damien being rr.
+> 
+
+>> **u/Xtraordinaire** [+35]  *Team Glimglam**
+>> 
+>> Well, the Damien theory was not too bad (until the story introduced Damien)
+>> The simulacrum theory on the other hand...
+>> That reminds me. I'll try to collect links to all r/rational chapter discussions of mol and will post them somewhere.
+>> 
+
+>>> **u/I-want-pulao** [+5] *
+>>> 
+>>> u/thrawnca was doing that [here](https://www.reddit.com/r/motheroflearning/comments/5v0zl0/links_to_discussion_threads/). Only updated till ch 93 though.
+>>> 
+
+>>>> **u/thrawnca** [+1]  *Carbon-based biped**
+>>>> 
+>>>> I took a break from web fiction for a month or two. I'm somewhat back now, just limiting the time I spend on it; I'll probably update the index soon.
+>>>> 
+
+>>> **u/Seyt77** [+3] *
+>>> 
+>>> Having a theory that Damien is RR even though he only just the talented brother of the MC is stupid because there was no connection at all between him and Zach. Its reaching and seemed cliche to have everything so connected when there was never any evidence at all since he was mentioned to even being RR. That's why the theory is stupid.
+>>> 
+
+>>>> **u/Bighomer** [+11] *
+>>>> 
+>>>> > cliche
+>>>> The biggest argument in favor of Damien being RR was that it's cliché and authors just love connecting the main villain to the MC one way or another.
+>>>> 
+
+>>>>> **u/Ardvarkeating101** [+7]  *Father of Learning**
+>>>>> 
+>>>>> FORTOOOOOOOOOOOOOOOOOOOOOOOV!!!!!!!!!!!!!!!!!!!!
+>>>>> 
+
+>>>>>> **u/Bighomer** [+8] *
+>>>>>> 
+>>>>>> (Fortov is a Primordial who's managed to deceive the gods by assuming a human persona; Damien is actually one of the gods who tried to track down Primordial-Fortov but then lost his memories in an accident. Chapter 101 will be the showdown between those two godly beings and it will be resolved by the power of familial love, i.e. by Kirielle.)  
+>>>>>> ...what were we talking about?
+>>>>>> 
+
+>>>>> **u/Seyt77** [+4] *
+>>>>> 
+>>>>> Rationally that is the dumbest argument people can have and glad to see it gone.
+>>>>> 
+
+>>>> **u/Xtraordinaire** [+4]  *Team Glimglam**
+>>>> 
+>>>> > was no connection at all between him and Zach.
+>>>> Except there was - his work in Koth. The theory was that Damien found the gate and activated it. There were problems with that theory, and I was not a fan, but it was way better than a simulacrum one.
+>>>> 
+
+>>>>> **u/killardawg** [+1] *
+>>>>> 
+>>>>> Kinda lame you putting down theories when you didn't even guess this one. 
+>>>>> Anyway imo pretty lazy ending to what could've been a potentially interesting plot line. "Oh it was jornak! Ofcourse!" 
+>>>>> But I guess it was rational that there was no ultimate reveal because it's much better to be dry and uninteresting. Anyway hopefully not every threads get tied up like this as I'd think it'd be a weak finish overall.
+>>>>> 
+
+>>>>>> **u/Xtraordinaire** [+3]  *Team Glimglam**
+>>>>>> 
+>>>>>> > Kinda lame you putting down theories when you didn't even guess this one. 
+>>>>>> Except, I did, to the extent the provided evidence made it possible. There was no clue that indicated it was Jornak specifically, and not, say head of the House Boranova, and guessing blindly is not in the spirit of this subreddit. This is not a place for D+D=T.
+>>>>>> We knew RR had to be a cultist (this excluded Zach), he had to be a middling mage (excluded Veyers, Damien), we knew he had to have a soul (excluded simulacra), and we had a very strong suspicion that he had to be connected to Veyers (but it was not certain, soulkill could have been a clever red herring).
+>>>>>> 
+
+>>>>>>> **u/killardawg** [+0] *
+>>>>>>> 
+>>>>>>> Well, I used different metrics to come to my conclusions, like literary and thematic reasoning. The reason I never thought of this being the outcome more than anything else because it's just boring, bland and doesn't even matter. 
+>>>>>>> There is no meaning to jornak being RR that the whole quest to find out his identity was just a red herring. It doesn't change the story in anyway. Its lazy rational writing.
+>>>>>>> Also you never came to the conclusion jornak was red robe was because you didn't want to risk being wrong rather than risk being right. That stance has about as much meaning as jornak being RR. It'd make you a wicked poker player when you play against newbies though.
+>>>>>>> 
+
+>>>>>>>> **u/Xtraordinaire** [+1]  *Team Glimglam**
+>>>>>>>> 
+>>>>>>>> Is this salt I smell? I think it is!
+>>>>>>>> 
+
+>>>>>>>>> **u/killardawg** [+1] *
+>>>>>>>>> 
+>>>>>>>>> As salty as the sea. But ya it must be easy only looking back.
+>>>>>>>>> 
+
+>>>>> **u/Seyt77** [+1] *
+>>>>> 
+>>>>> That doesn't connect him to Zach at all. And there was no hint Damien's work had any sort of connection to the time loop and the gate was reaching. So glad it was debunked.
+>>>>> 
+
+>>> **u/None** [+2] *
+>>> 
+>>> [Here's a filtered search with all the chapters and nothing else](https://www.reddit.com/r/rational/search?q=site%3Afictionpress.com+mother+of+learning&restrict_sr=on&sort=new&t=all)
+>>> 
+
+>> **u/I-want-pulao** [+13] *
+>> 
+>> I don't think anyone took that theory seriously. The Zorian!RR theory at least had a few fevered advocates haha.
+>> 
+
+>>> **u/Seyt77** [+9] *
+>>> 
+>>> There were serious advocates of the Damien theory way before rational threads. I had followed the novel from the first chapter and it was mentioned constantly until the introduction of Veyers.
+>>> 
+
+>>>> **u/I-want-pulao** [+16] *
+>>>> 
+>>>> Daimen made sense when we didn't know him at all. But once we did, it was pretty clear that it wasn't happening, esp when Veyers came about. Plus, Daimen was just so far away, that theory always had an asterisk beside it.
+>>>> 
+
+>>>>> **u/Seyt77** [+9] *
+>>>>> 
+>>>>> Daimen never had any sort of connection to Zach and only thing he had going for him was that he was the MC talented older brother. I don't remember being a spec of evidence that RR was Damien ever since the first chapter.
+>>>>>  So please tell me how does Damien being RR make 'sense'?
+>>>>> 
+
+>>>>>> **u/I-want-pulao** [+11] *
+>>>>>> 
+>>>>>> In terms of narrative tropes, is all. Maybe I should say it made SOME sense. I never agreed with it, even when it first came out.
+>>>>>> 
+
+>>>>>>> **u/Seyt77** [+1] *
+>>>>>>> 
+>>>>>>> Glad to see this novel was rational then.
+>>>>>>> 
+
+>>> **u/Penumbra_Penguin** [+1] *
+>>> 
+>>> > fevered 
+>>> I think you mean 'fervid'.
+>>> 
+
+>>>> **u/I-want-pulao** [+2] *
+>>>> 
+>>>> fevered works here just as well, actually. [Cambridge definition](https://dictionary.cambridge.org/dictionary/english/fevered) of fevered: (disapproving) **unnaturally** **excited** **or** **active:** 
+>>>> Didn't know fervid was a word though, learnt a new one today! Thanks :D
+>>>> 
+
+>>>>> **u/Penumbra_Penguin** [+3] *
+>>>>> 
+>>>>> I did check that before I posted, and decided that fervid was enough better a fit that you might have meant it instead. It's also just a cool word =)
+>>>>> 
+
+>> **u/None** [+20] *
+>> 
+>> [deleted]
+>> 
+
+>>> **u/hallo_friendos** [+7] *
+>>> 
+>>> It could have been said nicer, yeah, but I can definitely sympathize with getting fed up over all the crazy theories people were coming up with. There's only so much I could say about them without being a little rude myself.
+>>> 
+
+>>> **u/LancesAKing** [+12] *
+>>> 
+>>> Ehh, people get so invested in their own theories that they want them to be right for longer then they have any reason to. So when the theories practically warp or change the world building that the author made in order to justify how it might be possible, rather than building in what we already know? 
+>>> Yes.
+>>> 
+
+>>> **u/Xtraordinaire** [+2]  *Team Glimglam**
+>>> 
+>>> Sometimes, stupidity deserves some mocking. Just look, some people are already in denial. "It's just a disguise, guys!". Bah.
+>>> These theories were outright ruled out by the facts the story provided. They were never possible.
+>>> 
+
+>> **u/mataamad** [+8] *
+>> 
+>> [:\(](https://www.reddit.com/r/motheroflearning/comments/9y0jmf/theory_zorian_is_red_robe/)
+>> 
+
+>>> **u/mataamad** [+18] *
+>>> 
+>>> I'm just glad that I didn't have time to write up my 'the cranium rats are red robe' theory this weekend!
+>>> 
+
+>>> **u/archaeonaga** [+4] *
+>>> 
+>>> Heh, same. I still don’t think it’s a bad theory based on the information we knew at the time; a lot of things that invalidated the Zorian!RR theory were literally learned this chapter, like the fact that Zach never knew about the time loop to begin with.
+>>> Honestly, Jornak as RR is boring to me. It’s a character who wasn’t introduced until long after RR left the loop and I’m not sure it was possible to figure out prior to this chapter. At the same time, it’s also exactly the first person you’d check after Veyers, so not exactly the sneakiest solution, either.  
+>>> That’s mostly sour grapes though. At least now I can enjoy the rest of the book without distraction.
+>>> 
+
+>>> **u/killardawg** [+3] *
+>>> 
+>>> All good fam, I came to the same conclusions based on thematics. This plot thread was pretty pointless. It didn't even matter who RR was in the end and it didn't impact the protagonists in anyway.
+>>> 
+
+> **u/None** [+7] *
+> 
+> It'd be hilarious if they made a deal with the lich and neutralize red robe and silverlake.
+> Also how long till we get a ton of lawyers in a black room?
+> 
+
+> **u/distrofijus** [+9] *
+> 
+> my reaction after reading this chapter:
+> I AM DISSAPOINT. At least to me it seems that quite a few details are not fitting that well. 
+> I'll have to re-read the chapter about Jornak, but the impression I had that he was a NoM (not a mage, a regular citizen). Or a substandard mage at all. I think by the time Zorian performed a mind reading on him, he was qualified enough to identify his traits/status for pre-loop. 
+> Anyways, some random conclusions/thoughts after reading the chapter:
+> given enough resources/time even monkey can become archmage/mindmage/whatever. (Jornak as very bland person prior loop. If he had any decent talent, he would be most likely working as a mage already instead of being lawyer).
+> The Red Robe stolen from cultists can be explained, however getting crown as newbies from QI for initial temporary mark, getting QI to modify temporary market, getting access to royal vault for dagger - those details are very thin. The knowledge about SG (the artifacts, soul markers) and how they knew that QI had the crown of the king to even include others in looping - it does not seem to be that Jornak was privy of this information and Zach knew pretty much nothing besides the bars. If Zach had visited SG , he could have  learned something from controller, but it is still very far fetched. (I think it was Zorian who entered SG  by feeling/using soul markers, Zach was oblivious to them). A very catch-22 issue in general. I just can imagine any plausible scenario how this situation where Zach granted a temporary marker to Jornak might have happened reasonably. 
+> There might be an  explanation for QI holding his end of the deal all the time. It is part of divine blessing he has. As a whim or not, the god who placed the blessing/contract on him mandated that he never breaks any deals (or there he will die/lose the divine blessing/whatever). There might be some clause about others approaching/offering a deal (it cannot refuse a reasonable deal). E.g., if the undead vampire management asks him to be a general and they promise to take care of his subordinates or what not, he has to accept due to divine blessing (has was offered reasonable deal with reasonable compensation). So Jornak with Zach randomly asked QI to borrow a crown for 5 minutes (and provide a relevant payment - very little for such request) and QI just had to agree  due to his divine contract/blessing. 
+> It is also very likely that contract Pan had signed with SL and RR is of different nature than Zach. Zach agreed to it in the sleep and then he was shoved into SG with very little information about SG. 
+> Pan is enforcing his contract some other way (not divine magic), but it is complicated enough that SL can untangle it during the month until it expires.
+> 
+
+> **u/tjhance** [+7] *
+> 
+> The more I think about it, I think the Jornak=RR reveal might be more Thematic (TM) and less inelegant than I gave it credit for originally.
+> > I'm guessing Veyers introduced you to Zach, and you hit it off with each other since you have both been cheated out of your inheritance and empathized with each other because of it
+> This is the emotional core of it, I think. In Chapter 75, when Jornak was first introduced, we learn his story. He had his inheritance stolen from him and he empathized with Veyers. So, duh, Zach meets Jornak, they "hit it off" as Zorian says, because Jornak empathizes in exactly the same way. We know Zach had been talking to lawyers about what to do with his situation, so it's not unreasonable that he'd come across Jornak.
+> (It would be really neat to get an interlude where we see them meet, start looping together and eventually turn against each other...)
+> > Have you two ever tried to look into what our country has been doing these past few years?" Red Robe said, looking at Zorian. "I just wanted to figure out how to ensure justice for me and Zach at first. However, I couldn't stop myself from looking… and the more I looked, the more awful things I found. The prosperity we enjoy right now is all built atop of mountain of lies, theft, unspeakable corruption and even straight up murder. Even if I got justice for myself and Zach, it's all just a drop in the bucket.
+> At one point, Zorian even suspects Zach as the enemy on account of Zach having reason to hate the Establishment because they stood by and did nothing while Zach was robbed by everything. Jornak is actually Zach's character foil here. Zach didn't fall like Zorian suspected, but Jornak did.
+> 
+
+>> **u/archaeonaga** [+1] *
+>> 
+>> This is still all pretty weak sauce, and requires us to a) guess that the culprit wasn’t introduced until _Chapter 75_ and b) Zorian’s guess regarding the motives the _first time he investigates the issue_ was correct, as well as c) Zach was lying about his contract and knew nothing about the time loop. 
+>> Where’s the thematic part here, BTW? I can think of a half-dozen characters who could provide the whole “turns out anyone can become evil” angle better and more surprisingly—who doesn’t already assume that lawyers have the capacity for evil, after all, especially one we _know_ to be involved with an evil cult? And that’s all you get from Jornak; you don’t get the familial struggle you’d have with Fortov, or a more dramatic reveal and interpersonal conflict you’d get with Alanic, Xvim, or Taiven. And none of those really drive home the theme like Zorian as RR would’ve done.
+>> 
+
+> **u/Nic_Cage_DM** [+6] *
+> 
+> Wait, who is Oganj?
+> 
+
+>> **u/I-want-pulao** [+28] *
+>> 
+>> See [here](https://www.reddit.com/r/rational/comments/ars1s1/rt_hf_mother_of_learning_chapter_96_contract/egpc04t). Essentially dragon who Zach tried to kill on his own and led to all those aborted restarts back around ch 15 or so.
+>> 
+
+>> **u/Seyt77** [+5] *
+>> 
+>> The only dragon that Zach killed in one of the restarts.
+>> 
+
+>>> **u/None** [+8] *
+>>> 
+>>> Didn't they also kill the dragon with the staff as well?
+>>> 
+
+>>>> **u/godwithacapitalG** [+11] *
+>>>> 
+>>>> Left ambiguous I believe. We know they got the staff, we don't know what happens to the dragon.
+>>>> 
+
+>> **u/godwithacapitalG** [+4] *
+>> 
+>> Dragon Zach kills after like 20 loops. Somewhere in chapter 10-20 I forgot.
+>> 
+
+> **u/minopoked** [+7] *
+> 
+> Man i need to re-read all of this when its done.
+> Situation looks extremely bleak for Zorian, Zach and co.
+> How did Jornak get Oganj to side with him?
+> 
+
+>> **u/ketura** [+17]  *Organizer**
+>> 
+>> The dragon seems like the least of their problems, tbh.  I mean, Zach has explicit experience in soloing it himself, it'd be a cakewalk with a team.
+>> 
+
+>>> **u/braiam** [+6] *
+>>> 
+>>> The problem is "his group".
+>>> 
+
+>>>> **u/None** [+6] *
+>>>> 
+>>>> I bet the group involves that vampire lady. It seemed like she was on loan from a group and we never saw her later in the story.
+>>>> 
+
+>>>>> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade**
+>>>>> 
+>>>>> I wanted to see her more.
+>>>>> 
+
+>>>>> **u/braiam** [+1] *
+>>>>> 
+>>>>> I doubt Oganj is item with humanoids. I was thinking more about other dragons.
+>>>>> 
+
+>>> **u/lostatnet** [+6] *
+>>> 
+>>> Zach killed Oganj after several suicidal restarts. I doubt he relishes fighting him again, help or no help.
+>>> Fighting the Violet eyed Disaster (the dragon with the staff) took a lot of effort with their full crew.  I'd say it was nearly as much work as fighting Quatach-Ichl.
+>>> Fighting Quatach-Ichl and Oganj, with Red Robe (Jornak), & Silverlake as support, seems beyond their abilities without something to tip the balance in their favor.
+>>> 
+
+>>>> **u/Caliburn0** [+12] *
+>>>> 
+>>>> You mean... *like an angel?*
+>>>> 
+
+>>>>> **u/jaghataikhan** [+1]  *Primarch of the White Scars**
+>>>>> 
+>>>>> I think it's going to end up being angel vs primordial in the Last Battle (roughly comparable power level, ability to grant boons, limited ability to manifest in reality, and even their manifestations in reality are strangely similar eldritch-abominations)
+>>>>> 
+
+>>>>>> **u/Caliburn0** [+8] *
+>>>>>> 
+>>>>>> Nah... If one Angel on the material plane could beat a primordial, they wouldn't be that much of a threat. To match the primordial, I think you need at least an army of Angels.
+>>>>>> 
+
+>> **u/D0nkeyHS** [+2] *
+>> 
+>> Yup, I'm planning a re-read as soon as it's finished.
+>> 
+
+> **u/BattleGolem** [+6] *
+> 
+> I hoped that contract would clear something. It didn’t. We still don’t know it’s full text, but we got some angelic summary that I assume is more or less true. I’m very confused about what is angels goal. 
+> Implied goal is “to stop anybody but Zach to know about time loop”. 
+> Implied method is “Zach will die, if anybody know about time loop at the end of the month”.
+> So, from angels perspective:
+> What is stopping Zach from telling everybody about time-loop on the first day of new month ? 
+> Why is Zach self-policing on the pain of death more likely to succeed that just banning Zach from talking  about time loop when he is back from it ?  Or all the time ? You can argue that this would  limit his options, but they don’t have problem with banning mind and soul magic, a much bigger obstruction.
+> So, what angels goal here ? No idea. But it doesn’t seem to be stated goal. 
+> &#x200B;
+> Additional observation (may or may not be related to above):
+> Angels can clearly lie (or say things that are not technically true, or be imprecise to the point that they are saying something really misleading), as :
+> “He cannot let anyone know about existence of the time loop or he’ll die at the end of the month. “
+> Is not like this obligation was described before, this imply that Zach will die if anybody “knows about existence of time loop” regardless of when that occur. So Zach fate would be sealed as soon as he told about time loop to first person in the time loop. And this seems to hold true in any reasonable definition of “knows about existence of time loop” that still would kill Zach if anybody knows about time loop at the end of the month.
+> 
+
+> **u/rational_sith** [+8] *
+> 
+> > Zach couldn't answer him, of course. That would mean he would reveal some of the information about his contract thing, and that was forbidden.
+> Reminds of the Dark Mark from HPMoR. Maybe it can be handled the same way.
+> > [To find out](http://www.hpmor.com/chapter/86) how the Dark Mark operates, write down every way you can imagine the Dark Mark might work, then watch Professor Snape try to tell each of those things to a confederate, and whatever he *can't* say out loud is true.
+> 
+
+>> **u/Ardvarkeating101** [+2]  *Father of Learning**
+>> 
+>> > Reminds of the Dark Mark from HPMoR. Maybe it can be handled the same way.
+>> We already got the full transcript
+>> 
+
+>>> **u/rational_sith** [+1] *
+>>> 
+>>> But they still need "to remove or evade the contract in some fashion".
+>>> 
+
+>> **u/Notchmath** [+1] *
+>> 
+>> Not really. In HPMOR, the Death Eaters could lie about the Dark Mark. In this, Zach can’t say anything at all. Example of why this fails: Let’s say either A or B is true and the other is false.
+>> HPMOR:
+>> Dumbledore: “Relay A to me.”
+>> Snape: “A.”
+>> Dumbledore: “Relay B to me.”
+>> Snape: *silence*
+>> MoL:
+>> Zorian: “Relay A to me.”
+>> Zach: *silence*
+>> Zorian: “Relay B to me.”
+>> Zach: *silence*
+>> or alternatively
+>> Zorian: “Relay A to me.”
+>> Zach: “A”
+>> Zorian: “Relay B to me.”
+>> Zach: *Silence*
+>> Zach: *Kills Zorian*
+>> 
+
+> **u/BlastedEbola** [+5] *
+> 
+> I don't buy Jornak as RR. This:
+> >"I guess you also know who I really am?" he asked, tilting his head to the side with a self-indulgent smile.
+> doesn't seem like the reaction of someone whose obsessively kept secret has been found out. In Bayes terms someone who isn't Jornak is certain to let his enemies keep thinking he is, so the likelihood ratio is *at best* 1:1, so this can't be evidence for Jornak=RR. 'Liar who wants to conceal his identity admits his identity' is just awful evidence.
+> My prior for J=RR wasn't very high, and this chapter shifts it downwards if anything, I think you need to assign *some* probability to Jornak not admitting it so casually after all the lengths he has gone so far. All the people acting like this chapter settles the matter, how do you assign a much higher conditional probability to Jornak telling the truth than any other RR candidate lying?
+> 
+
+> **u/MaleficentStatement** [+4] *
+> 
+> Thoughts:
+> * If ZZ accept the offer, the next chapter might timeskip to just before the final battle. Imagine a Zorian + Princess vs RR + Oganj all-out fight. 
+> * The RR reveal doesn't feel very satisfying. RR let Zorian say who he thought he was instead of revealing his identify himself, so could just be lying, and they never verify his identity. I'd still put 10% on RR = Fortov. 
+> * If ZZ accept the offer, couldn't RR and crew could just trigger the release before the summer festival, as the cult did in one of the restarts? I guess ZZ will know this and monitor potential ritual locations closely. 
+> * Not telling Damien seems silly. Tons of people know about the time loop and they need all the help they can get. Either they find a way around the angelic contract that allows Zach and loop-aware-humans to survive or they don't.
+> * I wonder if there's a future where ZZ + RR + crew team up to beat all their contracts and the final battle is against Panxeth + the angels instead of each other. Zorian reverse engineers the angel summoning cube which is probably divine spell formula (with QI's help) and instead uses it to attack or imprison the angels. 
+> &#x200B;
+> 
+
+>> **u/burnerpower** [+11] *
+>> 
+>> I agree the Red Robe reveal wasn't very satisfying from a literary perspective but from a rational perspective that is kind of how it had to be. RR had to fit a set of pretty strict criteria even before we knew about his Veyers connection. He had to be someone Zach could reasonably meet and grow to trust in the loop. He had to be connected to the Cult of the Dragon Below. He couldn't be someone Zorian would reasonably meet or else it would be obvious Zorian was an extra looper. Later it had to also be someone connected to Veyers. Under those conditions in the story up to this point only Veyers or Jornak could possibly be the answer and Veyers was ruled out by being soul killed.
+>> 
+
+>>> **u/Makin-** [+1]  *homestuck ratfic, you can do it**
+>>> 
+>>> > He had to be connected to the Cult of the Dragon Below.
+>>> Wasn't the entire reasoning for this that he had the red robe? But later on I'm pretty sure Zorian manages to steal his own.
+>>> 
+
+>>>> **u/burnerpower** [+3] *
+>>>> 
+>>>> The Cult is the only group with the Robes and RR was able to aquire one and assault Zach before he even woke up. I think before RR, or I guess I can say Jornak now, left the loop the arenea matriarch investigated him and found he was connected with the Cult as well.
+>>>> 
+
+>> **u/hoja_nasredin** [+1]  *Dai-Gurren Brigade**
+>> 
+>> At current angel scorched earth response will leave Damien alive, as he is far away and un envolved.
+>> Telling him would be marking him for death
+>> 
+
+> **u/hoja_nasredin** [+5]  *Dai-Gurren Brigade**
+> 
+> I never noticed but Zach got the mana boost after completing a job for the angels. What do you think the Lich did to get his own boost? Could he have been an  old time looper?  
+
+> Also Z&Z should ttoally talk to him about the angel dialogue. He would like to avoid scorched earth fuck up, and they have common graound in hating the governement and th epolitical situation.
+> 
+
+>> **u/I-want-pulao** [+2] *
+>> 
+>> QI's been around since the gods were around. He got his blessing from them (he was said to have been blessed by the gods in one of the earlier chapters).
+>> Absolutely, ZnZ need to get QI on their side. With the angelic threat of retribution... QI might just cooperate.
+>> 
+
+> **u/nytelios** [+3] *
+> 
+> The most obvious solution to escaping the "knowledge of the time-loop" clause in Zach's contract is >!cleanly mind wiping Zach's awareness that other people know about the time loop, because Zorian figured it's Zach's *perception* that matters. However, this doesn't mean that this loophole wouldn't be arbitrated by the angels, since there's also a clause that rulers cannot be killed. Also, it'd be sad to see Zach lose all his memories of interacting with Zorian throughout the time loop.!<
+> Jornak's motive reveal was a great twist (insomuch as we can trust that's the truth). The committing evil for what one perceives to be utilitarian good reminded me of Ozymandias in Watchmen. Now that it's brought up, Z&Z have always been working on a relatively small scale, from the pettiest point of personal gains to the larger resolution of the Cyoria crisis. I doubt they're the type to be swayed by optimistic evil, but I'm curious how this conflict of ideals will be settled.
+> Hope they've already started preparations on new plans because Silverlake is genuinely their biggest weakness. Almost all of their plans and abilities in the time loop were leaked to SL. Now RR's side has an overwhelming advantage in information, and information wins wars (>!assuming SL is not a triple agent and there is a chance given how inscrutable she's been!<). Not sure what Alanic's got for counteracting the wraith bombs, but since they knew about that plan already, that seems to be the priority as the biggest threat. Assassination of major people (rulers of nations) might be a serious danger to Zach's life. Oganj might seem like the big bad saved for last, but he's small fry in the grand scheme.
+> 
+
+>> **u/MaleficentStatement** [+6] *
+>> 
+>> >Assassination of major people (rulers of nations) might be a serious danger to Zach's life.
+>> Are you referring to the  contract? The rule only applies to Zach killing rulers. If RR kills them Zach is fine. 
+>> >**He (Zach) cannot kill a ruler of any nation, or otherwise directly cause a nation to collapse into anarchy or he'll die at the end of the month.**
+>> &#x200B;
+>> 
+
+>>> **u/nytelios** [+2] *
+>>> 
+>>> Ah, ignore that; it's not a danger to Zach but still sitting behind the wraith bombs in threat level. If it does happen, I wonder how effective it would be to shift the blame onto the Ulquaan Ibasa invaders who are going to blatantly attack Cyoria. There probably wouldn't be as much political paranoia of who perpetrated the murders, but autocracies and oligarchies are notoriously volatile when power changes hands.
+>>> 
+
+>> **u/Watchful1** [+5] *
+>> 
+>> > cleanly mind wiping Zach's awareness that other people know about the time loop
+>> Actually no. It would be simpler to alter Zach's memories to think that all those people are dead. Then they can just show up again after the contract is over and there aren't any problems.
+>> Here's my bet. Alanic and Xvim die. Silverlake and Jornak die. Not really sure what they do with QI, but let's say he dies as well. The only person remaining is Zorian. At the very last, something in the contract makes Zach break down and he attacks Zorian rather than just dying. Zorian uses mind magic on him, makes Zach think he won and killed him, then shows up again after the contract ends.
+>> 
+
+>>> **u/nytelios** [+3] *
+>>> 
+>>> It's pretty much impossible to make him think they're dead, when there's a very high chance they'll all be fighting together before the end of the month. Not much time for detailed mind editing, whereas it's more feasible to edit out the awareness beforehand so they can still work together. It'd be a major hit to coordination though.
+>>> Isn't that really just betting on the author pulling out a let's-kill-everybody-inconvenient deus ex machina so the ending can be tied off in a neat little package? If I were Z or Z, I don't think I'd rely on those astronomically low odds to pull through...
+>>> 
+
+>>>> **u/Watchful1** [+1] *
+>>>> 
+>>>> Nah, I don't think that's what they will plan for, I just think that's what ends up happening. And it won't take detailed mind editing, Zach will actually be trying to kill Zorian so it won't take much for him to think he's succeeded.
+>>>> 
+
+>>>>> **u/nytelios** [+4] *
+>>>>> 
+>>>>> It's a rational fiction, so I'm expecting a rational plan to escape the contract. Nooo, you're ignoring all the logistical issues with making living allies and enemies seem dead to Zach before the final battle.
+>>>>> 
+
+> **u/matex_xizor** [+4] *
+> 
+> Yes! I guessed Red Robe's identity right!
+> So the time loop wasn't a divine contingency, it was the Angels' attempt to stop the contingency from triggering.
+> At least Zach's situation looks slighty better now, since he doesn't have to go against the Angels.
+> I wonder how the "don't kill the ruler of any nation"/ "don't cause anarchy" rule will come into play. 
+> So what was Zach's goal inside the time loop? Stopping invasion by itself would be poinless, since it is not real. Learning how to stop the invasion would also be impossible, because in the real world it will play out diffirently because of Demons.
+> &#x200B;
+> &#x200B;
+> 
+
+> **u/rtsynk** [+3] *
+> 
+> Typo thread
+> would be also be a candidate > would he
+> 
+
+>> **u/hallo_friendos** [+2] *
+>> 
+>> thebest -> the best
+>> letting -> letter
+>> so many thing -> so many things, or so much
+>> 
+
+>> **u/Hidden-50** [+2] *
+>> 
+>> > started pouring his vast mana reserved into the ritual
+>> reserved -> reserves
+>> > the fuzzy ectoplasmic form in the center of the summoning circle condensed itself into glowing white ball
+>> into glowing -> into a glowing
+>> > Even if what you say it's true
+>> it's -> is
+>> > You included so many thing in this… contract
+>> thing -> things
+>> > You were thebest choice
+>> thebest -> the best
+>> > Then, it's branches swayed on unseen winds for a few seconds, and a ray of burning orange light erupted from without warning and struck Zach in the chest.
+>> from without -> from withing, without (?)
+>> > allowing him to live him life freely
+>> him -> his
+>> > all built atop of mountain of lies
+>> mountain of -> a mountain of
+>> > took out brown stone
+>> brown -> a brown
+>> 
+
+>> **u/tokol** [+2]  *The Greater Good**
+>> 
+>> > "I don't understand! We preformed all the rites correctly! The demons shouldn't be able to–"
+>> preformed -> performed
+>> ----
+>> > Thankfully, the explosion of flames suddenly reversed itself before it reached them and collapsed into a writing ball of fiery ectoplasm before suddenly sprouting black branches and metallic surfaces.
+>> writing -> writhing
+>> ----
+>> > "If Zorian began the month in Cyoria, would be also be a candidate?" Zach asked.
+>> be also be -> he also be
+>> ----
+>> > I'm not a monster you think I am, and I really thing we can come to a sort of agreement here.
+>> a monster -> the monster
+>> 
+
+> **u/bumbiedumb** [+3]  *The Polity**
+> 
+> Erm... isnt it a easy game over if the zorian summon the angel now? All the actors are there on the stage now. Waiting for another opportunity at the end is just plain foolish.
+> 
+
+>> **u/Calsem** [+8] *
+>> 
+>> Why would they attend the meeting in their real bodies?
+>> 
+
+>>> **u/bumbiedumb** [+1]  *The Polity**
+>>> 
+>>> Other than SL, why won’t they? They have QI there which is atleast as strong as Z&Z not including red robe and SL. Besides they are negotiating, if they are being ernest, they will be there. If not, might as well do a magic video conference or smth instead.
+>>> 
+
+>>>> **u/Calsem** [+3] *
+>>>> 
+>>>> I don't think magical video conference tech exists. If it did it would be far more sensible to use that.
+>>>> 
+
+>>>>> **u/bumbiedumb** [+4]  *The Polity**
+>>>>> 
+>>>>> They could have just used simulacrum. I was joking about the tech haha
+>>>>> 
+
+>>> **u/ShiranaiWakaranai** [+1] *
+>>> 
+>>> Yeah honestly I was surprised that Xvim was there. Literally everyone else in the meeting could have used fake bodies.
+>>> 
+
+>> **u/burnerpower** [+3] *
+>> 
+>> They are on the roof of an academy building. They could not reasonably have set up a trap and without a trap it's doubtful they could keep their opponents from fleeing. Besides, it probably only works on the summer festival when summoning magic is at it's strongest.
+>> 
+
+>>> **u/bumbiedumb** [+4]  *The Polity**
+>>> 
+>>> The idea is that angels are as strong as primordials and being describe as godly powerful. 3 mere mortals should not be able to run with mere mortal trickery. I mean even QI have full confidence in the power of angels! But the summoning magic thing might be the reason that zorian unable to summon right now, The workings of the cube was not explained, it’s just a speculation.
+>>> 
+
+>>>> **u/burnerpower** [+3] *
+>>>> 
+>>>> The angel's collectively can overpower a prmordial but a single one might not be as impressive as the most powerful archmage in the story.
+>>>> 
+
+>>>>> **u/bumbiedumb** [+3]  *The Polity**
+>>>>> 
+>>>>> By that logic might as well pass the cube to church in exchange for their help since a high ranking angel is merely at archmage level and u can get an army with the church help.
+>>>>> 
+
+>>>>>> **u/burnerpower** [+6] *
+>>>>>> 
+>>>>>> I think you are underselling archmages here. Even if the spirit was "merely" at the level of an archmage that makes it a portable one man army. Besides through Alanic they are already getting the church's help.
+>>>>>> 
+
+>>>>>>> **u/bumbiedumb** [+6]  *The Polity**
+>>>>>>> 
+>>>>>>> I think you are underselling angel. Its powerful enough to impress QI so much that he have full confidence in them solving the crisis he is going to create.  It was nvr stated what rank of angels QI witness but i doubt a single high ranking angel is on the same level as a archmage. Throughout the whole story gods and angels are described as power on another level from mortals. It will be really disappointing if QI and co. can even harm an angel.
+>>>>>>> 
+
+>>>>>>> **u/bumbiedumb** [+2]  *The Polity**
+>>>>>>> 
+>>>>>>> But this is all just speculations! I enjoy the exchange between us! Thank you!
+>>>>>>> 
+
+>>>>>>>> **u/burnerpower** [+2] *
+>>>>>>>> 
+>>>>>>>> I agree. All we really know about the angel is that is really powerful. I enjoyed the discussion as well.
+>>>>>>>> 
+
+> **u/hallo_friendos** [+3] *
+> 
+> If they accept Red Robe's truce, they're going to have to be *very* watchful to make sure he doesn't just take it as a chance to organize some kind of surprise attack. Because he absolutely would break his own truce if he thought it would give him an advantage. (To no one's surprise, we just found out he's a consequentialist.)
+> 
+
+> **u/PhilanthropAtheist** [+3] *
+> 
+> Time for Zorian to ask for help from all the elementals. More gifts! Salamander spirit! Earth child! Angel following hornet kin army!
+> 
+
+>> **u/None** [+2] *
+>> 
+>> [deleted]
+>> 
+
+>>> **u/PhilanthropAtheist** [+1] *
+>>> 
+>>> They would fight for ensuring the continued imprisonment of a nearby primordial. Can't say for the salamander but for the stonechild maybe.
+>>> Hornets however will help if given directives of the angels.
+>>> 
+
+> **u/kaukamieli** [+3] *
+> 
+> I don't think they should obey. If it means a war, it means a war, no can do.
+> If they really have the wraith bombs, they can just blow them in the end anyway. Why wouldn't they?
+> 
+
+> **u/ShiranaiWakaranai** [+2] *
+> 
+> I hope Z&Z don't give in to their threats, because there's no guarantee or incentive that RR would keep his word. He's either going to use the wraith bombs now, while Z&Z are free to run around and stop them, or in the final battle when they are all tied up in the fight. There's just no reason to not use the wraith bombs now that they are already made. Plus RR already stabbed Zach in the back once, he clearly doesn't place a lot of value on being trustworthy.
+> 
+
+> **u/A_Shadow** [+1] *
+> 
+> Wait so is Jornak the real original Jornak, or is he a Jornak that was in the time loop and escaped?
+> 
+
+>> **u/None** [+14] *
+>> 
+>> Time loop Jornak. He's RR.
+>> 
+
+>>> **u/A_Shadow** [+1] *
+>>> 
+>>> Refresh my memory, how was able to exist in repeated time loops? The dagger can do that correct? But it can only last for a certain period of time. Did RR leave before that happened?
+>>> 
+
+>>>> **u/None** [+11] *
+>>>> 
+>>>> It was theorized that he modified the temporary marker in the first time loop and set it to the proper value with QI's help. It couldn't be replicated in the later loops.
+>>>> 
+
+>>>>> **u/A_Shadow** [+1] *
+>>>>> 
+>>>>> awesome that clears things up, thanks!
+>>>>> 
+
+> **u/rtsynk** [+1] *
+> 
+> ~~Did they rob the imperial treasury? My memory is a little fuzzy, but I thought they needed the dagger to control the hydra, and the dagger was in the treasury~~
+> durr, can't believe i forgot about that
+> 
+
+>> **u/None** [+8] *
+>> 
+>> There are 2 daggers. The first controls the hydra and was in the orb while the latter hurts spiritual entities and delete people is in the treasury.
+>> 
+
+>>> **u/spanj** [+3] *
+>>> 
+>>> Technically there are 3 known divine daggers and as many as 6 potential daggers assuming each imperial artifact comes with an accompanying dagger that controls a beast that is divinely blessed (e.g. sandworm and its associated dagger).
+>>> 
+
+>>>> **u/pleasedothenerdful** [+1] *
+>>>> 
+>>>> So that makes me wonder what divine beast QI has to control.
+>>>> 
+
+> **u/nikecat** [+1] *
+> 
+> I'm new to this series. Is there any way I can get a PDF of all published chapters short of converting them one by one.
+> 
+
+>> **u/Green0Photon** [+2]  *Student in Cyoria, Minmay, and Ranvar**
+>> 
+>> You can get an epub using https://ficsave.xyz, and putting the url for MoL into it (e.g. the link for this Reddit thread).
+>> 
+
+>> **u/Serflex** [+1] *
+>> 
+>> https://motheroflearninguniverse.wordpress.com/category/fanart/
+
+>> This is a start
+>> 
+
+> **u/None** [+1] *
+> 
+> [deleted]
+> 
+
+>> **u/hallo_friendos** [+3] *
+>> 
+>> 99-101 was the author's guess as of Ch 91.
+>> 
+
+> **u/oksmanoks** [+1] *
+> 
+> I still think they should have used Xvim's ball to check RR's mana signature. Even if it doesn't match Veyers', who's to say it won't match someone else (despite the reveal it was Jornak). Can't be too paranoid, you know.
+> 
+
+> **u/antihater48** [+1] *
+> 
+> Although mind wiping Zach seems like the obvious solution, I don't think it'll Pam out like that.
+> Initially I thought Zorian might leave some memory packets in Zack of all his memories in the time loop (plus anyone that they tell). They wouldn't even have to put them in zach's soul I guess. Then Zach just has to guide him into learning min magic with the Aracnea.
+> Though, this could also have gotten Zorian out of the loop, so this is probably unlikely.
+> Zorian is big b in trying to recreate things that no man can. Like a portable pslace, or a soul cage, and so on.
+> Thus I think he's gonna find a way to copy souls. Then Zach could feasibly have a copied soul without a contract/dI vine soul cage, or Zorian and anyone that knows about the time loop could be 'copied ' souls. They would have to kill their current souls though. Then as soon as the month is iver, just put their soils right back in their bodies.
+> 
+
+> **u/Addictedtobadfanfict** [+0] *
+> 
+> I really hope nobody doesn't go with the rational answer of red robe being jornak. There is still a chance it's fortov and I hope that is the case. It would be really Shakespearean in the final battle where red robe and zorian clash only for zorian to read jornak's memories from his dying body and figure out it was fortov all along.
+> 
+
+>> **u/I-want-pulao** [+2] *
+>> 
+>> Username checks out? :D
+>> &#x200B;
+>> 
+
+> **u/MaxDougwell** [+0] *
+> 
+> Personally I'm sticking with "Simu!Zach is RR" since Jornak is a "mechanically feasible" but boring result. No pathos, no difference if he'd been unmasked far earlier, and his identity has zero relevance once revealed. He's just "some guy".
+> Everything that's happened is still consistent with the Zach theory, including his rant about how similar him and Zach are, but Zach refusing to see how they must purge the world.
+> Still, the Jornak thing ties up loose ends enough I won't feel like the author has dropped the ball if it's true. I'll be satisfied with the story as a whole. 
+> But I do think it's unlikely.
+> (Also what is with so many people being smug about this?)
+> 
+
+>> **u/None** [+3] *
+>> 
+>> [deleted]
+>> 
+
+>>> **u/MaxDougwell** [+2] *
+>>> 
+>>> Ah, no, I forgot about the discussion around Zach being brought into the loop through a dream contract. Yeah the Zach theory is probably dead.
+>>> The reason I was unhappy with giving it up was if RR is just Some Guy, then a lot of what looked like interesting foreshadowing and set-up just becomes…pointless? I wasn't really all that certain I'd be right, but I did expect more then…this. The stuff with Zach's Mind Blank was also resolved recently, then immediately changed from an inescapable fate to another thing on Zorian's list of problems to tick off. Like, the iterative problem solving and slice of life was fun, but seeing how the author pulled the themes together and brought us to an interesting and powerful conclusion was my primary motivation to read for years. The fact it was matching a number of Time Braid's story beats further suggested the villain would be someone relevant. But instead if it's an unknown who's motivation is "the world is rotten to the core and must be purged" and Zach's mystery is "Zorian needs to spend some time analysing a legal contract" then the story probably won't do anything like that. For me, the story has lost something from this reveal instead of gained.
+>>> I'll have some hope there's actually a pay-off to all this, because if there isn't I'd have no motivation to read any more and be sad at all the wasted narrative potential.
+>>> 
+
+> **u/Sidereal529** [+0] *
+> 
+> I still don't believe RR is Jornak. I think there is a sleight of hand going on between Zorian and RR.
+> I want RR to be another Zack, or Zorian. Somehow I don't know how or which. 
+> My main reason for thinking this is that RR could have been given the means to exit the Sovereign Gate as the person whom completed the Angel's task. So, RR is Zack, and Zorian know this from finding a loop hole in the contract.
+> Pulling a switcheroo between the real Jornak and RR would get RR off the memory wiping hook.
+> Or possibly if RR is Zack, one of them can survive.
+> 
+
+---
+

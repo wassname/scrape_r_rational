@@ -1,0 +1,655 @@
+## [D] Friday Off-Topic Thread
+
+* Author: u/AutoModerator *
+* URL: https://www.reddit.com/r/rational/comments/4ngpow/d_friday_offtopic_thread/
+* Score: 19
+
+* Created: 2016-06-10T15:04:55
+
+### Post:
+
+Welcome to the Friday Off-Topic Thread! Is there something that you want to talk about with /r/rational, but which isn't rational fiction, or doesn't otherwise belong as a top-level post? This is the place to post it. The idea is that while reddit is a large place, with lots of special little niches, sometimes you just want to talk with a certain group of people about certain sorts of things that aren't related to why you're all here. It's totally understandable that you might want to talk about Japanese game shows with /r/rational instead of going over to /r/japanesegameshows, but it's hopefully also understandable that this isn't really the place for that sort of thing.
+
+So do you want to talk about how your life has been going? Non-rational and/or non-fictional stuff you've been reading? The recent album from your favourite German pop singer? The politics of Southern India? The sexual preferences of the chairman of the Ukrainian soccer league? Different ways to plot meteorological data? The cost of living in Portugal? Corner cases for siteswap notation? All these things and more could possibly be found in the comments below!
+
+
+### Comments:
+
+> **u/AmeteurOpinions** [+12]  *Finally, everyone was working together.**
+> 
+> God *damn*, writing this first chapter is tough for me.
+> Or, I suppose I should say:
+> God *damn*, I have high standards for this first chapter.
+> I've been working on chapter one of [my thermonuclear magical girl story](https://www.reddit.com/r/rational/comments/4h1z3x/q_gven_the_many_stories_that_have_come_through/), but due to a bunch things I'm about to vent and whine about I haven't finished it yet, despite being like a month behind where I want to be.
+> * A member of my family came to visit, which was rare for this particular member, and because of activities before, during, and after the visit I didn't make any progress.
+> * I had a serious case of the flu, which didn't help at all.
+> * Learning about nuclear physics took longer than expected (but was worth it).
+> * Learning about the development of nuclear weapons, reactors and policies took longer than expected (but was worth it).
+> * Fifty-percent chance I have *too many* beta readers, who will make too many great suggestions and incorporating them will delay the chapter even more.
+> * I was 5k words into the chapter when I diagnosed the biggest problem and had to delete the last 3k words and start over (essentially, bad character introductions led to tone problems across scenes).
+> * On top of all that, this is the first time I'm going to publish something and I know I won't do it justice for one reason or another, but I've resolved to grit my teeth and bear it.
+> * Also, the nagging that an actual nuclear physicist or student will appear in the comments and reveal some extreme plot hole I missed. You can never tell with this sub.
+> I'd hate to say I've bitten off more than I can chew, but trying to fuse elements of magical girl fiction, nuclear physics, and Greek tragedy is slow going.
+> 
+
+>> **u/alexanderwales** [+8]  *Time flies like an arrow**
+>> 
+>> Eventually you just have to get it out there. I have a tendency to work and rework things, but eventually I just get to a point where I'm losing interest without having actually produced all that much, or I'm reworking without actually improving. I have no idea whether you're at that point or not, but just be aware that polish has diminishing returns.
+>> 
+
+>>> **u/gabbalis** [+4] *
+>>> 
+>>> "the perfect is the enemy of the good"
+>>> 
+
+>>>> **u/captainNematode** [+13] *
+>>>> 
+>>>> or, perhaps more importantly, "perfect is the enemy of done"
+>>>> 
+
+>> **u/TennisMaster2** [+5] *
+>> 
+>> With that much feedback I imagine you're learning a lot.  Keep iterating and improving, or decide it's finally good enough and publish while improving.  Whatever you have the patience for.
+>> 
+
+>> **u/Cariyaga** [+2]  *Kyubey did nothing wrong**
+>> 
+>> I like forums like SufficientVelocity because they encourage authors to put out their work sooner than later. Having a schedule helps, from everything I've seen.
+>> 
+
+>>> **u/GaBeRockKing** [+4]  *Horizon Breach: http://archiveofourown.org/works/6785857**
+>>> 
+>>> I definitely second this. It's orders of magnitude to write if I say to myself "I'll finish an 'x' word long chapter per week" than if I decide I'll finish chapters whenever.
+>>> 
+
+>> **u/DaystarEld** [+2]  *Pokémon Professor**
+>> 
+>> We've all been there. If it wasn't for my self-imposed one-chapter-per-month schedule, I can't imagine how many chapters I'd be behind due to life events and constant rewriting.
+>> Remember that HPMOR's first chapter contained nowhere near all the amazing depth and storytelling of the rest of it, and that many people read it anyway. Furthermore, published authors go through extensive rewrites both of their own volition and the editors before publishing. By publishing our stories one chapter at a time online, we can't expect them to be as perfect as we'd want them to be, and at some point have to just accept that and move on.
+>> Good luck!
+>> 
+
+> **u/Drexer** [+10] *
+> 
+> Ok, so I want to try and turn a rational irrational hatred of mine into something which has constructive results, who wants to give me suggestions on how to do it? Which hatred is it that has such a weird connotation?
+> Soccer.
+> So, being from a European country with a strong soccer tradition, I've grown with this sport in the background of society for all my years of life, and the bias and behaviours of society around it are well marked in my mind.
+> * The nightly news which take ~1 hours always reserve at least 20 minutes for soccer news which is a disproportionate amount.
+> * And that's in the days where there isn't an important game, where the news have been just about that instead of serious matters.
+> * The stadiums built for the european championships have certainly not paid for themselves and are falling apart in certain regions, but there is serious talk about a candidacy for hosting the world cup.
+> * The team that wins the national championship are invited and go dine with members of the parliament. This does not happen for any other sport.
+> * Everybody says that they prefer if the money spent on soccer was spent on hospitals, everybody still goes and buys season passes for the games.
+> * The presidents and managers of team have a high correlation with financial crimes, but people still form cheer squads around them.
+> And basically all of this? Every time there is any conversation about soccer I have this present in my mind, that's why I called it irrationally rational, because despite the reasons being valid the way I feel about this and experience it, is far stronger than other issues(either smaller or bigger). But I can live with that, it takes a while to explain to curious acquaintances exactly how deep my hate of soccer goes, but eventually they get there.
+> I just wish there was a way to get some proper output from this, some way to turn this [hate](https://www.youtube.com/watch?v=EddX9hnhDS4) into something constructive instead of just something I have as an occasional background to events.
+> Any ideas?
+> 
+
+>> **u/Sparkwitch** [+7] *
+>> 
+>> Soccer is nationalism. Think of the world cup as a relatively harmless outlet for the sort of pride that once launched European wars (hot and cold, local and colonial). Soccer players are war heroes, their managers are generals, and each are treated as such.
+>> Most people have a fundamental need for causes with allies and enemies... and both war and sport can provide that. For all the money wasted on stadiums, the time wasted on games, and the emotional energy wasted following a ball around a field, better that than reports of wasted lives from the advancing front.
+>> 
+
+>>> **u/Drexer** [+11] *
+>>> 
+>>> I'm sorry, but that's quite a bit of armchair sociology.
+>>> It justifies the current status quo, but more likely than not hardly corresponds to reality. Different countries have different levels of engagement with sports and their economies, and current socio-economic european status make it unlikely for countries to suddenly go to war due to the lack of sports. And this is ignoring the fact that most of the spending comes from competitions between various national teams.
+>>> But most of all, it ignores my question. I said that I'm acknowledging my hate and I live with it, I'm asking for ideas for constructive outlets for it.
+>>> 
+
+> **u/space_fountain** [+8] *
+> 
+> This might be better for Monday, but I forgot about it back then so I'll ask now. What do you folks think of gene drives. Basically science has discovered how to make sure regardless of the copy of a chromosome or even what parent the chromosome comes from any decedents of an individual will have a particular gene.  
+> This allows us to theoretically make changes to an entire species. So for example by releasing 1% the population of mosquitoes genetically inoculated against Malaria in with a gene driver to drive said gene basically entire population could be inoculated within 10 generation which could be as short as 126 days for some species. The equation according to Wikipedia assuming no mutations is. 1 − (1 − f)^2^n = t. Where  f is the initial fraction of the population and t is the target percent. N is the number of generations. 
+> There's a lot of controversy over this tech because it has such widespread potential affects. My question is if this does get bogged down in politics which I think it will (look how scared people are about genetic engineering) and we go years with the tech basically perfected, but not used, what should be done assuming someone has the resources to produce inoculated mosquitoes?
+> 
+
+>> **u/SvalbardCaretaker** [+5]  *Mouse Army**
+>> 
+>> Release them. As far as a cursory search reveals, the ecology experts agree that mozzis are not of systemic relevance - and the good one can do by helping malaria eradication effort and other diseases is welllllllllll worth the cost.
+>> 
+
+>>> **u/FuguofAnotherWorld** [+2]  *Roll the Dice on Fate**
+>>> 
+>>> Normally I'm not in favour of unilateral action, but in this case I have a hard time disagreeing with such a decision.
+>>> 
+
+>> **u/chaosmosis** [+2]  *and with strange aeons, even death may die**
+>> 
+>> Can actions like this be undone if we keep some unincorporated mosquitoes bred in a lab somewhere? Makes the decision easier.
+>> 
+
+>>> **u/space_fountain** [+2] *
+>>> 
+>>> Sort of. You can release a new genetically engineered organism engineered in such a way to drive a gene that reverses the previous engineering. It has a number of problems though. Primarily that any effects the engineered organism has had on the environment will stick around. For example my biggest fear with something like this is that if you release a small enough fraction of the population it may be tens of years before the trait covers the entire population and in that time Malaria might evolve resistance somehow.
+>>> 
+
+>>>> **u/chaosmosis** [+1]  *and with strange aeons, even death may die**
+>>>> 
+>>>> Thanks for ignoring that typo, my mobile's spellcheck is very overzealous.
+>>>> 
+
+> **u/TimTravel** [+6] *
+> 
+> I have an effective altruism question. For most morally good acts, doing an equivalent act now and doing it later are equally good. You could give a certain amount to charity now, or you could invest it in low risk stocks and bonds and etc and donate an exponentially larger amount later. Is this always a more effective strategy? Why is it not more common? Why don't charities themselves do it, or do they? How do you resolve the weird incentives that always reward delaying your donation? I'm confused.
+> 
+
+>> **u/alexanderwales** [+16]  *Time flies like an arrow**
+>> 
+>> I don't think it's always true. Take malaria nets, for example. If you donate now, more malaria nets go out, which prevent malaria, which have a bunch of positive effects into the future. Without malaria, people are in theory more productive, get better education, etc., which accelerates development. Your dollar donation pays dividends over time, but they're dividends in terms of good done rather than additional dollars earned. The investment of a dollar into some charity could in theory exceed the investment of a dollar into some low risk fund. You'd have to run the numbers to find out though.
+>> 
+
+>> **u/gabbalis** [+3] *
+>> 
+>> >For most morally good acts, doing an equivalent act now and doing it later are equally good.
+>> Nnnooo.... I mean your utility equation can be personally tuned of course, in fact, strictly speaking it could be literally anything, but the classical equation was Jeremy Bentham's [Felicific Calculus](https://en.wikipedia.org/wiki/Felicific_calculus).
+>> You'll note the presence of Propinquity there. If your own personal equation puts any nonzero multiplier on that element of the equation, then it becomes possible to solve for an optimal donation time.
+>> 
+
+>> **u/scruiser** [+3]  *CYOA**
+>> 
+>> > For most morally good acts, doing an equivalent act now and doing it later are equally good.
+>> I would disagree with this premise on both an intuitive and an economic/mathematical level.  You have pretty much inadvertently pointed out the economic reason why this is untrue, so I will try to explain the intuition/common sense reasoning behind this.  In general, if you think of a donation as an investment in another person's well being, the logic becomes clear.
+>> * Extreme exaggerated example: starving homeless person on the street.  Your investment into charity is time sensitive, that person may be dead if he doesn't get the help sooner.  Giving money in the future might make a difference to another person, but that person would be dead, and all the ripples their actions and existence might have made would be gone.
+>> * Moderate example: donating to a scholarship fund.  If the fund is able to pay out more and sooner, it could mean the difference of another economically disadvantaged student getting an education.  This student will then go on to likely make an impact through the world.  Again, the altruistic investment is time sensitive in that the sooner it is made, the sooner another student is able to get an education, and the sooner impacts from another educated student spreads.
+>> In general, actions further into the past can have larger ripples in terms of future benefits and altruistic action is just as much subject to this as money is.
+>> > Why don't charities themselves do it, or do they?
+>> [They already do](https://en.wikipedia.org/wiki/Financial_endowment).  If you give to a foundation that works through an endowment, your money will be going to an investment that will pay out over time in a manner designed (at least ideally) to do maximum long term good.
+>> > How do you resolve the weird incentives that always reward delaying your donation?
+>> Can you use your money to invest in yourself more effectively than an altruistic organization can use it to invest in other people that need it?  If you are a poor college student working hard to get through college, the answer might be a no, for all but smaller donations to the most efficient charities.  If you have a decent salary and its likely to be stable for a while, and there is not anything you can invest your money to improve it (for example more education), the answer is probably yes.  For edge cases, your own generosity can be the deciding factor.  Of course, I am a grad student living in an area with high rent, so I might be biased because this reasoning gives me an excuse to hold off on any major donations until I have a better source of income.
+>> 
+
+>>> **u/TimTravel** [+2] *
+>>> 
+>>> There are cumulative effects of charity, but are they exponentially cumulative? Even if they are, is the rate faster than the rate of growth of a reasonably well managed account? If not then the problem stands. Isn't it better to save two hundred starving people in ten years than to save one hundred now? If so then isn't it better to save four hundred starving people in twenty years than two hundred in ten years? Exponents are powerful things.
+>>> 
+
+>>>> **u/scruiser** [+3]  *CYOA**
+>>>> 
+>>>> I don't have the exact information or expertise to answer this.  My intuition is that if the altruism is done in an effective manner such that you invest in people and encourage "pay it forward" type mentalities, that you should be able to beat interest rates.    But I don't have any good justification for this.  I think a proper analysis would require careful quantification of [human capital](https://en.wikipedia.org/wiki/Human_capital), [the pay it forward mentality](https://en.wikipedia.org/wiki/Pay_it_forward), and how various forms of charities and altruism interact with these things.
+>>>> 
+
+>>>> **u/Frommerman** [+2] *
+>>>> 
+>>>> In the case of Malaria, it's definitely exponential. Malaria is the second greatest cause of death in human history (after Smallpox. Humanity fuck yeah!). It's so bad that we evolved Sickle-Cell Disease as a *counter* to it. A gene which causes 25% of children of protected parents to just die in horrible agony is, according to evolution, better than Malaria. Wiping that disease out will have a massive impact on humanity moving forwards.
+>>>> 
+
+>> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate**
+>> 
+>> I'm going to go a different direction from most responders and say that as time continues the the probability of actually giving the money to charity lessens, in humans.
+>> 
+
+>> **u/electrace** [+2] *
+>> 
+>> >Is this always a more effective strategy?
+>> No, charity causes have decreasing marginal utility as time moves on. In theory, the rate of return might be high enough to overcome that fact, or it might not be.
+>> >Why is it not more common?Why don't charities themselves do it, or do they?
+>> Because charities live on publicity, and "we're investing this money to use it later," is a great way to ensure that people stop donating, because it seems really sketchy.
+>> >How do you resolve the weird incentives that always reward delaying your donation? 
+>> What weird incentives?
+>> 
+
+> **u/TennisMaster2** [+4] *
+> 
+> Does anyone here experience anhedonia or know someone who does?  I'd like to ask you questions or request you relay my questions to the person you know if so.
+> Thank you to everyone who has responded and who will respond.  Expect contact from me within a week.
+> 
+
+>> **u/Cariyaga** [+3]  *Kyubey did nothing wrong**
+>> 
+>> I'll ask around and get back to you on this. I do have friends who suffer from depression, which this may be, for them, a symptom of.
+>> 
+
+>>> **u/Cariyaga** [+2]  *Kyubey did nothing wrong**
+>>> 
+>>> 'Fraid neither of my friends has experience with this, from what they've said. Can't get you any help on this one, sorry.
+>>> 
+
+>>>> **u/TennisMaster2** [+1] *
+>>>> 
+>>>> Thank you for your effort.
+>>>> 
+
+>> **u/None** [+2] *
+>> 
+>> I think I used to suffer from anhedonia as a symptom of major depressive disorder. If that's useful to you, feel free to PM me.
+>> 
+
+>>> **u/alexanderwales** [+2]  *Time flies like an arrow**
+>>> 
+>>> Same here.
+>>> 
+
+>>>> **u/TennisMaster2** [+1] *
+>>>> 
+>>>> Thank you for your response.  Unfortunately depressive anhedonia does not qualify.  My apologies; I should have specified.
+>>>> 
+
+>>> **u/Aretii** [+2]  *Cultist of Cthugha**
+>>> 
+>>> +1
+>>> 
+
+>>>> **u/TennisMaster2** [+1] *
+>>>> 
+>>>> Thank you for your response.  Unfortunately depressive anhedonia does not qualify.  My apologies; I should have specified.
+>>>> 
+
+>>> **u/TennisMaster2** [+2] *
+>>> 
+>>> Apologies.  It is not.  Thank you for your response.
+>>> 
+
+>> **u/Anderkent** [+2] *
+>> 
+>> Feel free to PM me.
+>> 
+
+>> **u/None** [+2] *
+>> 
+>> [deleted]
+>> 
+
+>>> **u/TennisMaster2** [+1] *
+>>> 
+>>> Was your anhedonia a result of depression?
+>>> 
+
+>> **u/4t0m** [+2]  *Chaos Legion**
+>> 
+>> I suffered from this for a long time, and am currently doing really well.  Feel free to PM me if you like.
+>> 
+
+>> **u/SvalbardCaretaker** [+1]  *Mouse Army**
+>> 
+>> Sure.  Been diagnosed by a professional with dysthymia, personally of the opinion that common dips into anhedonia happen. 
+>> Happy to answer any questions here or via PM.
+>> 
+
+>>> **u/TennisMaster2** [+2] *
+>>> 
+>>> Thank you for your response.  Unfortunately depressive anhedonia does not qualify.  My apologies; I should have specified.
+>>> 
+
+> **u/ToaKraka** [+6]  *https://i.imgur.com/OQGHleQ.png**
+> 
+> *Do you make any changes to stories that you download? Or do you stick to whatever your downloading service provides to you?*
+> Typically, after downloading and trimming a story's .html files, I just standardize chapter headings--`<h1>Story</h1>` and `<h2>01. Chapter</h2>`, or `<h1>1. Story</h1>`, `<h2>01. Part</h2>`, `<h3>001. Chapter</h3>`, `<h4>01. Section</h4>`, etc., depending on how the story is laid out. My .epub reading and editing programs ([CoolReader](https://sourceforge.net/projects/crengine) and [Sigil](https://github.com/Sigil-Ebook/Sigil)) lag rather badly with files larger than about a megabyte, so I also break stories into pieces if necessary. For example, my copy of *[In the Blood](https://www.fanfiction.net/s/6207715)* is divided into three files: chapters 1-73 (through the story's first climax--673 KB), 74-132 (through the story's second climax(es?)--592 KB), and 133-173 (epilogues and author's notes--375 KB). On the other hand, I may consolidate several closely-related stories into one file, if they're short. For example, my copies of the books composing the *[Harry the Hufflepuff](https://www.fanfiction.net/s/6466185)* trilogy are in a single 181-KB file.
+> Occasionally, I'll make a more significant change if it's easy to accomplish with `Ctrl`+`F` or `Ctrl`+`H`. For example, after searching for `<p>'` and " '" (note: leading and trailing spaces don't show up in this site's `code` formatting) in *[Mother of Learning](https://www.fictionpress.com/s/2961893)*, I manually changed every instance of 'inner monologue' to *inner monologue* in the copy of its first two arcs that I made a few days ago. I haven't yet gotten around to making a thorough, fully-personalized edit of *[Time Braid](https://www.fanfiction.net/s/5193644)*, though I definitely plan to do so at some point (he said as he looked at his two-year-old, ten-percent-complete "Time Braid Editing" folder).
+> ---
+> [A fair amount of ink](http://monsterhunternation.com/2015/08/24/sad-puppies-3-looking-at-the-results) has been spilled on the debasement (or "progress") of the big science-fiction awards, and *[Ancillary Justice](https://www.goodreads.com/book/show/17333324)*, among other works, has been held up as an example of an undeserving winner of those awards. I read the book many months before I became aware of any hullabaloo surrounding it--IIRC, I first learned of it through the biography blurb at the end of a general-science-fiction article written by its author--and actually liked it a fair amount. Nowadays, though, I can't remember anything about it, beyond the many-bodied natures of its protagonist and its villain. I'd even forgotten about its use of `she` as the neuter-gender English pronoun until I saw it mentioned a few months ago.
+> I probably should re-read it, to see whether it really is as mediocre as it's made out to be. I read only for shallow entertainment, though, rather than for any deep appreciation, so maybe it's an issue to be decided by the *real* science-fiction fans...
+> ---
+> Some writers on r/NarutoFanfiction made nice demonstrations of good English as presented by Team Seven: [1](http://np.reddit.com/r/NarutoFanfiction/comments/4n5rhl) [2](http://np.reddit.com/r/NarutoFanfiction/comments/4n70ec)
+> I laughed pretty hard at [this map of majority population by country](http://i.imgur.com/BB3wfi9.jpg). [Source](http://np.reddit.com/r/mapporncirclejerk/comments/4nbk00)
+> ---
+> Somewhat surprisingly, *three* turn-based soccer games are currently on sale through Steam:  
+> \- *[TableTop Soccer](http://store.steampowered.com/app/453710)* (~~$5~~ $3.30)  
+> \- *[Tactical Soccer](http://store.steampowered.com/app/400380)* (~~$10~~ $3.40)  
+> \- *[Football Tactics](http://store.steampowered.com/app/375530)* (~~$15~~ $12)
+> See also *[Gridiron Solitaire](http://store.steampowered.com/app/266270)* ($8) and *[QVADRIGA](http://store.steampowered.com/app/297760)* ($20).
+> 
+
+>> **u/Drexer** [+4] *
+>> 
+>> > Somewhat surprisingly, three turn-based soccer games are currently on sale through Steam
+>> Uh, this might just be my soccer heavy European bias talking, but considering that the Euro 2016 starts today, it's not that surprising?
+>> *****
+>> I've read some of the Hugo awards stories across the last few years(and specially after the Puppies bawl), but not the Imperial Radch trilogy, and honestly I've found that across the years there have always been some books and stories which I've kept more at mind the concepts and themes than the characters and story itself, so I don't think it's so much an unusual thing to lack precise memories when one read them first in a simple consumer fashion.
+>> 
+
+>>> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png**
+>>> 
+>>> > Considering that the Euro 2016 starts today, it's not that surprising?
+>>> My surprise was at the existence of three separate modern video games for turn-based soccer.
+>>> 
+
+>>>> **u/Drexer** [+1] *
+>>>> 
+>>>> Ah.
+>>>> Fair enough, that makes more sense.
+>>>> 
+
+>> **u/Escapement** [+4]  *Ankh-Morpork City Watch**
+>> 
+>> I personally have a firefox addon that automatically replaces text in specific web pages, and I use it to transform certain of Mr. Zoat's With This Ring idiosyncrasies into standard English (e.g. Whaw -> Whoa). For most authors, I find that it's not worth the effort to change things.
+>> 
+
+>>> **u/OutOfNiceUsernames** [+1]  *fear of last pages**
+>>> 
+>>> >Mr. Zoat's With This Ring
+>>> Me too, though not for the author’s fault. I went out of my way to replace Martian names with their regular counterparts because the Martian ones (M'gann M'orzz, J'onn J'onzz, etc) sounded like someone was trying to pronounce them and having a seizure each time.
+>>> 
+
+>> **u/Cariyaga** [+3]  *Kyubey did nothing wrong**
+>> 
+>> I don't download stories because I tend not to reread them, and I'm perfectly happy to read them in their native environment, whether that's fanfiction.net, SufficientVelocity, or AO3
+>> 
+
+>> **u/DaystarEld** [+3]  *Pokémon Professor**
+>> 
+>> I also read *Ancillary Justice* before the whole Puppies thing percolated into my consciousness, and I enjoyed it quite a bit, personally. The neuter-gender pronouns was an interesting exercise in exploring personal biases (a couple friends had read the book as well, and we compared notes on which characters were male or female in our minds and why we saw them that way), but I found the world building and unique protagonist perspective to be really what made it a worthwhile read. 
+>> It didn't blow my mind or anything, but it definitely stood out in positive ways compared to some of the other science fiction I've read in the past few years. Enough to read the sequel and have the third in my possession, once my reading list thins out enough to get to it.
+>> 
+
+>>> **u/None** [+2] *
+>>> 
+>>> [deleted]
+>>> 
+
+>>>> **u/DaystarEld** [+1]  *Pokémon Professor**
+>>>> 
+>>>> The controversy honestly is pretty nonexistent. Some group of conservative writers believed a specific book awards group to be leaning too liberal in their choices, and Ancillary Justice was one of the books they targeted as not deserving its nomination. It's so far from a substantial concern or real issue that I hesitated to even explain it in the first place, lest I give it even more relevancy beyond what it deserves, but I didn't want you to think the writer had done something wrong.
+>>>> 
+
+> **u/blazinghand** [+3]  *Chaos Undivided**
+> 
+> [Shinji Quest](https://forums.spacebattles.com/threads/shinji-quest-bleach-fate-stay-night-crossover.389478/) is coming to a close in the next few days. After writing three arcs and about 50,000 words, I've decided to wrap it up. It's not great writing, but it's a lot more than I have ever done, so I'm proud of it. It ended up being a lot longer, and also a lot easier, than I expected. At my best speed, I was writing 1,000-1,500 words per day--much more than I would have thought possible.
+> 
+
+> **u/Frommerman** [+3] *
+> 
+> How much interest is there in a Worm fic where Taylor gets super therapy powers?
+> 
+
+>> **u/ToaKraka** [+2]  *https://i.imgur.com/OQGHleQ.png**
+>> 
+>> The descriptions of the power and of its being used might be interesting to read, just as were the interludes of that PRT therapist--but I'm reluctant to think that it would work as a continuous story rather than as a series of vaguely-connected chapters.
+>> 
+
+>>> **u/Frommerman** [+5] *
+>>> 
+>>> I've actually put most of the plot together in my head already, and written the first five chapters. Her powers are as follows:
+>>> * Thinker: Is immune to psychological disorders, and can see them in other people she sees in person.
+>>> * Striker/Master: Cures all psych disorders on touch. Can only be turned off if she legitimately believes that having it on will cause more problems than having it off. This power is otherwise involuntary.
+>>> Her powers generally classify anything in the DSM as a disorder, adding a few things like Master influence to the list. Her shard is named Conflict Resolution. Conflict Resolution got damaged when Eden collided with the other entity on the way to Earth.
+>>> This powerset is super broken in the Wormverse. I never intended it not to be.
+>>> 
+
+>>>> **u/PeridexisErrant** [+5]  *put aside fear for courage, and death for life**
+>>>> 
+>>>> YES
+>>>> *ahem*
+>>>> That is, I would enjoy reading this fic.
+>>>> 
+
+>>>> **u/chaosmosis** [+1]  *and with strange aeons, even death may die**
+>>>> 
+>>>> Turn Yamada into a stealth bad guy evil mastermind and it might get some interesting conflict going.
+>>>> 
+
+> **u/DataPacRat** [+3]  *Amateur Immortalist**
+> 
+> **Which words?**
+> I'm currently working with an uncommon non-English language, and in the near future, may have the opportunity to ask a native speaker for translations of terms not available in any existing dictionary. Which words, terms, phrases, and ideas do you think it's most important to be able to use?
+> Eg, to start with, I'm going to make sure any gaps in the basics of math and physics are covered: negative numbers, chemical elements, planet names; the sorts of things you'd find in a typical SETI primer. And I'll be including some present-day technologies that were invented since the most recent dictionary available - cellphones, the Internet, etc.
+> But if I can convince this individual to supply translations for concepts such as "existential risk", "intelligence explosion", "cryonics", or "decision theory", which ones should I actually ask about? (Especially as they have their own life, and I may only be able to get so many translations.)
+> Put another way, for people who aren't using English, what post-1970ish ideas are the most important ones to have specific words for to be able to talk about?
+> Put yet another way, as a thought experiment, if you were involved in helping put together a new conlang like Klingon, which concepts would you want to be sure the language included?
+> Put still another way, for a language that simply adopted the English word 'cheese' for the new concept, which post-1970ish-concept words do you think should be created from the language's own building-blocks, and which should use English's trick of simply incorporating a foreign term?
+> 
+
+>> **u/gtsteel** [+1] *
+>> 
+>> What language are you working in? If it's one of the ones you've mentioned in your other posts, I may know of some resources.
+>> 
+
+>>> **u/DataPacRat** [+1]  *Amateur Immortalist**
+>>> 
+>>> The language I'm working in is called Kanien'kéha by its speakers, and called Mohawk by most non-speakers.
+>>> 
+
+>>>> **u/gtsteel** [+1] *
+>>>> 
+>>>> The concepts of existential risk, value alignment, and decision theory are dealt with a lot in the traditional stories. As a primer, you should probably take a look at "Braiding Sweetgrass" by Robin Wall Kimmerer, which is essentially an introduction (in English) to rationality through Anishinabe and Ongwehonwe stories and teachings. The book has a strong emphasis on decision theory and existential risk, both fields these societies have studied for a very long time (and the English-speaking world is just not catching up on). After reading that book, you might want to read the Haudenoshone Great aw of Peace, which is essentially an attempt to create a value-aligned superorganism.
+>>>> Unfortunately, I'm much more familiar with Ojibwe stories than Mohawk ones, but once you get into them, there's actually quite a lot of math and science involved. I an quite interested in the Seven Fires "prophecies" (essentially partial instructions for sow to stop the planet from getting paperclipped) and it turns out the "prophecies" are all predictions fo population ecology and game theory, which I and others have had quite a but of success at filling in some of the missing pieces with. If you like I can PM you some of my research in this area (which has been quite well received by many of the Ojibwe carriers of these teachings).
+>>>> 
+
+> **u/Dwood15** [+2] *
+> 
+> I found inside of Halo PC, the overlay commands for local multiplayer. 
+> http://imgur.com/a/K4CJT
+> Please note, that I don't think I'll go this far with it, however I thought i'd poke around in the game given Microsoft's complete uncaring over Open-Sauce.
+> 
+
+> **u/Cariyaga** [+2]  *Kyubey did nothing wrong**
+> 
+> Procrastination sucks. Especially when everyone in a group does so, resulting in more stress for everyone.
+> 
+
+> **u/trekie140** [+3] *
+> 
+> I found [this post](http://www.reddit.com/r/Documentaries/comments/4neenp/an_honest_liar_awardwinning_documentary_about/d43glp9) today and I want to confirm if there's any truth to it. If you'd like some background about my belief system, [see last week's thread.](https://www.reddit.com/r/rational/comments/4mda32/d_friday_offtopic_thread/d3umkmc)
+> > The most fascinating thing about the Sylvia Brown saga is that the high-profile "skeptics" who spoke out against her, such as Karen Stollznow, Rebecca Watson and Brian Dunning, all ended up being frauds and grifters themselves, running their own money-making scams of one kind or another.
+> I listen to Skeptoid quite a lot. Brian Dunning politely explained to me why the pseudoscience I believed was false, or at least unscientific, and I thanked him for giving me an existential crisis. I actually stopped believing what I'd learned from Sylvia Brown because of him. Now I'm confused what to believe once again.
+> 
+
+>> **u/Drexer** [+10] *
+>> 
+>> I'm speaking here as someone who has no context of Sylvia Brown and most of the sceptic organizations except tangentially, but I would point out that even the responses to that comment seem to imply that it's pretty much a typical "reddit comment very emphatically putting opinions as facts".
+>> Some people mention and [wikipedia corroborates](https://en.wikipedia.org/wiki/Brian_Dunning_%28author%29#Wire_fraud_case) something about a wire fraud case, but that doesn't seem related to his veracity in condemning pseudoscience.
+>> Unfortunately sceptics like everybody else can still perform non-legal and non-ethical decisions, so if you can separate his initial arguments from his persona you should still be able to evaluate it calmly. If on the other hand you felt that part of the arguments were based on a measure of trust from his part which is now broken by knowing his illegal actions, there certainly must be some other people who approach the same issue from different angles.
+>> 
+
+>>> **u/trekie140** [+1] *
+>>> 
+>>> There are two things I've seen skeptics criticize Sylvia Browne for. First, she was a celebrity psychic who they feel did harm to people by offering answers to their questions when her predictions had been proven false. Second, she never participated in James Randi's Million Dollar challenge despite repeatedly claiming she would, which they believe is proof she's a fraud. I'm ambivalent towards her since her books introduced my Mom and me to many of our current spiritual beliefs and practices, which I believe to have independently verified. Well, as much as you can verify spiritual beliefs.
+>>> If she was a fraud, then I'm confused why some of the stuff she said appears to be accurate. If she wasn't a fraud, then I'm disappointed that I lack any means to prove it and am not sure what to make of the more...esoteric things she said about the physical world. Sylvia Browne's meditation techniques and claims about the spiritual purpose of life are harmless enough, but she was an avid promoter of physical paranormal phenomena like psychic mediums, indigo children, UFOs, Atlantis, and vitalism. I never got the impression she distrusted modern medicine, but she certainly supported reiki healing.
+>>> 
+
+>>>> **u/embrodski** [+5] *
+>>>> 
+>>>> Sylvia is particularly gross (to me) because she doesn't care. Most of these sorts of frauds have some showmanship to them. They at least care enough about the art of cold reading to put in some effort. Sylvia doesn't appear to give any fucks about what she's saying, or the people she's saying it to. She'll just say whatever, flatly, and to hell with the audience or the mark. I mean, just look at [these pathetic displays](https://www.youtube.com/watch?v=zKyzBe0CA2Q).
+>>>> Some of the stuff she said appears accurate because she spews a prodigious amount of stuff that's general enough to get some occasional hits. Law of averages.
+>>>> 
+
+>>>>> **u/trekie140** [+0] *
+>>>>> 
+>>>>> Maybe the lack of showmanship is how she convinced so many she was genuine. In what I've seen, which isn't a lot, she presents an image of humility and commonality. She didn't claim to be anyone special and insisted everyone had the same potential as her, she was just someone who had managed to access it and wanted to share her gift.
+>>>>> Something that bothers me about how disgusted people are with her is that even if she was a fraud, it remains entirely possible that she believed what she was spouting. Her grandmother claimed to be psychic as well and Browne was very close to her as a child. She admitted that's how she got started on her own path, so doesn't that imply she wasn't a con artist?
+>>>>> 
+
+>>>>>> **u/None** [+6] *
+>>>>>> 
+>>>>>> [deleted]
+>>>>>> 
+
+>>>>>>> **u/trekie140** [+2] *
+>>>>>>> 
+>>>>>>> I am aware of the evidence against reiki's effectiveness, though I did not know it had been proven to warm up your hands. The problem is that I already believe reiki is capable of healing because I practice it, though I NEVER suggest it as an alternative to science-based medicine. It's not that I'm biased towards the evidence against it, I trust science and its debunked things I believed before, but it's like telling a religious person that prayer doesn't do anything when they've been doing it all their life and have a hundred memories of it working. How do you convince them to stop believing prayer has power?
+>>>>>>> You can tell me my beliefs are irrational all you like, but my map of the territory is constructed from my knowledge and experiences. I can be skeptical of extraordinary claims and surrender to the scientific consensus, but you're trying to convince me to stop believing in and practicing what has essentially been my religion for the past decade. It would be easier if I could see any detriment to my current belief system, but I've already abandoned the pseudoscience associated with New Age spiritualism. Questioning the purely spiritual beliefs has brought me nothing but depression and existential crises with no solutions.
+>>>>>>> In *The Righteous Mind* by Jonathan Haidt (my favorite sociology book ever), the author theorizes that religious belief has a genetic component. I'm inclined to believe the same since, in my experience, atheists lack a fundamental understanding of religion and why people follow it. Perhaps they have no psychological need of it, and good on them for living their own way, but I cannot live that way because I do need religion. Unless I am diagnosed with a mental illness that causes delusions, I cannot cease to believe my religious experiences have happened because they are important to my identity and worldview.
+>>>>>>> 
+
+>>>>>>>> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate**
+>>>>>>>> 
+>>>>>>>> So to summarise, you are happy with your belief system because it brings happiness benefits, but at the same time don't want to be taken for a ride by charismatic charlatans who practice some of the things endorsed in your belief system. Well, it's certainly a novel problem, but I'm really not sure I can give a solution aside from to find people who have similar beliefs to you while still forming accurate judgements about the world, and asking them how they go about it.
+>>>>>>>> 
+
+>>>>>>>>> **u/trekie140** [+1] *
+>>>>>>>>> 
+>>>>>>>>> Want it to be even more novel? I [believe in belief](http://lesswrong.com/lw/i4/belief_in_belief/) in science and rationality. I believe it is right and good to hold your belief system to such standards, so I act as if I were an atheist and tell myself not to feel the way I do about my spiritual beliefs. Because science says things like reiki doesn't heal better than a placebo and psychics don't predict anything better than random chance, I tell myself it's wrong to believe in them even if I remember experiencing those things myself. I can't even talk to the spirits I normally do when I'm in this state because the only reason I have to believe they're real are my subjective experiences.
+>>>>>>>>> However, since my spiritual beliefs were never based on objective evidence in the first place I eventually wind up believing in them again and feeling happy. That is, until I run up against rationality again, then the cycle repeats and I end up feeling depressed all over again. This has happened at least three times in the past year. I'm stuck in a paradox as I cannot completely submit myself to science and rationality, not can I completely reject them in favor of my own beliefs. The best compromise I have is dualism, but even that is irrational.
+>>>>>>>>> 
+
+>>>>>>>>>> **u/FuguofAnotherWorld** [+3]  *Roll the Dice on Fate**
+>>>>>>>>>> 
+>>>>>>>>>> That's one hell of a situation, yeah.
+>>>>>>>>>> 
+
+>>>>>>>> **u/Faust91x** [+3]  *Iteration X**
+>>>>>>>> 
+>>>>>>>> > You can tell me my beliefs are irrational all you like, but my map of the territory is constructed from my knowledge and experiences. I can be skeptical of extraordinary claims and surrender to the scientific consensus, but you're trying to convince me to stop believing in and practicing what has essentially been my religion for the past decade. It would be easier if I could see any detriment to my current belief system
+>>>>>>>> I mean if you want to believe claims even if they seem irrational then no one can force you not to. But it will be a problem if you want to use them as argument when having some debate where its expected to provide evidence.
+>>>>>>>> 
+
+>>>>>>>> **u/None** [+1] *
+>>>>>>>> 
+>>>>>>>> >In The Righteous Mind by Jonathan Haidt (my favorite sociology book ever), the author theorizes that religious belief has a genetic component.
+>>>>>>>> [Not quite but close.](http://www.scienceonreligion.org/index.php/news-research/research-updates/648-knowledge-confusion-predicts-belief-in-the-religious-and-paranormal)
+>>>>>>>> 
+
+>>>>>>>> **u/DeterminedThrowaway** [+1] *
+>>>>>>>> 
+>>>>>>>> > but it's like telling a religious person that prayer doesn't do anything when they've been doing it all their life and have a hundred memories of it working. How do you convince them to stop believing prayer has power?  
+>>>>>>>> Quite simply, you teach them statistics. This might seem like a rude or glib answer, but I promise I'm being sincere. I grew up in a family whose wiccan magic "worked", and while I never bought into it 100% there were still a lot of things that made me wonder. That is, until I learned how to reason about chance events. "It couldn't be a coincidence" just isn't a convincing argument when you understand some probability. I know it's not easy and that a lot of people will refuse to make the connection even if they do learn statistics, but it can work on people who are willing to go back and evaluate their experiences honestly.  
+>>>>>>>> A more practical method is probably [street epistemology](http://www.streetepistemology.com/). Ask them about their particular experiences, and then figure out if those experiences really required a divine hand to happen. Talk to them about how they come to the truth normally, and get them to critically examine what their experiences imply. Some times it's as easy as reminding someone that "unexplained" really means unexplained, not supernatural.
+>>>>>>>> 
+
+>>>>>>>>> **u/trekie140** [+1] *
+>>>>>>>>> 
+>>>>>>>>> Good answer, but you misunderstand me. I do not want to stop following my spiritual beliefs. In fact, I'm unhappy with how far I've drifted from them already. It sounds irrational, I know, but I am not capable of being both happy and a materialist atheist so I'm seeking a way continue following my spiritual beliefs and receive the happiness benefits from them once again. 
+>>>>>>>>> The problem is I now think it is good (or at least rational) to be materialist atheist, so I have cut myself off from my spirituality without really wanting to. From my perspective, all my paranormal experiences are still true but I feel I am forbidden from believing they have occurred. You chose to disbelieve, I did not.
+>>>>>>>>> 
+
+>>>>>>>>>> **u/DeterminedThrowaway** [+1] *
+>>>>>>>>>> 
+>>>>>>>>>> > I am not capable of being both happy and a materialist atheist  
+>>>>>>>>>> > The problem is I now think it is good (or at least rational) to be materialist atheist  
+>>>>>>>>>> Alright, considering that you're leaning in that direction anyways, how sure are you that you can't be happy as a materialist atheist? As someone who had clinical depression and didn't think I could be happy with anything, you'd be very surprised what a change in perspective can do for you.  
+>>>>>>>>>> I'm not a mental health professional by any stretch of the imagination, but if you feel like telling me why you can't be happy with materialism maybe I can help you examine your reasoning.  
+>>>>>>>>>> > You chose to disbelieve, I did not.  
+>>>>>>>>>> I sincerely try to never pick and choose my beliefs. If you think that I don't believe in the supernatural as a matter of preference, then I'd like to fill you in my epistemology because it's certainly not that.
+>>>>>>>>>> 
+
+>>>>>>>>>>> **u/trekie140** [+1] *
+>>>>>>>>>>> 
+>>>>>>>>>>> The "chose to disbelieve" was a bit hyperbolic now that I think about it. I was trying to say that I still believe but feel social pressure not to, which is not a good reason to change my belief system but I've been giving into it anyway. I cannot be happy as an atheist because that would mean declaring every experience I've had related to my spiritual beliefs never occurred and will not occur again. I do not believe my conversations with spirits are just fantasy, but as a rationalist I don't seem to be permitted to believe in something that is not verifiable.
+>>>>>>>>>>> 
+
+>>>>>> **u/embrodski** [+2] *
+>>>>>> 
+>>>>>> Nope
+>>>>>> 
+
+>>>>>>> **u/trekie140** [+0] *
+>>>>>>> 
+>>>>>>> So you think a person should be considered a con artist and suffer the sanctions applied to con artists even if they don't know what they're actually doing to people?
+>>>>>>> 
+
+>>>>>>>> **u/wtfbbc** [+5] *
+>>>>>>>> 
+>>>>>>>> Well do you think a person should be considered a murderer and suffer the sanctions applied to murderer even if they don't know that they're actually killing people? Should a person be considered a rapist and suffer the sanctions applied to rapist even if they don't know they're actually raping people?
+>>>>>>>> Besides, mens rea is usually difficult to prove without obtaining a warrant for evidence like private communiques, so I don't think we can come to any conclusions about that. And in the absence of more evidence, I'm going to say yes, sanctions should still be applied to the ignorant.
+>>>>>>>> 
+
+>>>>>>>>> **u/trekie140** [+1] *
+>>>>>>>>> 
+>>>>>>>>> I disagree. I believe the solution to ignorance is education, not punishment. If it was likely that someone didn't know they were hurting people, I would be unlikely to punish them for their actions. I judge actions as good or bad based on effect, but I only judge people as good or bad based on their intention.
+>>>>>>>>> 
+
+>>>>>>>>>> **u/wtfbbc** [+5] *
+>>>>>>>>>> 
+>>>>>>>>>> So if someone rapes a girl and then claims it wasn't rape because she was clearly asking for it, you'd educate them on what rape really means and then let them go on their merry sweet way
+>>>>>>>>>> 
+
+>>>>>>>>>>> **u/trekie140** [+1] *
+>>>>>>>>>>> 
+>>>>>>>>>>> Unless a rapist was deranged enough to actually believe their victim wanted that, then no I would not let them off. Unless they are mentally ill they should be prosecuted to fullest extent of the law. If they were mentally ill I would want them to get help, even if their illness had led to them committing a crime as horrible as rape.
+>>>>>>>>>>> 
+
+>>>>>>>>>>>> **u/wtfbbc** [+1] *
+>>>>>>>>>>>> 
+>>>>>>>>>>>> >Unless a rapist was deranged enough to actually believe their victim wanted that
+>>>>>>>>>>>> That's kinda the majority of cases
+>>>>>>>>>>>> 
+
+>>>>>>>>>>>>> **u/trekie140** [+1] *
+>>>>>>>>>>>>> 
+>>>>>>>>>>>>> I'm under the impression that usually when a rapist says that they don't really believe it, they're just making an excuse for something they know is inexcusable. I imagine the majority of cases where the rapist does believe that is because they have a mental illness.
+>>>>>>>>>>>>> 
+
+>>>>>>>>>>>>>> **u/wtfbbc** [+1] *
+>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>> I think the majority of psychologists would disagree with you on this one. But you're clearly not willing to change your mind concerning this genre, so there's no point trying to discuss it with you.
+>>>>>>>>>>>>>> 
+
+> **u/TennisMaster2** [+1] *
+> 
+> I independently conceived of a story that's basically [this](https://www.reddit.com/r/rational/comments/2yiegk/rtbst_rational_harry_potter_with_schoolage/).  I hesitate to start it, though, because it's fanfiction; I'd be limiting my audience before I even wrote the first paragraph.  Keeping the same character relationships, and basically only changing the names and Hogwarts a bit, do you think it would be plagiarism for me to turn the idea into an original story?  Do you agree that doing so makes strategic sense for the terminal goal of having a widely shareable story?
+> 
+
+>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong**
+>> 
+>> I think that in changing a concept from its original form (fanfiction of a subject that everyone who reads it will, by its nature, understand) to something else will necessarily lose a lot of its ease of access. For an HP fanfic, you don't have to explain a lot of the setting elements; just what makes the ones in your setting different from the canon/fanon. It's hard to say for me, as someone with no experience in the realm, whether this will gain or lose you readership. 
+>> As for whether it would be plagiarism, I think not. I believe /u/eaglejarl did something similar with 2YE for a time. You might speak with him about its legality.
+>> 
+
+>>> **u/TennisMaster2** [+1] *
+>>> 
+>>> Thanks for your input.  I'll think on this.
+>>> 
+
+>>>> **u/Cariyaga** [+1]  *Kyubey did nothing wrong**
+>>>> 
+>>>> Eaglejarl might be able to give you more information on how his readership changed between putting it on Amazon, and having it on ff.net, although I'm not sure that he'd have that depthful of statistics on it. Hopefully he'll be able to help you out!
+>>>> 
+
+>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>> 
+>> Fanfiction gets you a lot of audience that you wouldn't otherwise be able to get. There are lots of people who a perfectly willing to check out a Harry Potter fanfic, but there are a lot fewer people willing to check out a story in a completely foreign setting. Some of this is a matter of investment (fanfic readers are already invested in the setting and character), but there are other contributing factors as well. Basically, fanfic is the path of least resistance. *With that said*, there are lots of benefits to writing something that's not fanfic. Selling it on the open market is definitely one of them, but there are others, like the ability to grow your own community and (possibly) get an expanded non-fanfic readership. The trade-off in terms of audience is basically that making fanfic gets you more readers, but limits the total potential pool of readers.
+>> As an author, I think fanfic readers can be a little bit annoying sometimes, specifically because they have more investment in the setting and characters than in your particular story. One of the reasons I find myself writing a lot less fanfic these days is that I'm stuck between either satisfying that need for rigor and adherence to the group, or getting stuff in my inbox about how much I've failed to adhere to canon/fanon.
+>> As for plagiarism and/or copyright infringement ... you can do a reskin, but a reskin isn't necessarily enough. See [Tanya Grotter](https://en.wikipedia.org/wiki/Tanya_Grotter), for example. You can *to some extent* hide behind the parody part of fair use, but that's going to be hard if you're not actually writing a parody.
+>> My advice would be to take what you like about the idea, break it down, and then build it back up. This will also be helpful for when you want to write the story, so it might be helpful to do that even if you're going to write fanfic.
+>> 
+
+>>> **u/TennisMaster2** [+1] *
+>>> 
+>>> > My advice would be to take what you like about the idea, break it down, and then build it back up. This will also be helpful for when you want to write the story, so it might be helpful to do that even if you're going to write fanfic.
+>>> Right, I've done that, and I think it will work.  The only hang-up is a secret magical society.  Does JK Rowling have copyright on that idea?
+>>> 
+
+>>>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>>> 
+>>>> You can't copyright an idea, only the expression of that idea, so a secret society of wizards isn't something that anyone can hold a copyright on. Beside that, there's plenty of prior art: *Dresden Files* and *Young Wizards*, for a start.
+>>>> 
+
+>>>>> **u/TennisMaster2** [+1] *
+>>>>> 
+>>>>> Thank you - I needed that reassurance.  And if it wasn't clear in the above, I broke down the idea on your advice, so thanks for that as well.
+>>>>> 
+
+>> **u/eaglejarl** [+1] *
+>> 
+>> I'll try to respond to all of this, but bear with me as the answer will get long.  The tl;dr is that no, you are not plagiarizing.  You might or might not be committing copyright violation, depending on how much you change, but no one will care.  
+>> **Fanfiction, original work, and readership**
+>> As /u/Cariyaga pointed out, I've taken fanfiction that I wrote, turned it into publishable original work, and made money from it. IANAL, but I have some knowledge of copyright and how it works.
+>> Also as /u/Cariyaga pointed out, the readership of a fanfiction starts with the entirety of that fandom on that publication medium (FFN, /r/rational, Amazon, etc) and is then reduced by your marketing (title, blurb, long description, where you advertise it, etc).  Original fiction, on the other hand, starts with a readership of zero and is increased by your marketing.  That's an oversimplification, but it draws the analogy.  Point is, it's a lot harder to get people to read original fiction.
+>> As specific examples from my experience:  getting people to read 2YE and discuss it was pretty straightforward.  It was a D&D fanfic, so people knew what to expect.  Getting people to read and discuss my first original series (The Change Storms) was really hard.  
+>> > Keeping the same character relationships, and basically only changing the names and Hogwarts a bit, do you think it would be plagiarism
+>> Again, IANAL.  No, it is not plagiarism.  Plagiarism is when you use substantial sections of someone else's works with no or very minor changes.  Depending on how much you change this would either be original or, at most, a derivative work.  According to the [US Copyright Office](http://bit.do/b669H) (shortened because character limit):
+>> > A derivative work is a work based on or derived from one or more already existing works. Common derivative works include translations, musical arrangements, motion picture versions of literary material or plays, art reproductions, abridgments, and condensations of preexisting works. 
+>> If you start from, e.g. HP and the Prisoner of Azkaban, the following blurbs would be a derivative and original work respectively:
+>> Derivative:
+>> > Bob, who happens to be a tennis master, gets a job as a guard at Azkaban.  The story focuses on his reactions to prisoners suffering from dementor effects.  One day, a prisoner named Sirius Black escapes by turning himself into a dog.  Not wanting to lose his job, Bob pursues.  He watches Sirius grab a kid and drag him into a shack.  Bob rushes in, stuns Sirius, and calls the police.  Before the police can arrive, the kid explains that Sirius is actually the good guy, Scabbers (his rat) is actually the villain Peter Pettigrew, and that Peter is the one who committed the crime Sirius went to jail for.  Peter has just fled the scene, but Bob chases him down, captures him, and drags him back to the shack, hands him over to the cops, and clears Sirius's name.
+>> Original:
+>> > Bob, who happens to be a tennis master, gets a job as a guard at Rikers Island.  The story focuses on his reactions to prisoners suffering from the psychological effects of long-term incarceration.  One day, a prisoner named Thomas Dobson escapes by swimming across the river to the Bronx.  Not wanting to lose his job, Bob chases after him.  He watches Thomas break into a warehouse.  Bob rushes in, knocks Thomas out, and calls the police.  Before the police can arrive, the kid explains that Thomas is his father and Bill Johnson (the man Thomas was holding at gunpoint) is the villain who committed the crime Thomas was sent to jail for.  Bill has fled the scene, but Bob chases him down, captures him, and drags him back to the shack to hand him over to the cops and clear Thomas's name.
+>> The original story has the same story beats as the original but it uses none of the names or places and is therefore an original work instead of a derivative.  You have not plagiarized or committed copyright violation, and you can feel free to publish and/or make money from it.
+>> **What will people think if you publish this thing**
+>> If you're publishing for free, no one will care that it's a derivative work.  If you're publishing for money, things get hairier.  I'll speak from my own experience:
+>> 2YE started off as a parody of D&D.  It used the D&D rules system and spell / magic item names, but the setting and all the characters were original.  I probably could have published it (for money) as-is because it was parody, but I chose to change the names and rules details just to be safe.
+>> The reaction was mixed.  Some people supported me on it, but some were violently opposed to me wanting to make money off writing that had originally been free.  The opposers were far more outspoken than the supporters because that's how people are.  Many of the attacks were (or at least felt) ad hominem and hit pretty hard.  I did not agree with them and left the book for sale.
+>> I was eventually reminded that, when I originally published 2YE on FFN, I had promised to keep it free permanently; I value my word so I took it out of the Kindle Unlimited program and made it freely available again.  (It's still for sale as well as being free, but that's fine with Amazon as long as it's not in KU.)
+>> The lesson you should take from this:  if you might want to make money off of it, make that clear up front with a disclaimer like "I might publish this at some point."  If you don't have plans to do so, never promise it will always be free.  If you do publish for money, expect that you'll get some hate.  When you do, breathe through it and do what you think is appropriate.
+
+>> What you've got sounds like an interesting plot, and I look forward to reading it.
+>> 
+
+>>> **u/alexanderwales** [+1]  *Time flies like an arrow**
+>>> 
+>>> FYI, Reddit automatically removes all comments with link shorteners. I've manually re-approved this one, but if we don't catch it, it's possible no one will notice and your comment won't get read.
+>>> 
+
+>>>> **u/eaglejarl** [+1] *
+>>>> 
+>>>> Thanks. I only used it because I hit the character limit on the post. If that happens again I'll ping you directly. I appreciate you dealing with it this time.
+>>>> 
+
+>>> **u/TennisMaster2** [+1] *
+>>> 
+>>> Thank you!  You've drawn some clear distinctions I'll try to keep in mind as I write and after it's written.
+>>> 
+
+---
+

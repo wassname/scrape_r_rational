@@ -1,0 +1,126 @@
+## [deleted by user]
+
+* Author: u/None *
+* URL: 
+* Score: 18
+
+* Created: 2014-09-07T18:23:57
+
+### Post:
+
+[removed]
+
+### Comments:
+
+> **u/None** [+19] *
+> 
+> [This](http://tvtropes.org/pmwiki/pmwiki.php/Literature/ThePolity?from=Main.PolitySeries) is the TV Tropes page. The author is Neal Asher. It is pretty hard to look up this series without this information.
+> 
+
+>> **u/Ardvarkeating101** [+1]  *Father of Learning**
+>> 
+>> Oh yeah
+>> 
+
+> **u/None** [+6] *
+> 
+> I am curious how you store information in a zero-dimensional universe.
+> Transitioning from 3d to 2d is straightforward assuming that the universe is discrete -- you just take each successive slice of the object and lay it out in the 2d equivalent universe. So if you have a cube that's 1,000 Planck lengths to the side, its 2d footprint is 1,000 times its vertical surface area. Similarly, going from 2d to 1d is straightforward. You go from 1,000 squares of 1,000 Planck lengths each, laid head to tail, to 1,000,000 lines of 1,000 Planck lengths each, laid head to tail. You have an infinite number of points in each dimension, and ∞³ = ∞, so you can project a 3d object into 1d.
+> Going to 0d, though, is much different. You have zero dimensions. How can you have any points there to stuff things into? I suppose you might posit that "information" exists, and this doesn't need to be tied to matter in any way, which is a pretty huge change. It opens the door to souls, for crying out loud.
+> On the other hand, if you can define the transitions between Xd and (X-1)d, you can do it with losing only one dimension. You project the Xd object into (X-1)d using one function, and you use another function that isn't the inverse of that first function to project it back into Xd. So you turn a point (12, 3, 7) into, say, (418, 79), and then you turn (418, 79) into (112, 103, 107).
+> This also opens the door to a rather effective weapon. Attach one of these projection teleporters to an object, but define its 2d -> 3d transformation as effectively random, or as scattering the constituent atoms of the object to the four winds. You could project an object from an arbitrary location to any other location -- if you're accurate enough, you could project a wad of gum into someone's aorta, wait for them to die, then project it out.
+> And this stuff is why I generally hate it when people try to explain too much in their sci fi stories.
+> 
+
+>> **u/VorpalAuroch** [+5]  *Life before Death**
+>> 
+>> Well, matching Flatland you could consider than a 0-dimensional space has precisely one point. And if depending on the creation of the space you could give that point different energies and read them off latter, you encode the information in some binary format where the precise amount of energy is read off as bits.
+>> 
+
+>>> **u/DiscyD3rp** [+4]  *Wannabe Shakespeare**
+>>> 
+>>> The problem here is that *ins't* the 0th dimension, as far as I understand what dimensions in this context mean. The fact that the point has multiple states, even if it's only two, makes it 1 dimensional. The information that encodes whatever it is you've "moved" into this "zero dimension" requires some state to change over some other state (i.e. a series of 1s and 0s changing over time). The 1st dimension (visualized most commonly as a number line) is the "lowest" dimension such information can be encoded on, surely, with the location of points upon the entirety of the line being being said information.
+>>> ^(If an actual physicist or mathematician by profession would like to speak up and clarify things, I'd be very happy to hear them.)
+>>> 
+
+>>>> **u/None** [+1] *
+>>>> 
+>>>> Spatial dimensions, then. I don't know whether you can reasonably express energy as another dimension. You may be able to express velocity as another set of dimensions in a reasonable way, for instance -- though that probably wouldn't work in 0d, since that's a vector with 0 dimensions.
+>>>> Temperature probably isn't a candidate for a really-exists-as-a-dimension-in-reality sort of thing. Or I horribly misunderstand kinetic theory, which is reasonably likely. Chemical potential energy and gravitic potential energy likewise. Vacuum energy might be a candidate.
+>>>> 
+
+>>>> **u/VorpalAuroch** [+1]  *Life before Death**
+>>>> 
+>>>> Your conclusion might be right (I'm a mathematician by training, but no kind of physicist), but the logic isn't. A photon has a specific energy state, and doesn't need to be moving to have that energy (though all of them are, in fact, moving, this is a distinct property of photons from the fact that they have varying energies). It is conceivable that a particle could exist in a 0-dimensional state and have varying energies which vary in a well-defined way over time.
+>>>> 
+
+>>>>> **u/DiscyD3rp** [+1]  *Wannabe Shakespeare**
+>>>>> 
+>>>>> Surely such a particle, even existing in a world of zero *spatial* dimensions, is still said to exist in at least 2 dimensions? Seeing as bot time and temperate are variable attributes of the particle? I'm thinking with the fundamental, mathematical interpretation of dimensions, as I understand them.
+>>>>> 
+
+>>>>>> **u/VorpalAuroch** [+2]  *Life before Death**
+>>>>>> 
+>>>>>> Talking about a 0-dimensional space outside a pure mathematics context is usually understood to refer to 0 spatial dimensions.
+>>>>>> 
+
+>>>>>>> **u/duffmancd** [+3] *
+>>>>>>> 
+>>>>>>> Physics Student here. As I understand it Energy is not a dimension in the (nonmathematical) usual sense of the word. It is a dimension of phase space but that's a bit different.
+>>>>>>> Edit: replace "field" with variable or parameter below. I'm not the best at ELI5
+>>>>>>> A dimension is the map on which physics is built. We can define the state of the universe by defining the value of various fields at each point. (A point being a unique combination of values of each "dimension"). Let's use the toy universe of a 2D plane with a single field, let's call it temperature for something intuitable, changing through time. If we define the temperature for each (x,y,t) point we have complete knowledge of the universe. Now let's try using T as a dimension. There is not necessarily going to be a unique time or even any time for each (x,y) point and Temperature combination. I.e. the point (0,0) may never reach 1000C and may fluctuate through 0C several times. Before, each (x,y,t) had one temperature, now each (x,y,T) may have no t, one t or many times. I hope this simple example shows why some things are called dimensions and others aren't. Of course things become more complicated with spacetime, complex and tensor fields etc. but the basic difference remains.
+>>>>>>> On the other hand if we talk about phase space the entire universe is represented by a point (or line if you separate out time as special) in a multidimensional space. In fact usually infinite-dimensional space. In this case for each point in our original space the Temperature is a dimension, to use the above example. I.e. you have the T(0,0,0) dimension and the T(0.001,0,0) dimension and the T(0,3.1415,42) dimension and the ... But this is a slightly different sense of the word.
+>>>>>>> So in a universe with 0 physical dimensions you have one point, so just one value of whatever fields exist in it (And they have to be scalar or rank-0 tensor fields as directions don't exist). But, you can still store infinite data in it (keep in mind there are different infinities so you couldn't store the value of a real N-D field in an ordinal (1,2,3...) value. But you can store a real/complex N-dimensional field in one real number.)
+>>>>>>> 
+
+>>>>>>>> **u/VorpalAuroch** [+2]  *Life before Death**
+>>>>>>>> 
+>>>>>>>> Thank you, Physics Student!
+>>>>>>>> 
+
+>>>> **u/duffmancd** [+1] *
+>>>> 
+>>>> Physics student, I disagree with you. See my post a few levels in for my attempt at ELI5.
+>>>> For a jargonny explanation: the map from what I'll call "physical dimensions" (as opposed to mathematical ones) to the various fields we define on them is one-to-one (by definition). The reverse is not necessarily true. There is a distinction between the two and Energy, momentum, quantum fields etc. are not dimensions in the "physical dimension" sense.
+>>>> 
+
+> **u/super__nova** [+4]  *Working on taking over the world like Elon Musk**
+> 
+> Where should I begin? So many books
+> 
+
+>> **u/josephwdye** [+2]  *I love you**
+>> 
+>> This.
+>> 
+
+>>> **u/Ardvarkeating101** [+2]  *Father of Learning**
+>>> 
+>>> Start with prador moon, it's a good intro and a fun jaunt
+>>> 
+
+> **u/MohKohn** [+2] *
+> 
+> Have you tried Alastair Reynolds *revelation space* series?
+> Also, might I suggest Greg Egan? I found Permutation City kind of mind blowing, with the first half being an excellent examination of what it means to be a simulated person, and the second half having different assumptions about what reality is than myself (or the Rationalist community, for that matter).
+> Also, though slightly less Rationalist, and more anarcho-communist (but still pretty excellent science fiction) Ken MacLeod's Fall revolution.
+> Or the entire sub-genre of Cyber-punk or post-cyber punk. Those are pretty cool too.
+> 
+
+>> **u/Ardvarkeating101** [+2]  *Father of Learning**
+>> 
+>> Post Cyber Punk (like the polity) is awesome!  and I'll definitely try out the revelation space series.
+>> 
+
+> **u/jesyspa** [+1] *
+> 
+> From your post, I don't see any indication that this series is rationalistic.  Could you perhaps elaborate on what makes it so?
+> 
+
+>> **u/Ardvarkeating101** [+2]  *Father of Learning**
+>> 
+>> The characters don't accept dumb explanations.  If someone is doing something stupid or irrational they get called out on it.  There is no *because the plot*.  In fact the plot of Line War is all about how the AI's are not acting as intelligent as they should.  Also, as far as I can see there's nothing that could be insanely exploited to instantly solve a situation.  If the main antagonist can simply be shot in the head, you shoot him in the head, preferably with an augmented soldier who can run faster than most vehicles and takes heavy weapons to kill.
+>> 
+
+---
+

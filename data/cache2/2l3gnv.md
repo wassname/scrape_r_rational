@@ -1,0 +1,64 @@
+## Hotel Infinity - A series of Vihart-style videos that tackle Hilbert's Paradox of the Grand Hotel [EDU]
+
+* Author: u/CalebJohnsn  *Theoretical Manatician**
+* URL: https://www.youtube.com/watch?v=SLHiq7wZWWM&index=1&list=PLb6mUUuKMKFnNtVC_orYqZxmAm48qIFDI
+* Score: 15
+
+* Created: 2014-11-02T21:07:39
+
+### Post:
+
+[Link to content](https://www.youtube.com/watch?v=SLHiq7wZWWM&index=1&list=PLb6mUUuKMKFnNtVC_orYqZxmAm48qIFDI)
+
+### Comments:
+
+> **u/CalebJohnsn** [+2]  *Theoretical Manatician**
+> 
+> These videos have been an interesting exercise in understanding what kind of limitations apply even to characters existing in extraordinary circumstances as well as the mathematical concept of there being different orders of infinity to begin with.
+> 
+
+> **u/None** [+2] *
+> 
+> Wow! That's fantastic. Probably the most memorable demonstration of the diagonal argument I've seen – as in, I'll probably remember it this time. I was genuinely surprised by one of the solutions, too. I'll have to send this to my brother! Thanks for sharing!
+> 
+
+>> **u/CalebJohnsn** [+1]  *Theoretical Manatician**
+>> 
+>> My pleasure, I find stuff like this very interesting and always thought smart and entertaining content like this kinda belong on r/rational.
+>> Also I haven't really contributed to this sub in a while, so yeah...
+>> 
+
+> **u/natron88** [+2]  *Ankh-Morpork City Watch**
+> 
+> I tried to come up with a solution to each problem before moving on to the next video. The first one I couldn't immediately solve was at the end of video three. I then saw the word diagonal in the comments here and that somehow inspired me to think up a solution. It turned out to be different than the solution given.
+
+> For the problem posed at the end of video three, I would have each of the current guests go the the square of their current room. I would then have every visiting team member add up their team and player numbers, square that, and then subtract their team number and go to that room.
+> This would leave empty rooms, but it fulfills the requirements of the problem. The solution given in video 4 doesn't explicitly state how they avoid taking infinite time going through each person in order, so I just assumed there was a formula to tell each person what their room would be using the diagonal argument.
+
+> I was able to come up with a solution for the problem at the end of video 4 under the assumption that each visitor represented a rational number, but it turned out that was not the case.
+> 
+
+>> **u/CalebJohnsn** [+5]  *Theoretical Manatician**
+>> 
+>> Yeah, although Part 5 definitely gives you a real sense of what it actually means for something to represent a different order of infinity at it's most fundamental level.
+>> And *that* I think is the real payoff for this entire mini-series/playlist.  Also it gives you a good feel for what exactly Vihart's whole ["Anti-pi" rant]( http://www.youtube.com/watch?v=5iUh_CSjaSw) is REALLY all about.  I freaking love it.
+>> 
+
+> **u/eaglejarl** [+2] *
+> 
+> I wish she would put Part 6 up.  I really enjoyed all of this, and would love to see some things with the infinitely branching hotel.
+> 
+
+> **u/Aabcehmu112358** [+1]  *Utter Fallacy**
+> 
+> The way to divvy up the Visitors, using the infinitely branching hotel, would go something like "One, you get a room in the small hotel, so that way you aren't alone in your own infinite branch of the larger one. Everybody else, at each branch, remember the number of branches you've already passed, and think of that digit of your name. If it's even, go to the left, and if it's odd, go to the right. Once your at a branch and have finished your name, you've found your room." Right?
+> 
+
+>> **u/Anakiri** [+2] *
+>> 
+>> Not so. 0.1 and 0.3 would end up in the same room, and so would 1/3 and 1/9. In fact, infinitely many would end up in every infinitely far room, except poor lonely One. One doesn't need to be alone, though. They can find their room by their other name, 0.999... But *every* finitely representable Visitor has another decimal name! 0.5 and 0.4999... will go to different rooms, so where should 1/2 go?
+>> If you want a scheme like that, it'd be better to represent their names in binary and go off that. Then there will be only one Visitor per room. But remember that their names aren't ever really "finished". There's no rule that infinitely repeating zeroes is different from anything else, except by convention. But then everyone ends up infinitely far from the entrance with infinite wasted space, which is inelegant, so I guess you can keep that convention. And of course, every finitely representable Visitor has two binary names as well, one with infinitely repeating zeroes, one with infinitely repeating ones! Well, Zero only has the one, but that's more because of how we write numbers than because of anything Zero does special. If you add another special case for that, your rules are starting to look really ad hoc and unnatural...
+>> 
+
+---
+

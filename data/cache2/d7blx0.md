@@ -1,0 +1,172 @@
+## [D] Saturday Munchkinry Thread
+
+* Author: u/AutoModerator *
+* URL: https://www.reddit.com/r/rational/comments/d7blx0/d_saturday_munchkinry_thread/
+* Score: 9
+
+* Created: 2019-09-21T15:04:23
+
+### Post:
+
+Welcome to the Saturday Munchkinry and Problem Solving Thread! This thread is designed to be a place for us to abuse fictional powers and to solve fictional puzzles. Feel free to bounce ideas off each other and to let out your inner evil mastermind! 
+
+Guidelines:
+
+* Ideally any power to be munchkined should have *consistent* and *clearly defined* rules. It may be original or may be from an already realised story.
+* The power to be munchkined can not be something "broken" like omniscience or absolute control over every living human.
+* Reverse Munchkin scenarios: we find ways to beat someone or something  *powerful*.
+* We solve problems posed by other users. Use all your intelligence and creativity, and expect other users to do the same.
+
+Note: All top level comments must be problems to solve and/or powers to munchkin/reverse munchkin.
+
+Good Luck and Have Fun!
+
+### Comments:
+
+> **u/alexanderwales** [+8]  *Time flies like an arrow**
+> 
+> Three from bacontime's [nonsense magic item generator](https://paperelemental.blogspot.com/2019/09/nonsense-magic-item-generator.html?m=1) and [entad generator](https://paperelemental.blogspot.com/p/entad-generator.html):
+> * A belt the produces gold whenever it would be funny
+> * A sword that becomes heavier when most convenient
+> * A bell that provides protection from granite
+> 
+
+>> **u/IICVX** [+12] *
+>> 
+>> > A bell that provides protection from granite
+>> finally, a realistic means of throwing yourself at the ground and missing
+>> 
+
+>>> **u/boomfarmer** [+5]  *Trying to be helpful**
+>>> 
+>>> Every miner's friend, too.
+>>> 
+
+>>> **u/Uncaffeinated** [+2] *
+>>> 
+>>> Can't be damaged, enchanted, **blocked**, or targeted by sources with the relevant quality. Checks out.
+>>> 
+
+>> **u/Gurkenglas** [+6] *
+>> 
+>> Strap a pen to the sword, hang it from a spring, drag some paper across the pen and receive a most convenient message.
+>> 
+
+>> **u/Genarment** [+6] *
+>> 
+>> The sword could be a trivial source of energy in downtime. Put it on a water wheel device. It'd be awfully convenient if this sword got heavier whenever it hit the apex of the wheel...
+>> 
+
+>> **u/ringlordflylord** [+3] *
+>> 
+>> > A bell that provides protection from granite
+>> This pairs well with a granite shrapnel grenade, although you still can be hurt by the blastwave.
+>> >A sword that becomes heavier when most convenient
+>> Does it ever become lighter again?
+>> > A belt the produces gold whenever it would be funny
+>> Obvious application is getting a lot of gold.
+>> 
+
+>>> **u/CCC_037** [+3] *
+>>> 
+>>> > Does it ever become lighter again?
+>>> A massively important question.
+>>> 
+
+>> **u/boomfarmer** [+1]  *Trying to be helpful**
+>> 
+>> > A sword that becomes heavier when most convenient
+>> Sounds like the sword that the main character uses in Gene Wolfe's *Book of the New Sun* series, which has a hollow channel in the middle in which a blob of mercury runs, so that the blade's balance shifts in a way that facilitates beheadings. "When most convenient" would facilitate most downward cut attacks, and also would act as a Mjolnir-style guard against theft.
+>> 
+
+>>> **u/GeneralExtension** [+1] *
+>>> 
+>>> >would facilitate most downward cut attacks
+>>> Unless there was a decrease in speed accompanying an increase in mass, which would provide the increase in weight.
+>>> 
+
+>>> **u/Frommerman** [+0] *
+>>> 
+>>> Such a sword would shatter the moment you tried to use it.
+>>> 
+
+>>>> **u/Solonarv** [+3]  *Chaos Legion**
+>>>> 
+>>>> Not necessarily, but it would definitely be structurally weakened.
+>>>> 
+
+> **u/None** [+2] *
+> 
+> * How would you fight a Big Bad who can take possession of large crowds of people? Possessed people are easily identifiable by their glowing eyes. You have access to a portable mind shielding device which creates an anti possession sphere with a 120' radius and are able to temporarily inoculate small numbers of people against his influence. You are in 5e Forgotten Realms setting and have a motivated population willing to help high level adventurers to deal with this existential threat.
+> 
+
+>> **u/Sonderjye** [+5] *
+>> 
+>> Use protection against good, find some kind of magic that makes your eyes glow, walk up to the big bad and backstap him.
+>> 
+
+>> **u/AmeteurOpinions** [+3]  *Finally, everyone was working together.**
+>> 
+>> Does entering the sphere remove possession? If so, just haste a monk (or other person polymorphed to something fast) and have them zip through the crowd, freeing half a football field or more from possession per turn.
+>> 
+
+>> **u/Trew_McGuffin** [+2]  *Dao = Improve Yourself**
+>> 
+>> Wizard lv 17 Sorcerer lv 3. Use Heighten Spell metamagic, cast Feeblemind on BBG. Use Etherealness to get in close and escape with multiple casts of Fly, Polymorph and Invisibility. Rinse and repeat until Feeblemind takes hold.
+>> Before hand figure out the BBG plan (or just ask them) possibly join them for the lols.
+>> 
+
+> **u/etiepe** [+1] *
+> 
+> My superhero has butterfly wings, scaled up to maintain the same body-to-wing ratio a butterfly has, and are strong enough to lift himself and one passenger, but are fragile. He’s used to powers that lend themselves to melee. What can he do with the wings besides flutter gently? (He’s already taking on a worrisome penchant for skydiving).
+> 
+
+>> **u/Frommerman** [+6] *
+>> 
+>> Give people mesothelioma with butterfly scale dust?
+>> 
+
+>> **u/cjet79** [+5] *
+>> 
+>> https://en.wikipedia.org/wiki/External_morphology_of_Lepidoptera#Wings
+>> >Besides providing the primary function of flight, wings also have secondary functions of self-defense, camouflage, and thermoregulation.
+>> Wings powerful enough to lift a human are probably stronger than any kick or punch that humans can create.
+>> Wings have some camouflage abilities that probably don't scale up easily. But if you get fuzzy with the rules you could still give him some camouflage.
+>> Thermoregulation, means that maybe your superhero could handle hot temperatures better than most. Maybe some weapon or skill that heats up his whole body.
+>> Some species of moth (related to butterflies) have the ability to produce sounds from their wings to fool bats. Your superhero could have some kind of sonic blast.
+>> 
+
+>> **u/Gurkenglas** [+2] *
+>> 
+>> The priority seems to be to survive until the next power reroll. Don't make enemies, transport civilians, flutter gently.
+>> 
+
+>>> **u/etiepe** [+1] *
+>>> 
+>>> Oops, I should specify that he’s being actively hunted by someone whose powers are creating homicidal monsters. That’s kind of important, sorry I forgot.
+>>> 
+
+>>>> **u/Gurkenglas** [+2] *
+>>>> 
+>>>> Ah. Cut the wings, shave the beard, change your name, flee the country. Maybe you can keep the wings if you can flee quickly enough and the hunter can't penetrate foreign sovereignty.
+>>>> 
+
+>> **u/Trew_McGuffin** [+1]  *Dao = Improve Yourself**
+>> 
+>> Wait and hide. If not possible or if that's too boring than search and rescue in forests, mountains, oceans, deserts. Basically anywhere where they'll have a good chance of spotting someone coming after them but still being able to do some good through helping lost people.
+>> Though I really think that if their presence may attract someone that's hunting them and that has the power to create berserk monsters, they'll do more good waiting out the butterfly wings instead of endangering lives while not having a superpowered way of fighting.
+>> The scale dust seems really good though. Fly over the powered hunter and kill them like that or if killing is against their morals or against the super community's written or unwritten rules... do the wings come with pokemon powers? As in stun spore and sleep spore? Or are they normal giant butterfly wings?
+>> Stun spore and sleep powder would be real useful. Maybe gust, air slash and whirlwind too.
+>> 
+
+>> **u/CCC_037** [+1] *
+>> 
+>> Quietly purchase an apartment on the top floor of a block of flats.
+>> Purchase apartments on the top floor of every *other* block of flats, as well.
+>> When faced by any sort of non-flying non-ranged homicidal monster, flutter off the balcony and go somewhere else.
+>> When facing a ranged monster, carry a shield and pay attention. When facing a flying monster, carry a shotgun and shoot at its wings.
+>> Either way, he should keep a cellphone with him and call someone when attacked - either a suitable fellow superhero, or the police, or the army, depending on his resources and various details of the setting.
+>> 
+
+---
+
