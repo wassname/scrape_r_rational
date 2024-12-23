@@ -18,6 +18,9 @@ praw = "^7.7.1"
 markdown = "^3.7"
 bs4 = "^0.0.2"
 anycache = "^2.2.0"
+# lightnovel-crawler = "^3.7.2"
+tiktoken = "^0.8.0"
+cloudscraper = "^1.2.71"
 
 [[tool.poetry.source]]
 # pytorch cuda needs to compe from another source https://python-poetry.org/docs/dependency-specification/#source-dependencies
