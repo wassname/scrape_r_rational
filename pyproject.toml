@@ -17,6 +17,7 @@ python-dotenv = "^1.0.1"
 praw = "^7.7.1"
 markdown = "^3.7"
 bs4 = "^0.0.2"
+anycache = "^2.2.0"
 
 [[tool.poetry.source]]
 # pytorch cuda needs to compe from another source https://python-poetry.org/docs/dependency-specification/#source-dependencies
