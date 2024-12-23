@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang=en>
+<head>
+<meta charset=utf-8>
+<title>scraping reddit.com/r/rational recs</title>
+<link href="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.1.8/b-3.2.0/b-colvis-3.2.0/sc-2.4.3/sr-1.4.1/datatables.min.css" rel="stylesheet">
+ 
+<script src="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.1.8/b-3.2.0/b-colvis-3.2.0/sc-2.4.3/sr-1.4.1/datatables.min.js"></script>
+</head>
+<body>
+<p>scraping <a href="https://old.reddit.com/r/rational/">reddit.com/r/rational/</a></p>
+<a href="https://github.com/wassname/scrape_r_rational">source code</a>
+<table id="myTable" class="cell-border compact stripe"></table>
+</body>
+<script>
+let data = {{data}}
+</script>
+<script>
+table = new DataTable('#myTable', {
+  data: data,
+  columns: {{columns}},
+  order: [[1, 'score']],
+
+  pageLength: 50,
+  responsive: true,
+  columnDefs: [
+        {
+            targets: 1,
+            className: 'noVis'
+        }
+    ],
+    layout: {
+        topStart: {
+            buttons: [
+                {
+                    extend: 'colvis',
+                    columns: ':not(.noVis)',
+                    popoverTitle: 'Column visibility selector'
+                }
+            ]
+        }
+    }
+});
+
+</script>
+</html>
