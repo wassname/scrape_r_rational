@@ -24,6 +24,8 @@ cloudscraper = "^1.2.71"
 jinja2 = "^3.1.5"
 openai = "^1.58.1"
 lightnovel-crawler = "^3.7.2"
+pyarrow = "^18.1.0"
+humanize = "^4.11.0"
 
 [[tool.poetry.source]]
 # pytorch cuda needs to compe from another source https://python-poetry.org/docs/dependency-specification/#source-dependencies
