@@ -14,6 +14,10 @@ Project plan:
 - [x] use [statistics](https://github.com/wassname/scrape_r_rational/blob/main/nbs/links.csv)
 - [ ] Use llm to get reccomendations, sentiment, karma etc
 - [x] share
+- [ ] comment md to html
+- [ ] comment expand
+- [ ] threads where it's mentioned
+- [ ] have llm check if the titles are valid novel titles?
 
 
 ## Install requirements
