@@ -29,6 +29,12 @@ This project uses [poetry](https://python-poetry.org/) for requirement and is se
 poetry install
 ~~~
 
+Then 
+~~~
+cp .env.example .env
+~~~
+Then fill out the api keys
+
 
 ## How to run
 
